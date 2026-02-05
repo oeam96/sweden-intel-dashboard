@@ -1,0 +1,38 @@
+name: Build Sweden Intelligence
+
+on:
+  schedule:
+    - cron: "30 5 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Build artifacts
+        env:
+          TZ: Europe/Stockholm
+        run: |
+          python scripts/build_sweden_feed.py
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/index.html public/sweden_intelligence.md public/api/latest.json .cache/translation_cache.json || true
+          git commit -m "Update Sweden intelligence feed" || echo "No changes"
+          git push

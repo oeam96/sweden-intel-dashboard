@@ -1,0 +1,6 @@
+feedparser
+deep-translator
+dateparser
+beautifulsoup4
+requests
+lxml
