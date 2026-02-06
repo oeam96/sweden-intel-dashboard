@@ -432,6 +432,12 @@ def main():
     all_items = dedupe_items(all_items)
     all_items.sort(key=lambda x: x["date_utc"], reverse=True)
 
+    # Guard against publishing empty artifacts when feeds are temporarily unavailable.
+    if not all_items:
+        raise RuntimeError(
+            "No feed items were fetched. Aborting build to avoid overwriting published artifacts with empty data."
+        )
+
     # Translate + shape final items
     final_items = []
     for idx, it in enumerate(all_items):
