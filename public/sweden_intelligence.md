@@ -1,6 +1,116 @@
 # Sweden Intelligence Report
-Generated: 2026-02-06T10:34:22.423156+01:00
+Generated: 2026-02-06T10:47:27.896545+01:00
 Window: last 14 days
+
+## SAS plane near take off from the wrong runway - got cross-stitched
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+An SAS flight was forced to swerve and ended up in the grass after the aircraft tried to take off from a so-called taxiway. - I think the staff were also quite shocked, says a passenger to Expressen.
+
+[Read Full Article](https://www.sydsvenskan.se/varlden/sas-flyg-forsokte-flyga-fran-fel-bana/)
+
+---
+
+## Robbers struck in the snowstorm - people were forced to withdraw cash in Helsingborg
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+During the Thursday evening, in the middle of the snowstorm, a middle-aged man was forced into his car by two criminals known to him. One is said to have been holding something that looked like a gun.
+
+[Read Full Article](https://www.hd.se/helsingborg/ranare-slog-till-i-snoovadret-man-tvingades-ta-ut-kontanter-i-helsingborg/)
+
+---
+
+## Twisted Sister cancels world tour
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+Twisted Sister cancels their world tour, Sweden Rock reports. Singer Dee Snider, 70 years old, has suffered from serious health problems and decided to leave the band, according to Göteborgs-Posten.
+
+[Read Full Article](https://www.sydsvenskan.se/noje/twisted-sister-staller-in-varldsturnen/)
+
+---
+
+## Carrying Christ into the world is not painless
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+"5 minutes with God" is an easily accessible devotional podcast based on prayer and the Bible.
+
+[Read Full Article](https://www.dagen.se/podd/att-baera-kristus-till-vaerlden-aer-inte-smaertfritt/10189417)
+
+---
+
+## Annual report ready: This is how things went for Byggnadhandverk i Helsingborg AB
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/helsingborg/arsredovisningen-klar-sa-gick-det-for-byggnadshantverk-i-helsingborg-ab/)
+
+---
+
+## S-toppen's film campaign receives harsh criticism
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.sydsvenskan.senull)
+
+---
+
+## The shareholders in Skåne Aktiebolag: Here is the latest annual report
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/landskrona/haltagarna-i-skane-aktiebolag-har-ar-senaste-arsredovisningen/)
+
+---
+
+## OS i Milano Cortina
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+The Winter Olympics are here! How many golds does Sweden take? Which athletes will surprise? And what will be the game's talking points? Follow our live reporting here!
+
+[Read Full Article](https://www.sydsvenskan.se/sport/os-i-milano-cortina/)
+
+---
+
+## Helsingborgs Fastighetsbyrå AB: Here are the most important figures from 2025
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/helsingborg/helsingborgs-fastighetsbyra-ab-har-ar-de-viktigaste-siffrorna-fran-2025/)
+
+---
+
+## Maroc Fruit Distribution Sverige AB: The accounts are ready - that's how it went for the company
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/helsingborg/maroc-fruit-distribution-sverige-ab-redovisningen-klar-sa-gick-det-for-foretaget/)
+
+---
+
+## Two men are sentenced after color attack at Malmö airport
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.sydsvenskan.senull)
+
+---
 
 ## Pamelaro AB: This is how the numbers looked last year
 **Outlet:** Helsingborgs Dagblad (HD)
@@ -49,16 +159,6 @@ Asylum seekers will no longer be allowed to live in their own accommodation when
 _No summary text available from RSS._
 
 [Read Full Article](https://www.hd.se/bjuv/har-ar-siffrorna-som-visar-hur-det-gick-for-kentas-kran-och-transport-ab-senaste-aret/)
-
----
-
-## OS i Milano Cortina
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-The Winter Olympics are here! How many golds does Sweden take? Which athletes will surprise? And what will be the game's talking points? Follow our live reporting here!
-
-[Read Full Article](https://www.sydsvenskan.se/sport/os-i-milano-cortina/)
 
 ---
 
@@ -112,16 +212,6 @@ _No summary text available from RSS._
 
 ---
 
-## Twisted Sister cancels world tour
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-Twisted Sister cancels their upcoming world tour, Sweden Rock states in a press release. Singer Dee Snider, 70 years old, has suffered from serious health problems and decided to leave the band, according to Göteborgs-Posten.
-
-[Read Full Article](https://www.sydsvenskan.se/noje/twisted-sister-staller-in-varldsturnen/)
-
----
-
 ## Sellbergs El AB: Here is the latest annual report
 **Outlet:** Helsingborgs Dagblad (HD)
 **Category:** General News | **Date:** 2026-02-06 (today)
@@ -139,16 +229,6 @@ _No summary text available from RSS._
 _No summary text available from RSS._
 
 [Read Full Article](https://www.hd.se/klippan/arsredovisningen-klar-sa-gick-det-for-magnus-andersson-transport-ab/)
-
----
-
-## SAS plane near take off from the wrong runway - got cross-stitched
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-An SAS flight was forced to swerve and ended up in the grass after the aircraft tried to take off from a so-called taxiway. - I think the staff were also quite shocked, says a passenger to Expressen.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/sas-flyg-forsokte-flyga-fran-fel-bana/)
 
 ---
 
@@ -179,16 +259,6 @@ Asylum seekers will no longer be allowed to live in their own accommodation when
 Top diplomat Lisa Svensson borrowed Epstein's apartment and had recurring email contact with the sex offender for several years. "Direct the focus on the perpetrators", she writes in a comment to SvD.
 
 [Read Full Article](https://www.svd.se/a/vrOabp/diplomaten-lisa-svensson-om-kopplingarna-till-epstein-tar-avstand)
-
----
-
-## S-toppen's film campaign receives harsh criticism
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.sydsvenskan.senull)
 
 ---
 
@@ -389,56 +459,6 @@ _No summary text available from RSS._
 _No summary text available from RSS._
 
 [Read Full Article](https://www.hd.se/bastad/martin-gottfridssons-transport-ab-ar-bland-de-basta-i-branschen-i-bastads-kommun-senaste-aret/)
-
----
-
-## The accounts are ready - last year, a new challenging year for Martin Hanssons Åkeri Aktiebolag
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/bastad/redovisningen-klar-senaste-aret-nytt-utmanande-ar-for-martin-hanssons-akeri-aktiebolag/)
-
----
-
-## Karmad AB: Here are the most important figures for the past year
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/astorp/karmad-ab-har-ar-de-viktigaste-siffrorna-senaste-aret/)
-
----
-
-## Tibbaröds Lantbruk Aktiebolag: Here is the latest annual report
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/svalov/tibbarods-lantbruk-aktiebolag-har-ar-senaste-arsredovisningen/)
-
----
-
-## Among the largest in Sweden: Helsingborg company Grenado Isolering AB
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/helsingborg/bland-de-storsta-i-sverige-helsingborgsforetaget-grenado-isolering-ab/)
-
----
-
-## Ørn Software AB: Here are the most important figures from 2024
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/angelholm/orn-software-ab-har-ar-de-viktigaste-siffrorna-fran-2024/)
 
 ---
 
@@ -661,16 +681,6 @@ An unemployed model maker and a conspiracy-loving marine biologist combine their
 During the Christmas break, Malbas lost the basketball league's best player Julianna Okosun to Greek Panathinaikos. Now the replacement has been brought from the USA via Portugal, Sydsvenskan can reveal. In addition, Malbas strengthens with a Danish national team meritorious player. - Julianna was a great player, I have seen her. Really strong. It's fun to come in and try to help the team replace her, says 25-year-old Mykel Parham.
 
 [Read Full Article](https://www.sydsvenskan.se/sport/amerikanska-ersatter-okusun-malbas-tar-aven-in-danska/)
-
----
-
-## Lives on social media – now he's chasing an Olympic medal
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-He earns his money on social media in order to be able to fully invest in the hump course. Now Rasmus Stegfeldt has arrived at his childhood dream – to compete in an Olympics. - We got really nervous, says the 27-year-old about when the coach tricked him with the Olympic ticket.
-
-[Read Full Article](https://www.sydsvenskan.se/sport/lever-pa-sociala-medier-nu-jagar-han-os-medalj/)
 
 ---
 
@@ -1535,7 +1545,7 @@ When the nuclear agreement between the US and Russia now expires, for the first 
 
 ## Cassoeula with polenta
 **Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-02-05 (today)
+**Category:** General News | **Date:** 2026-02-05 (1 day old)
 
 The kitchen's dinner offers a rustic, warming stew, full of flavor. This northern Italian classic, cassoeula, combines juicy pork and cabbage stew with smooth, creamy polenta and lightly fried savoy cabbage leaves. To Dante Zia's recipe
 
@@ -1813,16 +1823,6 @@ Make an event of the reading • Be an example yourself • Warning for vegetabl
 "I have the luxury of having three name days"
 
 [Read Full Article](https://www.dagen.se/familj/grattis-pa-namnsdagen-erik-ansgar/10163585)
-
----
-
-## Bold Jesus Faith in Multicultural Anthology
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-02-04 (2 days old)
-
-Gunnar Hyltén-Cavallius has read "Church in a multicultural society"
-
-[Read Full Article](https://www.dagen.se/kultur/frimodig-jesus-tro-i-antologi-om-mangkultur/10161900)
 
 ---
 

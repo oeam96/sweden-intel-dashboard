@@ -1,10 +1,175 @@
 {
-  "generated_at": "2026-02-06T10:34:22.423156+01:00",
+  "generated_at": "2026-02-06T10:47:27.896545+01:00",
   "window_days": 14,
   "item_count": 190,
   "items": [
     {
       "id": 0,
+      "title": "SAS plane near take off from the wrong runway - got cross-stitched",
+      "summary": "An SAS flight was forced to swerve and ended up in the grass after the aircraft tried to take off from a so-called taxiway. - I think the staff were also quite shocked, says a passenger to Expressen.",
+      "title_original": "SAS-plan nära lyfta från fel bana – fick tvärnita",
+      "summary_original": "Ett SAS-flyg tvingades tvärnita och hamnade i gräset efter att flygplanet försökt lyfta från en så kallad taxibana. – Jag tror att personalen också var ganska chockade, säger en passagerare till Expressen.",
+      "link": "https://www.sydsvenskan.se/varlden/sas-flyg-forsokte-flyga-fran-fel-bana/",
+      "date_display": "2026-02-06",
+      "date_iso": "2026-02-06T09:46:05+00:00",
+      "source": "Sydsvenskan",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 1,
+      "title": "Robbers struck in the snowstorm - people were forced to withdraw cash in Helsingborg",
+      "summary": "During the Thursday evening, in the middle of the snowstorm, a middle-aged man was forced into his car by two criminals known to him. One is said to have been holding something that looked like a gun.",
+      "title_original": "Rånare slog till i snöovädret – man tvingades ta ut kontanter i Helsingborg",
+      "summary_original": "Under torsdagskvällen, mitt i snöovädret, tvingades en medelålders man in i sin bil av två för honom ökända förövare. Den ena ska ha hållit i något som liknade en pistol.",
+      "link": "https://www.hd.se/helsingborg/ranare-slog-till-i-snoovadret-man-tvingades-ta-ut-kontanter-i-helsingborg/",
+      "date_display": "2026-02-06",
+      "date_iso": "2026-02-06T09:45:44+00:00",
+      "source": "Helsingborgs Dagblad (HD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 2,
+      "title": "Twisted Sister cancels world tour",
+      "summary": "Twisted Sister cancels their world tour, Sweden Rock reports. Singer Dee Snider, 70 years old, has suffered from serious health problems and decided to leave the band, according to Göteborgs-Posten.",
+      "title_original": "Twisted Sister ställer in världsturnén",
+      "summary_original": "Twisted Sister ställer in sin världsturné, uppger Sweden Rock. Sångaren Dee Snider, 70 år, har drabbats av allvarliga hälsoproblem och bestämt sig för att lämna bandet, enligt Göteborgs-Posten.",
+      "link": "https://www.sydsvenskan.se/noje/twisted-sister-staller-in-varldsturnen/",
+      "date_display": "2026-02-06",
+      "date_iso": "2026-02-06T09:44:47+00:00",
+      "source": "Sydsvenskan",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 3,
+      "title": "Carrying Christ into the world is not painless",
+      "summary": "\"5 minutes with God\" is an easily accessible devotional podcast based on prayer and the Bible.",
+      "title_original": "Att bära Kristus till världen är inte smärtfritt",
+      "summary_original": "“5 minuter med Gud” är en lättillgänglig andaktpodd med bön och bibel som grund.",
+      "link": "https://www.dagen.se/podd/att-baera-kristus-till-vaerlden-aer-inte-smaertfritt/10189417",
+      "date_display": "2026-02-06",
+      "date_iso": "2026-02-06T09:44:19+00:00",
+      "source": "Dagen",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 4,
+      "title": "Annual report ready: This is how things went for Byggnadhandverk i Helsingborg AB",
+      "summary": "",
+      "title_original": "Årsredovisningen klar: Så gick det för Byggnadshantverk i Helsingborg AB",
+      "summary_original": "",
+      "link": "https://www.hd.se/helsingborg/arsredovisningen-klar-sa-gick-det-for-byggnadshantverk-i-helsingborg-ab/",
+      "date_display": "2026-02-06",
+      "date_iso": "2026-02-06T09:42:37+00:00",
+      "source": "Helsingborgs Dagblad (HD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 5,
+      "title": "S-toppen's film campaign receives harsh criticism",
+      "summary": "",
+      "title_original": "S-toppens filmkampanj får hård kritik",
+      "summary_original": "",
+      "link": "https://www.sydsvenskan.senull",
+      "date_display": "2026-02-06",
+      "date_iso": "2026-02-06T09:42:26+00:00",
+      "source": "Sydsvenskan",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 6,
+      "title": "The shareholders in Skåne Aktiebolag: Here is the latest annual report",
+      "summary": "",
+      "title_original": "Håltagarna i Skåne Aktiebolag: Här är senaste årsredovisningen",
+      "summary_original": "",
+      "link": "https://www.hd.se/landskrona/haltagarna-i-skane-aktiebolag-har-ar-senaste-arsredovisningen/",
+      "date_display": "2026-02-06",
+      "date_iso": "2026-02-06T09:42:16+00:00",
+      "source": "Helsingborgs Dagblad (HD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 7,
+      "title": "OS i Milano Cortina",
+      "summary": "The Winter Olympics are here! How many golds does Sweden take? Which athletes will surprise? And what will be the game's talking points? Follow our live reporting here!",
+      "title_original": "OS i Milano Cortina",
+      "summary_original": "Vinter-OS är här! Hur många guld tar Sverige? Vilka idrottare kommer att överraska? Och vad blir spelens snackisar? Följ vår direktrapportering här!",
+      "link": "https://www.sydsvenskan.se/sport/os-i-milano-cortina/",
+      "date_display": "2026-02-06",
+      "date_iso": "2026-02-06T09:41:55+00:00",
+      "source": "Sydsvenskan",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 8,
+      "title": "Helsingborgs Fastighetsbyrå AB: Here are the most important figures from 2025",
+      "summary": "",
+      "title_original": "Helsingborgs Fastighetsbyrå AB: Här är de viktigaste siffrorna från 2025",
+      "summary_original": "",
+      "link": "https://www.hd.se/helsingborg/helsingborgs-fastighetsbyra-ab-har-ar-de-viktigaste-siffrorna-fran-2025/",
+      "date_display": "2026-02-06",
+      "date_iso": "2026-02-06T09:41:54+00:00",
+      "source": "Helsingborgs Dagblad (HD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 9,
+      "title": "Maroc Fruit Distribution Sverige AB: The accounts are ready - that's how it went for the company",
+      "summary": "",
+      "title_original": "Maroc Fruit Distribution Sverige AB: Redovisningen klar – så gick det för företaget",
+      "summary_original": "",
+      "link": "https://www.hd.se/helsingborg/maroc-fruit-distribution-sverige-ab-redovisningen-klar-sa-gick-det-for-foretaget/",
+      "date_display": "2026-02-06",
+      "date_iso": "2026-02-06T09:41:35+00:00",
+      "source": "Helsingborgs Dagblad (HD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 10,
+      "title": "Two men are sentenced after color attack at Malmö airport",
+      "summary": "",
+      "title_original": "Två män döms efter färgattack på Malmö airport",
+      "summary_original": "",
+      "link": "https://www.sydsvenskan.senull",
+      "date_display": "2026-02-06",
+      "date_iso": "2026-02-06T09:37:18+00:00",
+      "source": "Sydsvenskan",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 11,
       "title": "Pamelaro AB: This is how the numbers looked last year",
       "summary": "",
       "title_original": "Pamelaro AB: Så såg siffrorna ut senaste året",
@@ -19,7 +184,7 @@
       "tags": []
     },
     {
-      "id": 1,
+      "id": 12,
       "title": "Svenska Latex AB: The accounting is complete - this is what the numbers look like",
       "summary": "",
       "title_original": "Svenska Latex AB: Redovisningen klar – så ser siffrorna ut",
@@ -34,7 +199,7 @@
       "tags": []
     },
     {
-      "id": 2,
+      "id": 13,
       "title": "Steep fall for Stenbergbygg AB - revenues down 21.4 percent",
       "summary": "",
       "title_original": "Brant fall för Stenbergbygg AB – intäkterna ner 21,4 procent",
@@ -49,7 +214,7 @@
       "tags": []
     },
     {
-      "id": 3,
+      "id": 14,
       "title": "Proposal: Asylum seekers should not be allowed to choose accommodation",
       "summary": "Asylum seekers will no longer be allowed to live in their own accommodation when they come to Sweden. - This legislation has had a lot of negative consequences, says Migration Minister Johan Forssell (M).",
       "title_original": "Förslag: Asylsökande ska inte få välja boende",
@@ -64,7 +229,7 @@
       "tags": []
     },
     {
-      "id": 4,
+      "id": 15,
       "title": "Here are the numbers that show how Kentas Kran & Transport AB did last year",
       "summary": "",
       "title_original": "Här är siffrorna som visar hur det gick för Kentas Kran & Transport AB senaste året",
@@ -79,22 +244,7 @@
       "tags": []
     },
     {
-      "id": 5,
-      "title": "OS i Milano Cortina",
-      "summary": "The Winter Olympics are here! How many golds does Sweden take? Which athletes will surprise? And what will be the game's talking points? Follow our live reporting here!",
-      "title_original": "OS i Milano Cortina",
-      "summary_original": "Vinter-OS är här! Hur många guld tar Sverige? Vilka idrottare kommer att överraska? Och vad blir spelens snackisar? Följ vår direktrapportering här!",
-      "link": "https://www.sydsvenskan.se/sport/os-i-milano-cortina/",
-      "date_display": "2026-02-06",
-      "date_iso": "2026-02-06T09:29:54+00:00",
-      "source": "Sydsvenskan",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 6,
+      "id": 16,
       "title": "Here are the numbers that show how Bloms Åkeri Eket AB did last year",
       "summary": "",
       "title_original": "Här är siffrorna som visar hur det gick för Bloms Åkeri Eket AB senaste året",
@@ -109,7 +259,7 @@
       "tags": []
     },
     {
-      "id": 7,
+      "id": 17,
       "title": "At Troppo, the rice is so perfectly wok that the prawns become redundant",
       "summary": "The pub at Brunnshög in Lund has high ambitions - but some dishes are weak.",
       "title_original": "På Troppo är riset så perfekt wokat att räkorna blir överflödiga",
@@ -124,7 +274,7 @@
       "tags": []
     },
     {
-      "id": 8,
+      "id": 18,
       "title": "Villa in Hittarp, Helsingborg gets new owners - price tag: SEK 9,900,000",
       "summary": "",
       "title_original": "Villa i Hittarp, Helsingborg får nya ägare – prislappen: 9 900 000 kronor",
@@ -139,7 +289,7 @@
       "tags": []
     },
     {
-      "id": 9,
+      "id": 19,
       "title": "Delays and canceled flights at Kastrup",
       "summary": "The snow cover creates problems at the airport on Friday morning.",
       "title_original": "Förseningar och inställda flyg på Kastrup",
@@ -154,7 +304,7 @@
       "tags": []
     },
     {
-      "id": 10,
+      "id": 20,
       "title": "Ludvigsson Skälderviken AB is almost always positive",
       "summary": "",
       "title_original": "Ludvigsson Skälderviken AB går nätt och jämnt plus",
@@ -169,22 +319,7 @@
       "tags": []
     },
     {
-      "id": 11,
-      "title": "Twisted Sister cancels world tour",
-      "summary": "Twisted Sister cancels their upcoming world tour, Sweden Rock states in a press release. Singer Dee Snider, 70 years old, has suffered from serious health problems and decided to leave the band, according to Göteborgs-Posten.",
-      "title_original": "Twisted Sister ställer in världsturnén",
-      "summary_original": "Twisted Sister ställer in sin kommande världsturné, uppger Sweden Rock i ett pressmeddelande. Sångaren Dee Snider, 70 år, har drabbats av allvarliga hälsoproblem och bestämt sig för att lämna bandet, enligt Göteborgs-Posten.",
-      "link": "https://www.sydsvenskan.se/noje/twisted-sister-staller-in-varldsturnen/",
-      "date_display": "2026-02-06",
-      "date_iso": "2026-02-06T09:24:43+00:00",
-      "source": "Sydsvenskan",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 12,
+      "id": 21,
       "title": "Sellbergs El AB: Here is the latest annual report",
       "summary": "",
       "title_original": "Sellbergs El AB: Här är senaste årsredovisningen",
@@ -199,7 +334,7 @@
       "tags": []
     },
     {
-      "id": 13,
+      "id": 22,
       "title": "The annual report ready: That's how it went for Magnus Andersson Transport AB",
       "summary": "",
       "title_original": "Årsredovisningen klar: Så gick det för Magnus Andersson Transport AB",
@@ -214,22 +349,7 @@
       "tags": []
     },
     {
-      "id": 14,
-      "title": "SAS plane near take off from the wrong runway - got cross-stitched",
-      "summary": "An SAS flight was forced to swerve and ended up in the grass after the aircraft tried to take off from a so-called taxiway. - I think the staff were also quite shocked, says a passenger to Expressen.",
-      "title_original": "SAS-plan nära lyfta från fel bana – fick tvärnita",
-      "summary_original": "Ett SAS-flyg tvingades tvärnita och hamnade i gräset efter att flygplanet försökt lyfta från en så kallad taxibana. – Jag tror att personalen också var ganska chockade, säger en passagerare till Expressen.",
-      "link": "https://www.sydsvenskan.se/varlden/sas-flyg-forsokte-flyga-fran-fel-bana/",
-      "date_display": "2026-02-06",
-      "date_iso": "2026-02-06T09:21:57+00:00",
-      "source": "Sydsvenskan",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 15,
+      "id": 23,
       "title": "Your Eyes landed at just the right time",
       "summary": "Dina Ögon is back with their fourth album \"Människobarn\". No news is immediately presented here – for better or for worse.",
       "title_original": "Dina Ögon landade i precis rätt tid",
@@ -247,7 +367,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 24,
       "title": "Proposal: Asylum seekers should not be allowed to choose accommodation",
       "summary": "Asylum seekers will no longer be allowed to live in their own accommodation when they come to Sweden. - This legislation has had a lot of negative consequences, says Migration Minister Johan Forssell (M).",
       "title_original": "Förslag: Asylsökande ska inte få välja boende",
@@ -264,7 +384,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 25,
       "title": "Swedish diplomat on Epstein: \"Absolutely disgusting\"",
       "summary": "Top diplomat Lisa Svensson borrowed Epstein's apartment and had recurring email contact with the sex offender for several years. \"Direct the focus on the perpetrators\", she writes in a comment to SvD.",
       "title_original": "Svenska diplomaten om Epstein: ”Helt avskyvärt”",
@@ -281,22 +401,7 @@
       ]
     },
     {
-      "id": 18,
-      "title": "S-toppen's film campaign receives harsh criticism",
-      "summary": "",
-      "title_original": "S-toppens filmkampanj får hård kritik",
-      "summary_original": "",
-      "link": "https://www.sydsvenskan.senull",
-      "date_display": "2026-02-06",
-      "date_iso": "2026-02-06T09:16:24+00:00",
-      "source": "Sydsvenskan",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 19,
+      "id": 26,
       "title": "Climate group Aurora sues the Swedish state again: \"Violates our human rights\"",
       "summary": "Sweden does not take sufficient responsibility for reducing its climate emissions. That's what the young people in the climate group Aurora think, who are now filing a renewed lawsuit against the Swedish state. - The science is clear that the climate policy being pursued will threaten the lives and health of young people in the future, says Aurora's spokesperson Ida Edling.",
       "title_original": "Klimatgruppen Aurora stämmer svenska staten på nytt: ”Kränker våra mänskliga rättigheter”",
@@ -311,7 +416,7 @@
       "tags": []
     },
     {
-      "id": 20,
+      "id": 27,
       "title": "Crown flattened in coup - Louvre releases picture",
       "summary": "When the robbers fled after the spectacular jewel heist at the Louvre last fall, they lost one of the most valuable jewels – the crown belonging to Empress Eugénie. Now the museum has released images showing the flattened crown.",
       "title_original": "Krona tillplattad i kuppen – Louvren släpper bild",
@@ -326,7 +431,7 @@
       "tags": []
     },
     {
-      "id": 21,
+      "id": 28,
       "title": "Doctor beaten bloody by jealous man",
       "summary": "A 36-year-old man is charged with assault after he assaulted a doctor at a health center in Malmö where his wife works. The man knocked the doctor down and pressed his fingers into his eyes.",
       "title_original": "Läkare slagen blodig av svartsjuk man",
@@ -341,7 +446,7 @@
       "tags": []
     },
     {
-      "id": 22,
+      "id": 29,
       "title": "The Helsingborg company Frillestad Växt AB is among the largest in the country",
       "summary": "",
       "title_original": "Helsingborgsföretaget Frillestad Växt AB är bland de största i landet",
@@ -356,7 +461,7 @@
       "tags": []
     },
     {
-      "id": 23,
+      "id": 30,
       "title": "This is what the numbers look like for Vindåkra Gård AB",
       "summary": "",
       "title_original": "Så ser siffrorna ut för Vindåkra Gård AB",
@@ -371,7 +476,7 @@
       "tags": []
     },
     {
-      "id": 24,
+      "id": 31,
       "title": "Remoove Demolering AB: Revenues continue to grow",
       "summary": "",
       "title_original": "Remoove Demolering AB: Intäkterna fortsätter växa",
@@ -386,7 +491,7 @@
       "tags": []
     },
     {
-      "id": 25,
+      "id": 32,
       "title": "This is how it went for Billing i Bläsinge AB last year",
       "summary": "",
       "title_original": "Så gick det för Billing i Bläsinge AB senaste året",
@@ -401,7 +506,7 @@
       "tags": []
     },
     {
-      "id": 26,
+      "id": 33,
       "title": "Here are the numbers that show how Kind Group AB did last year",
       "summary": "",
       "title_original": "Här är siffrorna som visar hur det gick för Kind Group AB senaste året",
@@ -416,7 +521,7 @@
       "tags": []
     },
     {
-      "id": 27,
+      "id": 34,
       "title": "Vecka 6: Calamets Timothts ”Marty Supreme” or live på",
       "summary": "Alexander Skarsgård as a bdsm biker, Timothée Chalamet as a ruthless ping pong maniac and Wagner Moura as an enigmatic retro hero – three fascinating characters who are, to say the least, watchable on the big screen. DN's film editor Helena Lindblad lists the best films in theaters right now.",
       "title_original": "Filmlistan vecka 6: Timothée Chalamets ”Marty Supreme” ny på bio",
@@ -431,7 +536,7 @@
       "tags": []
     },
     {
-      "id": 28,
+      "id": 35,
       "title": "Olle P:S Åkeri AB reports: Results that point upwards",
       "summary": "",
       "title_original": "Olle P:S Åkeri AB redovisar: Resultat som pekar uppåt",
@@ -446,7 +551,7 @@
       "tags": []
     },
     {
-      "id": 29,
+      "id": 36,
       "title": "SLK Transport & Logistics AB: The accounting completed - that's how it went for the company",
       "summary": "",
       "title_original": "SLK Transport & Logistics AB: Redovisningen klar – så gick det för företaget",
@@ -461,7 +566,7 @@
       "tags": []
     },
     {
-      "id": 30,
+      "id": 37,
       "title": "Negative results for the third year in a row for Svalövs Plåt Aktiebolag",
       "summary": "",
       "title_original": "Negativt resultat för tredje året i rad för Svalövs Plåt Aktiebolag",
@@ -476,7 +581,7 @@
       "tags": []
     },
     {
-      "id": 31,
+      "id": 38,
       "title": "Here are the numbers that show how things went for Niklas Engelbrekt AB last year",
       "summary": "",
       "title_original": "Här är siffrorna som visar hur det gick för Niklas Engelbrekt AB senaste året",
@@ -491,7 +596,7 @@
       "tags": []
     },
     {
-      "id": 32,
+      "id": 39,
       "title": "Crown flattened in coup - Louvre releases picture",
       "summary": "When the robbers fled after the spectacular jewel heist at the Louvre last fall, they lost one of the most valuable jewels – the crown belonging to Empress Eugénie. Now the museum has released images showing the flattened crown.",
       "title_original": "Krona tillplattad i kuppen – Louvren släpper bild",
@@ -506,7 +611,7 @@
       "tags": []
     },
     {
-      "id": 33,
+      "id": 40,
       "title": "Richt Bygg & Entreprenad AB: This is how the numbers looked last year",
       "summary": "",
       "title_original": "Richt Bygg & Entreprenad AB: Så såg siffrorna ut senaste året",
@@ -521,7 +626,7 @@
       "tags": []
     },
     {
-      "id": 34,
+      "id": 41,
       "title": "Annual report ready: This is how things went for Restaurang Originalelle in Helsingborg AB",
       "summary": "",
       "title_original": "Årsredovisningen klar: Så gick det för Restaurang Originelle i Helsingborg AB",
@@ -536,7 +641,7 @@
       "tags": []
     },
     {
-      "id": 35,
+      "id": 42,
       "title": "Vettinge Skog & Mark AB: Here are the most important figures for the past year",
       "summary": "",
       "title_original": "Vettinge Skog & Mark AB: Här är de viktigaste siffrorna senaste året",
@@ -551,7 +656,7 @@
       "tags": []
     },
     {
-      "id": 36,
+      "id": 43,
       "title": "Positive figures for Olle P:S Transport AB with a narrow margin",
       "summary": "",
       "title_original": "Positiva tal för Olle P:S Transport AB med knapp marginal",
@@ -566,7 +671,7 @@
       "tags": []
     },
     {
-      "id": 37,
+      "id": 44,
       "title": "FF Transport AB: The accounting completed - this is what the numbers look like",
       "summary": "",
       "title_original": "FF Transport AB: Redovisningen klar – så ser siffrorna ut",
@@ -581,7 +686,7 @@
       "tags": []
     },
     {
-      "id": 38,
+      "id": 45,
       "title": "Martin Gottfridssons Transport AB is among the best in the industry in Båstad municipality in the last year",
       "summary": "",
       "title_original": "Martin Gottfridssons Transport AB är bland de bästa i branschen i Båstads kommun senaste året",
@@ -596,82 +701,7 @@
       "tags": []
     },
     {
-      "id": 39,
-      "title": "The accounts are ready - last year, a new challenging year for Martin Hanssons Åkeri Aktiebolag",
-      "summary": "",
-      "title_original": "Redovisningen klar – senaste året nytt utmanande år för Martin Hanssons Åkeri Aktiebolag",
-      "summary_original": "",
-      "link": "https://www.hd.se/bastad/redovisningen-klar-senaste-aret-nytt-utmanande-ar-for-martin-hanssons-akeri-aktiebolag/",
-      "date_display": "2026-02-06",
-      "date_iso": "2026-02-06T09:06:27+00:00",
-      "source": "Helsingborgs Dagblad (HD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 40,
-      "title": "Karmad AB: Here are the most important figures for the past year",
-      "summary": "",
-      "title_original": "Karmad AB: Här är de viktigaste siffrorna senaste året",
-      "summary_original": "",
-      "link": "https://www.hd.se/astorp/karmad-ab-har-ar-de-viktigaste-siffrorna-senaste-aret/",
-      "date_display": "2026-02-06",
-      "date_iso": "2026-02-06T09:06:05+00:00",
-      "source": "Helsingborgs Dagblad (HD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 41,
-      "title": "Tibbaröds Lantbruk Aktiebolag: Here is the latest annual report",
-      "summary": "",
-      "title_original": "Tibbaröds Lantbruk Aktiebolag: Här är senaste årsredovisningen",
-      "summary_original": "",
-      "link": "https://www.hd.se/svalov/tibbarods-lantbruk-aktiebolag-har-ar-senaste-arsredovisningen/",
-      "date_display": "2026-02-06",
-      "date_iso": "2026-02-06T09:05:40+00:00",
-      "source": "Helsingborgs Dagblad (HD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 42,
-      "title": "Among the largest in Sweden: Helsingborg company Grenado Isolering AB",
-      "summary": "",
-      "title_original": "Bland de största i Sverige: Helsingborgsföretaget Grenado Isolering AB",
-      "summary_original": "",
-      "link": "https://www.hd.se/helsingborg/bland-de-storsta-i-sverige-helsingborgsforetaget-grenado-isolering-ab/",
-      "date_display": "2026-02-06",
-      "date_iso": "2026-02-06T09:05:19+00:00",
-      "source": "Helsingborgs Dagblad (HD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 43,
-      "title": "Ørn Software AB: Here are the most important figures from 2024",
-      "summary": "",
-      "title_original": "Ørn Software AB: Här är de viktigaste siffrorna från 2024",
-      "summary_original": "",
-      "link": "https://www.hd.se/angelholm/orn-software-ab-har-ar-de-viktigaste-siffrorna-fran-2024/",
-      "date_display": "2026-02-06",
-      "date_iso": "2026-02-06T09:04:43+00:00",
-      "source": "Helsingborgs Dagblad (HD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 44,
+      "id": 46,
       "title": "Major traffic accident on highway 40",
       "summary": "",
       "title_original": "Stor trafikolycka på riksväg 40",
@@ -688,7 +718,7 @@
       ]
     },
     {
-      "id": 45,
+      "id": 47,
       "title": "The Golden Hope is banned from playing football - too dangerous",
       "summary": "Then we arrive at the day when the Olympics are formally inaugurated. Here comes a report from the Winter Olympics - about a gold medalist who is no longer allowed to play football, a cross-country skier who has become obsessed with knitting and a nervous standard-bearer.",
       "title_original": "Guldhoppet förbjuds spela fotboll – för farligt",
@@ -703,7 +733,7 @@
       "tags": []
     },
     {
-      "id": 46,
+      "id": 48,
       "title": "Heartbreaking as the spouses deal with the inevitable",
       "summary": "Beverly Glenn-Copeland's new album \"Laughter in summer\" is about her own dementia. Every note is an attempt to do the impossible: to make music out of sand that flows between the fingers, writes Mattias Dahlström and awards the highest marks.",
       "title_original": "Hjärtekrossande när makarna tar sig an det oundvikliga",
@@ -718,7 +748,7 @@
       "tags": []
     },
     {
-      "id": 47,
+      "id": 49,
       "title": "Jonas Eklöf: I was 16 years old and already a predette",
       "summary": "The countdown is on to Tre Kronor's premier match in the Winter Olympics. Jonas Eklöf lived for hockey as a youngster, but left the ice for literature. For DN, he examines the impression the country's national sport has made on the culture - and on him.",
       "title_original": "Jonas Eklöf: Jag var 16 år och redan en föredetting",
@@ -733,7 +763,7 @@
       "tags": []
     },
     {
-      "id": 48,
+      "id": 50,
       "title": "153 square meter house in Genarp bought for SEK 4,200,000",
       "summary": "",
       "title_original": "153 kvadratmeter stort hus i Genarp köpt för 4 200 000 kronor",
@@ -748,7 +778,7 @@
       "tags": []
     },
     {
-      "id": 49,
+      "id": 51,
       "title": "47-year-old new owner of a villa for SEK 3,825,000 in Malmö",
       "summary": "",
       "title_original": "47-åring ny ägare till villa för 3 825 000 kronor i Malmö",
@@ -763,7 +793,7 @@
       "tags": []
     },
     {
-      "id": 50,
+      "id": 52,
       "title": "Report of nepotism - Swedish in the middle of the Italian curling conflict",
       "summary": "CORTINA. A major Olympic row in which a poked player reported to the association for nepotism has erupted in the home team ahead of the ladies' curling tournament. One of the people at the center of the conflict is Swedish. - Whoever I recommended stays between me and Marco, says the Italian national team captain Sören Grahn.",
       "title_original": "Anmälan om nepotism – svensk mitt i italienska curlingkonflikten",
@@ -778,7 +808,7 @@
       "tags": []
     },
     {
-      "id": 51,
+      "id": 53,
       "title": "Twelve new operating theaters at Sus - hope to shorten care queues",
       "summary": "",
       "title_original": "Tolv nya operationssalar på Sus – hopp om att korta vårdköer",
@@ -793,7 +823,7 @@
       "tags": []
     },
     {
-      "id": 52,
+      "id": 54,
       "title": "Charged with threats against two ministers",
       "summary": "A man in his 40s is charged at the Solna District Court for unlawful threats against two ministers.",
       "title_original": "Åtalas för hot mot två ministrar",
@@ -810,7 +840,7 @@
       ]
     },
     {
-      "id": 53,
+      "id": 55,
       "title": "Why don't they grow their own tomatoes?",
       "summary": "The postcard | Saint Martin",
       "title_original": "Varför odlar de inte egna tomater?",
@@ -827,7 +857,7 @@
       ]
     },
     {
-      "id": 54,
+      "id": 56,
       "title": "Do as in Denmark - before a pensioner check",
       "summary": "\"I am convinced that the political parties that propose some kind of pensioner's check in addition to the regular pension will get many votes,\" writes the columnist.",
       "title_original": "Gör som i Danmark – inför en pensionärscheck",
@@ -842,7 +872,7 @@
       "tags": []
     },
     {
-      "id": 55,
+      "id": 57,
       "title": "Quiz: Do you recognize the dog breed?",
       "summary": "Collies, Great Danes and Retrievers. But which is which? Test yourself!",
       "title_original": "Quiz: Känner du igen hundrasen?",
@@ -857,7 +887,7 @@
       "tags": []
     },
     {
-      "id": 56,
+      "id": 58,
       "title": "Felicia Åkerman: The Riksbank's interest rate cut is moving closer",
       "summary": "Underlying inflation continues to fall according to preliminary statistics from Statistics Sweden. DN's Felicia Åkerman answers three questions about the numbers.",
       "title_original": "Felicia Åkerman: Riksbankens räntesänkning rycker närmare",
@@ -872,7 +902,7 @@
       "tags": []
     },
     {
-      "id": 57,
+      "id": 59,
       "title": "Screaming \"Skurkarnas skurk\" is like a sped-up children's party",
       "summary": "A magic crystal can cause total disaster. It is only a superheroine who has the ability to prevent the annihilation of the world. The children's adventure \"Skurkarnas skurk\" is a thin low-budget Harry Potter, but still has some entertaining hiccups and quirks, writes Fredrik Sahlin,",
       "title_original": "Skrikiga ”Skurkarnas skurk” är som ett speedat barnkalas",
@@ -887,7 +917,7 @@
       "tags": []
     },
     {
-      "id": 58,
+      "id": 60,
       "title": "Swedish officer killed in accident - hit by ice block",
       "summary": "A Swedish professional officer has died in an accident during training in Austria, writes the Swedish Armed Forces in a press release.",
       "title_original": "Svensk officer död i olycka – träffad av isblock",
@@ -902,7 +932,7 @@
       "tags": []
     },
     {
-      "id": 59,
+      "id": 61,
       "title": "The Swedes' boycott is growing - wines from the USA are being phased out",
       "summary": "The Swedes' boycott of American wines is increasing. The decline last year was 23 percent, according to statistics from Systembolaget. - And it continues in the same style in January, says assortment manager Ulf Sjödin.",
       "title_original": "Svenskarnas bojkott växer – viner från USA ratas",
@@ -917,7 +947,7 @@
       "tags": []
     },
     {
-      "id": 60,
+      "id": 62,
       "title": "The Swedes' boycott is growing - wines from the USA are being phased out",
       "summary": "The Swedes' boycott of American wines is increasing. The decline last year was 23 percent, according to statistics from Systembolaget. - And it continues in the same style in January, says assortment manager Ulf Sjödin.",
       "title_original": "Svenskarnas bojkott växer – viner från USA ratas",
@@ -934,7 +964,7 @@
       ]
     },
     {
-      "id": 61,
+      "id": 63,
       "title": "Swedish officer dead - got ice block on him",
       "summary": "The accident happened on Thursday afternoon, when the man was hit by a falling block of ice during a climbing exercise. \n\nHe belonged to Norrland's dragoon regiment K4, and was in the country to undergo \"longer training\". Relatives have been informed and the union has established crisis support.  - Our colleague was a very popular comrade and a role model for many. We are now fully focused on supporting his family and relatives, as well as comrades at K 4, says Colonel Fredrik Andersson, head of K 4. \"Continued work takes place in dialogue between Swedish and Austrian authorities,\" writes the Swedish Armed Forces on their website.",
       "title_original": "Svensk officer död – fick isblock över sig",
@@ -948,11 +978,14 @@
       "age_tag": "today",
       "tags": [
         "Nyheterna",
-        "/inrikes"
+        "/inrikes",
+        "/forsvarsmakten",
+        "/svenska-forsvaret",
+        "/forsvaret"
       ]
     },
     {
-      "id": 62,
+      "id": 64,
       "title": "Swedish officer dies in accident in Austria",
       "summary": "",
       "title_original": "Svensk officer död i olycka i Österrike",
@@ -969,7 +1002,7 @@
       ]
     },
     {
-      "id": 63,
+      "id": 65,
       "title": "Swedish officer killed in accident - hit by ice block",
       "summary": "A Swedish professional officer has died in an accident during training in Austria, writes the Swedish Armed Forces in a press release.",
       "title_original": "Svensk officer död i olycka – träffad av isblock",
@@ -986,7 +1019,7 @@
       ]
     },
     {
-      "id": 64,
+      "id": 66,
       "title": "The robber story \"Kattriket\" offers ruffles and bows in disgraced Sweden",
       "summary": "An unemployed model maker and a conspiracy-loving marine biologist combine their bags in the shabby \"Kattriket\". A subtle look back at an analogue Sweden filled with odd existences.",
       "title_original": "Rövarhistorien ”Kattriket” bjuder på ruffel och båg i skamfilat Sverige",
@@ -1001,7 +1034,7 @@
       "tags": []
     },
     {
-      "id": 65,
+      "id": 67,
       "title": "American replaces Okusun – Malbas also brings in Danish",
       "summary": "During the Christmas break, Malbas lost the basketball league's best player Julianna Okosun to Greek Panathinaikos. Now the replacement has been brought from the USA via Portugal, Sydsvenskan can reveal. In addition, Malbas strengthens with a Danish national team meritorious player. - Julianna was a great player, I have seen her. Really strong. It's fun to come in and try to help the team replace her, says 25-year-old Mykel Parham.",
       "title_original": "Amerikanska ersätter Okusun – Malbas tar även in danska",
@@ -1016,22 +1049,7 @@
       "tags": []
     },
     {
-      "id": 66,
-      "title": "Lives on social media – now he's chasing an Olympic medal",
-      "summary": "He earns his money on social media in order to be able to fully invest in the hump course. Now Rasmus Stegfeldt has arrived at his childhood dream – to compete in an Olympics. - We got really nervous, says the 27-year-old about when the coach tricked him with the Olympic ticket.",
-      "title_original": "Lever på sociala medier – nu jagar han OS-medalj",
-      "summary_original": "Han tjänar sina pengar på sociala medier för att fullt ut kunna satsa på puckelpist. Nu har Rasmus Stegfeldt anlänt till barndomsdrömmen – att tävla i ett OS. – Vi blev riktigt nervösa, berättar 27-åringen om när tränaren lurade honom med OS-biljetten.",
-      "link": "https://www.sydsvenskan.se/sport/lever-pa-sociala-medier-nu-jagar-han-os-medalj/",
-      "date_display": "2026-02-06",
-      "date_iso": "2026-02-06T08:07:47+00:00",
-      "source": "Sydsvenskan",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 67,
+      "id": 68,
       "title": "Iran and the US meet in Oman – threats from both sides",
       "summary": "The accelerated talks between the US and Iran have begun. Shortly before the meetings, there were power plays from both sides.",
       "title_original": "Iran och USA möts i Oman – hot från bägge sidor",
@@ -1048,7 +1066,7 @@
       ]
     },
     {
-      "id": 68,
+      "id": 69,
       "title": "The savings expert's happy message: \"It speaks for an interest rate cut\"",
       "summary": "Swedish inflation has thus fallen below the Riksbank's target of two percent, which may have an impact on future interest rate announcements. According to Frida Bratt, it is above all the strengthened krona that contributed to imports becoming cheaper and thus pushed inflation down. The Riksbank's next step - I think this suggests that the next step will be a decrease rather than an increase. There has been talk of an increase, but now we see that inflation is coming quite far. It comes below the inflation target of two percent, says Frida Bratt. She believes that low inflation partly shows that growth has not picked up, which may lead to the Riksbank wanting to support the economy by lowering interest rates. At the same time, it may take some time before a possible reduction takes place. - Even if the next step could be a reduction, it could take a while. You want to wait and see: Will growth pick up in the Swedish economy and thus also inflation? Inflation measure in focus CPIF excluding energy (KPIF-XE) is often used to give a clearer picture of the underlying inflation, as energy prices are difficult to influence. If energy prices are included, inflation lands at two percent. - You would like to look at what is moving underneath if you ignore the energy prices and count them out, very relevant to look at, says Frida Bratt.",
       "title_original": "Sparexpertens glädjebesked: ”Det talar för räntesänkning”",
@@ -1071,7 +1089,7 @@
       ]
     },
     {
-      "id": 69,
+      "id": 70,
       "title": "Russian general shot in Moscow",
       "summary": "",
       "title_original": "Rysk general skjuten i Moskva",
@@ -1088,7 +1106,7 @@
       ]
     },
     {
-      "id": 70,
+      "id": 71,
       "title": "Top Russian general shot in residence",
       "summary": "Vladimir Alekseyev, a top Russian general, was shot dead in a residence in the Russian capital Moscow on Friday morning, reports AFP. The general is said to have been taken to hospital with unclear injuries. Russia's Investigative Committee, Sledkom, which investigates serious crimes, says that \"an unidentified person fired several shots\" at Vladimir Alekseyev before he fled the scene. \"The victim has been treated in hospital,\" the authority adds in a statement. Alekseyev has held important posts in the Russian military. Among other things, he negotiates with the Wagner leader Yevgeny Prigozhin during the attempted uprising. The text is updated",
       "title_original": "Rysk toppgeneral skjuten i bostad",
@@ -1108,7 +1126,7 @@
       ]
     },
     {
-      "id": 71,
+      "id": 72,
       "title": "US expert: The contempt for Trump is disappointing",
       "summary": "Good morning. In this week's dose of SvD, you will find out, among other things, which strength training is best. In addition, a real professional offers a couple of restaurant tips. Happy reading!",
       "title_original": "USA-expert: Föraktet mot Trump är nedslående",
@@ -1125,7 +1143,7 @@
       ]
     },
     {
-      "id": 72,
+      "id": 73,
       "title": "Superguiden: Here is everything fun that happens in Lund's entertainment",
       "summary": "From club nights and concerts to stand-up and vernissages. Here we make a selection of all the fun things happening in Lund 2026 - day by day.",
       "title_original": "Superguiden: Här är allt kul som händer i Lunds nöjesliv",
@@ -1140,7 +1158,7 @@
       "tags": []
     },
     {
-      "id": 73,
+      "id": 74,
       "title": "Now two new consulates are opening in Greenland: \"Victory\"",
       "summary": "To support Greenland and strengthen the presence in the Arctic, Canada and France are today opening the gates of their respective consulates in Greenland.",
       "title_original": "Nu öppnas två nya konsulat på Grönland: ”Seger”",
@@ -1155,7 +1173,7 @@
       "tags": []
     },
     {
-      "id": 74,
+      "id": 75,
       "title": "Alfa Mist's greatest strength is that he lets others shine",
       "summary": "When the solo project Alfa Mist visits Nalen, he lets his four fellow musicians take center stage. The jazz group is at its best when they approach a kind of evocative and coordinated post-rock with swinging hip-hop beats at the bottom, writes DN's Kajsa Haidl.",
       "title_original": "Alfa Mists största styrka är att han låter andra skina",
@@ -1170,7 +1188,7 @@
       "tags": []
     },
     {
-      "id": 75,
+      "id": 76,
       "title": "Inflation falls - opening for interest rate cuts",
       "summary": "Inflation is falling, and unexpectedly. - The probability that the Riksbank will lower the interest rate increases with today's outcome, says Susanne Spector, chief economist at Danske Bank.",
       "title_original": "Inflationen faller – öppnar för räntesänkning",
@@ -1185,7 +1203,7 @@
       "tags": []
     },
     {
-      "id": 76,
+      "id": 77,
       "title": "Dorsin as a hero – a lesson for the film industry?",
       "summary": "In \"The Swedish Link\", Henrik Dorsin plays a gray bureaucrat who saves tens of thousands of Jews from the Holocaust. Anders Q Björkman sees a Swedish film that is neither narrowly artistic nor flabby Göta kanal banal.",
       "title_original": "Dorsin som hjälte – en läxa för filmindustrin?",
@@ -1203,7 +1221,7 @@
       ]
     },
     {
-      "id": 77,
+      "id": 78,
       "title": "How do press conferences work?",
       "summary": "Politics listener Pontus has a question about the \"inner and outer life\" of press meetings. In the podcast, we see a rift between those who see the journalistic profession as a collective or as rivals.",
       "title_original": "Hur funkar presskonferenser?",
@@ -1220,7 +1238,7 @@
       ]
     },
     {
-      "id": 78,
+      "id": 79,
       "title": "The weather can cause it for the Swedes",
       "summary": "The harmonious quartet stepped out into the open air above the Val di Fiemme and declared that they can all take gold. Expectations are sky high for the Swedish women's national team - but the capricious weather can cause that.",
       "title_original": "Vädret kan ställa till det för svenskarna",
@@ -1237,7 +1255,7 @@
       ]
     },
     {
-      "id": 79,
+      "id": 80,
       "title": "Marie-Louise Ekman is doing theater again",
       "summary": "Marie-Louise Ekman returns to the Stadsteatern in Stockholm - with a play whose action is described as completely unreliable. Just over 40 years after the film premiere, she brings \"Still Life\" to the theater stage.",
       "title_original": "Marie-Louise Ekman gör teater igen",
@@ -1252,7 +1270,7 @@
       "tags": []
     },
     {
-      "id": 80,
+      "id": 81,
       "title": "95 square meter house in Veberöd sold for SEK 2,400,000",
       "summary": "",
       "title_original": "95 kvadratmeter stort hus i Veberöd sålt för 2 400 000 kronor",
@@ -1267,7 +1285,7 @@
       "tags": []
     },
     {
-      "id": 81,
+      "id": 82,
       "title": "This is how they prepare for queuing in snow chaos: \"Doctors on site\"",
       "summary": "This weekend, thousands of students are expected to queue for the Lundakarnevalen's convocation. Good clothes, dancing and warming drinks are recommended - but is that enough to beat the winter cold?",
       "title_original": "Så förbereder de sig för kö i snökaos: ”Läkare på plats”",
@@ -1282,7 +1300,7 @@
       "tags": []
     },
     {
-      "id": 82,
+      "id": 83,
       "title": "The CPIF inflation figure is falling",
       "summary": "",
       "title_original": "Inflationssiffran KPIF sjunker",
@@ -1299,7 +1317,7 @@
       ]
     },
     {
-      "id": 83,
+      "id": 84,
       "title": "Inflation falls - opening for interest rate cuts",
       "summary": "Inflation is falling, and unexpectedly. - The probability that the Riksbank will lower the interest rate increases with today's outcome, says Susanne Spector, chief economist at Danske Bank.",
       "title_original": "Inflationen faller – öppnar för räntesänkning",
@@ -1316,7 +1334,7 @@
       ]
     },
     {
-      "id": 84,
+      "id": 85,
       "title": "Tried to smuggle 4.5 billion year old meteorite",
       "summary": "Russian customs say they have stopped an attempt to smuggle a large meteorite fragment into Britain.",
       "title_original": "Försökte smuggla 4,5 miljarder år gammal meteorit",
@@ -1331,7 +1349,7 @@
       "tags": []
     },
     {
-      "id": 85,
+      "id": 86,
       "title": "The requirement: Investigate Epstein's Swedish crony",
       "summary": "Children's rights organization: \"Needs to be prioritized higher\" • According to documents, allegedly conveyed young girls",
       "title_original": "Kravet: Utred Epsteins svenske kumpan",
@@ -1348,7 +1366,7 @@
       ]
     },
     {
-      "id": 86,
+      "id": 87,
       "title": "SMHI warns of snow - several accidents in southern Sweden",
       "summary": "Several traffic accidents affect the roads in southern Sweden on Friday morning. In Skåne and on the west coast, SMHI warns of snow. - In all of Götaland, you should pay attention and take it carefully, says meteorologist Therese Fogman. In Denmark, Kastrup has been forced to cancel several flight departures.",
       "title_original": "SMHI varnar för snö – flera olyckor i södra Sverige",
@@ -1363,7 +1381,7 @@
       "tags": []
     },
     {
-      "id": 87,
+      "id": 88,
       "title": "US warns: \"Leave Iran\"",
       "summary": "",
       "title_original": "USA varnar: ”Lämna Iran”",
@@ -1380,7 +1398,7 @@
       ]
     },
     {
-      "id": 88,
+      "id": 89,
       "title": "After the false start - now the Olympics are inaugurated",
       "summary": "Already on Wednesday, the 2026 Olympics got off to a soft start, but tonight the official opening of the Winter Games will be held at San Siro in Milan. Ceremonies will also take place in Cortina, Livigno and in Val di Fiemme.",
       "title_original": "Efter tjuvstarten – nu invigs OS",
@@ -1397,7 +1415,7 @@
       ]
     },
     {
-      "id": 89,
+      "id": 90,
       "title": "Säverman: The art of sleeping on night trains",
       "summary": "There are many ways to fail to sleep on board a night train, many tried by Säverman himself. Still, the thump of the mock joints is so soothing...",
       "title_original": "Säverman: Konsten att sova på nattåg",
@@ -1412,7 +1430,7 @@
       "tags": []
     },
     {
-      "id": 90,
+      "id": 91,
       "title": "\"God bless Sweden\" is the most touching Swedish debut of the winter",
       "summary": "Of all the Swedish musicians who in recent years have tried the hip style \"r&b with an indie attitude\", Hannes has the most genuinely own expression. That's what Sara Martinsson writes about the artist's debut \"God bless Sweden\".",
       "title_original": "”God bless Sweden” är vinterns mest berörande svenska debut",
@@ -1427,7 +1445,7 @@
       "tags": []
     },
     {
-      "id": 91,
+      "id": 92,
       "title": "Snow chaos continues in Skåne - many accidents last night",
       "summary": "SMHI has previously issued an orange warning over south-eastern Scania, which is valid until Friday afternoon. It has been snowing and blowing heavily in several places, causing traffic delays.  During Thursday evening and the night of Friday, the rescue service dealt with around 50 incidents in the area. Of these, around 20 traffic accidents have occurred, but no serious incidents have been reported. \n\n- It has been a little more than usual, but relatively calm considering the storm, says Nadja Hellsten, alarm and control officer at the South Rescue Service. According to Nadja Hellsten, there have been an unusually high number of traffic accidents, but no one has been seriously injured.  - We have had about 20 traffic accidents, but none of a serious nature, says Nadja Hellsten.  Several accidents occurred on the Öresund Bridge, where slippery road conditions and strong winds caused cars to spin or drive into the center railing, reports P4 Malmöhus.  Stop on E4 There is also a stop on E4 in the southbound direction after Markaryd södra, after a truck drove into the center guardrail, reports P4 Kronoberg.  In addition to the orange warning, SMHI has also issued a yellow warning for southern and central Scania. Both warnings are in effect until 2pm on Friday. No injuries have been reported.",
       "title_original": "Fortsatt snökaos i Skåne – många olyckor i natt",
@@ -1451,7 +1469,7 @@
       ]
     },
     {
-      "id": 92,
+      "id": 93,
       "title": "Kajsa Haidl: Does Bad Bunny start a political conflagration at this weekend's Super Bowl?",
       "summary": "The Super Bowl is not only the biggest event of the year in American football, it has also become a decisive arena for music, celebrity conflicts and not least politics.",
       "title_original": "Kajsa Haidl: Startar Bad Bunny politisk storbrand på helgens Super bowl?",
@@ -1466,7 +1484,7 @@
       "tags": []
     },
     {
-      "id": 93,
+      "id": 94,
       "title": "New owners of villa for SEK 4,200,000 in Veberöd",
       "summary": "",
       "title_original": "Nya ägare till villa för 4 200 000 kronor i Veberöd",
@@ -1481,7 +1499,7 @@
       "tags": []
     },
     {
-      "id": 94,
+      "id": 95,
       "title": "176 square meter house in Vellinge sold",
       "summary": "",
       "title_original": "176 kvadratmeter stort hus i Vellinge sålt",
@@ -1496,7 +1514,7 @@
       "tags": []
     },
     {
-      "id": 95,
+      "id": 96,
       "title": "New owner of villa in Hofterup, Löddeköpinge - SEK 6,100,000 was the price",
       "summary": "",
       "title_original": "Nya ägare till villa i Hofterup, Löddeköpinge – 6 100 000 kronor blev priset",
@@ -1511,7 +1529,7 @@
       "tags": []
     },
     {
-      "id": 96,
+      "id": 97,
       "title": "New owners of villa in Bjärred - price tag: SEK 4,300,000",
       "summary": "",
       "title_original": "Nya ägare till villa i Bjärred – prislappen: 4 300 000 kronor",
@@ -1526,7 +1544,7 @@
       "tags": []
     },
     {
-      "id": 97,
+      "id": 98,
       "title": "The house at Hästägargatan 19 in Malmö has new owners",
       "summary": "",
       "title_original": "Huset på Hästägargatan 19 i Malmö har fått nya ägare",
@@ -1541,7 +1559,7 @@
       "tags": []
     },
     {
-      "id": 98,
+      "id": 99,
       "title": "DN Debate. \"Russian influence threatens the Swedish election - that's how we prepare\"",
       "summary": "DN DEBATE. Sweden is approaching elections, and now the danger is increasing that other countries will try to intervene. We saw it in Romania, in Germany and in Moldova. We saw it in Norway. Now politics and authorities are gathering strength. But ultimately, Sweden's resilience is built together - each of us has a duty to be vigilant and think, writes Prime Minister Ulf Kristersson (M).",
       "title_original": "DN Debatt. ”Rysk påverkan hotar svenska valet – så rustar vi”",
@@ -1556,7 +1574,7 @@
       "tags": []
     },
     {
-      "id": 99,
+      "id": 100,
       "title": "Johanna Frändén: Why were upper-class women okay with Jeffrey Epstein raping girls?",
       "summary": "Crown Princess Mette-Marit was not addicted to Jeffrey Epstein - yet she chose to ignore the fact that he molested teenagers. The indifference to the vulnerability of less privileged women requires explanations, writes Johanna Frändén.",
       "title_original": "Johanna Frändén: Varför var överklasskvinnorna okej med att Jeffrey Epstein våldtog flickor?",
@@ -1571,7 +1589,7 @@
       "tags": []
     },
     {
-      "id": 100,
+      "id": 101,
       "title": "New attempt: The US and Iran meet in Oman",
       "summary": "When Donald Trump extended a hand to Iran last year, it ended in war. Now the world hopes that things will go better, when the arch-enemies USA and Iran meet again today at a high level in Oman.",
       "title_original": "Nytt försök: USA och Iran träffas i Oman",
@@ -1586,7 +1604,7 @@
       "tags": []
     },
     {
-      "id": 101,
+      "id": 102,
       "title": "After the peace talks – new Russian attacks",
       "summary": "New Russian attacks have been carried out against Ukraine just hours after peace talks between the countries ended, Zaporizhzhia Governor Ivan Fedorov said on Telegram.  Two people in their 50s are said to have been killed in the attacks on the region.",
       "title_original": "Efter fredssamtalen – nya ryska attacker",
@@ -1601,7 +1619,7 @@
       "tags": []
     },
     {
-      "id": 102,
+      "id": 103,
       "title": "Today, the verdict comes down against Dumpen: \"Arouses a lot of emotion\"",
       "summary": "It was a couple of years ago that Dumpen confronted a man who they believed had sex-chatted with a 14-year-old. After being hanged, the man stated that he felt unwell and was unable to work, which led him to sue Dumpen's responsible publisher for gross defamation. - This one is perhaps particularly interesting because Dumpen is very much noticed in society. It poses very big questions at its tip that arouse a lot of emotions, says Ängla Pändel, lawyer and expert on defamation issues. \"Quite unique for Sweden\" According to a jury, which is used in this type of case, she is guilty. But now the judge must also take a position on the issue and announce the verdict today. In this case, Dumpen can be convicted of defamation regardless of whether the man was guilty of the sex chats or not. - It is quite unique for Sweden that the defamation provision also covers information that is true. But on the other hand, you carry out a type of justifiability assessment, so in some cases it can still be justifiable to spread this type of information if you can show that the public interest outweighs the individual's right to privacy and protection of personal integrity, explains Ängla Pändel.",
       "title_original": "I dag faller domen mot Dumpen: ”Väcker mycket känslor”",
@@ -1621,7 +1639,7 @@
       ]
     },
     {
-      "id": 103,
+      "id": 104,
       "title": "The course seller's promises to DN's reporter: 100,000 a month",
       "summary": "When DN's reporter participates in a sales call for the Nextlevel online course, she is told that she can earn 100,000 kroner a month, if only she follows the method that is taught. Completely unrealistic, say experts.",
       "title_original": "Kursförsäljarens löften till DN:s reporter: 100 000 i månaden",
@@ -1636,7 +1654,7 @@
       "tags": []
     },
     {
-      "id": 104,
+      "id": 105,
       "title": "SMHI warns of snow in the morning traffic",
       "summary": "",
       "title_original": "SMHI varnar för snö i morgontrafiken",
@@ -1653,7 +1671,7 @@
       ]
     },
     {
-      "id": 105,
+      "id": 106,
       "title": "Johan Croneman: It's been a long time since Pops was so heavily on the gas",
       "summary": "The Winter Olympics got off to a flying start last Wednesday and SVT started with studio talk and mixed curling. DN's sports-i-tv columnist Johan Croneman thinks that the host André Pop's commitment was contagious: \"He was like a calf on green pasture, seemed genuinely happy.\"",
       "title_original": "Johan Croneman: Det var länge sedan Pops var så rejält i gasen",
@@ -1668,7 +1686,7 @@
       "tags": []
     },
     {
-      "id": 106,
+      "id": 107,
       "title": "\"The danger is that you become stressed and stress yourself out more\"",
       "summary": "Jonna Sundling was WC third in the ski changer race. Now the bronze will be exchanged for Olympic gold. Follow the Jerring prize winner through the switch that must work if there is to be victory in the skiathlon.",
       "title_original": "”Faran är att man blir stressad och stressar upp sig mer”",
@@ -1683,7 +1701,7 @@
       "tags": []
     },
     {
-      "id": 107,
+      "id": 108,
       "title": "Cooled start to the housing market in 2026",
       "summary": "Slightly falling prices and fewer deals - the housing market got off to a weak start to the year, according to Swedish Real Estate Statistics. But new amortization rules later this spring may change that.",
       "title_original": "Kylslagen start på bostadsmarknaden 2026",
@@ -1698,7 +1716,7 @@
       "tags": []
     },
     {
-      "id": 108,
+      "id": 109,
       "title": "Haakon visited Høiby in custody",
       "summary": "",
       "title_original": "Haakon besökte Høiby i häktet",
@@ -1715,7 +1733,7 @@
       ]
     },
     {
-      "id": 109,
+      "id": 110,
       "title": "After the dispute over paradise island - the Swedish state is being sued",
       "summary": "Strengthened by an international judgment where the inhabitants of a paradise island were discriminated against, a new attempt is now being made to sue the Swedish state. - We believe that our chances of winning are greater than ever, says the youth organization Aurora's spokesperson Ida Edling.",
       "title_original": "Efter tvisten om paradisön – svenska staten stäms",
@@ -1732,7 +1750,7 @@
       ]
     },
     {
-      "id": 110,
+      "id": 111,
       "title": "The rot has reached a load-bearing wall",
       "summary": "In recent years, several cases have been discovered where lawyers took on the cases of criminals. The Bar Association has been conspicuously sloppy when it comes to dealing with the new reality.",
       "title_original": "Rötan har nått en bärande vägg",
@@ -1749,7 +1767,7 @@
       ]
     },
     {
-      "id": 111,
+      "id": 112,
       "title": "Winter Olympics 2026: Important times in the Olympics - then the Swedes compete",
       "summary": "As usual, there will be plenty of Swedes in the TV box during the Winter Olympics. So that you readers do not miss the golden Olympic moments, here is a quick guide with the times when Sweden has the greatest medal chances in Italy.",
       "title_original": "Vinter-OS 2026: Viktiga klockslagen i OS – då tävlar svenskarna",
@@ -1766,7 +1784,7 @@
       ]
     },
     {
-      "id": 112,
+      "id": 113,
       "title": "Karin Eriksson: Trump can wallow in schadenfreude over Norway's shame",
       "summary": "Norway was the country with the finest Nobel Prize and the most popular royal house. Therefore, the new Epstein files fundamentally shake the Norwegian self-image. US President Donald Trump can wallow in schadenfreude at Norway's shame.",
       "title_original": "Karin Eriksson: Trump kan vältra sig i skadeglädje över Norges skam",
@@ -1781,7 +1799,7 @@
       "tags": []
     },
     {
-      "id": 113,
+      "id": 114,
       "title": "Retirement can be a \"shameful\" loss of status",
       "summary": "The pension can put the legs away - or open the door to total freedom. Psychologist Åsa Kruse has seen how life swings when working life ends.",
       "title_original": "Gå i pension kan vara ”skämmig” statusförlust",
@@ -1798,7 +1816,7 @@
       ]
     },
     {
-      "id": 114,
+      "id": 115,
       "title": "Women challenge Sami in charged conflict: \"So crazy\"",
       "summary": "When an art exhibition was reported for incitement against a ethnic group, the conflict between the minorities in the north came to the surface. But does the ethnic group even have women? And why do historians argue about northern Sweden's past?",
       "title_original": "Kväner utmanar samer i laddad konflikt: ”Så galet”",
@@ -1815,7 +1833,7 @@
       ]
     },
     {
-      "id": 115,
+      "id": 116,
       "title": "Trump's revenge: two Norwegians singled out",
       "summary": "The Epstein affair appears to confirm the White House's image of a Europe headed for civilizational ruin. And Donald Trump can be happy that the man who gave Barack Obama the Nobel Peace Prize is suspected of gross corruption.",
       "title_original": "Trumps hämnd: två norrmän utpekade",
@@ -1832,7 +1850,7 @@
       ]
     },
     {
-      "id": 116,
+      "id": 117,
       "title": "New attempt: The US and Iran meet in Oman",
       "summary": "When Donald Trump extended a hand to Iran last year, it ended in war. Now the world hopes that things will go better, when the arch-enemies USA and Iran meet again today at a high level in Oman.",
       "title_original": "Nytt försök: USA och Iran träffas i Oman",
@@ -1849,7 +1867,7 @@
       ]
     },
     {
-      "id": 117,
+      "id": 118,
       "title": "\"People will definitely boo\"",
       "summary": "The Olympics – in a world of political chaos. It may affect the games, especially for the United States. - American athletes are used to people liking them, says political scientist Stephen Marr.",
       "title_original": "”Folk kommer definitivt att bua”",
@@ -1866,7 +1884,7 @@
       ]
     },
     {
-      "id": 118,
+      "id": 119,
       "title": "Martin Liby Troein: Is it really such a bad idea for S and M to rule together?",
       "summary": "If Ulf Kristersson makes up with Magdalena Andersson after the election this fall, he can get big things done. And win the fight for the right.",
       "title_original": "Martin Liby Troein: Är det verkligen en så dålig idé för S och M att styra ihop?",
@@ -1881,7 +1899,7 @@
       "tags": []
     },
     {
-      "id": 119,
+      "id": 120,
       "title": "\"How can we save love through menopause?\"",
       "summary": "His wife is in menopause, no longer wants to be intimate and has distanced herself emotionally. He loves her and is now asking for help to save their relationship through transition. Psychotherapist Daniel Rosenlind gives advice.",
       "title_original": "”Hur kan vi rädda kärleken genom klimakteriet?”",
@@ -1896,7 +1914,7 @@
       "tags": []
     },
     {
-      "id": 120,
+      "id": 121,
       "title": "Letter to the editor. Disabled people are violated at Arbetsförmedlingen",
       "summary": "LETTER TO THE EDITOR. We must give all people the support in the labor market to which they are legally entitled. Now I see daily how disabled people are violated in a kind of state-sanctioned wing-clipping, writes the long-time employment broker Anna Elvemoen.",
       "title_original": "Insändare. Funktionshindrade kränks på Arbetsförmedlingen",
@@ -1911,7 +1929,7 @@
       "tags": []
     },
     {
-      "id": 121,
+      "id": 122,
       "title": "Kingdom Flow raps about God - wants to give Swedish hip-hop a new direction",
       "summary": "Marcus and Gabriel, 25, have gained traction on social media and thousands of views on their clips.",
       "title_original": "Kingdom Flow rappar om Gud – vill ge svensk hiphop ny riktning",
@@ -1926,7 +1944,7 @@
       "tags": []
     },
     {
-      "id": 122,
+      "id": 123,
       "title": "As a theologically conservative Christian, do you have to be right-wing in all political matters?",
       "summary": "There is much in the dominant political approach of our time that is incompatible with biblically anchored Christian faith, Roland Persson in a reply.",
       "title_original": "Måste man som teologiskt konservativ kristen vara höger i alla politiska frågor?",
@@ -1941,7 +1959,7 @@
       "tags": []
     },
     {
-      "id": 123,
+      "id": 124,
       "title": "Conference to spur churches to spread God's kingdom in areas with gang violence",
       "summary": "At the same time, six Free Church communities want to give a more multifaceted picture of the suburb",
       "title_original": "Konferens ska sporra kyrkor att sprida Guds rike i områden med gängvåld",
@@ -1956,7 +1974,7 @@
       "tags": []
     },
     {
-      "id": 124,
+      "id": 125,
       "title": "Växjö Diocese may change forest plans following the Nature Conservation Association's point out",
       "summary": "The Church of Sweden: We have no views on the Forestry Agency's decision.",
       "title_original": "Växjö stift får ändra skogsplaner efter Naturskyddsföreningens påpekande",
@@ -1971,7 +1989,7 @@
       "tags": []
     },
     {
-      "id": 125,
+      "id": 126,
       "title": "The Battle of Lewi Pethrus",
       "summary": "The researchers' new book • The family considers reporting • The response from the churches",
       "title_original": "Striden om Lewi Pethrus",
@@ -1986,7 +2004,7 @@
       "tags": []
     },
     {
-      "id": 126,
+      "id": 127,
       "title": "Malina Abrahamsson:\nI don't want priests and pastors to be on Instagram",
       "summary": "\"Being a spiritual leader is a serious thing. It is being separate\"",
       "title_original": "Malina Abrahamsson:\nJag vill inte att präster och pastorer ska finnas på Instagram",
@@ -2001,7 +2019,7 @@
       "tags": []
     },
     {
-      "id": 127,
+      "id": 128,
       "title": "Is it so wrong to love Epstein's favorite book?",
       "summary": "Greta Schüldt is upset that Jeffrey Epstein hijacked \"Lolita\", Sebastian Nowacki closely studies the launch of the Melania Trump documentary and Hanna Fahl has had enough of Melodifestivalen's incomprehensible vote count.",
       "title_original": "Är det så fel att älska Epsteins favoritbok?",
@@ -2016,7 +2034,7 @@
       "tags": []
     },
     {
-      "id": 128,
+      "id": 129,
       "title": "Letter to the editor. Noted by DN's readers on February 5",
       "summary": "LETTER TO THE EDITOR. Dagens Nyheter's readers give their views on the situation in Sweden and the world as well as DN's content on Thursday, February 5.",
       "title_original": "Insändare. Noterat av DN:s läsare den 5 februari",
@@ -2031,7 +2049,7 @@
       "tags": []
     },
     {
-      "id": 129,
+      "id": 130,
       "title": "Tricked into taking a job as an electrical engineer - risks becoming cannon fodder in Russia",
       "summary": "After being promised a well-paid job in Russia, Francis Ndung'u Ndarua was instead forced into military service and sent to the front in Ukraine after only three weeks of training. In December, a video was published in which Francis warns other Africans: - You will end up in the military even if you have never served, and you will be sent to the front. Many friends have died for money, Francis says in the video. Viral video shows abuse Soon after, a video of Francis spread on social media. In uniform and with a land mine strapped to his chest, he is threatened by a Russian-speaking person who says that Francis will be used as a \"can opener\" to advance Russia's positions.  According to CNN, more and more Africans are being lured to Russia with promises of high wages and citizenship. Twelve African soldiers from Ghana, Nigeria and Uganda, among others, tell CNN that they were promised civilian jobs, but once in Russia have been forced to sign military contracts in Russian without an interpreter.  Many have had their passports confiscated and have not received any salary. - I have been here for seven months and have not received a cent, says one soldier anonymously to CNN. A soldier CNN spoke to believes that the African soldiers are given the most dangerous assignments at the front. - When you have stepped into the Russian army, you will either flee or die, says recruit Patrick Kwoba to CNN.  African governments warn Several African governments, including in Uganda, South Africa and Kenya, have warned that their citizens are being tricked into the war.  Ukraine's ambassador to Kenya, Yurii Tokar, also calls on African countries to stop recruitment.  - If they are at the front, they are our enemies, and Ukraine will defend itself. This recruitment channel must be stopped.",
       "title_original": "Luras att ta jobb som elingenjör – riskerar bli kanonmat i Ryssland",
@@ -2053,7 +2071,7 @@
       ]
     },
     {
-      "id": 130,
+      "id": 131,
       "title": "Source: All Russian Starlink networks along the front have been shut down",
       "summary": "Elon Musk's company SpaceX shuts down Starlink terminals used by Russian forces. Something that can reduce the precision and range of the country's drones. - I'm a little surprised that Musk went in and did this, says military expert Jörgen Elfving.",
       "title_original": "Källa: Alla ryska Starlink-nätverk längs fronten har stängts ner",
@@ -2068,7 +2086,7 @@
       "tags": []
     },
     {
-      "id": 131,
+      "id": 132,
       "title": "Norway's former prime minister is being investigated after the Epstein files",
       "summary": "Norway's former Prime Minister Thorbjørn Jagland is being investigated for gross corruption following new revelations in the Epstein files. Among other things, Jagland allegedly asked Epstein for money to finance a house purchase in Oslo in 2014.",
       "title_original": "Norges tidigare statsminister utreds efter Epsteinfilerna",
@@ -2083,7 +2101,7 @@
       "tags": []
     },
     {
-      "id": 132,
+      "id": 133,
       "title": "Jagland is being investigated following revelations in the Epstein files",
       "summary": "Between October 1996 and October 1997, Thorbjørn Jagland was Norway's Prime Minister as party leader of the Labor Party. He has also served as secretary general of the Council of Europe and as chairman of the Norwegian Nobel Committee.  Now Norway's ecocrime authority has decided to investigate him, following suspicions that he was guilty of ecocrime in his contacts with Jeffrey Epstein. - We have decided to start an investigation against Thorbjørn Jagland, says Pål K. Lønseth, head of the Norwegian Ecocrime Authority, to NRK. More specifically, they are investigating whether Jagland received gifts, trips and loans while he was chairman of the Nobel Committee and secretary general of the Council of Europe. Want to waive immunity There is, however, an aggravating circumstance. Jagland has immunity for his former role in the Council of Europe. The ecocrime authority now wants the Norwegian Foreign Ministry to lift that immunity, reports Dagbladet. \"Because Jagland has immunity as the former head of an international organization, Ekokrim has asked the Ministry of Foreign Affairs to take the initiative to lift the immunity,\" the authority writes in a press release. Norway's Foreign Minister Espen Barth Eide agrees with the Ecocrime Authority that Jagland's immunity must be lifted. - It is important that this issue is clarified. Then Jagland's immunity cannot stand in the way of an investigation. I have therefore decided that Norway should present a proposal to the Council of Europe's Committee of Ministers that Jagland's immunity should be lifted, says the foreign minister. Taking the investigation in stride Thorbjørn Jagland's defense lawyer, Anders Brosveet, however, takes the accusations against his client in stride. He tells VG that they will cooperate with the investigation and submit the requested documentation. - And based on what we have found, we are calmly looking at the outcome. It is first and foremost good for Jagland to get an authoritative clarification from Ekokrim, rather than the entire press corps carrying out its own little private investigation, says Brosveet.  Emails in the latest Epstein files show, among other things",
       "title_original": "Jagland utreds efter avslöjanden i Epsteinfilerna",
@@ -2106,7 +2124,7 @@
       ]
     },
     {
-      "id": 133,
+      "id": 134,
       "title": "More and more people are asking AI for dating advice - the psychologist: You should think about that",
       "summary": "According to an American study, one in four singles in the United States, and almost half of Generation Z, use AI to, among other things, analyze messages when dating online. One of those who use AI as a springboard in their dating is Dilara Chakali. - When I went to therapy, I felt: One hour a week was not enough for me. I wanted to reflect more. I wanted to understand myself more, how I function in dating, says Dilara Chakali in Efter fem. \"Not so strange\" Dilara Chakali says that she uses AI to get straight answers, but emphasizes that it is she herself who decides which advice she takes to heart. - I want \"the ugly truth\", she says.  - Then of course I choose how I act on it. I want to believe that I have the self-awareness that I don't act on everything it says, she says. Psychologist Maria Farm believes that it is a natural human behavior to ask for advice. And in this way, it is understandable that more and more people are using AI in these matters. - I think it is a natural consequence. That it is there and that we also use it in psychological matters, I don't think that is so strange in itself, says Maria Farm in Efter fem. The psychologist's advice: See it as a supplement Farm sees no major problems with using AI as support, but urges you to ask yourself the question for what purpose you are asking a question, as it can become destructive in the long run if you constantly have to ask and cannot make decisions yourself. - I have many clients who are a bit anxious, full of anxiety and they sometimes need to practice not actually asking so many questions about it, it could be the relationship, but it could also be their own health.  - With me, they get to practice standing up for their own opinion or maybe not asking for completely certain answers all the time, adds Farm. Maria Farm recommends that AI be used as part of a larger palette when it comes to big decisions in life. - If you are thinking about something as big as divorce, also ask a person. It doesn't have to be a therapist, but some wise person you trust",
       "title_original": "Allt fler ber AI om dejting-råd – psykologen: Det ska du tänka på",
@@ -2127,7 +2145,7 @@
       ]
     },
     {
-      "id": 134,
+      "id": 135,
       "title": "Former Miss Snusk throws the mask: \"Big step\"",
       "summary": "Pandemic fashion gets a renaissance in Melodifestivalen when Felicia, who still hides half her face, constantly matches the mouthguards with her clothes. During her performance she wears a black lace mouthguard, at Thursday's press conference it is leopard print. I can't drink anything, I'm very thirsty, she says, glancing at the water bottle on the table. That the artist now shows the eyes and forehead is a big step and has required a lot of work with self-esteem, says Felicia. The dream is to be able to eat at a restaurant with her team without \"panicking\", as she puts it, but there is still a long way to go. Basically, I haven't shown my face to anyone since 2022. Then it will be so scary to say \"hey, here I am\". So I am very proud that I dare to do this, she says. At the end of the performance with the song \"My system\", she actually throws off the mask - but immediately replaces it with a pair of silver sunglasses. Instead of feeling like I'm getting completely naked, I take one step at a time, and I ended up wearing glasses, she says.",
       "title_original": "Tidigare Fröken Snusk kastar masken: ”Stort steg”",
@@ -2149,7 +2167,7 @@
       ]
     },
     {
-      "id": 135,
+      "id": 136,
       "title": "Magdalena Andersson's message: This is how we want to govern the country",
       "summary": "The S leader believes that today's organized crime still requires tougher punishments, where the party wants to introduce special legislation against gang leaders - inspired by American mafia legislation. At the same time, the party leader emphasizes the importance of breaking new recruitment into gang crime. - You can put any number of gang criminals behind bars if only new generations come. Then it's a matter of spotting young people who are slipping, says Magdalena Andersson in Efter fem.  Open for cooperation - but not with SD The government issue looks to be complicated after the election, according to Andersson. She rules out cooperation with the Sweden Democrats, but is prepared to negotiate with other parties. - My ambition is to form a government led by social democrats. I am prepared to cooperate with all the parties except the Sweden Democrats, says Magdalena Andersson. The S leader has previously expressed that she is open to a collaboration with Ebba Busch (KD). In Efter fem, Magdalena Andersson says that you can cooperate between parties, without sitting in government together. - Take energy policy for example, where it is quite obvious that there is an opportunity to agree quite broadly. And you can do that without being in the same government, says Magdalena Andersson. The working hours issue is not an election issue Today, the Left Party announced that it demands an investigation into shortened working hours in a possible government negotiation. Magdalena Andersson sees the message as \"unfortunate\". - Now that the workers want to try to resolve this in negotiations, it is unfortunate if political parties go and say that they want to take it through legislation instead, says the party leader. When asked if the Social Democrats will make shortened working hours an election issue, the S leader replies: - No, we think it is good that LO has made this election. We support them in their ambition to be able to negotiate this with the employers.",
       "title_original": "Magdalena Anderssons besked: Så vill vi styra landet",
@@ -2170,7 +2188,7 @@
       ]
     },
     {
-      "id": 136,
+      "id": 137,
       "title": "\"At least we look nice\"",
       "summary": "",
       "title_original": "”Vi ser i alla fall snygga ut”",
@@ -2188,7 +2206,7 @@
       ]
     },
     {
-      "id": 137,
+      "id": 138,
       "title": "The demand: Canada should choose the Jas Gripen",
       "summary": "Don Davies, who is acting party leader of the Canadian Social Democrats, is now demanding, together with Canada's Green Party, that the purchase of the F-35 be scrapped. The Jas Gripen is a far better and more cost-effective alternative, it is believed.  The proposal by Saab to sell the Jas Gripen to Canada should be adopted immediately, Opposition Leader Davies said at a press briefing in the Canadian Parliament in Ottawa last night, underlining that the situation is serious. Reduced dependence on the United States The play is done against the background of Canada's decision to expand its air combat forces with 88 new planes. 16 of these, F-35 Lightning from American Lockheed Martin are already booked and ordered. But there is now an intense debate about the remaining 72 combat aircraft; which plan to choose? Concerns about the reliability of the United States as a partner have grown in Canada following Donald Trump's repeated comments about making Canada the 51st state of the United States. The opposition now also points out that Prime Minister Mark Carney himself in his famous speech in Davos recently emphasized that Canada must act more independently and reduce its dependence on the United States and invest more in cooperation with medium-sized countries. \n\n- If Mark Carney completes the purchase of the F-35, it proves that his statements in Davos were just a PR stunt, says Don Davies. Saab hopes for production line Yesterday's marking from two of Canada's opposition parties comes at the same time that Saab announced at the Singapore Air Show that the defense group is considering establishing a production line in Canada that can serve not only Canadian needs but also build Gripen planes for other countries. - If we were to win in Canada, we would not only build for Canada. We would see it as a hub for exports, said Mikael Franzén, head of marketing for Saab's Gripen program at the Singapore Airshow yesterday. He also said that Saab hopes for a production rate of 36 Gripen E/F aircraft per year by utilizing more than just the current production countries Sweden and Brazil. An opinion poll recently",
       "title_original": "Kravet: Kanada bör välja Jas Gripen",
@@ -2209,7 +2227,7 @@
       ]
     },
     {
-      "id": 138,
+      "id": 139,
       "title": "Crisis meeting at the County Administrative Board - has silenced employees",
       "summary": "The suspected environmental scandal at the County Board in Norrbotten became known on Tuesday when TV4 Nyheterna could reveal that a preliminary investigation into misconduct was underway. The criminal suspicion is that the authority should not have reported almost 200 possible environmental crimes to the police. According to information to TV4 Nyheterna, the events are mainly linked to LKAB, SSAB and Boliden Mineral. A prosecutor from the National Anti-Corruption Unit is investigating the suspected misconduct together with the police's anti-corruption unit at Noa, the national operational department. Lotta Finstorp, governor of Norrbotten county, commented on the suspicions yesterday. - These are very serious allegations. I am now waiting to receive a signal from the police and prosecutors to be able to know exactly what this is about. My information is based on what you have reported in the media, she said. Today, the County Administrative Board in Norrbotten called the staff to an extraordinary meeting due to the disclosure. \"Requested employees not to talk to the media\" \"That's right. Your reporting has raised questions among our employees and we informed you that we currently do not know more than what you have conveyed. We hold regular information meetings with all employees with the aim of keeping everyone updated on the operations. We also hold such if necessary between the regular information meetings, which we carried out today,\" writes the authority's head of communications Fredrik Hedlund in an email. Sources from within the County Administrative Board state that during the crisis meeting, management urged the agency employees not to speak out if they are contacted by the media, but instead to refer to the communications department. According to Fredrik Hedlund, the purpose was \"not to urge employees not to talk to the media\" but to inform the employees to contact the communications department \"for support\". - Maybe that's what they meant, but that's not how it was said, says an employee at the County Administrative Board to TV4 Nyheterna. The prosecutor who leads the misconduct investigation does not want to comment on the case.",
       "title_original": "Krismöte på Länsstyrelsen – har satt munkavel på anställda",
@@ -2232,7 +2250,7 @@
       ]
     },
     {
-      "id": 139,
+      "id": 140,
       "title": "Government presents new energy package for Ukraine",
       "summary": "Today, the Government presented a new SEK 1 billion support package for Ukraine’s energy sector, which has been subjected to intensive Russian strikes this winter. The support will help to meet the country’s urgent energy needs and bolster long-term energy supplies.",
       "title_original": "Government presents new energy package for Ukraine",
@@ -2256,7 +2274,7 @@
       ]
     },
     {
-      "id": 140,
+      "id": 141,
       "title": "Tricky virus spreads fear: \"Can destroy the Olympic dream\"",
       "summary": "The Swedish Olympic doctor: It is a key point • Athletes in quarantine",
       "title_original": "Luriga viruset sprider skräck: ”Kan förstöra OS-drömmen”",
@@ -2273,7 +2291,7 @@
       ]
     },
     {
-      "id": 141,
+      "id": 142,
       "title": "Linnea Åberg: \"Feeling humility and delight mixed with horror\"",
       "summary": "The EFK missionary proposed as the new mission director. Markus Sand, who may become an assistant: \"There are fields that are ripe for harvest\"",
       "title_original": "Linnea Åberg: ”Känner ödmjukhet och skräckblandad förtjusning”",
@@ -2288,7 +2306,7 @@
       "tags": []
     },
     {
-      "id": 142,
+      "id": 143,
       "title": "Starmer is undergoing his deepest political crisis yet",
       "summary": "The apology was made at the start of a speech that was supposed to focus on investment in disadvantaged local communities, one of Labour's heart issues. However, it is clear that the Epstein scandal has now reached Starmer's absolute closeness, which means that other politics end up in the background.\n\nAnyone who follows British politics is used to loud headlines, fierce debates in the House of Commons and frequent ministerial changes. Now, however, everything revolves around the question of what the Prime Minister actually knew when Mandelson was appointed to the prestigious ambassador post in Washington.  In the House of Commons yesterday, Starmer admitted he was aware of Mandelson's contacts with Epstein after the 2008 conviction. But during the pre-appointment security clearance, Mandelson claimed he barely knew Epstein - a lie that led to his sacking over a dawn phone call on the US east coast last September.  Demands for publication In the House of Commons, demands are now growing to publish the documents that show how Mandelson was investigated before his appointment. Starmer supports the demand, but the police - who have opened a preliminary investigation against Mandelson - have stopped publication for the time being. Frustrating for the Prime Minister, to use his own words from today's press conference.  Starmer assures that he had absolutely no information about the close relationship between Mandelson and Epstein that he has today. Perhaps the Prime Minister of Great Britain should ask himself how the security clearance for one of the heaviest assignments in the foreign administration is done?\n\nDocuments from the US Department of Justice, consisting of both emails and photos, testify to close contacts between Epstein and the British heavyweight.  That Mandelson appears in the picture in old white underpants in Epstein's apartment in Paris is in this context a minor detail; significantly more serious is that he shared market-sensitive information and gave Epstein insight behind the scenes into London's political top echelons, including during the coalition negotiations in 2010.",
       "title_original": "Starmer genomgår sin hittills djupaste politiska kris",
@@ -2310,7 +2328,7 @@
       ]
     },
     {
-      "id": 143,
+      "id": 144,
       "title": "The board: \"The first time EFK chooses a leader with a mission background.\"",
       "summary": "For the first time, EFK chooses a leader with a mission background • Two deputy mission directors will broaden the leadership.",
       "title_original": "Styrelsen: ”Första gången EFK väljer en ledare med missionsbakgrund.”",
@@ -2325,7 +2343,7 @@
       "tags": []
     },
     {
-      "id": 144,
+      "id": 145,
       "title": "KD has never claimed to be the political branch of the church",
       "summary": "The words of the Bible are important to me in my daily life, but it is difficult to use them as a party program, writes Magnus Jacobsson, KD.",
       "title_original": "KD har aldrig gjort anspråk på att vara kyrkans politiska gren",
@@ -2340,7 +2358,7 @@
       "tags": []
     },
     {
-      "id": 145,
+      "id": 146,
       "title": "The troika model with a manager is perhaps a good compromise for EFK",
       "summary": "Erik Helmerson: But does the appointment mean that the church gets one leader or three?",
       "title_original": "Modellen trojka med chef kanske är en god kompromiss för EFK",
@@ -2355,7 +2373,7 @@
       "tags": []
     },
     {
-      "id": 146,
+      "id": 147,
       "title": "Dagenbild nominated for the prestigious Picture of the Year award",
       "summary": "Photographer Amanda Lindgren tells about the feeling when the picture was taken: \"I was excited.\"",
       "title_original": "Dagenbild nominerad till det prestigefyllda priset Årets bild",
@@ -2370,7 +2388,7 @@
       "tags": []
     },
     {
-      "id": 147,
+      "id": 148,
       "title": "Pål Jonson in Brussels for several high-level meetings",
       "summary": "On 11 and 12 February, Minister for Defence Pål Jonson will take part in the meeting of EU Defence Ministers and the Meeting of NATO Ministers of Defence. In conjunction with the NATO Defence Ministers meeting, a meeting will also take place within the framework of the Ukraine Defense Contact Group. Increased support to Ukraine will be a central theme of all three meetings.",
       "title_original": "Pål Jonson in Brussels for several high-level meetings",
@@ -2392,7 +2410,7 @@
       ]
     },
     {
-      "id": 148,
+      "id": 149,
       "title": "Åkesson skips pure race – after threats",
       "summary": "Sweden Democrats party leader Jimmie Åkesson is in Jokkmokk to visit the annual market held in the town. In connection with the visit, Åkesson had planned to participate in the traditional reindeer race, but the SD leader needed to think again. According to information to TV4 Nyheterna, Åkesson skips the competition at the request of Säpo. \"Heard it was a revolver\" Several politicians on site have been informed of an \"incident\" by the authority. The party leader tells TV4 Nyheterna that he learned that someone dropped a weapon-like object near him. - I heard that it was a revolver or a pistol, says Jimmie Åkesson. The police write on their website that they have information about a weapon-like object, but that it must have been picked up and that one or more people must have left the scene. The police have not yet found any weapon. At first there were reports that politicians had been threatened, but the police deny this. Säpo denies Säpo's press service does not want to go into whether they warned the SD leader about a firearm. - Our dialogue with our guardians is not something we can go into, so I cannot say anything about it. It is part of the protection itself, says Säpo's spokesperson Johan Wikström. The Sweden Democrats' press department cannot confirm whether Åkesson has received threats. - The information I have is that he is not running, and it is after a recommendation from Säpo, says party spokesperson Emma Kareld. It is not the first time Jimmie Åkesson has had to leave Jokkmokk's market. In 2014, his book signing at the market was stopped due to threats, which SVT Norrbotten reported on at the time.",
       "title_original": "Åkesson skippar renrace – efter hot",
@@ -2413,7 +2431,7 @@
       ]
     },
     {
-      "id": 149,
+      "id": 150,
       "title": "It is proposed that she become the new leader of EFK",
       "summary": "The board of the Evangelical Free Church also wants to see two assistant mission directors",
       "title_original": "Hon föreslås bli ny ledare för EFK",
@@ -2428,7 +2446,7 @@
       "tags": []
     },
     {
-      "id": 150,
+      "id": 151,
       "title": "TV4 photographers nominated for Image of the Year: \"An honor\"",
       "summary": "Both Daniel Zdolsek and Petter Åkerman are nominated in the category \"TV abroad\". - It's always fun to be nominated, says Petter Åkerman. Zdolsek is nominated for a feature on the increased violence and harassment against Palestinians by extreme settlers in the West Bank, and Åkerman is nominated for a feature on New York Mayor Zohran Mamdani. Both features are made with reporter Filip Jacobsson. - It is an honor, but it is Filip who should have the credit for the idea for the feature, says Petter Åkerman. Celebrating the aesthetic quality Daniel Zdolsek also highlights reporter Filip Jacobsson. - The fact that we are nominated says something about the fact that we have reporters who care about the aesthetic expression and quality, and that we have been seen so much in recent years. It says something about where the channel stands in terms of quality compared to the competitors - I think we are far ahead of everyone else. It's fun, says Daniel Zdolsek and adds: - TV4 allows you to develop and express yourself aesthetically and visually qualitatively during the work shifts, which I value.",
       "title_original": "TV4-fotografer nominerade till Årets bild: ”En ära”",
@@ -2449,7 +2467,7 @@
       ]
     },
     {
-      "id": 151,
+      "id": 152,
       "title": "Nuclear weapons agreement expires - warns: \"May increase the appetite of others\"",
       "summary": "When the nuclear agreement between the US and Russia now expires, for the first time in over 50 years there are no restrictions on the world's most destructive weapons. According to Jakob Hallgren, director of the Foreign Policy Institute, there is a great risk that a long period of disarmament will now stop – or reverse. - This is the first time since the early 1970s that there is no agreement regulating the number and use of the most powerful nuclear weapons between the two countries that have the most in the entire world, he says. Regulated the most dangerous weapons The agreement that is now expiring has been about limiting strategic nuclear weapons, above all intercontinental missiles that can be fired from the US at Russia - or vice versa. In recent decades, these agreements have led to a sharp reduction in the world's nuclear arsenals. - During these 50 years, they have gone from a maximum of 70,000 nuclear weapons down to 12,000 today. It is a result of successive reductions that are now stopping – or, in the worst case, reversing. According to Hallgren, the risks already exist today. One of the biggest problems is that the US and Russia can no longer agree on new agreements. Today, China is estimated to have around 600 nuclear weapons, but Hallgren points to information which claims that the country may be on its way to 1,000 or 1,500. - China is now the factor that makes it impossible to come to an agreement. The US has said it wants China on board, but the Chinese say no. Increased tensions - also in Europe When there is no agreement that regulates the most devastating nuclear weapons, tensions in the outside world also increase, says Hallgren. The expert emphasizes that even a limited use of nuclear weapons would have extreme consequences. - Even the smallest nuclear weapon would have completely devastating effects, with hundreds of thousands - if not millions - of people injured or killed. There are terrible effects of nuclear weapons. At the same time, there is still the so-called non-proliferation agreement, which came into force at the end of the 1960s and aims",
       "title_original": "Kärnvapenavtal löper ut – varnar: ”Kan öka aptiten hos andra”",
@@ -2473,7 +2491,7 @@
       ]
     },
     {
-      "id": 152,
+      "id": 153,
       "title": "Cassoeula with polenta",
       "summary": "The kitchen's dinner offers a rustic, warming stew, full of flavor. This northern Italian classic, cassoeula, combines juicy pork and cabbage stew with smooth, creamy polenta and lightly fried savoy cabbage leaves. To Dante Zia's recipe",
       "title_original": "Cassoeula med polenta",
@@ -2484,7 +2502,7 @@
       "source": "TV4 Nyheterna",
       "ministry": "General News",
       "type": "News",
-      "age_tag": "today",
+      "age_tag": "1 day old",
       "tags": [
         "Mat",
         "/mat",
@@ -2494,7 +2512,7 @@
       ]
     },
     {
-      "id": 153,
+      "id": 154,
       "title": "Here are the celebrities in the new season",
       "summary": "\"Changed is changed\" is back with a new season containing several new items. For the first time ever, two teams are pitted against each other. The fight is led as usual by Renée Nyberg and in addition to the seasoned antiques expert Li Pamp, viewers also get to meet Pontus Silfverstolpe.\n\n- The battle to find the treasured possessions in the gallery is really brought to a head when there are two teams competing against each other and I can promise the viewers an educational, exciting and very fun season, says Renée Nyberg in a press release. The programs will also be 30 minutes longer and there will also be more items the celebrities have to guess the value of.\n\n- We want to give the viewers even more of what makes Bytt is bytt unique - knowledge, excitement and entertainment. With celebrity duels and longer program time, we create a season that both surprises and engages. This will be Bytt is Bytt like you've never seen it before, says Gustav Carlsson, executive producer. Changed is changed has its season premiere on March 14.  They compete in Swap is Swap Episode 1:\nTareq Taylor and Sofia Ståhl against Meira Omar and Oskar Nordstrand\n\nEpisode 2:\nMarko Lehtosalo and Irma Lehtosalo against Katia Mosally and sister Kristina Mosally\n\nEpisode 3:\nRobert Fux and Ewa Fröling against Emil Henrohn and his friend Julia Malm\n\nEpisode 4:\nJLC against Alice Stenlöf and Klara Elvgren\n\nEpisode 5:\nLisa Borg and father Magnus Anckarman against Håkan Juholt and son Anton Juholt\n\nEpisode 6:\nBjörn Gustafsson and Celie Sparre against Jonas von Essen and his friend Oscar Bergqvist\n\nEpisode 7:\nGry Forssell and brother Leo Forssell against Peter Apelgren and son Hector Apelgren\n\nEpisode 8:\nAnna Cramling and mother Pia Cramling against Erik Ekstrand and brother Ola Ekstrand\n\nEpisode 9:\nDragomir Mrsic and daughter Juliette Mrsic against Daniel Nannskog and friend Johannes Thomhave \n\nEpisode 10:\nJessica Almenäs and partner Patrik Fahlgren against Patrik Arve and friend Gösta Reiland",
       "title_original": "Här är kändisarna i nya säsongen",
@@ -2515,7 +2533,7 @@
       ]
     },
     {
-      "id": 154,
+      "id": 155,
       "title": "First Swedish loss at the Olympics",
       "summary": "Estonia defeats Sweden 7–5 in mixed curling",
       "title_original": "Första svenska förlusten på OS",
@@ -2532,7 +2550,7 @@
       ]
     },
     {
-      "id": 155,
+      "id": 156,
       "title": "Christian Palestinians in new document: Israel guilty of genocide in Gaza",
       "summary": "Harsh tone in new Kairos document - accused of containing anti-Semitism",
       "title_original": "Kristna palestinier i nytt dokument: Israel skyldiga till folkmord i Gaza",
@@ -2547,7 +2565,7 @@
       "tags": []
     },
     {
-      "id": 156,
+      "id": 157,
       "title": "Susanna Birgersson:\nWhat the hit novel depicts is the Sweden of loneliness and meaninglessness",
       "summary": "It is difficult to read Romans' \"Judas\" without thinking of Paul's words to the Ephesians.",
       "title_original": "Susanna Birgersson:\nVad succéromanen skildrar är ensamhetens och meningslöshetens Sverige",
@@ -2562,7 +2580,7 @@
       "tags": []
     },
     {
-      "id": 157,
+      "id": 158,
       "title": "They lead the Equmenia church's party leader hearings in Vårgårda",
       "summary": "The goal is to both ask critical questions and at the same time encourage people to take political responsibility - \"the way we want it in a democracy\".",
       "title_original": "De leder Equmeniakyrkans partiledarutfrågningar i Vårgårda",
@@ -2577,7 +2595,7 @@
       "tags": []
     },
     {
-      "id": 158,
+      "id": 159,
       "title": "Sebastian Stakset starts a new organization against gang crime",
       "summary": "At the same time announces that the planning for a new 'It's enough!'-gala has already begun.",
       "title_original": "Sebastian Stakset startar ny organisation mot gängkriminalitet",
@@ -2592,7 +2610,7 @@
       "tags": []
     },
     {
-      "id": 159,
+      "id": 160,
       "title": "Priest managed to stop arson in the church - \"it's something of a miracle\"",
       "summary": "Surveillance cameras have caught the perpetrator trying to set fire to a Catholic church in southern Stockholm - the attack was stopped thanks to the church's priest",
       "title_original": "Präst lyckades stoppa mordbrand i kyrkan – ”det är något av ett mirakel”",
@@ -2607,7 +2625,7 @@
       "tags": []
     },
     {
-      "id": 160,
+      "id": 161,
       "title": "The reaction to what is happening in Iran is double standard in its purest form",
       "summary": "The Islamist regime murders its own people, exports extremism and uses religion as a weapon. Continuing to treat it as a legitimate actor is a moral failure, writes Dayana Rocky.",
       "title_original": "Reaktionen på det som händer i Iran är dubbelmoral i sin renaste form",
@@ -2622,7 +2640,7 @@
       "tags": []
     },
     {
-      "id": 161,
+      "id": 162,
       "title": "Amanda was scouted by Epstein's Swedish agent",
       "summary": "The fake scout sent pictures of her to sex offender Jeffrey Epstein",
       "title_original": "Amanda scoutades av Epsteins svenska agent",
@@ -2639,7 +2657,7 @@
       ]
     },
     {
-      "id": 162,
+      "id": 163,
       "title": "\"I don't have sex with women who aren't awake\"",
       "summary": "Broke down in court during the first hearing • Denies rape",
       "title_original": "”Jag har inte sex med kvinnor som inte är vakna”",
@@ -2656,7 +2674,7 @@
       ]
     },
     {
-      "id": 163,
+      "id": 164,
       "title": "Tusk: Polish special group to investigate Epstein's Swedish scout",
       "summary": "\"We will do everything to bring the guilty to justice\"",
       "title_original": "Tusk: Polsk specialgrupp ska utreda Epsteins svenske scout",
@@ -2674,7 +2692,7 @@
       ]
     },
     {
-      "id": 164,
+      "id": 165,
       "title": "An electoral cooperation ends when the respective election is completed",
       "summary": "Give the church a new electoral system and a new democratic costume where such abnormalities as electoral collusion are no longer needed, write Elisabeth Sandlund and Helge Rooth, Frimodig kyrka, in a reply.",
       "title_original": "En valteknisk samverkan upphör när respektive val är genomfört",
@@ -2689,7 +2707,7 @@
       "tags": []
     },
     {
-      "id": 165,
+      "id": 166,
       "title": "Great debate in Aktuellt about church criticism of KD",
       "summary": "KD priest Hans Eklind and Bishop Andreas Holmberg were able to discuss migration policy, justice and Christian values ​​in prime time",
       "title_original": "Stor debatt i Aktuellt om kyrklig kritik mot KD",
@@ -2704,7 +2722,7 @@
       "tags": []
     },
     {
-      "id": 166,
+      "id": 167,
       "title": "Anger in the fashion world against Epstein's Swedish \"fake scout\": \"Strong disgust\"",
       "summary": "Recruited young girls for the billionaire pedophile - for years",
       "title_original": "Ilska i modevärlden mot Epsteins svenske ”fejkscout”: ”Stark avsky”",
@@ -2721,7 +2739,7 @@
       ]
     },
     {
-      "id": 167,
+      "id": 168,
       "title": "The Pentecostal pastor: \"Witch hunting does not belong in 2026!\"",
       "summary": "Several Christian leaders in Norway join forces with the royal family",
       "title_original": "Pingstpastorn: ”Häxjakt hör inte hemma 2026!”",
@@ -2736,7 +2754,7 @@
       "tags": []
     },
     {
-      "id": 168,
+      "id": 169,
       "title": "\"Ron Kenoly shaped my childhood\"",
       "summary": "Music creator Samuel Lundell following the news that the American praise leader, who used Koinonia as a band, has died",
       "title_original": "”Ron Kenoly präglade min barndom”",
@@ -2751,7 +2769,7 @@
       "tags": []
     },
     {
-      "id": 169,
+      "id": 170,
       "title": "The orgies of the powerful with Epstein feel taken from the Old Testament",
       "summary": "Erik Helmerson: We must condemn - but can we resist our own little tempters?",
       "title_original": "De mäktigas orgier med Epstein känns hämtade ur Gamla testamentet",
@@ -2766,7 +2784,7 @@
       "tags": []
     },
     {
-      "id": 170,
+      "id": 171,
       "title": "Minutes from the monetary policy meeting on 28 January 2026",
       "summary": "Minutes from the monetary policy meeting on 28 January 2026",
       "title_original": "Protokoll från det penningpolitiska mötet den 28 januari 2026",
@@ -2781,7 +2799,7 @@
       "tags": []
     },
     {
-      "id": 171,
+      "id": 172,
       "title": "Not financial reasons why classic mission backs off",
       "summary": "If we give young people the opportunity for ecumenical exchanges and holistic understanding, the mission has all the conditions to bear fruit, on everyone's home ground, writes the Swedish Mission Council in a reply.",
       "title_original": "Inte ekonomiska skäl till att klassisk mission backar",
@@ -2796,7 +2814,7 @@
       "tags": []
     },
     {
-      "id": 172,
+      "id": 173,
       "title": "Sweden responded to the killer at Risbergska with a message of hope",
       "summary": "Erik Helmerson: Often the language of the church lasts longer than that of politics.",
       "title_original": "Sverige svarade mördaren på Risbergska med ett budskap om hopp",
@@ -2811,7 +2829,7 @@
       "tags": []
     },
     {
-      "id": 173,
+      "id": 174,
       "title": "Children, books and a love of reading - Today's Malina Abrahamsson is a guest",
       "summary": "- Having books in front of you, clearly visible in the home - just such a thing can inspire more reading.",
       "title_original": "Barn, böcker och läslust – Dagens Malina Abrahamsson gästar",
@@ -2826,7 +2844,7 @@
       "tags": []
     },
     {
-      "id": 174,
+      "id": 175,
       "title": "Bethel's senior pastors in tears - admit they lacked understanding of victims",
       "summary": "Bill Johnson: It's terrible to realize that you have contributed to making the situation worse.",
       "title_original": "Bethels ledande pastorer i tårar – medger att de haft bristande förståelse för offer",
@@ -2841,7 +2859,7 @@
       "tags": []
     },
     {
-      "id": 175,
+      "id": 176,
       "title": "This way you get the children to read more",
       "summary": "Make an event of the reading • Be an example yourself • Warning for vegetable books",
       "title_original": "Så får du barnen att läsa mer",
@@ -2856,27 +2874,12 @@
       "tags": []
     },
     {
-      "id": 176,
+      "id": 177,
       "title": "Congratulations on your name day, Erik Ansgar!",
       "summary": "\"I have the luxury of having three name days\"",
       "title_original": "Grattis på namnsdagen, Erik Ansgar!",
       "summary_original": "”Jag har lyxen att ha tre namnsdagar”",
       "link": "https://www.dagen.se/familj/grattis-pa-namnsdagen-erik-ansgar/10163585",
-      "date_display": "2026-02-04",
-      "date_iso": "2026-02-04T04:00:00+00:00",
-      "source": "Dagen",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "2 days old",
-      "tags": []
-    },
-    {
-      "id": 177,
-      "title": "Bold Jesus Faith in Multicultural Anthology",
-      "summary": "Gunnar Hyltén-Cavallius has read \"Church in a multicultural society\"",
-      "title_original": "Frimodig Jesus-tro i antologi om mångkultur",
-      "summary_original": "Gunnar Hyltén-Cavallius har läst ”Kyrka i ett mångkulturellt samhälle”",
-      "link": "https://www.dagen.se/kultur/frimodig-jesus-tro-i-antologi-om-mangkultur/10161900",
       "date_display": "2026-02-04",
       "date_iso": "2026-02-04T04:00:00+00:00",
       "source": "Dagen",
