@@ -499,6 +499,11 @@ def main():
     # - up to 5 today-news items from selected outlets
     # - all official information items from the last 2 weeks window
     daily_news_items = build_daily_news_items(final_items, today_stockholm, stockholm_tz)
+    # Write daily API JSON (all types + today's Stockholm date)
+    daily_news_items = [
+        item for item in final_items
+        if datetime.fromisoformat(item["date_iso"]).astimezone(stockholm_tz).date() == today_stockholm
+    ]
     daily_news_payload = {
         "generated_at": payload["generated_at"],
         "date": today_stockholm.isoformat(),
