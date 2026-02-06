@@ -2,6 +2,7 @@ import os
 import json
 import hashlib
 from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 
 import feedparser
 import dateparser
@@ -33,8 +34,9 @@ MAX_ITEMS_PER_FEED = 30          # raise a bit; we'll filter by window anyway
 WINDOW_DAYS = 14                 # your brief window
 TARGET_LANG = "en"
 
-OUT_DIR = "sweden-intel-dashboard/public"
+OUT_DIR = "public"
 API_PATH = os.path.join(OUT_DIR, "api", "latest.json")
+DAILY_NEWS_PATH = os.path.join(OUT_DIR, "api", "daily_news.json")
 MD_PATH = os.path.join(OUT_DIR, "sweden_intelligence.md")
 HTML_PATH = os.path.join(OUT_DIR, "index.html")
 
@@ -406,6 +408,8 @@ def main():
     ensure_dirs()
 
     now_utc = datetime.now(timezone.utc)
+    stockholm_tz = ZoneInfo("Europe/Stockholm")
+    today_stockholm = now_utc.astimezone(stockholm_tz).date()
     cutoff_utc = now_utc - timedelta(days=WINDOW_DAYS)
 
     # Translation cache
@@ -427,6 +431,12 @@ def main():
     # Dedupe + sort
     all_items = dedupe_items(all_items)
     all_items.sort(key=lambda x: x["date_utc"], reverse=True)
+
+    # Guard against publishing empty artifacts when feeds are temporarily unavailable.
+    if not all_items:
+        raise RuntimeError(
+            "No feed items were fetched. Aborting build to avoid overwriting published artifacts with empty data."
+        )
 
     # Translate + shape final items
     final_items = []
@@ -463,6 +473,20 @@ def main():
     with open(API_PATH, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
+    # Write daily API JSON (all types + today's Stockholm date)
+    daily_news_items = [
+        item for item in final_items
+        if datetime.fromisoformat(item["date_iso"]).astimezone(stockholm_tz).date() == today_stockholm
+    ]
+    daily_news_payload = {
+        "generated_at": payload["generated_at"],
+        "date": today_stockholm.isoformat(),
+        "item_count": len(daily_news_items),
+        "items": daily_news_items,
+    }
+    with open(DAILY_NEWS_PATH, "w", encoding="utf-8") as f:
+        json.dump(daily_news_payload, f, ensure_ascii=False, indent=2)
+
     # Write Markdown
     md = build_markdown(final_items, payload["generated_at"], WINDOW_DAYS)
     with open(MD_PATH, "w", encoding="utf-8") as f:
@@ -475,7 +499,7 @@ def main():
         f.write(html)
 
     print("\n-----------------------------------------------------------")
-    print(f"SUCCESS! Wrote:\n- {HTML_PATH}\n- {MD_PATH}\n- {API_PATH}")
+    print(f"SUCCESS! Wrote:\n- {HTML_PATH}\n- {MD_PATH}\n- {API_PATH}\n- {DAILY_NEWS_PATH}")
     print("-----------------------------------------------------------")
 
 if __name__ == "__main__":
