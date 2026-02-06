@@ -2,7 +2,8 @@ name: Build Sweden Intelligence
 
 on:
   schedule:
-    - cron: "30 5 * * *"
+    # GitHub cron uses UTC; 07:30 UTC = 08:30 Europe/Stockholm (CET).
+    - cron: "30 7 * * *"
   workflow_dispatch: {}
 
 jobs:
@@ -33,6 +34,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/index.html public/sweden_intelligence.md public/api/latest.json .cache/translation_cache.json || true
+          git add public/index.html public/sweden_intelligence.md public/api/latest.json public/api/daily_news.json .cache/translation_cache.json || true
           git commit -m "Update Sweden intelligence feed" || echo "No changes"
           git push
