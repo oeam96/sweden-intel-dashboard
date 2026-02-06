@@ -467,11 +467,10 @@ def main():
     with open(API_PATH, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    # Write daily news API JSON (news type + today's Stockholm date)
+    # Write daily API JSON (all types + today's Stockholm date)
     daily_news_items = [
         item for item in final_items
-        if item["type"] == "News"
-        and datetime.fromisoformat(item["date_iso"]).astimezone(stockholm_tz).date() == today_stockholm
+        if datetime.fromisoformat(item["date_iso"]).astimezone(stockholm_tz).date() == today_stockholm
     ]
     daily_news_payload = {
         "generated_at": payload["generated_at"],
