@@ -1,6 +1,226 @@
 # Sweden Intelligence Report
-Generated: 2026-02-06T10:14:17.343728+01:00
+Generated: 2026-02-06T10:34:22.423156+01:00
 Window: last 14 days
+
+## Pamelaro AB: This is how the numbers looked last year
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/angelholm/pamelaro-ab-sa-sag-siffrorna-ut-senaste-aret/)
+
+---
+
+## Svenska Latex AB: The accounting is complete - this is what the numbers look like
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/angelholm/svenska-latex-ab-redovisningen-klar-sa-ser-siffrorna-ut/)
+
+---
+
+## Steep fall for Stenbergbygg AB - revenues down 21.4 percent
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/helsingborg/brant-fall-for-stenbergbygg-ab-intakterna-ner-214-procent/)
+
+---
+
+## Proposal: Asylum seekers should not be allowed to choose accommodation
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+Asylum seekers will no longer be allowed to live in their own accommodation when they come to Sweden. - This legislation has had a lot of negative consequences, says Migration Minister Johan Forssell (M).
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/forslag-asylsokande-ska-inte-fa-valja-boende/)
+
+---
+
+## Here are the numbers that show how Kentas Kran & Transport AB did last year
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/bjuv/har-ar-siffrorna-som-visar-hur-det-gick-for-kentas-kran-och-transport-ab-senaste-aret/)
+
+---
+
+## OS i Milano Cortina
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+The Winter Olympics are here! How many golds does Sweden take? Which athletes will surprise? And what will be the game's talking points? Follow our live reporting here!
+
+[Read Full Article](https://www.sydsvenskan.se/sport/os-i-milano-cortina/)
+
+---
+
+## Here are the numbers that show how Bloms Åkeri Eket AB did last year
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/orkelljunga/har-ar-siffrorna-som-visar-hur-det-gick-for-bloms-akeri-eket-ab-senaste-aret/)
+
+---
+
+## At Troppo, the rice is so perfectly wok that the prawns become redundant
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+The pub at Brunnshög in Lund has high ambitions - but some dishes are weak.
+
+[Read Full Article](https://www.sydsvenskan.se/kultur/pa-troppo-ar-riset-sa-perfekt-wokat-att-rakorna-blir-overflodiga/)
+
+---
+
+## Villa in Hittarp, Helsingborg gets new owners - price tag: SEK 9,900,000
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/helsingborg/villa-i-hittarp-helsingborg-far-nya-agare-prislappen-9-900-000-kronor/)
+
+---
+
+## Delays and canceled flights at Kastrup
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+The snow cover creates problems at the airport on Friday morning.
+
+[Read Full Article](https://www.sydsvenskan.senull)
+
+---
+
+## Ludvigsson Skälderviken AB is almost always positive
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/angelholm/ludvigsson-skalderviken-ab-gar-natt-och-jamnt-plus/)
+
+---
+
+## Twisted Sister cancels world tour
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+Twisted Sister cancels their upcoming world tour, Sweden Rock states in a press release. Singer Dee Snider, 70 years old, has suffered from serious health problems and decided to leave the band, according to Göteborgs-Posten.
+
+[Read Full Article](https://www.sydsvenskan.se/noje/twisted-sister-staller-in-varldsturnen/)
+
+---
+
+## Sellbergs El AB: Here is the latest annual report
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/hoganas/sellbergs-el-ab-har-ar-senaste-arsredovisningen/)
+
+---
+
+## The annual report ready: That's how it went for Magnus Andersson Transport AB
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/klippan/arsredovisningen-klar-sa-gick-det-for-magnus-andersson-transport-ab/)
+
+---
+
+## SAS plane near take off from the wrong runway - got cross-stitched
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+An SAS flight was forced to swerve and ended up in the grass after the aircraft tried to take off from a so-called taxiway. - I think the staff were also quite shocked, says a passenger to Expressen.
+
+[Read Full Article](https://www.sydsvenskan.se/varlden/sas-flyg-forsokte-flyga-fran-fel-bana/)
+
+---
+
+## Your Eyes landed at just the right time
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+Dina Ögon is back with their fourth album "Människobarn". No news is immediately presented here – for better or for worse.
+
+[Read Full Article](https://www.svd.se/a/Ar3gXz/dina-ogon-landade-i-precis-ratt-tid)
+
+---
+
+## Proposal: Asylum seekers should not be allowed to choose accommodation
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+Asylum seekers will no longer be allowed to live in their own accommodation when they come to Sweden. - This legislation has had a lot of negative consequences, says Migration Minister Johan Forssell (M).
+
+[Read Full Article](https://www.svd.se/a/d4m6vz/forslag-asylsokande-ska-inte-fa-valja-boende)
+
+---
+
+## Swedish diplomat on Epstein: "Absolutely disgusting"
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+Top diplomat Lisa Svensson borrowed Epstein's apartment and had recurring email contact with the sex offender for several years. "Direct the focus on the perpetrators", she writes in a comment to SvD.
+
+[Read Full Article](https://www.svd.se/a/vrOabp/diplomaten-lisa-svensson-om-kopplingarna-till-epstein-tar-avstand)
+
+---
+
+## S-toppen's film campaign receives harsh criticism
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.sydsvenskan.senull)
+
+---
+
+## Climate group Aurora sues the Swedish state again: "Violates our human rights"
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+Sweden does not take sufficient responsibility for reducing its climate emissions. That's what the young people in the climate group Aurora think, who are now filing a renewed lawsuit against the Swedish state. - The science is clear that the climate policy being pursued will threaten the lives and health of young people in the future, says Aurora's spokesperson Ida Edling.
+
+[Read Full Article](https://www.dn.se/sverige/klimatgruppen-aurora-stammer-svenska-staten-pa-nytt-kranker-vara-manskliga-rattigheter/)
+
+---
+
+## Crown flattened in coup - Louvre releases picture
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+When the robbers fled after the spectacular jewel heist at the Louvre last fall, they lost one of the most valuable jewels – the crown belonging to Empress Eugénie. Now the museum has released images showing the flattened crown.
+
+[Read Full Article](https://www.hd.se/noje/krona-tillplattad-i-kuppen-louvren-slapper-bild/)
+
+---
+
+## Doctor beaten bloody by jealous man
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+A 36-year-old man is charged with assault after he assaulted a doctor at a health center in Malmö where his wife works. The man knocked the doctor down and pressed his fingers into his eyes.
+
+[Read Full Article](https://www.sydsvenskan.se/malmo/lakare-slagen-blodig-av-svartsjuk-man/)
+
+---
 
 ## The Helsingborg company Frillestad Växt AB is among the largest in the country
 **Outlet:** Helsingborgs Dagblad (HD)
@@ -49,16 +269,6 @@ _No summary text available from RSS._
 _No summary text available from RSS._
 
 [Read Full Article](https://www.hd.se/helsingborg/har-ar-siffrorna-som-visar-hur-det-gick-for-kind-group-ab-senaste-aret/)
-
----
-
-## Twisted Sister cancels world tour
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-Twisted Sister cancels their upcoming world tour. This is stated by Sweden Rock in a press release.
-
-[Read Full Article](https://www.sydsvenskan.se/noje/twisted-sister-staller-in-varldsturnen/)
 
 ---
 
@@ -162,16 +372,6 @@ _No summary text available from RSS._
 
 ---
 
-## OS i Milano Cortina
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-The Winter Olympics are here! How many golds does Sweden take? Which athletes will surprise? And what will be the game's talking points? Follow our live reporting here!
-
-[Read Full Article](https://www.sydsvenskan.se/sport/os-i-milano-cortina/)
-
----
-
 ## FF Transport AB: The accounting completed - this is what the numbers look like
 **Outlet:** Helsingborgs Dagblad (HD)
 **Category:** General News | **Date:** 2026-02-06 (today)
@@ -232,16 +432,6 @@ _No summary text available from RSS._
 
 ---
 
-## Catrelo AB: Here is the latest annual report
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/perstorp/catrelo-ab-har-ar-senaste-arsredovisningen/)
-
----
-
 ## Ørn Software AB: Here are the most important figures from 2024
 **Outlet:** Helsingborgs Dagblad (HD)
 **Category:** General News | **Date:** 2026-02-06 (today)
@@ -249,16 +439,6 @@ _No summary text available from RSS._
 _No summary text available from RSS._
 
 [Read Full Article](https://www.hd.se/angelholm/orn-software-ab-har-ar-de-viktigaste-siffrorna-fran-2024/)
-
----
-
-## Annual report ready: That's how it went for Baby V AB
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/angelholm/arsredovisningen-klar-sa-gick-det-for-baby-v-ab/)
 
 ---
 
@@ -272,76 +452,6 @@ _No summary text available from RSS._
 
 ---
 
-## A lot of food for the money, but it also rubs off on Zoom
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-The pub appreciates the generous portions at decent prices at Zoom. But the quality of the food leaves something to be desired.
-
-[Read Full Article](https://www.hd.se/mat--dryck/mycket-mat-for-pengarna-men-det-skaver-ocksa-pa-zoom/)
-
----
-
-## JFBH Utbildnings AB: Here is the latest annual report
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/klippan/jfbh-utbildnings-ab-har-ar-senaste-arsredovisningen/)
-
----
-
-## Itcs Sweden AB: Here is the latest annual report
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/perstorp/itcs-sweden-ab-har-ar-senaste-arsredovisningen/)
-
----
-
-## Linnestofta Maskin AB: Here is the latest annual report
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/klippan/linnestofta-maskin-ab-har-ar-senaste-arsredovisningen/)
-
----
-
-## Gedsholm Aktiebolag: This is how the numbers looked last year
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/bjuv/gedsholm-aktiebolag-sa-sag-siffrorna-ut-senaste-aret/)
-
----
-
-## Helsingborg Royal Clinic AB: Here are the most important figures for the past year
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/helsingborg/helsingborg-royal-clinic-ab-har-ar-de-viktigaste-siffrorna-senaste-aret/)
-
----
-
-## Here are the numbers that show how things went for Johannes Pettersson AB last year
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/astorp/har-ar-siffrorna-som-visar-hur-det-gick-for-johannes-pettersson-ab-senaste-aret/)
-
----
-
 ## The Golden Hope is banned from playing football - too dangerous
 **Outlet:** Dagens Nyheter (DN)
 **Category:** General News | **Date:** 2026-02-06 (today)
@@ -349,16 +459,6 @@ _No summary text available from RSS._
 Then we arrive at the day when the Olympics are formally inaugurated. Here comes a report from the Winter Olympics - about a gold medalist who is no longer allowed to play football, a cross-country skier who has become obsessed with knitting and a nervous standard-bearer.
 
 [Read Full Article](https://www.dn.se/sport/guldhoppet-forbjuds-spela-fotboll-for-farligt/)
-
----
-
-## Annual report ready: That's how it went for Bexell's Maskinkonsult AB
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/helsingborg/arsredovisningen-klar-sa-gick-det-for-bexells-maskinkonsult-ab/)
 
 ---
 
@@ -399,16 +499,6 @@ _No summary text available from RSS._
 _No summary text available from RSS._
 
 [Read Full Article](https://www.sydsvenskan.se/47-aring-ny-agare-till-villa-for-3-825-000-kronor-i-malmo/)
-
----
-
-## The snow creates delays at Kastrup
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-The majority of all flights are delayed on Friday morning.
-
-[Read Full Article](https://www.sydsvenskan.senull)
 
 ---
 
@@ -644,16 +734,6 @@ From club nights and concerts to stand-up and vernissages. Here we make a select
 
 ---
 
-## SAS plane near take off from the wrong runway - got cross-stitched
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-An SAS flight was forced to swerve and ended up in the grass after the aircraft tried to take off from a so-called taxiway. - I think the staff were also quite shocked, says a passenger to Expressen.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/sas-flyg-forsokte-flyga-fran-fel-bana/)
-
----
-
 ## Now two new consulates are opening in Greenland: "Victory"
 **Outlet:** Sydsvenskan
 **Category:** General News | **Date:** 2026-02-06 (today)
@@ -668,7 +748,7 @@ To support Greenland and strengthen the presence in the Arctic, Canada and Franc
 **Outlet:** Dagens Nyheter (DN)
 **Category:** General News | **Date:** 2026-02-06 (today)
 
-When the solo project Alfa Mist visits Nalen, he lets his four fellow musicians take center stage. The group is at its best when they approach a kind of evocative and coordinated post-rock with swinging hip-hop beats at the bottom, writes DN's Kajsa Haidl.
+When the solo project Alfa Mist visits Nalen, he lets his four fellow musicians take center stage. The jazz group is at its best when they approach a kind of evocative and coordinated post-rock with swinging hip-hop beats at the bottom, writes DN's Kajsa Haidl.
 
 [Read Full Article](https://www.dn.se/kultur/alfa-mists-storsta-styrka-ar-att-han-later-andra-skina/)
 
@@ -764,16 +844,6 @@ Inflation is falling, and unexpectedly. - The probability that the Riksbank will
 
 ---
 
-## Doctor beaten bloody by jealous man
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-A 36-year-old man is charged with assault after he assaulted a doctor at a health center in Malmö where his wife works. The man knocked the doctor down and pressed his fingers into his eyes.
-
-[Read Full Article](https://www.sydsvenskan.se/malmo/lakare-slagen-blodig-av-svartsjuk-man/)
-
----
-
 ## Tried to smuggle 4.5 billion year old meteorite
 **Outlet:** Sydsvenskan
 **Category:** General News | **Date:** 2026-02-06 (today)
@@ -781,16 +851,6 @@ A 36-year-old man is charged with assault after he assaulted a doctor at a healt
 Russian customs say they have stopped an attempt to smuggle a large meteorite fragment into Britain.
 
 [Read Full Article](https://www.sydsvenskan.se/varlden/forsokte-smuggla-45-miljarder-ar-gammal-meteorit/)
-
----
-
-## At Troppo, the rice is so perfectly wok that the prawns become redundant
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-The pub at Brunnshög in Lund has high ambitions - but some dishes are weak.
-
-[Read Full Article](https://www.sydsvenskan.se/kultur/pa-troppo-ar-riset-sa-perfekt-wokat-att-rakorna-blir-overflodiga/)
 
 ---
 
@@ -966,17 +1026,7 @@ New Russian attacks have been carried out against Ukraine just hours after peace
 
 ---
 
-## The rape mess at the salon - that's how the star masseuse fell
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-At one of Malmö's finest addresses, the masseuse promises miracles. His "slime massage" is celebrated - until the facade cracks. A report of rape makes the phones ring with the police. Several women testify to the same thing: the massage was in fact a sexual assault. And soon suspicions are directed at another masseuse at the salon.
-
-[Read Full Article](https://www.sydsvenskan.se/malmo/valdtaktsharvan-pa-salongen-sa-foll-stjarnmassoren/)
-
----
-
-## Now the verdict falls against Dumpen: "Arouses a lot of emotions"
+## Today, the verdict comes down against Dumpen: "Arouses a lot of emotion"
 **Outlet:** TV4 Nyheterna
 **Category:** General News | **Date:** 2026-02-06 (today)
 
@@ -993,16 +1043,6 @@ It was a couple of years ago that Dumpen confronted a man who they believed had 
 When DN's reporter participates in a sales call for the Nextlevel online course, she is told that she can earn 100,000 kroner a month, if only she follows the method that is taught. Completely unrealistic, say experts.
 
 [Read Full Article](https://www.dn.se/ekonomi/kursforsaljarens-loften-till-dns-reporter-100-000-i-manaden/)
-
----
-
-## New attempt: The US and Iran meet in Oman
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-When Donald Trump extended a hand to Iran last year, it ended in war. Now the world hopes that things will go better, when the arch-enemies USA and Iran meet again today at a high level in Oman.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/nytt-forsok-usa-och-iran-traffas-i-oman/)
 
 ---
 
@@ -1186,17 +1226,6 @@ Marcus and Gabriel, 25, have gained traction on social media and thousands of vi
 
 ---
 
-## Malina Abrahamsson:
-I don't want priests and pastors to be on Instagram
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-"Being a spiritual leader is a serious thing. It is being separate"
-
-[Read Full Article](https://www.dagen.se/kultur/malina-abrahamsson-jag-vill-inte-att-praester-och-pastorer-ska-finnas-pa-instagram/10175341)
-
----
-
 ## As a theologically conservative Christian, do you have to be right-wing in all political matters?
 **Outlet:** Dagen
 **Category:** General News | **Date:** 2026-02-06 (today)
@@ -1237,33 +1266,14 @@ The researchers' new book • The family considers reporting • The response fr
 
 ---
 
-## Two killed in US boat attack
-**Outlet:** Svenska Dagbladet (SvD)
+## Malina Abrahamsson:
+I don't want priests and pastors to be on Instagram
+**Outlet:** Dagen
 **Category:** General News | **Date:** 2026-02-06 (today)
 
-Two people have been killed in a US attack on a ship suspected of drug smuggling, the military command center US Southern Command on X said.
+"Being a spiritual leader is a serious thing. It is being separate"
 
-[Read Full Article](https://www.svd.se/a/zOraMr/tva-dodade-i-amerikansk-batattack)
-
----
-
-## Green light for amnesty law in Venezuela
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-The parliament in Venezuela has initially given the green light to a proposal for a new amnesty law in the country.
-
-[Read Full Article](https://www.svd.se/a/V6106r/initialt-godkannande-for-amnestilag)
-
----
-
-## After the peace talks – new Russian attacks
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-02-06 (today)
-
-New Russian attacks have been carried out against Ukraine just hours after peace talks between the countries ended, Zaporizhzhia Governor Ivan Fedorov said on Telegram. Two people in their 50s are said to have been killed in the attacks on the region.
-
-[Read Full Article](https://www.svd.se/a/2p3QdR/efter-fredssamtalen-nya-attacker)
+[Read Full Article](https://www.dagen.se/kultur/malina-abrahamsson-jag-vill-inte-att-praester-och-pastorer-ska-finnas-pa-instagram/10175341)
 
 ---
 
@@ -1314,16 +1324,6 @@ Elon Musk's company SpaceX shuts down Starlink terminals used by Russian forces.
 Norway's former Prime Minister Thorbjørn Jagland is being investigated for gross corruption following new revelations in the Epstein files. Among other things, Jagland allegedly asked Epstein for money to finance a house purchase in Oslo in 2014.
 
 [Read Full Article](https://www.dn.se/varlden/norges-tidigare-statsminister-utreds-efter-epsteinfilerna/)
-
----
-
-## Michael Winiarski: Will Epstein's Russian Spy Trail Ever Be Investigated?
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-02-05 (today)
-
-Was Jeffrey Epstein a Russian spy? The question may sound too fantastic to be taken seriously. But Poland's government has launched a police investigation into possible links between the convicted pedophile and the Russian security service. In the documents that have been released, Russia is mentioned thousands of times.
-
-[Read Full Article](https://www.dn.se/varlden/michael-winiarski-kommer-epsteins-ryska-spionspar-nagonsin-att-utredas/)
 
 ---
 
@@ -1545,7 +1545,7 @@ The kitchen's dinner offers a rustic, warming stew, full of flavor. This norther
 
 ## Here are the celebrities in the new season
 **Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-02-05 (today)
+**Category:** General News | **Date:** 2026-02-05 (1 day old)
 
 "Changed is changed" is back with a new season containing several new items. For the first time ever, two teams are pitted against each other. The fight is led as usual by Renée Nyberg and in addition to the seasoned antiques expert Li Pamp, viewers also get to meet Pontus Silfverstolpe.
 
@@ -1587,7 +1587,7 @@ Jessica Almenäs and partner Patrik Fahlgren against Patrik Arve and friend Gös
 
 ## First Swedish loss at the Olympics
 **Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-02-05 (today)
+**Category:** General News | **Date:** 2026-02-05 (1 day old)
 
 Estonia defeats Sweden 7–5 in mixed curling
 
