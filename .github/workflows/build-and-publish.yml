@@ -2,7 +2,8 @@ name: Build Sweden Intelligence
 
 on:
   schedule:
-    - cron: "30 5 * * *"
+    # GitHub cron uses UTC; 07:30 UTC = 08:30 Europe/Stockholm (CET).
+    - cron: "30 7 * * *"
   workflow_dispatch: {}
 
 jobs:

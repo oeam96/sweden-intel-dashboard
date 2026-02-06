@@ -34,6 +34,15 @@ MAX_ITEMS_PER_FEED = 30          # raise a bit; we'll filter by window anyway
 WINDOW_DAYS = 14                 # your brief window
 TARGET_LANG = "en"
 
+DAILY_NEWS_SOURCES = {
+    "Dagens Nyheter (DN)",
+    "Svenska Dagbladet (SvD)",
+    "TV4 Nyheterna",
+    "ABC Nyheter",
+    "Dagen",
+}
+DAILY_NEWS_MAX_ITEMS = 5
+
 OUT_DIR = "public"
 API_PATH = os.path.join(OUT_DIR, "api", "latest.json")
 DAILY_NEWS_PATH = os.path.join(OUT_DIR, "api", "daily_news.json")
@@ -404,6 +413,19 @@ h3 { margin: 0 0 12px 0; font-size: 1.2rem; line-height: 1.4; color: #212529; }
 """
     return html
 
+def build_daily_news_items(final_items, today_stockholm, stockholm_tz):
+    today_news = [
+        item for item in final_items
+        if item["type"] == "News"
+        and item["source"] in DAILY_NEWS_SOURCES
+        and datetime.fromisoformat(item["date_iso"]).astimezone(stockholm_tz).date() == today_stockholm
+    ]
+    official_last_two_weeks = [
+        item for item in final_items
+        if item["type"] == "Official Information"
+    ]
+    return today_news[:DAILY_NEWS_MAX_ITEMS] + official_last_two_weeks
+
 def main():
     ensure_dirs()
 
@@ -473,6 +495,10 @@ def main():
     with open(API_PATH, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
+    # Write daily API JSON:
+    # - up to 5 today-news items from selected outlets
+    # - all official information items from the last 2 weeks window
+    daily_news_items = build_daily_news_items(final_items, today_stockholm, stockholm_tz)
     # Write daily API JSON (all types + today's Stockholm date)
     daily_news_items = [
         item for item in final_items
