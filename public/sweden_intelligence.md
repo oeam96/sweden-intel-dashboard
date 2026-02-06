@@ -1,14 +1,24 @@
 # Sweden Intelligence Report
-Generated: 2026-02-06T10:47:27.896545+01:00
+Generated: 2026-02-06T10:51:20.909311+01:00
 Window: last 14 days
 
-## SAS plane near take off from the wrong runway - got cross-stitched
+## Twisted Sister cancels world tour
 **Outlet:** Sydsvenskan
 **Category:** General News | **Date:** 2026-02-06 (today)
 
-An SAS flight was forced to swerve and ended up in the grass after the aircraft tried to take off from a so-called taxiway. - I think the staff were also quite shocked, says a passenger to Expressen.
+Twisted Sister cancels their world tour, Sweden Rock reports. Singer Dee Snider, 70 years old, has suffered from serious health problems and decided to leave the band, according to Göteborgs-Posten.
 
-[Read Full Article](https://www.sydsvenskan.se/varlden/sas-flyg-forsokte-flyga-fran-fel-bana/)
+[Read Full Article](https://www.sydsvenskan.se/noje/twisted-sister-staller-in-varldsturnen/)
+
+---
+
+## The Olympic track exceeded expectations: "There are great opportunities"
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-02-06 (today)
+
+LIVIGNO. The freeskiers went to the Winter Olympics expecting an easy slopestyle course. But reality surpassed the drawings - and now the riders have had to plan again. - I've had to change a hell of a lot in my ride. The jumps are still there, but I've had to change all the rails, says Olympic debutant Martin Nordqvist.
+
+[Read Full Article](https://www.dn.se/sport/os-banan-overtraffade-forvantningarna-finns-stora-mojligheter/)
 
 ---
 
@@ -22,13 +32,13 @@ During the Thursday evening, in the middle of the snowstorm, a middle-aged man w
 
 ---
 
-## Twisted Sister cancels world tour
+## SAS plane near take off from the wrong runway - got cross-stitched
 **Outlet:** Sydsvenskan
 **Category:** General News | **Date:** 2026-02-06 (today)
 
-Twisted Sister cancels their world tour, Sweden Rock reports. Singer Dee Snider, 70 years old, has suffered from serious health problems and decided to leave the band, according to Göteborgs-Posten.
+An SAS flight was forced to swerve and ended up in the grass after the aircraft tried to take off from a so-called taxiway. - I think the staff were also quite shocked, says a passenger to Expressen.
 
-[Read Full Article](https://www.sydsvenskan.se/noje/twisted-sister-staller-in-varldsturnen/)
+[Read Full Article](https://www.sydsvenskan.se/varlden/sas-flyg-forsokte-flyga-fran-fel-bana/)
 
 ---
 
@@ -1324,16 +1334,6 @@ After being promised a well-paid job in Russia, Francis Ndung'u Ndarua was inste
 Elon Musk's company SpaceX shuts down Starlink terminals used by Russian forces. Something that can reduce the precision and range of the country's drones. - I'm a little surprised that Musk went in and did this, says military expert Jörgen Elfving.
 
 [Read Full Article](https://www.dn.se/varlden/kalla-alla-ryska-starlink-natverk-langs-fronten-har-stangts-ner/)
-
----
-
-## Norway's former prime minister is being investigated after the Epstein files
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-02-05 (today)
-
-Norway's former Prime Minister Thorbjørn Jagland is being investigated for gross corruption following new revelations in the Epstein files. Among other things, Jagland allegedly asked Epstein for money to finance a house purchase in Oslo in 2014.
-
-[Read Full Article](https://www.dn.se/varlden/norges-tidigare-statsminister-utreds-efter-epsteinfilerna/)
 
 ---
 
