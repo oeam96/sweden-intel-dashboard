@@ -1,17 +1,34 @@
 {
-  "generated_at": "2026-02-09T09:10:05.296817+01:00",
-  "date": "2026-02-09",
-  "item_count": 11,
+  "generated_at": "2026-02-11T09:10:19.258431+01:00",
+  "date": "2026-02-11",
+  "item_count": 12,
   "items": [
     {
+      "id": 0,
+      "title": "Saved his family - swam 4 hours",
+      "summary": "A sunny day at the beach quickly turned into a nightmare for the Australian Appelbee family. After the boats were pulled out into deeper and deeper water, they thought hope was lost. Now the 13-year-old is being praised for his heroic effort.",
+      "title_original": "Räddade sin familj – simmade 4 timmar",
+      "summary_original": "En solig dag på stranden blev snabbt en mardröm för australiska familjen Appelbee. Efter att  båtarna drogs ut på allt djupare vatten trodde de att hoppet var ute. Nu hyllas 13-åringen för sin hjälteinsats.",
+      "link": "https://www.svd.se/a/2p8G6r/13-arige-austin-appelbee-hyllas-i-australien-efter-att-ha-simmat-fyra-timmar-for-att-radda-sin-familj",
+      "date_display": "2026-02-11",
+      "date_iso": "2026-02-11T08:05:26+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Världen"
+      ]
+    },
+    {
       "id": 1,
-      "title": "\"Unions accept redundancies too easily\"",
-      "summary": "The strong krona pressured listed companies in the fourth quarter, but the krona is weak in a ten-year perspective. \"It is a bit easy for the unions to accept that the companies reduce the number of employees,\" says analyst Peter Malmqvist.",
-      "title_original": "”Facken accepterar uppsägningar för lätt”",
-      "summary_original": "Den starka kronan pressade börsbolagen i fjärde kvartalet, men kronan är svag i ett tioårsperspektiv. ”Det är lite lättvindigt av facken att acceptera att bolagen drar ner antalet anställda”, säger analytikern Peter Malmqvist.",
-      "link": "https://www.svd.se/a/GxQ4zl/analytiker-facken-accepterar-neddragningar-for-lattvindigt",
-      "date_display": "2026-02-09",
-      "date_iso": "2026-02-09T08:00:47+00:00",
+      "title": "Källenius: \"The Germans must work more\"",
+      "summary": "The Germans must work more - and make the country strong again. The call comes from Mercedes-Benz Swedish CEO Ola Källenius. Otherwise, the right-wing populists who thrive in times of crisis will win.",
+      "title_original": "Källenius: ”Tyskarna måste arbeta mer”",
+      "summary_original": "Tyskarna måste jobba mer – och göra landet starkt igen. Uppmaningen kommer från Mercedes-Benz svenska koncernchef Ola Källenius. Annars vinner högerpopulisterna som frodas i kristider.",
+      "link": "https://www.svd.se/a/BxjllG/kallenius-tyskarna-maste-arbeta-mer",
+      "date_display": "2026-02-11",
+      "date_iso": "2026-02-11T08:04:50+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -21,37 +38,63 @@
       ]
     },
     {
-      "id": 3,
-      "title": "Hair-raising testimony from a cut throat",
-      "summary": "Kamel Daoud's novel \"The Scar\" about the civil war in Algeria is praised and debated. Athena Farrokhzad has read a story that bears witness to the future.",
-      "title_original": "Hårresande vittnesmål ur en avskuren strupe",
-      "summary_original": "Kamel Daouds roman ”Ärret” om inbördeskriget i Algeriet är prisad och omdebatterad. Athena Farrokhzad har läst en berättelse som vittnar för framtiden.",
-      "link": "https://www.dn.se/kultur/harresande-vittnesmal-ur-en-avskuren-strupe/",
-      "date_display": "2026-02-09",
-      "date_iso": "2026-02-09T07:56:15+00:00",
-      "source": "Dagens Nyheter (DN)",
+      "id": 7,
+      "title": "Rama, 10, is one of the few who can leave Gaza for treatment",
+      "summary": "Rama rides up and down the elevator at the Specialty hospital in Amman, Jordan. She's only been here for two weeks but is already finding herself in the huge hospital. - Here I can come and get dialysis without all the noise of bombs, airplanes and helicopters, she says in a firm voice. She is one of the few children evacuated from Gaza for care. Right now, several different organizations believe that between 18-20,000 patients need to leave the Gaza Strip to receive better care. Last Monday, the Rafah border between Gaza and Egypt was opened and many hoped to be able to go to a better hospital outside Gaza.  But the process is both slow and complicated, which has meant that only around 100 patients plus their relatives were able to leave in just over a week. The patients in Amman have gone via the Kerem Shalom crossing, through Israel to Jordan. - The process is extremely slow, difficult and cumbersome. The king of Jordan has said that we will help 2,000 children but so far we have only managed to get 650 children out. I'm afraid that many will die because the wait is so long, says Fawzi Al-Hammouri doctor Specialty hospital. War injuries and a long wait The patients who have come to Amman are a mixture of children with war injuries, cancer or who need internal medicine.  Inside the physiotherapy, we meet the sisters Sarah, 15 and Saraa, 17. They were both badly injured when the house fell on them after a bomb attack in northern Gaza. Saraa was injured in the knees and operated on in Gaza and can now walk relatively well. But Sarah, who injured her neck and spine, could not get help on the spot. - I couldn't move my arms or legs. But it took 6 months before I could be evacuated from Gaza. Here in Amman they operated on me and through physiotherapy I have regained some of my strength, she says. Both sisters study remotely and want to become doctors and physiotherapists. - After what we have been through, we want to use the experience gained to help others, says Saraa. 10-year-old Rama will probably stay in Amman for a long time. Both her mother and uncles have children",
+      "title_original": "Rama, 10, är en av få som kan lämna Gaza för vård",
+      "summary_original": "Rama åker upp och ned i hissen på sjukhuset Specialty i Amman i Jordanien. Hon har bara varit här i två veckor men hittar redan på det enorma sjukhuset. – Hit kan jag komma och få dialys utan allt oväsen av bomber, flygplan och helikoptrar, säger hon med bestämd röst. Hon är ett av få barn som evakuerats från Gaza för vård. Just nu menar flera olika organisationer att mellan 18-20 000 patienter behöver lämna Gazaremsan för att få bättre vård. Förra måndagen öppnades Rafah-gränsen mellan Gaza och Egypten och många hoppades kunna få åka till ett bättre sjukhus utanför Gaza.  Men processen är både långsam och krånglig, vilket har gjort att endast runt 100 patienter plus deras anhöriga kunnat lämna på drygt en vecka. De patienter som finns i Amman har åkt via Kerem Shalom-övergången, genom Israel till Jordanien. – Processen är oerhört långsam, svår och omständlig. Kungen i Jordanien har sagt att vi ska hjälpa 2 000 barn men hittills har vi bara lyckats få ut 650 barn. Jag är rädd att många dör för att väntan är så lång, säger Fawzi Al-Hammouri läkare Specialty sjukhuset. Krigsskador och lång väntan De patienter som kommit till Amman är en blandning av barn med krigsskador, cancer eller som behöver invärtesmedicin.  Inne på sjukgymnastiken möter vi systrarna Sarah, 15 och Saraa, 17. De skadades båda svårt när huset föll över dem efter en bombattack i norra Gaza. Saraa skadades i knäna och opererades i Gaza och kan nu gå förhållandevis bra. Men Sarah som skadade nacken och ryggraden kunde inte få hjälp på plats. – Jag kunde varken röra armar eller ben. Men det tog 6 månader innan jag kunde evakueras från Gaza. Här i Amman opererade de mig och genom fysioterapi har jag fått tillbaka en del av mina krafter, säger hon. Båda systrarna studerar på distans och vill bli läkare och fysioterapeut. – Efter vad vi varit med om vill vi använda får erfarenhet till att hjälpa andra, säger Saraa. 10-åriga Rama kommer troligen stanna länge i Amman. Såväl hennes mamma som morbröder har försökt donera sin njure men ingen har matchat. – Hennes pappa hade samma blodtyp, så det hade kanske gått men han dog för 1,5 år sedan, säger Ramas mamma.  Så nu återstår att vänta på en lämplig donator. Rama säger bestämt att hon inte vill få dialys länge till. Den gör henne snurrig och illamående. – Jag hoppas att någon kan donera en njure så att jag blir frisk. Det är allt jag vill, säger hon.",
+      "link": "https://www.tv4.se/artikel/49h4CABu6z1bn5yMkfFYYw/rama-10-aer-en-av-fa-som-kan-laemna-gaza-foer-vard",
+      "date_display": "2026-02-11",
+      "date_iso": "2026-02-11T07:52:49+00:00",
+      "source": "TV4 Nyheterna",
       "ministry": "General News",
       "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Gaza",
+        "/gaza",
+        "/kriget-i-gaza",
+        "/utrikes"
+      ]
+    },
+    {
+      "id": 146,
+      "title": "The Riksbank exchanges EU payments",
+      "summary": "Sweden's membership in the EU means monthly payments to the EU's budget. These are made in Swedish kronor by the Swedish government and are normally exchanged for euros on the foreign exchange market by a receiving central bank within the EU.",
+      "title_original": "Riksbanken växlar EU-betalning",
+      "summary_original": "Sveriges medlemskap i EU innebär månatliga betalningar till EU:s budget. Dessa görs i svenska kronor av den svenska staten och växlas normalt till euro på valutamarknaden av en mottagande centralbank inom EU.",
+      "link": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/riksbanken-vaxlar-eu-betalning/",
+      "date_display": "2026-02-10",
+      "date_iso": "2026-02-10T13:30:10+00:00",
+      "source": "Riksbanken",
+      "ministry": "Central Bank",
+      "type": "Official Information",
       "age_tag": "today",
       "tags": []
     },
     {
-      "id": 6,
-      "title": "Ester Berg: It's tacky to shop, but I can't help it",
-      "summary": "Inside the mall, one forgets the world outside - whether it's day or night, between days or midsummer. The poet Ester Berg writes about the dirty allure of shopping.",
-      "title_original": "Ester Berg: Det är tacky att shoppa, men jag kan inte låta bli",
-      "summary_original": "Inuti gallerian glömmer man världen utanför – om det är dag eller natt, mellandagar eller midsommar. Poeten Ester Berg skriver om shoppingens smutsiga lockelse.",
-      "link": "https://www.dn.se/kultur/ester-berg-det-ar-tacky-att-shoppa-men-jag-kan-inte-lata-bli/",
+      "id": 166,
+      "title": "Joint statement: Second High-Level Dialogue between Sweden and Colombia",
+      "summary": "Joint statement by Swedish Minister for Foreign Affairs Maria Malmer Stenergard and Colombian Minister of Foreign Affairs Rosa Yolanda Villavicencio on 9 February 2026.",
+      "title_original": "Joint statement: Second High-Level Dialogue between Sweden and Colombia",
+      "summary_original": "Joint statement by Swedish Minister for Foreign Affairs Maria Malmer Stenergard and Colombian Minister of Foreign Affairs Rosa Yolanda Villavicencio on 9 February 2026.",
+      "link": "https://www.government.se/statements/2026/02/joint-statement-second-high-level-dialogue-between-sweden-and-colombia/",
       "date_display": "2026-02-09",
-      "date_iso": "2026-02-09T07:43:46+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
+      "date_iso": "2026-02-09T15:53:50+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "International",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "Statement",
+        "Maria Malmer Stenergard"
+      ]
     },
     {
-      "id": 169,
+      "id": 179,
       "title": "Göran Hjelm new deputy governor of the Riksbank",
       "summary": "The Riksbank General Council decided today to appoint Göran Hjelm as a new member of the Riksbank's Executive Board. Göran Hjelm succeeds Anna Breman, who left the Riksbank at the end of last year.",
       "title_original": "Göran Hjelm ny vice riksbankschef",
@@ -62,11 +105,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": []
     },
     {
-      "id": 179,
+      "id": 181,
       "title": "Government presents new energy package for Ukraine",
       "summary": "Today, the Government presented a new SEK 1 billion support package for Ukraine’s energy sector, which has been subjected to intensive Russian strikes this winter. The support will help to meet the country’s urgent energy needs and bolster long-term energy supplies.",
       "title_original": "Government presents new energy package for Ukraine",
@@ -77,7 +120,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "International",
@@ -90,7 +133,7 @@
       ]
     },
     {
-      "id": 180,
+      "id": 182,
       "title": "Pål Jonson in Brussels for several high-level meetings",
       "summary": "On 11 and 12 February, Minister for Defence Pål Jonson will take part in the meeting of EU Defence Ministers and the Meeting of NATO Ministers of Defence. In conjunction with the NATO Defence Ministers meeting, a meeting will also take place within the framework of the Ukraine Defense Contact Group. Increased support to Ukraine will be a central theme of all three meetings.",
       "title_original": "Pål Jonson in Brussels for several high-level meetings",
@@ -101,7 +144,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "EU",
@@ -112,7 +155,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 184,
       "title": "Minutes from the monetary policy meeting on 28 January 2026",
       "summary": "Minutes from the monetary policy meeting on 28 January 2026",
       "title_original": "Protokoll från det penningpolitiska mötet den 28 januari 2026",
@@ -123,11 +166,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": []
     },
     {
-      "id": 184,
+      "id": 185,
       "title": "Focus on violence against children as Minister for Social Services attends UN Session in New York",
       "summary": "The 64th Session of the Commission for Social Development opens today, 2 February. Minister for Social Services Camilla Waltersson Grönvall is representing Sweden in New York.",
       "title_original": "Focus on violence against children as Minister for Social Services attends UN Session in New York",
@@ -138,7 +181,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Health and Social Affairs",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "International",
@@ -150,7 +193,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 187,
       "title": "The policy rate remains unchanged at 1.75 percent",
       "summary": "The Executive Board has decided to leave the key interest rate unchanged at 1.75 percent and the interest rate is expected to remain at this level for some time to come, in line with the Riksbank's forecast in December. The current level of the key interest rate is deemed to contribute to strengthening the economy and stabilizing inflation around the target in the long term.",
       "title_original": "Styrräntan oförändrad på 1,75 procent",
@@ -161,11 +204,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": []
     },
     {
-      "id": 187,
+      "id": 188,
       "title": "Minister for Foreign Affairs receives German counterpart",
       "summary": "On 26 January, Minister for Foreign Affairs Maria Malmer Stenergard received Germany’s Federal Minister for Foreign Affairs, Dr Johann Wadephul, in Stockholm.",
       "title_original": "Minister for Foreign Affairs receives German counterpart",
@@ -176,7 +219,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "Webcast",
         "EU",
@@ -187,27 +230,6 @@
         "Sweden's support to Ukraine",
         "NATO",
         "Maria Malmer Stenergard"
-      ]
-    },
-    {
-      "id": 188,
-      "title": "New national market surveillance strategy",
-      "summary": "The Government has adopted a new national market surveillance strategy for 2026-2029. The strategy aims to make it easier for businesses to act correctly and to counter problems associated with eCommerce involving products from countries outside the EU. It also aims to increase the use of new technologies and AI and enhance expertise in these areas.",
-      "title_original": "New national market surveillance strategy",
-      "summary_original": "The Government has adopted a new national market surveillance strategy for 2026-2029. The strategy aims to make it easier for businesses to act correctly and to counter problems associated with eCommerce involving products from countries outside the EU. It also aims to increase the use of new technologies and AI and enhance expertise in these areas.",
-      "link": "https://www.government.se/press-releases/2026/01/new-national-market-surveillance-strategy/",
-      "date_display": "2026-01-26",
-      "date_iso": "2026-01-26T16:00:42+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "Trade and investment promotion",
-        "Benjamin Dousa"
       ]
     }
   ]
