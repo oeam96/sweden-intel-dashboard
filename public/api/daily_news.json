@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-02-15T09:00:42.376535+01:00",
-  "date": "2026-02-15",
+  "generated_at": "2026-02-17T09:09:39.111066+01:00",
+  "date": "2026-02-17",
   "item_count": 14,
   "items": [
     {
-      "id": 0,
-      "title": "Honored by the President after being suspended from the Olympics",
-      "summary": "The tenth Olympic day in Milan Cortina is here, and as usual an intense day of competition awaits. Here is a report from the Olympics - about when President Zelenskyy and Heraskevytj met, about how the figure skating star will recover from the disappointment and about how much fun the teenager is having on the Olympic ice.",
-      "title_original": "Hedrades av presidenten efter att ha stoppats från OS",
-      "summary_original": "Den tionde OS-dagen i Milano Cortina är här, och som vanligt väntar en intensiv tävlingsdag. Här är en rapport från OS – om när president Zelenskyj och Heraskevytj träffades, om hur konståkningsstjärnan ska resa sig efter besvikelsen och om hur kul tonåringen har på OS-isen.",
-      "link": "https://www.dn.se/sport/hedrades-av-presidenten-efter-att-ha-stoppats-fran-os/",
-      "date_display": "2026-02-15",
-      "date_iso": "2026-02-15T07:55:25+00:00",
+      "id": 3,
+      "title": "Oscar Zia: \"It's nice that it's not just about me\"",
+      "summary": "Oscar Zia has been in the limelight throughout his adult life. With the role of Romeo in the new Max Martin musical \"& Julia\", he has discovered the advantages of being part of a larger ensemble - and the joy of playing a badass.",
+      "title_original": "Oscar Zia: ”Det är skönt att det inte bara handlar om mig”",
+      "summary_original": "Oscar Zia har befunnit sig i rampljuset under hela sitt vuxna liv. Med rollen som Romeo i den nya Max Martin-musikalen ”& Julia” har han upptäckt fördelarna med att ingå i en större ensemble – och glädjen i att spela en skitstövel.",
+      "link": "https://www.dn.se/kultur/oscar-zia-det-ar-skont-att-det-inte-bara-handlar-om-mig/",
+      "date_display": "2026-02-17",
+      "date_iso": "2026-02-17T08:00:00+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -19,39 +19,62 @@
       "tags": []
     },
     {
-      "id": 1,
-      "title": "The curling pro has won Olympic bronze – without playing a single match",
-      "summary": "CORTINA. She is the doctor who won an Olympic medal - without playing a single match. The curling team's reserve dreams of jumping into Cortina. - But the plan is that I won't play anything in this Olympics either, says Johanna Heldin.",
-      "title_original": "Curlingproffset har tagit OS-brons – utan att spela en enda match",
-      "summary_original": "CORTINA. Hon är läkaren som tagit OS-medalj – utan att spela en enda match. Curlinglagets reserv drömmer om att få hoppa in i Cortina. – Men planen är att jag inte ska spela något i detta OS heller, säger Johanna Heldin.",
-      "link": "https://www.dn.se/sport/curlingproffset-har-tagit-os-brons-utan-att-spela-en-enda-match/",
-      "date_display": "2026-02-15",
-      "date_iso": "2026-02-15T07:55:06+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 4,
-      "title": "Patent expires - price of Ozempic can be pushed",
-      "summary": "After a turbulent year, new challenges await the pharmaceutical giant Novo Nordisk. Competitors are ready to jump on the bandwagon when the patent on the company's sales success expires in several markets.",
-      "title_original": "Patent löper ut – pris på Ozempic kan pressas",
-      "summary_original": "Efter ett turbulent år väntar nya utmaningar för läkemedelsjätten Novo Nordisk. Konkurrenterna står redo att hoppa på tåget när patentet på bolagets försäljningssuccé löper ut på flera marknader.",
-      "link": "https://www.svd.se/a/bOGWyd/patent-loper-ut-pris-pa-ozempic-kan-pressas",
-      "date_display": "2026-02-15",
-      "date_iso": "2026-02-15T07:34:26+00:00",
+      "id": 7,
+      "title": "Läreid's interview the most talked about in Norway during the Olympics",
+      "summary": "Norway already has twelve golds and of course tops the medal league. But the headlines in our neighboring country have also been about Swedish cases and the \"infidelity interview\". We take the time again at the Olympics with the help of Norwegian sports columnist Daniel Røed-Johansen and SvD's Anders Lindblad.",
+      "title_original": "Lägreids intervju det mest omtalade i Norge under OS",
+      "summary_original": "Norge har redan tolv guld och toppar förstås medaljligan. Men rubrikerna i vårt grannland har även handlat om svenska fall och ”otrohetsintervjun”. Vi tar åter tempen på OS med hjälp av norska sportkrönikören Daniel Røed-Johansen och SvD:s Anders Lindblad.",
+      "link": "https://www.svd.se/a/JOxwnJ/sturla-holm-laegreids-otrohetsintervju-var-absurd-enligt-norsk-sportexpert",
+      "date_display": "2026-02-17",
+      "date_iso": "2026-02-17T07:58:01+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Näringsliv"
+        "Sport"
       ]
     },
     {
-      "id": 142,
+      "id": 8,
+      "title": "\"The taste of the new upper class an invisible means of power\"",
+      "summary": "Taste is one of our social codes. And the more difficult the codes, the more you can keep others away. Sofia Ulver, who researches consumption and status, sees how different group markers can signal power.",
+      "title_original": "”Nya överklassens smak ett osynligt maktmedel”",
+      "summary_original": "Smak är en av våra sociala koder. Och ju svårare koder desto mer kan man hålla andra borta. Sofia Ulver som forskar om konsumtion och status ser hur olika gruppmarkörer kan signalera makt.",
+      "link": "https://www.svd.se/a/rP70bm/forskare-sofia-ulver-nya-overklassens-smak-ett-osynligt-maktmedel",
+      "date_display": "2026-02-17",
+      "date_iso": "2026-02-17T07:55:55+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Idagsidan"
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Maria Malmer Stenergard to present 2026 Statement of Foreign Policy",
+      "summary": "On Wednesday 18 February, Minister for Foreign Affairs Maria Malmer Stenergard will present the Government’s Statement of Foreign Policy in the Riksdag.",
+      "title_original": "Maria Malmer Stenergard to present 2026 Statement of Foreign Policy",
+      "summary_original": "On Wednesday 18 February, Minister for Foreign Affairs Maria Malmer Stenergard will present the Government’s Statement of Foreign Policy in the Riksdag.",
+      "link": "https://www.government.se/press-releases/2026/02/maria-malmer-stenergard-to-present-2026-statement-of-foreign-policy/",
+      "date_display": "2026-02-17",
+      "date_iso": "2026-02-17T05:00:22+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "today",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "Maria Malmer Stenergard"
+      ]
+    },
+    {
+      "id": 172,
       "title": "Joint statement by The UK, Sweden, France, Germany, and The Netherlands",
       "summary": "Joint statement by The UK, Sweden, France, Germany, and The Netherlands on 14 February 2026.",
       "title_original": "Joint statement by The UK, Sweden, France, Germany, and The Netherlands",
@@ -62,7 +85,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -71,7 +94,7 @@
       ]
     },
     {
-      "id": 166,
+      "id": 180,
       "title": "Statement by Prime Minister Ulf Kristersson",
       "summary": "Statement by Prime Minister Ulf Kristersson, prior to the Munich Security Conference, February 13 2026.",
       "title_original": "Statement by Prime Minister Ulf Kristersson",
@@ -82,7 +105,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "EU",
         "International",
@@ -98,7 +121,7 @@
       ]
     },
     {
-      "id": 168,
+      "id": 181,
       "title": "Sweden and Ukraine agree to cooperate on cybersecurity",
       "summary": "Cyber attacks are one of the tactics used by Russia in its war against Ukraine. Sweden and Ukraine have now reached an agreement aimed at strengthening Ukraine’s resilience to cyber attacks, which also enhances Sweden’s capability to cope with sophisticated cyber threats.",
       "title_original": "Sweden and Ukraine agree to cooperate on cybersecurity",
@@ -109,7 +132,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "International",
@@ -122,7 +145,7 @@
       ]
     },
     {
-      "id": 180,
+      "id": 183,
       "title": "Increased support for social and medical reforms in Ukraine",
       "summary": "Sweden’s support to Ukraine makes a difference. The Swedish International Development Cooperation Agency (Sida) has approved increased funding for the National Board of Health and Welfare’s programme for expanded support to Ukraine for health and medical care, care of older people and children.",
       "title_original": "Increased support for social and medical reforms in Ukraine",
@@ -133,7 +156,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Health and Social Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "Webcast",
@@ -151,7 +174,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 184,
       "title": "The Riksbank exchanges EU payments",
       "summary": "Sweden's membership in the EU means monthly payments to the EU's budget. These are made in Swedish kronor by the Swedish government and are normally exchanged for euros on the foreign exchange market by a receiving central bank within the EU.",
       "title_original": "Riksbanken växlar EU-betalning",
@@ -162,11 +185,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": []
     },
     {
-      "id": 183,
+      "id": 185,
       "title": "Joint statement: Second High-Level Dialogue between Sweden and Colombia",
       "summary": "Joint statement by Swedish Minister for Foreign Affairs Maria Malmer Stenergard and Colombian Minister of Foreign Affairs Rosa Yolanda Villavicencio on 9 February 2026.",
       "title_original": "Joint statement: Second High-Level Dialogue between Sweden and Colombia",
@@ -177,7 +200,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -187,7 +210,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 186,
       "title": "Göran Hjelm new deputy governor of the Riksbank",
       "summary": "The Riksbank General Council decided today to appoint Göran Hjelm as a new member of the Riksbank's Executive Board. Göran Hjelm succeeds Anna Breman, who left the Riksbank at the end of last year.",
       "title_original": "Göran Hjelm ny vice riksbankschef",
@@ -198,11 +221,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": []
     },
     {
-      "id": 185,
+      "id": 187,
       "title": "Government presents new energy package for Ukraine",
       "summary": "Today, the Government presented a new SEK 1 billion support package for Ukraine’s energy sector, which has been subjected to intensive Russian strikes this winter. The support will help to meet the country’s urgent energy needs and bolster long-term energy supplies.",
       "title_original": "Government presents new energy package for Ukraine",
@@ -213,7 +236,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "International",
@@ -226,7 +249,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 188,
       "title": "Pål Jonson in Brussels for several high-level meetings",
       "summary": "On 11 and 12 February, Minister for Defence Pål Jonson will take part in the meeting of EU Defence Ministers and the Meeting of NATO Ministers of Defence. In conjunction with the NATO Defence Ministers meeting, a meeting will also take place within the framework of the Ukraine Defense Contact Group. Increased support to Ukraine will be a central theme of all three meetings.",
       "title_original": "Pål Jonson in Brussels for several high-level meetings",
@@ -237,7 +260,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "EU",
@@ -249,7 +272,7 @@
       ]
     },
     {
-      "id": 188,
+      "id": 190,
       "title": "Minutes from the monetary policy meeting on 28 January 2026",
       "summary": "Minutes from the monetary policy meeting on 28 January 2026",
       "title_original": "Protokoll från det penningpolitiska mötet den 28 januari 2026",
@@ -260,31 +283,8 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "10 days old",
-      "tags": []
-    },
-    {
-      "id": 189,
-      "title": "Focus on violence against children as Minister for Social Services attends UN Session in New York",
-      "summary": "The 64th Session of the Commission for Social Development opens today, 2 February. Minister for Social Services Camilla Waltersson Grönvall is representing Sweden in New York.",
-      "title_original": "Focus on violence against children as Minister for Social Services attends UN Session in New York",
-      "summary_original": "The 64th Session of the Commission for Social Development opens today, 2 February. Minister for Social Services Camilla Waltersson Grönvall is representing Sweden in New York.",
-      "link": "https://www.government.se/press-releases/2026/02/focus-on-violence-against-children-as-minister-for-social-services-attends-un-session-in-new-york/",
-      "date_display": "2026-02-02",
-      "date_iso": "2026-02-02T12:35:32+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Health and Social Affairs",
-      "type": "Official Information",
       "age_tag": "12 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry of Health and Social Affairs",
-        "International development cooperation",
-        "Children’s rights",
-        "Camilla Waltersson Grönvall",
-        "Sweden in the UN"
-      ]
+      "tags": []
     }
   ]
 }
