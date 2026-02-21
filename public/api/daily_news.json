@@ -1,51 +1,17 @@
 {
-  "generated_at": "2026-02-19T09:10:33.023161+01:00",
-  "date": "2026-02-19",
-  "item_count": 21,
+  "generated_at": "2026-02-21T08:55:41.796789+01:00",
+  "date": "2026-02-21",
+  "item_count": 19,
   "items": [
     {
-      "id": 4,
-      "title": "The alarm: Tropical virus is spreading in northern Europe",
-      "summary": "\"Pretty shocking\" - that's how researchers describe their own new calculations that show that the chikungunya virus can spread further north in Europe than previously thought.",
-      "title_original": "Larmet: Tropiskt virus sprids i norra Europa",
-      "summary_original": "”Ganska chockerande” – så beskriver forskare sina egna nya beräkningar som visar att  chikungunyaviruset kan spridas längre norrut i Europa än man tidigare har trott.",
-      "link": "https://www.svd.se/a/xr82nn/chikungunyaviruset-kan-na-norra-europa",
-      "date_display": "2026-02-19",
-      "date_iso": "2026-02-19T07:57:58+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Världen"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Eight prisons will receive minors",
-      "summary": "Now the government and SD are taking the next step towards youth prisons. As early as July, Rosersberg, Kumla and Sagsjön will be able to accept children from the age of 13.",
-      "title_original": "Åtta fängelser ska ta emot minderåriga",
-      "summary_original": "Nu tar regeringen och SD nästa steg mot ungdomsfängelser. Redan i juli kommer Rosersberg, Kumla och Sagsjön kunna ta emot barn från 13 år.",
-      "link": "https://www.svd.se/a/d4nWjX/atta-fangelser-ska-ta-emot-minderariga",
-      "date_display": "2026-02-19",
-      "date_iso": "2026-02-19T07:57:01+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Sverige"
-      ]
-    },
-    {
-      "id": 7,
-      "title": "Letter to the editor. Is the idea of ​​effect fee that we should stop pork pancake?",
-      "summary": "LETTER TO THE EDITOR. It would be highly reasonable to remove the power charge for all households that consume little electricity. Because the idea of ​​the new penalty could not have been that we should avoid cooking hot food at dinner time, could it? wonders Marie Morin.",
-      "title_original": "Insändare. Är tanken med effektavgift att vi ska sluta med fläskpannkaka?",
-      "summary_original": "INSÄNDARE. Det vore högst rimligt att ta bort effektavgiften för alla hushåll som förbrukar lite el. För tanken med den nya straffavgiften kan väl inte ha varit att vi ska undvika laga varm mat vid middagstid? undrar Marie Morin.",
-      "link": "https://www.dn.se/insandare/ar-tanken-med-effektavgift-att-vi-ska-sluta-med-flaskpannkaka/",
-      "date_display": "2026-02-19",
-      "date_iso": "2026-02-19T07:53:16+00:00",
+      "id": 0,
+      "title": "\"Took six months to get over the final loss against Edin\"",
+      "summary": "CORTINA. It took Bruce Mouat six months to get over the loss in the Olympic final in Beijing against Lag Niklas Edin. Now he's in the final again, aiming to become the first Scottish man to win Olympic curling gold in over 100 years.",
+      "title_original": "”Tog ett halvår att komma över finalförlusten mot Edin”",
+      "summary_original": "CORTINA. Det tog Bruce Mouat ett halvår att komma över förlusten i OS-finalen i Peking mot Lag Niklas Edin. Nu är han i final igen och siktar på att bli den förste skotske herren som vinner OS-guld i curling på över 100 år.",
+      "link": "https://www.dn.se/sport/tog-ett-halvar-att-komma-over-finalforlusten-mot-edin/",
+      "date_display": "2026-02-21",
+      "date_iso": "2026-02-21T07:46:30+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -53,7 +19,65 @@
       "tags": []
     },
     {
-      "id": 41,
+      "id": 1,
+      "title": "That's why so many ski cross riders have moustaches",
+      "summary": "LIVIGNO. There is one thing that distinguishes the ski crossers from other male skiers: Extremely many have mustaches. - It's a cold sport we're playing and it's clear that it warms up a bit, says Erik Mobärg jokingly.",
+      "title_original": "Därför har så många som åker skicross mustasch",
+      "summary_original": "LIVIGNO. Det finns en sak som särskiljer skicrossåkarna från andra manliga skidåkare: Extremt många har mustasch. – Det är ju en kall sport vi håller på med och det är klart att den värmer lite, säger Erik Mobärg skämtsamt.",
+      "link": "https://www.dn.se/sport/darfor-har-sa-manga-som-aker-skicross-mustasch/",
+      "date_display": "2026-02-21",
+      "date_iso": "2026-02-21T07:46:26+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 5,
+      "title": "Rider cake with pecan tosca",
+      "summary": "The kitchen's weekend tips offer a dreamy coffee with a perfect chocolate cake and with a golden layer of pecan tosca on top. It is easy to prepare in advance and tastes extra good when served with lightly whipped cream. For Camilla Hamid's recipe",
+      "title_original": "Ryttarkaka med pekannötstosca",
+      "summary_original": "Kökets helgtips bjuder på en drömgod fika med en perfekt chokladig kladdkaka och med ett gyllene lager pekannötstosca ovanpå. Den är enkel att förbereda i förväg och blir extra god när den serveras med lättvispad grädde. Till Camilla Hamids recept",
+      "link": "https://www.tv4.se/artikel/6XHmhHdQSEvKwsw0aygmZD/ryttarkaka-med-pekannoetstosca",
+      "date_display": "2026-02-21",
+      "date_iso": "2026-02-21T07:32:19+00:00",
+      "source": "TV4 Nyheterna",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Mat",
+        "/mat",
+        "/kokets-helgtips",
+        "/koket",
+        "/camilla-hamid"
+      ]
+    },
+    {
+      "id": 163,
+      "title": "Egypt visit characterised by impactful meetings and deepened cooperation",
+      "summary": "For several intensive February days in Cairo, Minister for Health Care Elisabet Lann met with organisers and actors that care for severely injured patients from Gaza on a daily basis. The trip provided a deeper understanding of the extensive work being done and how Swedish initiatives are contributing.",
+      "title_original": "Egypt visit characterised by impactful meetings and deepened cooperation",
+      "summary_original": "For several intensive February days in Cairo, Minister for Health Care Elisabet Lann met with organisers and actors that care for severely injured patients from Gaza on a daily basis. The trip provided a deeper understanding of the extensive work being done and how Swedish initiatives are contributing.",
+      "link": "https://www.government.se/articles/2026/02/egypt-visit-characterised-by-impactful-meetings-and-deepened-cooperation/",
+      "date_display": "2026-02-19",
+      "date_iso": "2026-02-19T13:12:04+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry of Health and Social Affairs",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "International",
+        "Ministry of Health and Social Affairs",
+        "International development cooperation",
+        "Medical care",
+        "Article",
+        "Elisabet Lann"
+      ]
+    },
+    {
+      "id": 167,
       "title": "Government intends to propose Swedish loan guarantee to World Bank to enable SEK 2.5 billion in new budget support to Ukraine",
       "summary": "The Government intends to enable a loan of an additional SEK 2.5 billion to Ukraine via the World Bank by guaranteeing repayment of the loan. This means that Sweden will enable additional budget support to Ukraine in early 2026.",
       "title_original": "Government intends to propose Swedish loan guarantee to World Bank to enable SEK 2.5 billion in new budget support to Ukraine",
@@ -64,7 +88,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "Press release",
         "International",
@@ -76,7 +100,7 @@
       ]
     },
     {
-      "id": 137,
+      "id": 174,
       "title": "Joint Ministerial Statement on Protection of Civilians and humanitarian operations in Sudan",
       "summary": "",
       "title_original": "Joint Ministerial Statement on Protection of Civilians and humanitarian operations in Sudan",
@@ -87,7 +111,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -99,7 +123,7 @@
       ]
     },
     {
-      "id": 150,
+      "id": 177,
       "title": "Ebba Busch to take part in high-level AI meeting in India",
       "summary": "On 18–20 February, Deputy Prime Minister Ebba Busch will be in New Delhi to take part in the AI Impact Summit. The Summit gathers leaders from more than 30 countries and aims to promote international cooperation in the area of AI.",
       "title_original": "Ebba Busch to take part in high-level AI meeting in India",
@@ -110,7 +134,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "Press release",
         "International",
@@ -121,7 +145,7 @@
       ]
     },
     {
-      "id": 151,
+      "id": 178,
       "title": "Support to Ukraine, security policy cooperation and gender equality in focus for this year’s Statement of Foreign Policy",
       "summary": "Today, 18 February, Minister for Foreign Affairs Maria Malmer Stenergard presented the Government’s 2026 Statement of Foreign Policy in the Riksdag. The Government’s foremost foreign policy priorities are support to Ukraine and increased pressure on Russia, stronger cooperation in security and trade, and gender equality and women’s empowerment.",
       "title_original": "Support to Ukraine, security policy cooperation and gender equality in focus for this year’s Statement of Foreign Policy",
@@ -132,7 +156,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "Press release",
         "EU",
@@ -148,7 +172,7 @@
       ]
     },
     {
-      "id": 152,
+      "id": 179,
       "title": "Statement of Foreign Policy 2026",
       "summary": "On 18 February, Minister for Foreign Affairs Maria Malmer Stenergard presented the 2026 Statement of Foreign Policy in the Riksdag.\n\nCheck against delivery.",
       "title_original": "Statement of Foreign Policy 2026",
@@ -159,7 +183,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "Speech",
         "EU",
@@ -175,7 +199,7 @@
       ]
     },
     {
-      "id": 165,
+      "id": 185,
       "title": "Joint statement by Prime Minister Ulf Kristersson and Prime Minister Donald Tusk of the Republic of Poland",
       "summary": "Joint statement by Prime Minister Ulf Kristersson and Prime Minister Donald Tusk of the Republic of Poland, on 17 February 2026.",
       "title_original": "Joint statement by Prime Minister Ulf Kristersson and Prime Minister Donald Tusk of the Republic of Poland",
@@ -186,7 +210,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -197,7 +221,7 @@
       ]
     },
     {
-      "id": 166,
+      "id": 186,
       "title": "New strategy for reform cooperation with Eastern Europe, the Western Balkans and Türkiye",
       "summary": "The Government has adopted a new strategy for Sweden’s reform cooperation with Eastern Europe, the Western Balkans and Türkiye for 2026–2030. The aim of the strategy is to strengthen the countries’ reform efforts and bring them closer to the EU.",
       "title_original": "New strategy for reform cooperation with Eastern Europe, the Western Balkans and Türkiye",
@@ -208,7 +232,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "International",
@@ -218,7 +242,7 @@
       ]
     },
     {
-      "id": 168,
+      "id": 187,
       "title": "The full council has decided on the disposition of the Riksbank's results",
       "summary": "The full council has decided on the disposition of the Riksbank's results",
       "title_original": "Fullmäktige har beslutat om disposition av Riksbankens resultat",
@@ -229,11 +253,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": []
     },
     {
-      "id": 170,
+      "id": 188,
       "title": "Maria Malmer Stenergard to present 2026 Statement of Foreign Policy",
       "summary": "On Wednesday 18 February, Minister for Foreign Affairs Maria Malmer Stenergard will present the Government’s Statement of Foreign Policy in the Riksdag.",
       "title_original": "Maria Malmer Stenergard to present 2026 Statement of Foreign Policy",
@@ -244,7 +268,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "International",
@@ -254,7 +278,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 189,
       "title": "Joint statement by The UK, Sweden, France, Germany, and The Netherlands",
       "summary": "Joint statement by The UK, Sweden, France, Germany, and The Netherlands on 14 February 2026.",
       "title_original": "Joint statement by The UK, Sweden, France, Germany, and The Netherlands",
@@ -265,7 +289,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -274,7 +298,7 @@
       ]
     },
     {
-      "id": 188,
+      "id": 190,
       "title": "Statement by Prime Minister Ulf Kristersson",
       "summary": "Statement by Prime Minister Ulf Kristersson, prior to the Munich Security Conference, February 13 2026.",
       "title_original": "Statement by Prime Minister Ulf Kristersson",
@@ -285,7 +309,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "EU",
         "International",
@@ -301,7 +325,7 @@
       ]
     },
     {
-      "id": 189,
+      "id": 191,
       "title": "Sweden and Ukraine agree to cooperate on cybersecurity",
       "summary": "Cyber attacks are one of the tactics used by Russia in its war against Ukraine. Sweden and Ukraine have now reached an agreement aimed at strengthening Ukraine’s resilience to cyber attacks, which also enhances Sweden’s capability to cope with sophisticated cyber threats.",
       "title_original": "Sweden and Ukraine agree to cooperate on cybersecurity",
@@ -312,7 +336,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Press release",
         "International",
@@ -325,7 +349,7 @@
       ]
     },
     {
-      "id": 190,
+      "id": 192,
       "title": "Increased support for social and medical reforms in Ukraine",
       "summary": "Sweden’s support to Ukraine makes a difference. The Swedish International Development Cooperation Agency (Sida) has approved increased funding for the National Board of Health and Welfare’s programme for expanded support to Ukraine for health and medical care, care of older people and children.",
       "title_original": "Increased support for social and medical reforms in Ukraine",
@@ -336,7 +360,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Health and Social Affairs",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "Webcast",
@@ -354,7 +378,7 @@
       ]
     },
     {
-      "id": 191,
+      "id": 193,
       "title": "The Riksbank exchanges EU payments",
       "summary": "Sweden's membership in the EU means monthly payments to the EU's budget. These are made in Swedish kronor by the Swedish government and are normally exchanged for euros on the foreign exchange market by a receiving central bank within the EU.",
       "title_original": "Riksbanken växlar EU-betalning",
@@ -365,11 +389,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": []
     },
     {
-      "id": 192,
+      "id": 194,
       "title": "Joint statement: Second High-Level Dialogue between Sweden and Colombia",
       "summary": "Joint statement by Swedish Minister for Foreign Affairs Maria Malmer Stenergard and Colombian Minister of Foreign Affairs Rosa Yolanda Villavicencio on 9 February 2026.",
       "title_original": "Joint statement: Second High-Level Dialogue between Sweden and Colombia",
@@ -380,75 +404,13 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
         "Foreign and security policy",
         "Statement",
         "Maria Malmer Stenergard"
-      ]
-    },
-    {
-      "id": 193,
-      "title": "Göran Hjelm new deputy governor of the Riksbank",
-      "summary": "The Riksbank General Council decided today to appoint Göran Hjelm as a new member of the Riksbank's Executive Board. Göran Hjelm succeeds Anna Breman, who left the Riksbank at the end of last year.",
-      "title_original": "Göran Hjelm ny vice riksbankschef",
-      "summary_original": "Riksbanksfullmäktige beslutade idag att utse Göran Hjelm till ny direktionsledamot i Riksbanken. Göran Hjelm efterträder Anna Breman som lämnade Riksbanken i slutet på förra året.",
-      "link": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/goran-hjelm-ny-vice-riksbankschef/",
-      "date_display": "2026-02-06",
-      "date_iso": "2026-02-06T12:12:00+00:00",
-      "source": "Riksbanken",
-      "ministry": "Central Bank",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": []
-    },
-    {
-      "id": 195,
-      "title": "Government presents new energy package for Ukraine",
-      "summary": "Today, the Government presented a new SEK 1 billion support package for Ukraine’s energy sector, which has been subjected to intensive Russian strikes this winter. The support will help to meet the country’s urgent energy needs and bolster long-term energy supplies.",
-      "title_original": "Government presents new energy package for Ukraine",
-      "summary_original": "Today, the Government presented a new SEK 1 billion support package for Ukraine’s energy sector, which has been subjected to intensive Russian strikes this winter. The support will help to meet the country’s urgent energy needs and bolster long-term energy supplies.",
-      "link": "https://www.government.se/press-releases/2026/02/government-presents-new-energy-package-for-ukraine/",
-      "date_display": "2026-02-05",
-      "date_iso": "2026-02-05T16:18:04+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Climate and Enterprise",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry of Climate and Enterprise",
-        "Ministry for Foreign Affairs",
-        "International development cooperation",
-        "Sweden's support to Ukraine",
-        "Ebba Busch",
-        "Benjamin Dousa"
-      ]
-    },
-    {
-      "id": 196,
-      "title": "Pål Jonson in Brussels for several high-level meetings",
-      "summary": "On 11 and 12 February, Minister for Defence Pål Jonson will take part in the meeting of EU Defence Ministers and the Meeting of NATO Ministers of Defence. In conjunction with the NATO Defence Ministers meeting, a meeting will also take place within the framework of the Ukraine Defense Contact Group. Increased support to Ukraine will be a central theme of all three meetings.",
-      "title_original": "Pål Jonson in Brussels for several high-level meetings",
-      "summary_original": "On 11 and 12 February, Minister for Defence Pål Jonson will take part in the meeting of EU Defence Ministers and the Meeting of NATO Ministers of Defence. In conjunction with the NATO Defence Ministers meeting, a meeting will also take place within the framework of the Ukraine Defense Contact Group. Increased support to Ukraine will be a central theme of all three meetings.",
-      "link": "https://www.government.se/press-releases/2026/02/pal-jonson-in-brussels-for-several-high-level-meetings/",
-      "date_display": "2026-02-05",
-      "date_iso": "2026-02-05T13:21:48+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Defence",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "EU",
-        "Ministry of Defence",
-        "NATO",
-        "Pål Jonson",
-        "Military defence",
-        "International defence cooperation"
       ]
     }
   ]
