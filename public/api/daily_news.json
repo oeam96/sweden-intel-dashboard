@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-02-21T08:55:41.796789+01:00",
-  "date": "2026-02-21",
+  "generated_at": "2026-02-23T09:10:46.786594+01:00",
+  "date": "2026-02-23",
   "item_count": 19,
   "items": [
     {
-      "id": 0,
-      "title": "\"Took six months to get over the final loss against Edin\"",
-      "summary": "CORTINA. It took Bruce Mouat six months to get over the loss in the Olympic final in Beijing against Lag Niklas Edin. Now he's in the final again, aiming to become the first Scottish man to win Olympic curling gold in over 100 years.",
-      "title_original": "”Tog ett halvår att komma över finalförlusten mot Edin”",
-      "summary_original": "CORTINA. Det tog Bruce Mouat ett halvår att komma över förlusten i OS-finalen i Peking mot Lag Niklas Edin. Nu är han i final igen och siktar på att bli den förste skotske herren som vinner OS-guld i curling på över 100 år.",
-      "link": "https://www.dn.se/sport/tog-ett-halvar-att-komma-over-finalforlusten-mot-edin/",
-      "date_display": "2026-02-21",
-      "date_iso": "2026-02-21T07:46:30+00:00",
+      "id": 13,
+      "title": "n'Jonas: Love, chaos and five old Saabs",
+      "summary": "Anyone who owns five old Saabs but can't tinker with them themselves has to realize sooner or later that some have to go. But which ones – and how?",
+      "title_original": "n'Jonas: Kärlek, kaos och fem gamla Saabar",
+      "summary_original": "Den som äger fem gamla Saabar men inte själv kan meka med dem måste för eller senare inse att några måste bort. Men vilka – och hur?",
+      "link": "https://www.dn.se/kultur/n-jonas-karlek-kaos-och-fem-gamla-saabar/",
+      "date_display": "2026-02-23",
+      "date_iso": "2026-02-23T07:17:59+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -19,14 +19,14 @@
       "tags": []
     },
     {
-      "id": 1,
-      "title": "That's why so many ski cross riders have moustaches",
-      "summary": "LIVIGNO. There is one thing that distinguishes the ski crossers from other male skiers: Extremely many have mustaches. - It's a cold sport we're playing and it's clear that it warms up a bit, says Erik Mobärg jokingly.",
-      "title_original": "Därför har så många som åker skicross mustasch",
-      "summary_original": "LIVIGNO. Det finns en sak som särskiljer skicrossåkarna från andra manliga skidåkare: Extremt många har mustasch. – Det är ju en kall sport vi håller på med och det är klart att den värmer lite, säger Erik Mobärg skämtsamt.",
-      "link": "https://www.dn.se/sport/darfor-har-sa-manga-som-aker-skicross-mustasch/",
-      "date_display": "2026-02-21",
-      "date_iso": "2026-02-21T07:46:26+00:00",
+      "id": 14,
+      "title": "Here are the summer jobs - \"apply in good time\"",
+      "summary": "Significantly more shop jobs. But the bubble among the summer jobs is correctional officer. - Be out in good time, you can lie in, says Kerstin Eriksson, analyst at Arbetsförmedlingen.",
+      "title_original": "Här finns sommarjobben – ”sök i god tid”",
+      "summary_original": "Betydligt fler butiksjobb. Men bubblaren bland sommarjobben är kriminalvårdare. – Var ute i god tid, man får ligga i, säger Kerstin Eriksson, analytiker på Arbetsförmedlingen.",
+      "link": "https://www.dn.se/sverige/har-finns-sommarjobben-sok-i-god-tid/",
+      "date_display": "2026-02-23",
+      "date_iso": "2026-02-23T07:10:24+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -34,28 +34,24 @@
       "tags": []
     },
     {
-      "id": 5,
-      "title": "Rider cake with pecan tosca",
-      "summary": "The kitchen's weekend tips offer a dreamy coffee with a perfect chocolate cake and with a golden layer of pecan tosca on top. It is easy to prepare in advance and tastes extra good when served with lightly whipped cream. For Camilla Hamid's recipe",
-      "title_original": "Ryttarkaka med pekannötstosca",
-      "summary_original": "Kökets helgtips bjuder på en drömgod fika med en perfekt chokladig kladdkaka och med ett gyllene lager pekannötstosca ovanpå. Den är enkel att förbereda i förväg och blir extra god när den serveras med lättvispad grädde. Till Camilla Hamids recept",
-      "link": "https://www.tv4.se/artikel/6XHmhHdQSEvKwsw0aygmZD/ryttarkaka-med-pekannoetstosca",
-      "date_display": "2026-02-21",
-      "date_iso": "2026-02-21T07:32:19+00:00",
-      "source": "TV4 Nyheterna",
+      "id": 15,
+      "title": "Manned lunar mission postponed again",
+      "summary": "Good morning! Nasa postpones the moon dream again, AI agents have a variety of industries to take over, and Sam Altman compares AI's energy consumption to that of humans.",
+      "title_original": "Bemannad månfärd uppskjuten igen",
+      "summary_original": "God morgon! Nasa skjuter upp måndrömmen igen, AI-agenter har en mängd branscher att ta över, och Sam Altman jämför AI:ns energiåtgång med människors.",
+      "link": "https://www.svd.se/a/Bxj58G/nasa-skjuter-upp-forsta-bemannade-manfarden-sedan-apollo-igen",
+      "date_display": "2026-02-23",
+      "date_iso": "2026-02-23T07:10:00+00:00",
+      "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Mat",
-        "/mat",
-        "/kokets-helgtips",
-        "/koket",
-        "/camilla-hamid"
+        "Näringsliv"
       ]
     },
     {
-      "id": 163,
+      "id": 179,
       "title": "Egypt visit characterised by impactful meetings and deepened cooperation",
       "summary": "For several intensive February days in Cairo, Minister for Health Care Elisabet Lann met with organisers and actors that care for severely injured patients from Gaza on a daily basis. The trip provided a deeper understanding of the extensive work being done and how Swedish initiatives are contributing.",
       "title_original": "Egypt visit characterised by impactful meetings and deepened cooperation",
@@ -66,7 +62,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Health and Social Affairs",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "International",
         "Ministry of Health and Social Affairs",
@@ -77,7 +73,7 @@
       ]
     },
     {
-      "id": 167,
+      "id": 180,
       "title": "Government intends to propose Swedish loan guarantee to World Bank to enable SEK 2.5 billion in new budget support to Ukraine",
       "summary": "The Government intends to enable a loan of an additional SEK 2.5 billion to Ukraine via the World Bank by guaranteeing repayment of the loan. This means that Sweden will enable additional budget support to Ukraine in early 2026.",
       "title_original": "Government intends to propose Swedish loan guarantee to World Bank to enable SEK 2.5 billion in new budget support to Ukraine",
@@ -88,7 +84,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "International",
@@ -100,7 +96,7 @@
       ]
     },
     {
-      "id": 174,
+      "id": 181,
       "title": "Joint Ministerial Statement on Protection of Civilians and humanitarian operations in Sudan",
       "summary": "",
       "title_original": "Joint Ministerial Statement on Protection of Civilians and humanitarian operations in Sudan",
@@ -111,7 +107,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -123,7 +119,7 @@
       ]
     },
     {
-      "id": 177,
+      "id": 182,
       "title": "Ebba Busch to take part in high-level AI meeting in India",
       "summary": "On 18–20 February, Deputy Prime Minister Ebba Busch will be in New Delhi to take part in the AI Impact Summit. The Summit gathers leaders from more than 30 countries and aims to promote international cooperation in the area of AI.",
       "title_original": "Ebba Busch to take part in high-level AI meeting in India",
@@ -134,7 +130,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "International",
@@ -145,7 +141,7 @@
       ]
     },
     {
-      "id": 178,
+      "id": 183,
       "title": "Support to Ukraine, security policy cooperation and gender equality in focus for this year’s Statement of Foreign Policy",
       "summary": "Today, 18 February, Minister for Foreign Affairs Maria Malmer Stenergard presented the Government’s 2026 Statement of Foreign Policy in the Riksdag. The Government’s foremost foreign policy priorities are support to Ukraine and increased pressure on Russia, stronger cooperation in security and trade, and gender equality and women’s empowerment.",
       "title_original": "Support to Ukraine, security policy cooperation and gender equality in focus for this year’s Statement of Foreign Policy",
@@ -156,7 +152,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "EU",
@@ -172,7 +168,7 @@
       ]
     },
     {
-      "id": 179,
+      "id": 184,
       "title": "Statement of Foreign Policy 2026",
       "summary": "On 18 February, Minister for Foreign Affairs Maria Malmer Stenergard presented the 2026 Statement of Foreign Policy in the Riksdag.\n\nCheck against delivery.",
       "title_original": "Statement of Foreign Policy 2026",
@@ -183,7 +179,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Speech",
         "EU",
@@ -210,7 +206,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -232,7 +228,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "International",
@@ -253,7 +249,7 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": []
     },
     {
@@ -268,7 +264,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": [
         "Press release",
         "International",
@@ -289,7 +285,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -309,7 +305,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "EU",
         "International",
@@ -336,7 +332,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Press release",
         "International",
@@ -360,7 +356,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Health and Social Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "Webcast",
@@ -389,7 +385,7 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": []
     },
     {
@@ -404,7 +400,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
