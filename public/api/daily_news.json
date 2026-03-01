@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-02-27T09:07:13.911115+01:00",
-  "date": "2026-02-27",
-  "item_count": 20,
+  "generated_at": "2026-03-01T08:57:51.389534+01:00",
+  "date": "2026-03-01",
+  "item_count": 17,
   "items": [
     {
-      "id": 0,
-      "title": "The Ozempic scientist who dropped out: Eat more cabbage",
-      "summary": "Good morning! The newsletter turns three months old and it should be celebrated. Now with SvD Bas you can read the Morning Report in the app. It summarizes important news so that you are in the know already at breakfast. Do you want to receive it as a push notification? Enter the SvD app, press the gear wheel, select notification settings and turn on the Morning Report.",
-      "title_original": "Ozempic-forskaren som hoppade av: Ät mer kål",
-      "summary_original": "God morgon! Nyhetsbrevet fyller tre månader och det ska firas. Nu kan du med SvD Bas läsa Morgonrapporten i appen. Där sammanfattas viktiga nyheter så att du har koll redan vid frukost. Vill du få den som pushnotis? Gå in i SvD-appen, tryck på kugghjulet, välj notisinställningar och slå på Morgonrapporten.",
-      "link": "https://www.svd.se/a/j0ayAA/veckan-med-svd-vecka-9",
-      "date_display": "2026-02-27",
-      "date_iso": "2026-02-27T08:00:31+00:00",
+      "id": 2,
+      "title": "Stenergard: Khamenei's death opens up opportunities",
+      "summary": "",
+      "title_original": "Stenergard: Khameneis död öppnar möjligheter",
+      "summary_original": "",
+      "link": "https://www.svd.se/a/zOEkj5/stenergard-khameneis-dod-oppnar-mojligheter",
+      "date_display": "2026-03-01",
+      "date_iso": "2026-03-01T07:40:40+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -21,50 +21,39 @@
       ]
     },
     {
-      "id": 9,
-      "title": "Considering alternatives to attack on Iran: \"Only Trump knows\"",
-      "summary": "US President Donald Trump has been briefed on several possible military options against Iran, ABC News reports citing information. Admiral Brad Cooper, in charge of US forces in the Middle East, presented the options to the president during a meeting at the White House on Thursday. Dan Caine, the US defense chief, also participated, writes the news site.   The briefing took place on the same day that the US and Iran held indirect talks in Geneva on Iran's nuclear and ballistic missile programs. The talks ended without an agreement, but Iran said \"technical talks\" will resume in Vienna next week. Israel should strike first Several high-ranking Republicans around the president have suggested in the past week that Israel should strike first, and that the United States should help if necessary. This is what people with insight into the discussions told ABC News. The idea behind the proposal is to avoid the United States appearing as the party that starts a new conflict. Analysts interviewed by ABC News believe the arrangement could also give Republican lawmakers political leeway in an election year, since Trump campaigned on \"ending wars, not starting them.\" At the same time, it is warned that such a strategy risks being perceived as an \"Israel-supported coup\" in the region. \"The media can continue to speculate\" White House deputy press secretary Anna Kelly does not want to comment on the information about possible military moves. - The media can continue to speculate about the president's thoughts as much as they want, but only President Trump knows what he will or will not do, says White House Deputy Press Secretary Anna Kelly. According to ABC News, it was still unclear Thursday whether Trump, who their sources say is growing increasingly frustrated with Iran's refusal to accede to his demands to halt uranium enrichment and limit its ballistic missile program, has actually adopted any of the proposed plans.",
-      "title_original": "Överväger alternativ till attack mot Iran: ”Bara Trump vet”",
-      "summary_original": "USA:s president Donald Trump har briefats om flera möjliga militära alternativ mot Iran, uppger ABC News med hänvisning till uppgifter. Amiral Brad Cooper, ansvarig för amerikanska styrkor i Mellanöstern, lade fram alternativen för presidenten under ett möte i Vita huset på torsdagen. Även Dan Caine, USA:s försvarschef, deltog, skriver nyhetssajten.   Briefingen ägde rum samma dag som USA och Iran höll indirekta samtal i Genève om Irans kärnvapen- och ballistiska missilprogram. Samtalen slutade utan överenskommelse, men Iran uppgav att ”tekniska samtal” ska återupptas i Wien nästa vecka. Israel ska slå först Flera högt uppsatta republikaner runt presidenten har den senaste veckan föreslagit att Israel ska slå till först, och att USA vid behov ska hjälpa till. Det säger personer med insyn i diskussionerna till ABC News. Tanken bakom förslaget är att undvika att USA framstår som den part som startar en ny konflikt. Analytiker som intervjuats av ABC News menar att upplägget även skulle kunna ge republikanska lagstiftare politiskt utrymme i ett valår, eftersom Trump kampanjat på att ”avsluta krigen, inte starta dem”. Samtidigt varnas för att en sådan strategi riskerar att uppfattas som en ”Israelstödd kupp” i regionen. ”Media kan fortsätta spekulera” Vita husets biträdande pressekreterare Anna Kelly vill inte kommentera uppgifterna om möjliga militära drag. – Media kan fortsätta spekulera om presidentens tankar hur mycket de vill, men bara president Trump vet vad han kommer att göra eller inte göra, säger Vita husets biträdande pressekreterare Anna Kelly. Enligt ABC News var det på torsdagen fortfarande oklart om Trump, som enligt deras källor uppges bli alltmer frustrerad över att Iran vägrar gå med på hans krav om att stoppa urananrikningen och begränsa sitt ballistiska missilprogram, faktiskt har antagit någon av de föreslagna planerna.",
-      "link": "https://www.tv4.se/artikel/1K17NsYVGtBmMfMM2UalV5/oevervaeger-alternativ-till-attack-mot-iran-bara-trump-vet",
-      "date_display": "2026-02-27",
-      "date_iso": "2026-02-27T07:41:43+00:00",
-      "source": "TV4 Nyheterna",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Nyheterna",
-        "/utrikes",
-        "/donald-trump",
-        "/amerikansk-politik",
-        "/politiker",
-        "/mellanostern",
-        "/krig",
-        "/usa",
-        "/vita-huset"
-      ]
-    },
-    {
-      "id": 14,
-      "title": "Ellas Kapell convinces big with small means",
-      "summary": "Ella Kapell's project is to interpret Ella Fitzgerald. It's not a revolutionary move – instead, it's consistently fine print and low-key.",
-      "title_original": "Ellas Kapell övertygar stort med små medel",
-      "summary_original": "Ellas Kapells projekt är att tolka Ella Fitzgerald. Det är inget omstörtande grepp – i stället är det genomgående finstilt och lågmält.",
-      "link": "https://www.svd.se/a/ExQbRa/ellas-kapell-overtygar-stort-med-sma-medel",
-      "date_display": "2026-02-27",
-      "date_iso": "2026-02-27T07:30:00+00:00",
+      "id": 3,
+      "title": "Heavy snowfall - forced to a crisis solution",
+      "summary": "",
+      "title_original": "Kraftigt snöfall – tvingas till krislösning",
+      "summary_original": "",
+      "link": "https://www.svd.se/a/2pByex/kraftigt-snofall-tvingas-till-krislosning",
+      "date_display": "2026-03-01",
+      "date_iso": "2026-03-01T07:34:59+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Musik",
-        "Kultur"
+        "Sverige"
       ]
     },
     {
-      "id": 165,
+      "id": 4,
+      "title": "Jessica: Why not a really old cure for corpulence?",
+      "summary": "Who doesn't want to lose 20 kilos? The problem is the cost. Instead of injecting thousands of dollars into my thighs, I should look back. To Banting's cure for corpulence from 1863.",
+      "title_original": "Jessica: Varför inte en riktigt gammal kur mot korpulens?",
+      "summary_original": "Vem vill inte tappa 20 kilo? Problemet är kostnaden. I stället för att injicera tusenlappar i låren borde jag blicka bakåt. Till Bantings kur mot korpulens från 1863.",
+      "link": "https://www.dn.se/kultur/jessica-varfor-inte-en-riktigt-gammal-kur-mot-korpulens/",
+      "date_display": "2026-03-01",
+      "date_iso": "2026-03-01T07:29:15+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 177,
       "title": "Sweden’s AI Strategy in five minutes",
       "summary": "Sweden’s AI Strategy sets the long-term direction of the Government’s work with AI. It also provides guidance for work with AI throughout Sweden. The Government adopted the Strategy in February 2026.",
       "title_original": "Sweden’s AI Strategy in five minutes",
@@ -75,7 +64,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Finance",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Webcast",
         "EU",
@@ -87,7 +76,7 @@
       ]
     },
     {
-      "id": 166,
+      "id": 178,
       "title": "Sweden’s first comprehensive AI strategy aims for top-10 ranking",
       "summary": "Sweden aims to take a leading role in artificial intelligence. The Government is now presenting a new AI strategy with the aim of providing more effective government agencies, clearer rules for businesses and better conditions for research. The objective is for Sweden to be among the world’s top 10 countries in the field of AI.",
       "title_original": "Sweden’s first comprehensive AI strategy aims for top-10 ranking",
@@ -98,7 +87,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Finance",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "EU",
@@ -123,7 +112,7 @@
       ]
     },
     {
-      "id": 172,
+      "id": 179,
       "title": "Joint Statement of the Leaders of Ukraine and the Nordic Baltic States (NB8) to mark four years of Russia’s war of aggression against Ukraine 24 February 2026",
       "summary": "Gathered in Kyiv – President of Ukraine Volodymyr Zelenskyy and the leaders of the Nordic Baltic States (NB8) – Prime Minister of Estonia Kristen Michal, Prime Minister of Denmark Mette Frederiksen, President of Finland Alexander Stubb, Prime Minister of Iceland Kristrún Frostadóttir, Prime Minister of Latvia Evika Siliņa, President of Lithuania Gitanas Nausėda, Prime Minister of Norway Jonas Gahr Støre and Prime Minister of Sweden Ulf Kristersson – mark four years since Russia launched its illegal, unjustified full-scale military invasion of Ukraine.",
       "title_original": "Joint Statement of the Leaders of Ukraine and the Nordic Baltic States (NB8) to mark four years of Russia’s war of aggression against Ukraine 24 February 2026",
@@ -134,7 +123,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -144,7 +133,7 @@
       ]
     },
     {
-      "id": 174,
+      "id": 180,
       "title": "Joint statement on the situation in the West Bank",
       "summary": "Joint statement on the situation in the West Bank.",
       "title_original": "Joint statement on the situation in the West Bank",
@@ -155,7 +144,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -166,7 +155,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 183,
       "title": "Egypt visit characterised by impactful meetings and deepened cooperation",
       "summary": "For several intensive February days in Cairo, Minister for Health Care Elisabet Lann met with organisers and actors that care for severely injured patients from Gaza on a daily basis. The trip provided a deeper understanding of the extensive work being done and how Swedish initiatives are contributing.",
       "title_original": "Egypt visit characterised by impactful meetings and deepened cooperation",
@@ -177,7 +166,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Health and Social Affairs",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "International",
         "Ministry of Health and Social Affairs",
@@ -188,7 +177,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 184,
       "title": "Government intends to propose Swedish loan guarantee to World Bank to enable SEK 2.5 billion in new budget support to Ukraine",
       "summary": "The Government intends to enable a loan of an additional SEK 2.5 billion to Ukraine via the World Bank by guaranteeing repayment of the loan. This means that Sweden will enable additional budget support to Ukraine in early 2026.",
       "title_original": "Government intends to propose Swedish loan guarantee to World Bank to enable SEK 2.5 billion in new budget support to Ukraine",
@@ -199,7 +188,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "International",
@@ -211,7 +200,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 185,
       "title": "Joint Ministerial Statement on Protection of Civilians and humanitarian operations in Sudan",
       "summary": "",
       "title_original": "Joint Ministerial Statement on Protection of Civilians and humanitarian operations in Sudan",
@@ -222,7 +211,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -234,7 +223,7 @@
       ]
     },
     {
-      "id": 185,
+      "id": 186,
       "title": "Ebba Busch to take part in high-level AI meeting in India",
       "summary": "On 18–20 February, Deputy Prime Minister Ebba Busch will be in New Delhi to take part in the AI Impact Summit. The Summit gathers leaders from more than 30 countries and aims to promote international cooperation in the area of AI.",
       "title_original": "Ebba Busch to take part in high-level AI meeting in India",
@@ -245,7 +234,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "International",
@@ -256,7 +245,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 187,
       "title": "Support to Ukraine, security policy cooperation and gender equality in focus for this year’s Statement of Foreign Policy",
       "summary": "Today, 18 February, Minister for Foreign Affairs Maria Malmer Stenergard presented the Government’s 2026 Statement of Foreign Policy in the Riksdag. The Government’s foremost foreign policy priorities are support to Ukraine and increased pressure on Russia, stronger cooperation in security and trade, and gender equality and women’s empowerment.",
       "title_original": "Support to Ukraine, security policy cooperation and gender equality in focus for this year’s Statement of Foreign Policy",
@@ -267,7 +256,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "EU",
@@ -283,7 +272,7 @@
       ]
     },
     {
-      "id": 187,
+      "id": 188,
       "title": "Statement of Foreign Policy 2026",
       "summary": "On 18 February, Minister for Foreign Affairs Maria Malmer Stenergard presented the 2026 Statement of Foreign Policy in the Riksdag.\n\nCheck against delivery.",
       "title_original": "Statement of Foreign Policy 2026",
@@ -294,7 +283,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Speech",
         "EU",
@@ -310,7 +299,7 @@
       ]
     },
     {
-      "id": 188,
+      "id": 189,
       "title": "Joint statement by Prime Minister Ulf Kristersson and Prime Minister Donald Tusk of the Republic of Poland",
       "summary": "Joint statement by Prime Minister Ulf Kristersson and Prime Minister Donald Tusk of the Republic of Poland, on 17 February 2026.",
       "title_original": "Joint statement by Prime Minister Ulf Kristersson and Prime Minister Donald Tusk of the Republic of Poland",
@@ -321,7 +310,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -332,7 +321,7 @@
       ]
     },
     {
-      "id": 189,
+      "id": 190,
       "title": "New strategy for reform cooperation with Eastern Europe, the Western Balkans and Türkiye",
       "summary": "The Government has adopted a new strategy for Sweden’s reform cooperation with Eastern Europe, the Western Balkans and Türkiye for 2026–2030. The aim of the strategy is to strengthen the countries’ reform efforts and bring them closer to the EU.",
       "title_original": "New strategy for reform cooperation with Eastern Europe, the Western Balkans and Türkiye",
@@ -343,7 +332,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "International",
@@ -353,7 +342,7 @@
       ]
     },
     {
-      "id": 190,
+      "id": 191,
       "title": "The full council has decided on the disposition of the Riksbank's results",
       "summary": "The full council has decided on the disposition of the Riksbank's results",
       "title_original": "Fullmäktige har beslutat om disposition av Riksbankens resultat",
@@ -364,11 +353,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": []
     },
     {
-      "id": 191,
+      "id": 192,
       "title": "Maria Malmer Stenergard to present 2026 Statement of Foreign Policy",
       "summary": "On Wednesday 18 February, Minister for Foreign Affairs Maria Malmer Stenergard will present the Government’s Statement of Foreign Policy in the Riksdag.",
       "title_original": "Maria Malmer Stenergard to present 2026 Statement of Foreign Policy",
@@ -379,84 +368,13 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": [
         "Press release",
         "International",
         "Ministry for Foreign Affairs",
         "Foreign and security policy",
         "Maria Malmer Stenergard"
-      ]
-    },
-    {
-      "id": 192,
-      "title": "Joint statement by The UK, Sweden, France, Germany, and The Netherlands",
-      "summary": "Joint statement by The UK, Sweden, France, Germany, and The Netherlands on 14 February 2026.",
-      "title_original": "Joint statement by The UK, Sweden, France, Germany, and The Netherlands",
-      "summary_original": "Joint statement by The UK, Sweden, France, Germany, and The Netherlands on 14 February 2026.",
-      "link": "https://www.government.se/statements/2026/02/joint-statement-by-the-uk-sweden-france-germany-and-the-netherlands/",
-      "date_display": "2026-02-14",
-      "date_iso": "2026-02-14T13:00:31+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "International",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Statement"
-      ]
-    },
-    {
-      "id": 193,
-      "title": "Statement by Prime Minister Ulf Kristersson",
-      "summary": "Statement by Prime Minister Ulf Kristersson, prior to the Munich Security Conference, February 13 2026.",
-      "title_original": "Statement by Prime Minister Ulf Kristersson",
-      "summary_original": "Statement by Prime Minister Ulf Kristersson, prior to the Munich Security Conference, February 13 2026.",
-      "link": "https://www.government.se/statements/2026/02/statement-by-prime-minister-ulf-kristersson/",
-      "date_display": "2026-02-13",
-      "date_iso": "2026-02-13T13:11:42+00:00",
-      "source": "Government.se",
-      "ministry": "Prime Minister's Office",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "EU",
-        "International",
-        "Prime Minister's Office",
-        "Foreign and security policy",
-        "Statement",
-        "Sweden's support to Ukraine",
-        "NATO",
-        "Ulf Kristersson",
-        "Civil defence",
-        "Military defence",
-        "Total defence"
-      ]
-    },
-    {
-      "id": 195,
-      "title": "Sweden and Ukraine agree to cooperate on cybersecurity",
-      "summary": "Cyber attacks are one of the tactics used by Russia in its war against Ukraine. Sweden and Ukraine have now reached an agreement aimed at strengthening Ukraine’s resilience to cyber attacks, which also enhances Sweden’s capability to cope with sophisticated cyber threats.",
-      "title_original": "Sweden and Ukraine agree to cooperate on cybersecurity",
-      "summary_original": "Cyber attacks are one of the tactics used by Russia in its war against Ukraine. Sweden and Ukraine have now reached an agreement aimed at strengthening Ukraine’s resilience to cyber attacks, which also enhances Sweden’s capability to cope with sophisticated cyber threats.",
-      "link": "https://www.government.se/press-releases/2026/02/sweden-and-ukraine-agree-to-cooperate-on-cybersecurity/",
-      "date_display": "2026-02-13",
-      "date_iso": "2026-02-13T11:15:42+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Defence",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry of Defence",
-        "Emergency preparedness",
-        "Sweden's support to Ukraine",
-        "Carl-Oskar Bohlin",
-        "Civil defence",
-        "Cybersecurity"
       ]
     }
   ]
