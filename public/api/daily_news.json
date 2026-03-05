@@ -1,34 +1,17 @@
 {
-  "generated_at": "2026-03-03T09:08:08.250927+01:00",
-  "date": "2026-03-03",
-  "item_count": 16,
+  "generated_at": "2026-03-05T09:07:45.957849+01:00",
+  "date": "2026-03-05",
+  "item_count": 11,
   "items": [
     {
-      "id": 1,
-      "title": "The \"Trump war\" is here - that's how it works",
-      "summary": "When Donald Trump goes to war, it is something completely different than when George W Bush did it. This is how Pete Hegseth promotes the attack on Iran - and emphasizes that the US does not intend to build democracy in Iran.",
-      "title_original": "”Trumpkriget” är här – så funkar det",
-      "summary_original": "När Donald Trump krigar är det något helt annat än när George W Bush gjorde det. Så marknadsför Pete Hegseth attacken på Iran – och understryker att USA inte tänker bygga demokrati i Iran.",
-      "link": "https://www.svd.se/a/9pzeQ9/trumpkriget-mot-iran-sa-marknadsfor-hegseth-attacken",
-      "date_display": "2026-03-03",
-      "date_iso": "2026-03-03T07:58:40+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Världen"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Letter to the editor. Don't let other countries control our Swedish electricity prices",
-      "summary": "LETTER TO THE EDITOR. It is high time to introduce a model that differentiates between electricity consumed in Sweden and that which is exported. When will our elected representatives look out for the good of the population and ensure that electricity prices return to humane levels? asks villa owner Tomas Ågren.",
-      "title_original": "Insändare. Låt inte andra länder styra våra svenska elpriser",
-      "summary_original": "INSÄNDARE. Det är hög tid att införa en modell som skiljer på el som konsumeras i Sverige och den som exporteras. När ska våra folkvalda se till befolkningens bästa och se till att elpriserna återgår till humana nivåer? undrar villaägaren Tomas Ågren.",
-      "link": "https://www.dn.se/insandare/lat-inte-andra-lander-styra-vara-svenska-elpriser/",
-      "date_display": "2026-03-03",
-      "date_iso": "2026-03-03T07:56:21+00:00",
+      "id": 0,
+      "title": "More electricity will make F1 more fun – the new words ahead of the premiere",
+      "summary": "Smaller, lighter and more agile cars. A small revolution in terms of the engines and new concepts for the audience to learn - like active aero. And a brand new stable: Cadillac. The news in Formula 1 is many and the hopes for more exciting racing are high. Here's everything you need to know ahead of the premiere.",
+      "title_original": "Mer el ska göra F1 roligare – nya orden inför premiären",
+      "summary_original": "Mindre, lättare och smidigare bilar. En liten revolution vad gäller motorerna och nya begrepp för publiken att lära sig – som active aero. Och ett helt nytt stall: Cadillac. Nyheterna i formel 1 är många och förhoppningarna på mer spännande racing är stora. Här är allt du behöver veta inför premiären.",
+      "link": "https://www.dn.se/sport/mer-el-ska-gora-f1-roligare-nya-orden-infor-premiaren/",
+      "date_display": "2026-03-05",
+      "date_iso": "2026-03-05T08:00:38+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -36,28 +19,102 @@
       "tags": []
     },
     {
-      "id": 6,
-      "title": "The worst municipalities for young people to get a job: \"Only work at home\"",
-      "summary": "Angelica Bengtsson has been unemployed since she graduated a year and a half ago.\n\n- It has been hard, it has been very hard because you just go home, you get very tired of it quite quickly, says Angelica Bengtsson.\n\nAnd it is precisely in several Scanian municipalities that have the highest percentages of young people aged 18 to 24 registered with the Employment Service. For example Bromölla, Åstorp and Östra Göinge. In the main town of Broby in Östra Göinge, the municipality started Göingematchningen, a kind of municipal employment agency, after the Employment Agency closed its local office.\n\n- It works great, I've worked here for five years and it's always been busy, especially when we have themes and companies here, there's often a bit of a queue because everyone wants to fight for the jobs, says Camilla Larsson. Jobs are created in the big cities The reason why youth unemployment is so high in smaller municipalities that used to have industries is because most of the jobs that are created today take place in the big cities.\n\n- This means that labor is laid off in these locations and they find it difficult to find new jobs. Sweden's labor market is quite good for those with a good education and high qualifications, but we lack jobs where you can take a slightly lower education and quite quickly find a way to support yourself, says Andreas Bergh, docent in economics at Lund University.\n\nOn the other hand, the high youth unemployment rate overall may be due to students looking for jobs, according to him.\n\n- It can be a good sign that you make contacts in the labor market early on and perhaps treat yourself to being a little picky about which jobs you take. But it can also be the case that people are looking for a job because they find it difficult to find a job. Then of course it's problematic because then it's a sign that it's difficult to get in when you're new to the labor market, says Andreas Bergh.\n\nAngelica Bengtsson has now got a part-time job at a preschool and hopes that this is the start of something new:\n\n- Hopefully I will get a full-time position",
-      "title_original": "Sämsta kommunerna för ungdomar att få jobb: ”Går bara hemma”",
-      "summary_original": "Angelica Bengtsson har varit arbetslös sedan hon tog studenten för ett och ett halvt år sedan.\n\n– Det har varit jobbigt, det har varit väldigt hårt för man går bara hemma, man blir väldigt trött på det ganska snabbt, säger Angelica Bengtsson.\n\nOch det är just i flera skånska kommuner som har högst andelar ungdomar i åldrarna 18 till 24 år inskrivna hos Arbetsförmedlingen. Till exempel Bromölla, Åstorp och Östra Göinge. I huvudorten Broby i Östra Göinge startade kommunen Göingematchningen, en sorts kommunal arbetsförmedling, efter att Arbetsförmedlingen lade ned sitt lokala kontor.\n\n– Det funkar jättebra, jag har jobbat här i fem år och det har alltid varit full rulle, särskilt när vi har tema och företag här blir det gärna lite kö för alla vill slåss om jobben, säger Camilla Larsson. Jobb skapas i storstäderna Anledningen till varför ungdomsarbetslösheten är så pass hög i mindre kommuner som tidigare haft industrier är för att de flesta jobben som skapas i dag sker i storstäderna.\n\n– Det betyder att arbetskraft friställs på de här orterna och de får svårt att hitta nya jobb. Sveriges arbetsmarknad är ganska bra för den som har god utbildning och höga kvalifikationer men vi har ont om jobb man kan ta med lite lägre utbildning och ganska snabbt då hitta ett sätt att försörja sig, säger Andreas Bergh, docent i nationalekonomi på Lunds universitet.\n\nDäremot kan den höga ungdomsarbetslösheten på totalen bero på studenter som söker jobb enligt honom.\n\n– Det kan vara ett gott tecken att man knyter kontakter på arbetsmarknaden tidigt och kanske unnar sig att vara lite kräsen med vilka jobb man tar. Men det kan också vara så att människor söker jobb för att dem har svårt att hitta jobb. Då är det såklart problematiskt för då är det ett tecken på att det är svårt att komma in när man är ny på arbetsmarknaden, säger Andreas Bergh.\n\nAngelica Bengtsson har nu fått ett timvikariat på en förskola och hoppas att det här är början på något nytt:\n\n– Förhoppningsvis får jag ett heltidsjobb som barnskötare på en förskola eller med människor överhuvudtaget och att jag har det här timvikariatet så länge som möjligt. Och att jag i framtiden kan plugga till förskolelärare, säger hon.",
-      "link": "https://www.tv4.se/artikel/dVhXFU7sGOiK8t61QJSlE/haer-aer-kommunerna-som-toppar-ungdomsarbetsloesheten",
-      "date_display": "2026-03-03",
-      "date_iso": "2026-03-03T07:51:09+00:00",
-      "source": "TV4 Nyheterna",
+      "id": 1,
+      "title": "Earth's surface charged, sure - that's when it gets crazy",
+      "summary": "\"Grounding\" is said to give humans a beneficial electrical balance. The proponents are correct that the Earth's surface has a very weak negative electrical charge. That's when it gets crazy.",
+      "title_original": "Jordens yta laddad, visst – det är sen det blir galet",
+      "summary_original": "”Jordning” påstås ge människan en välgörande elektrisk balans. Före­språkarna har rätt i att jordens yta har en mycket svag negativ elektrisk laddning. Det är sedan det blir galet.",
+      "link": "https://www.svd.se/a/1679kJ/biokemiprofessor-jordning-mot-inflammation-och-stress-bondfangeri",
+      "date_display": "2026-03-05",
+      "date_iso": "2026-03-05T08:00:38+00:00",
+      "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Nyheterna",
-        "/inrikes",
-        "/arbetsmarknaden",
-        "/arbetsloshet",
-        "/ungdomar"
+        "Livet"
       ]
     },
     {
-      "id": 180,
+      "id": 2,
+      "title": "The target was missed – the deadly intersections remain",
+      "summary": "The Swedish Transport Administration's goal to remedy 150 of the most dangerous unprotected level crossings by 2025 has not been achieved. On average, five people a year are killed at such crossings, despite major efforts.",
+      "title_original": "Målet missades – de dödliga korsningarna är kvar",
+      "summary_original": "Trafikverkets mål att åtgärda 150 av de allra farligaste oskyddade plankorsningarna senast 2025 har inte uppnåtts. I snitt dödas fem personer om året i sådana korsningar, trots stora satsningar.",
+      "link": "https://www.svd.se/a/0pQ6pM/malet-missades-de-dodliga-korsningarna-ar-kvar",
+      "date_display": "2026-03-05",
+      "date_iso": "2026-03-05T07:59:45+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Sverige"
+      ]
+    },
+    {
+      "id": 144,
+      "title": "Increased protection for the civilian population in the Baltic Sea and Nordic region",
+      "summary": "Sweden has signed a memorandum of understanding on protecting the civilian population of the Baltic Sea region and the Nordic countries, together with Denmark, Estonia, Finland, Germany, Iceland, Latvia, Lithuania, Norway and Poland. This enables the temporary movement of people across borders in the event of crisis or, in the worst-case scenario, war.",
+      "title_original": "Increased protection for the civilian population in the Baltic Sea and Nordic region",
+      "summary_original": "Sweden has signed a memorandum of understanding on protecting the civilian population of the Baltic Sea region and the Nordic countries, together with Denmark, Estonia, Finland, Germany, Iceland, Latvia, Lithuania, Norway and Poland. This enables the temporary movement of people across borders in the event of crisis or, in the worst-case scenario, war.",
+      "link": "https://www.government.se/press-releases/2026/03/increased-protection-for-the-civilian-population-in-the-baltic-sea-and-nordic-region/",
+      "date_display": "2026-03-04",
+      "date_iso": "2026-03-04T12:01:20+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry of Defence",
+      "type": "Official Information",
+      "age_tag": "today",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry of Defence",
+        "Emergency preparedness",
+        "Carl-Oskar Bohlin",
+        "Civil defence",
+        "Strengthen Sweden’s security",
+        "Total defence"
+      ]
+    },
+    {
+      "id": 151,
+      "title": "New recommendations for the public's readiness to pay",
+      "summary": "The prevailing global situation and Sweden's high degree of digitization can lead to vulnerabilities in the payment system. It is therefore important that the public ensure that they have different ways to pay, such as cash, payment cards and access to payment services via mobile phone.",
+      "title_original": "Nya rekommendationer för allmänhetens betalningsberedskap",
+      "summary_original": "Det rådande omvärldsläget och Sveriges höga grad av digitalisering kan medföra sårbarheter i betalningssystemet. Det är därför viktigt att allmänheten ser till att ha olika sätt att betala på, så som kontanter, betalkort och tillgång till betaltjänster via mobiltelefon.",
+      "link": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/nya-rekommendationer-for-allmanhetens-betalningsberedskap/",
+      "date_display": "2026-03-04",
+      "date_iso": "2026-03-04T08:30:55+00:00",
+      "source": "Riksbanken",
+      "ministry": "Central Bank",
+      "type": "Official Information",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 169,
+      "title": "Sweden becomes member of Global Coalition on Telecommunications",
+      "summary": "Sweden has become a member of the Global Coalition on Telecommunications (GCOT). It is a global coalition of countries that jointly drive policy development in telecommunications. In connection to Sweden joining the coalition, the members of GCOT launched Security and Resilience Principles for 6G, which Sweden endorses.",
+      "title_original": "Sweden becomes member of Global Coalition on Telecommunications",
+      "summary_original": "Sweden has become a member of the Global Coalition on Telecommunications (GCOT). It is a global coalition of countries that jointly drive policy development in telecommunications. In connection to Sweden joining the coalition, the members of GCOT launched Security and Resilience Principles for 6G, which Sweden endorses.",
+      "link": "https://www.government.se/press-releases/2026/03/sweden-becomes-member-of-global-coalition-on-telecommunications/",
+      "date_display": "2026-03-03",
+      "date_iso": "2026-03-03T12:00:19+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry of Finance",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry of Finance",
+        "Digital policy",
+        "Erik Slottner",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": 182,
       "title": "Sweden’s AI Strategy in five minutes",
       "summary": "Sweden’s AI Strategy sets the long-term direction of the Government’s work with AI. It also provides guidance for work with AI throughout Sweden. The Government adopted the Strategy in February 2026.",
       "title_original": "Sweden’s AI Strategy in five minutes",
@@ -68,7 +125,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Finance",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Webcast",
         "EU",
@@ -80,7 +137,7 @@
       ]
     },
     {
-      "id": 181,
+      "id": 183,
       "title": "Sweden’s first comprehensive AI strategy aims for top-10 ranking",
       "summary": "Sweden aims to take a leading role in artificial intelligence. The Government is now presenting a new AI strategy with the aim of providing more effective government agencies, clearer rules for businesses and better conditions for research. The objective is for Sweden to be among the world’s top 10 countries in the field of AI.",
       "title_original": "Sweden’s first comprehensive AI strategy aims for top-10 ranking",
@@ -91,7 +148,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Finance",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "EU",
@@ -116,7 +173,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 184,
       "title": "Joint Statement of the Leaders of Ukraine and the Nordic Baltic States (NB8) to mark four years of Russia’s war of aggression against Ukraine 24 February 2026",
       "summary": "Gathered in Kyiv – President of Ukraine Volodymyr Zelenskyy and the leaders of the Nordic Baltic States (NB8) – Prime Minister of Estonia Kristen Michal, Prime Minister of Denmark Mette Frederiksen, President of Finland Alexander Stubb, Prime Minister of Iceland Kristrún Frostadóttir, Prime Minister of Latvia Evika Siliņa, President of Lithuania Gitanas Nausėda, Prime Minister of Norway Jonas Gahr Støre and Prime Minister of Sweden Ulf Kristersson – mark four years since Russia launched its illegal, unjustified full-scale military invasion of Ukraine.",
       "title_original": "Joint Statement of the Leaders of Ukraine and the Nordic Baltic States (NB8) to mark four years of Russia’s war of aggression against Ukraine 24 February 2026",
@@ -127,7 +184,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -137,7 +194,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 185,
       "title": "Joint statement on the situation in the West Bank",
       "summary": "Joint statement on the situation in the West Bank.",
       "title_original": "Joint statement on the situation in the West Bank",
@@ -148,7 +205,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -159,7 +216,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 186,
       "title": "Egypt visit characterised by impactful meetings and deepened cooperation",
       "summary": "For several intensive February days in Cairo, Minister for Health Care Elisabet Lann met with organisers and actors that care for severely injured patients from Gaza on a daily basis. The trip provided a deeper understanding of the extensive work being done and how Swedish initiatives are contributing.",
       "title_original": "Egypt visit characterised by impactful meetings and deepened cooperation",
@@ -170,7 +227,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Health and Social Affairs",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "International",
         "Ministry of Health and Social Affairs",
@@ -179,186 +236,6 @@
         "Article",
         "Elisabet Lann"
       ]
-    },
-    {
-      "id": 185,
-      "title": "Government intends to propose Swedish loan guarantee to World Bank to enable SEK 2.5 billion in new budget support to Ukraine",
-      "summary": "The Government intends to enable a loan of an additional SEK 2.5 billion to Ukraine via the World Bank by guaranteeing repayment of the loan. This means that Sweden will enable additional budget support to Ukraine in early 2026.",
-      "title_original": "Government intends to propose Swedish loan guarantee to World Bank to enable SEK 2.5 billion in new budget support to Ukraine",
-      "summary_original": "The Government intends to enable a loan of an additional SEK 2.5 billion to Ukraine via the World Bank by guaranteeing repayment of the loan. This means that Sweden will enable additional budget support to Ukraine in early 2026.",
-      "link": "https://www.government.se/press-releases/2026/02/government-proposes-swedish-loan-guarantee-to-world-bank-to-enable-sek-2.5-billion-in-new-budget-support-to-ukraine",
-      "date_display": "2026-02-19",
-      "date_iso": "2026-02-19T06:00:22+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "International development cooperation",
-        "Foreign and security policy",
-        "Sweden's support to Ukraine",
-        "Benjamin Dousa"
-      ]
-    },
-    {
-      "id": 186,
-      "title": "Joint Ministerial Statement on Protection of Civilians and humanitarian operations in Sudan",
-      "summary": "",
-      "title_original": "Joint Ministerial Statement on Protection of Civilians and humanitarian operations in Sudan",
-      "summary_original": "",
-      "link": "https://www.government.se/statements/2026/02/joint-ministerial-statement-on-protection-of-civilians-and-humanitarian-operations-in-sudan/",
-      "date_display": "2026-02-18",
-      "date_iso": "2026-02-18T18:45:33+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "International",
-        "Ministry for Foreign Affairs",
-        "Democracy and human rights",
-        "Foreign and security policy",
-        "Statement",
-        "International law",
-        "Maria Malmer Stenergard"
-      ]
-    },
-    {
-      "id": 187,
-      "title": "Ebba Busch to take part in high-level AI meeting in India",
-      "summary": "On 18–20 February, Deputy Prime Minister Ebba Busch will be in New Delhi to take part in the AI Impact Summit. The Summit gathers leaders from more than 30 countries and aims to promote international cooperation in the area of AI.",
-      "title_original": "Ebba Busch to take part in high-level AI meeting in India",
-      "summary_original": "On 18–20 February, Deputy Prime Minister Ebba Busch will be in New Delhi to take part in the AI Impact Summit. The Summit gathers leaders from more than 30 countries and aims to promote international cooperation in the area of AI.",
-      "link": "https://www.government.se/press-releases/2026/02/ebba-busch-to-take-part-in-high-level-ai-meeting-in-india/",
-      "date_display": "2026-02-18",
-      "date_iso": "2026-02-18T09:04:30+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Climate and Enterprise",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry of Climate and Enterprise",
-        "Digital policy",
-        "Innovation",
-        "Ebba Busch"
-      ]
-    },
-    {
-      "id": 188,
-      "title": "Support to Ukraine, security policy cooperation and gender equality in focus for this year’s Statement of Foreign Policy",
-      "summary": "Today, 18 February, Minister for Foreign Affairs Maria Malmer Stenergard presented the Government’s 2026 Statement of Foreign Policy in the Riksdag. The Government’s foremost foreign policy priorities are support to Ukraine and increased pressure on Russia, stronger cooperation in security and trade, and gender equality and women’s empowerment.",
-      "title_original": "Support to Ukraine, security policy cooperation and gender equality in focus for this year’s Statement of Foreign Policy",
-      "summary_original": "Today, 18 February, Minister for Foreign Affairs Maria Malmer Stenergard presented the Government’s 2026 Statement of Foreign Policy in the Riksdag. The Government’s foremost foreign policy priorities are support to Ukraine and increased pressure on Russia, stronger cooperation in security and trade, and gender equality and women’s empowerment.",
-      "link": "https://www.government.se/press-releases/2026/02/support-to-ukraine-security-policy-cooperation-and-gender-equality-in-focus-for-this-years-statement-of-foreign-policy/",
-      "date_display": "2026-02-18",
-      "date_iso": "2026-02-18T08:23:08+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "Press release",
-        "EU",
-        "International",
-        "Ministry for Foreign Affairs",
-        "International development cooperation",
-        "Foreign and security policy",
-        "Sweden's support to Ukraine",
-        "NATO",
-        "Maria Malmer Stenergard",
-        "Government’s priorities",
-        "N5/NB8–cooperation on foreign and security policy"
-      ]
-    },
-    {
-      "id": 189,
-      "title": "Statement of Foreign Policy 2026",
-      "summary": "On 18 February, Minister for Foreign Affairs Maria Malmer Stenergard presented the 2026 Statement of Foreign Policy in the Riksdag.\n\nCheck against delivery.",
-      "title_original": "Statement of Foreign Policy 2026",
-      "summary_original": "On 18 February, Minister for Foreign Affairs Maria Malmer Stenergard presented the 2026 Statement of Foreign Policy in the Riksdag.\n\nCheck against delivery.",
-      "link": "https://www.government.se/speeches/2026/02/statement-of-foreign-policy-2026/",
-      "date_display": "2026-02-18",
-      "date_iso": "2026-02-18T08:20:00+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "Speech",
-        "EU",
-        "International",
-        "Ministry for Foreign Affairs",
-        "International development cooperation",
-        "Foreign and security policy",
-        "Sweden's support to Ukraine",
-        "NATO",
-        "Maria Malmer Stenergard",
-        "Government’s priorities",
-        "N5/NB8–cooperation on foreign and security policy"
-      ]
-    },
-    {
-      "id": 190,
-      "title": "Joint statement by Prime Minister Ulf Kristersson and Prime Minister Donald Tusk of the Republic of Poland",
-      "summary": "Joint statement by Prime Minister Ulf Kristersson and Prime Minister Donald Tusk of the Republic of Poland, on 17 February 2026.",
-      "title_original": "Joint statement by Prime Minister Ulf Kristersson and Prime Minister Donald Tusk of the Republic of Poland",
-      "summary_original": "Joint statement by Prime Minister Ulf Kristersson and Prime Minister Donald Tusk of the Republic of Poland, on 17 February 2026.",
-      "link": "https://www.government.se/statements/2026/02/joint-statement-by-prime-minister-ulf-kristersson-and-prime-minister-donald-tusk-of-the-republic-of-poland/",
-      "date_display": "2026-02-17",
-      "date_iso": "2026-02-17T17:32:56+00:00",
-      "source": "Government.se",
-      "ministry": "Prime Minister's Office",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "International",
-        "Prime Minister's Office",
-        "Foreign and security policy",
-        "Statement",
-        "Ulf Kristersson",
-        "Military defence"
-      ]
-    },
-    {
-      "id": 191,
-      "title": "New strategy for reform cooperation with Eastern Europe, the Western Balkans and Türkiye",
-      "summary": "The Government has adopted a new strategy for Sweden’s reform cooperation with Eastern Europe, the Western Balkans and Türkiye for 2026–2030. The aim of the strategy is to strengthen the countries’ reform efforts and bring them closer to the EU.",
-      "title_original": "New strategy for reform cooperation with Eastern Europe, the Western Balkans and Türkiye",
-      "summary_original": "The Government has adopted a new strategy for Sweden’s reform cooperation with Eastern Europe, the Western Balkans and Türkiye for 2026–2030. The aim of the strategy is to strengthen the countries’ reform efforts and bring them closer to the EU.",
-      "link": "https://www.government.se/press-releases/2026/02/new-strategy-for-reform-cooperation-with-eastern-europe-the-western-balkans-and-turkiye/",
-      "date_display": "2026-02-17",
-      "date_iso": "2026-02-17T13:51:30+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "International development cooperation",
-        "Benjamin Dousa"
-      ]
-    },
-    {
-      "id": 192,
-      "title": "The full council has decided on the disposition of the Riksbank's results",
-      "summary": "The full council has decided on the disposition of the Riksbank's results",
-      "title_original": "Fullmäktige har beslutat om disposition av Riksbankens resultat",
-      "summary_original": "Fullmäktige har beslutat om disposition av Riksbankens resultat",
-      "link": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/fullmaktige-har-beslutat-om-disposition-av-riksbankens-resultat/",
-      "date_display": "2026-02-17",
-      "date_iso": "2026-02-17T12:00:38+00:00",
-      "source": "Riksbanken",
-      "ministry": "Central Bank",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": []
     }
   ]
 }
