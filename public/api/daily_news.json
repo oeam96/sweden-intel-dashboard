@@ -1,57 +1,84 @@
 {
-  "generated_at": "2026-03-13T09:06:23.923639+01:00",
-  "date": "2026-03-13",
-  "item_count": 16,
+  "generated_at": "2026-03-15T09:04:24.421868+01:00",
+  "date": "2026-03-15",
+  "item_count": 17,
   "items": [
     {
-      "id": 0,
-      "title": "The doctor's ultimatum: Do you want to live or die?",
-      "summary": "Good morning! In this edition of the newsletter, you get an insight into the SvD review, which has had an international impact. In addition, we find out what \"boomerasking\" is.",
-      "title_original": "Läkarens ultimatum: Vill du leva eller dö?",
-      "summary_original": "God morgon! I den här upplagan av nyhetsbrevet får du en inblick i SvD-granskningen som fått internationellt genomslag. Dessutom reder vi ut vad ”boomerasking” är för något.",
-      "link": "https://www.svd.se/a/K8n0zo/veckan-med-svd-vecka-11",
-      "date_display": "2026-03-13",
-      "date_iso": "2026-03-13T08:00:21+00:00",
+      "id": 2,
+      "title": "Saga Cavallin: The ground-breaking musical year of 2016 leaves an impression to this day",
+      "summary": "In our time, 2016 has come across as an uncomplicated, softer year. Even if it is self-delusion, one thing remains unsurpassed about the decade-old period – it was an epoch-making musical year whose aftermath is still felt, writes DN's Saga Cavallin.",
+      "title_original": "Saga Cavallin: Det banbrytande musikåret 2016 sätter avtryck än i dag",
+      "summary_original": "I vår tid har 2016 kommit att framstå som ett okomplicerat, mjukare år. Även om det är självbedrägeri förblir en sak oöverträffad med den decenniegamla perioden – det var ett epokgörande musikår vars efterdyningar fortfarande känns av, skriver DN:s Saga Cavallin.",
+      "link": "https://www.dn.se/kultur/saga-cavallin-det-banbrytande-musikaret-2016-satter-avtryck-an-i-dag/",
+      "date_display": "2026-03-15",
+      "date_iso": "2026-03-15T07:28:16+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 9,
+      "title": "Residents collapse - demand lower electricity prices: \"Is just the beginning\"",
+      "summary": "The electricity uprising has started in Jokkmokk, the municipality that is the country's largest producer of renewable electricity. The fact that costs are rising at the same time despite the proximity to power production arouses anger.\n\n- I live in a villa, I live a kilometer from the power plant here. The electricity bill has become twice as expensive. The last bill was SEK 8,000 and it is usually SEK 4,000 max. Yes, it's simply awful, says Niklas Wågman, villa owner in Jokkmokk. Demonstrations are planned in several locations The call demands, among other things, lower electricity prices and a domestic electricity trade. It is also about lower electricity rates in the two northern electricity areas and that the VAT on electricity is removed. - If nothing happens, we may go to Stockholm and just recapitulate in a box outside the Riksdag, as has been done before. So it won't end, this is just the beginning, says Anna Hövenmark, initiator of the electricity uprising.\n\nElectricity area 1, which includes Norrbotten and Västerbotten, this winter had electricity prices at the same levels as the rest of Sweden. It's unfair, says the electric uprising.\n\n- We're so cold up here compared to down there, so I don't think it's strange at all that it should be cheaper here, says Niklas Wågman in Jokkmokk.",
+      "title_original": "Boende rasar – kräver lägre elpriser: ”Är bara början”",
+      "summary_original": "Elupproret har startat i Jokkmokk, kommunen som landets största producent av förnybar el. Att kostnaderna samtidigt stiger trots närheten till kraftproduktionen väcker ilska.\n\n– Jag bor i villa, jag bor en kilometer från kraftverket här. Elräkningen har blivit dubbelt så dyr. Sista räkningen var på 8 000 kronor och den brukar vara på 4 000 kronor max. Ja, det är ju förjäkligt helt enkelt, säger Niklas Wågman, villaägare i Jokkmokk. Manifestationer planeras på flera orter Uppropet kräver bland annat lägre elpriser och en inhemsk elhandel. Det handlar också om lägre eltaxa i de två nordliga elområdena och att momsen på el tas bort. – Händer ingenting så får vi väl åka till Stockholm och bara rekapitulera oss i en låda utanför riksdagen som det har gjorts förut. Alltså det kommer inte att ta slut, det här är bara början, säger Anna Hövenmark, initiativtagare till elupproret.\n\nElområde 1, där Norrbotten och Västerbotten ingår, har i vinter haft elpriser på samma nivåer som övriga Sverige. Det är orättvist, menar elupproret.\n\n– Vi har ju sån kyla här uppe jämfört med där nere alltså så jag tycker inte att det är några konstigheter alls att det ska vara billigare här, säger Niklas Wågman i Jokkmokk.",
+      "link": "https://www.tv4.se/artikel/3rr57xy66A3yR9fd3xSeS0/boende-rasar-kraever-laegre-elpriser-aer-bara-boerjan",
+      "date_display": "2026-03-15",
+      "date_iso": "2026-03-15T07:19:15+00:00",
+      "source": "TV4 Nyheterna",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Nyheterna",
+        "/inrikes",
+        "/jokkmokk",
+        "/norrbotten",
+        "/elpriser"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Called a traitor on TV - returns to Iran",
+      "summary": "Three more players in the Iranian women's national team have returned home to Iran after being granted residency in Australia. The players were branded traitors by the regime during the Asian Championships, the BBC reports.",
+      "title_original": "Kallades förrädare i tv – återvänder till Iran",
+      "summary_original": "Ytterligare tre spelare i det iranska damlaget har återvänt hem till Iran efter att ha fått uppehållstillstånd i Australien. Spelarna stämplades som förrädare av regimen under asiatiska mästerskapen, rapporterar  BBC.",
+      "link": "https://www.svd.se/a/3pMXye/iranska-fotbollsspelare-andrar-sig-om-asyl-i-australien",
+      "date_display": "2026-03-15",
+      "date_iso": "2026-03-15T06:39:52+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Sverige"
+        "Världen"
       ]
     },
     {
-      "id": 1,
-      "title": "Movie list week 11: \"The Wizard from the Kremlin\" is new in theaters",
-      "summary": "Politically charged \"The Wizard of the Kremlin\" and the Mediterranean-scented Spanish family drama \"Romería\" are new on the big screen this weekend. DN's film editor Helena Lindblad lists the best films in theaters right now.",
-      "title_original": "Filmlistan vecka 11: ”Trollkarlen från Kreml” är ny på bio",
-      "summary_original": "Politiskt laddade ”Trollkarlen i Kreml”och det medelhavsdoftande spanska familjedramat ”Romería” är nya på vita duken i helgen. DN:s filmredaktör Helena Lindblad listar de bästa filmerna på bio just nu.",
-      "link": "https://www.dn.se/kultur/filmlistan-vecka-11-trollkarlen-fran-kreml-ar-ny-pa-bio/",
+      "id": 159,
+      "title": "Speech by the Minister for Foreign Affairs at the Baltic Sea Security Talks in Gdansk",
+      "summary": "Speech by the Minister for Foreign Affairs Maria Malmer Stenergard at the Baltic Sea Security Talks in Gdansk, 12 March 2026. Check against delivery.",
+      "title_original": "Speech by the Minister for Foreign Affairs at the Baltic Sea Security Talks in Gdansk",
+      "summary_original": "Speech by the Minister for Foreign Affairs Maria Malmer Stenergard at the Baltic Sea Security Talks in Gdansk, 12 March 2026. Check against delivery.",
+      "link": "https://www.government.se/speeches/2026/03/speech-by-the-minister-for-foreign-affairs-at-the-baltic-sea-security-talks-in-gdansk-on-12-march/",
       "date_display": "2026-03-13",
-      "date_iso": "2026-03-13T08:00:00+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
+      "date_iso": "2026-03-13T13:51:21+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Speech",
+        "International",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "Maria Malmer Stenergard"
+      ]
     },
     {
-      "id": 5,
-      "title": "Tomas Ramberg: The Liberals are capitulating faster than expected",
-      "summary": "The red line against SD in the government issue already lacked credibility when it was presented last autumn. It was only a matter of time before it was abandoned. Nevertheless, the retreat is coming sooner than expected. The party leadership was unable to master the horror for more than a few months. The Liberals have let go of the ambition to win votes for the party's policies. Now only the bare tactical thinking applies.",
-      "title_original": "Tomas Ramberg: Liberalerna kapitulerar snabbare än väntat",
-      "summary_original": "Den röda linjen mot SD i regeringsfrågan saknade trovärdighet redan när den presenterades i höstas. Det har bara varit en tidsfråga när den skulle överges. Ändå kommer reträtten fortare än väntat. Partiledningen klarade inte att bemästra skräcken mer än några månader. Liberalerna har släppt ambitionen att vinna röster på partiets politik. Nu gäller bara det nakna taktiktänkandet.",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-liberalerna-kapitulerar-snabbare-an-vantat/",
-      "date_display": "2026-03-13",
-      "date_iso": "2026-03-13T07:58:02+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 146,
+      "id": 174,
       "title": "The Payments Report 2026: Measures required to reduce vulnerability and increase inclusion in the payments market",
       "summary": "In order to reduce dependence on the outside world, the banks need to develop new payment services based on national and European systems. Primarily, banks must offer more services for instant payments, otherwise legislation should be introduced. To increase inclusion in the payment market, more payment methods are needed for those who do not have a payment account or experience digital exclusion. Access to cash services also needs to be improved, the Riksbank writes in the Payment Report published today.",
       "title_original": "Betalningsrapporten 2026: Åtgärder krävs för minskad sårbarhet och ökad inkludering på betalningsmarknaden",
@@ -62,11 +89,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "2 days old",
       "tags": []
     },
     {
-      "id": 166,
+      "id": 181,
       "title": "The Riksbank's business survey: \"It is not an obvious recovery, but we see that it is still happening\"",
       "summary": "The large Swedish companies are experiencing a certain improvement in the economy, but the recovery is both slow and hesitant. The troubled global situation has noticeably affected household consumption and companies' willingness to invest, and makes companies cautious when looking ahead. This is shown by the Riksbank's company survey in February.",
       "title_original": "Riksbankens företagsundersökning: ”Det är ingen självklar återhämtning men vi ser att det ändå händer”",
@@ -77,11 +104,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": []
     },
     {
-      "id": 176,
+      "id": 182,
       "title": "Statement by Ms Nina Larsson, Minister for Gender Equality",
       "summary": "Statement by Ms Nina Larsson, Minister for Gender Equality at the UN Commission on the Status of Women, New York, 9 March 2026. Check against delivery.",
       "title_original": "Statement by Ms Nina Larsson, Minister for Gender Equality",
@@ -92,7 +119,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Employment",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Speech",
         "International",
@@ -102,7 +129,7 @@
       ]
     },
     {
-      "id": 180,
+      "id": 183,
       "title": "Statement from Ministry for Foreign Affairs on summoning of Russian Ambassador",
       "summary": "On 9 March, the Russian Ambassador in Stockholm was summoned to the Ministry for Foreign Affairs.",
       "title_original": "Statement from Ministry for Foreign Affairs on summoning of Russian Ambassador",
@@ -113,7 +140,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -123,7 +150,7 @@
       ]
     },
     {
-      "id": 181,
+      "id": 184,
       "title": "Government supports women’s and girls’ resilience in Ukraine",
       "summary": "Russia’s systematic and illegal attacks in Ukraine have deadly consequences. Women may be vulnerable, but they also play a key role in Ukraine’s civilian resilience in areas such as health and medical care, education and defence initiatives. Therefore, the Government is allocating more than SEK 71 million for activities that benefit women and girls in Ukraine. The funds will be distributed between the United Nations Population Fund (UNFPA) and the United Nations Programme for Gender Equality and the Empowerment of Women (UN Women) with a focus on humanitarian activities.",
       "title_original": "Government supports women’s and girls’ resilience in Ukraine",
@@ -134,7 +161,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Employment",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "International",
@@ -147,7 +174,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 185,
       "title": "Minister for Gender Equality wants to see stronger international alliances against online threats and hatred",
       "summary": "Minister for Gender Equality Nina Larsson will lead the Swedish delegation attending the UN Commission on the Status of Women in New York on 9–19 March, the world’s largest conference on women’s rights and gender equality. Ms Larsson will take part during the first week and will be advocating for stronger international alliances against online threats and hatred. The conference on women’s rights and gender equality is held annually and is the second largest in the UN system.",
       "title_original": "Minister for Gender Equality wants to see stronger international alliances against online threats and hatred",
@@ -158,7 +185,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Employment",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "International",
@@ -169,7 +196,7 @@
       ]
     },
     {
-      "id": 185,
+      "id": 186,
       "title": "Statement on the decisions by the International Paralympic Committee related to the 2026 Paralympic Winter Games",
       "summary": "",
       "title_original": "Statement on the decisions by the International Paralympic Committee related to the 2026 Paralympic Winter Games",
@@ -180,7 +207,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Health and Social Affairs",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "International",
         "Ministry of Health and Social Affairs",
@@ -190,7 +217,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 187,
       "title": "Continuing Nordic cooperation on returns",
       "summary": "Joint Statement by the ministers responsible for migration from the Nordic Countries.",
       "title_original": "Continuing Nordic cooperation on returns",
@@ -201,7 +228,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Justice",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "EU",
         "Ministry of Justice",
@@ -212,7 +239,7 @@
       ]
     },
     {
-      "id": 187,
+      "id": 188,
       "title": "Statement of the International Contact Group for the Great Lakes (ICG) on the situation in the eastern Democratic Republic of the Congo (DRC)",
       "summary": "Belgium, Denmark, the European Union, France, Germany, the Netherlands, Sweden, Switzerland, the United Kingdom and the United States of America, as members of the International Contact Group for the Great Lakes (ICG), chaired by Sweden, issue the following statement on the situation in the eastern Democratic Republic of the Congo (DRC).",
       "title_original": "Statement of the International Contact Group for the Great Lakes (ICG) on the situation in the eastern Democratic Republic of the Congo (DRC)",
@@ -223,7 +250,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -232,7 +259,7 @@
       ]
     },
     {
-      "id": 188,
+      "id": 189,
       "title": "Memorandum of understanding on protecting the civilian population of the Baltic Sea region and the Nordic countries",
       "summary": "Sweden has signed a memorandum of understanding on protecting the civilian population of the Baltic Sea region and the Nordic countries, together with Denmark, Estonia, Finland, Germany, Iceland, Latvia, Lithuania, Norway and Poland.",
       "title_original": "Memorandum of understanding on protecting the civilian population of the Baltic Sea region and the Nordic countries",
@@ -243,7 +270,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "International",
         "Ministry of Defence",
@@ -254,7 +281,7 @@
       ]
     },
     {
-      "id": 189,
+      "id": 190,
       "title": "Increased protection for the civilian population in the Baltic Sea and Nordic region",
       "summary": "Sweden has signed a memorandum of understanding on protecting the civilian population of the Baltic Sea region and the Nordic countries, together with Denmark, Estonia, Finland, Germany, Iceland, Latvia, Lithuania, Norway and Poland. This enables the temporary movement of people across borders in the event of crisis or, in the worst-case scenario, war.",
       "title_original": "Increased protection for the civilian population in the Baltic Sea and Nordic region",
@@ -265,7 +292,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "International",
@@ -278,7 +305,7 @@
       ]
     },
     {
-      "id": 190,
+      "id": 191,
       "title": "New recommendations for the public's readiness to pay",
       "summary": "The prevailing global situation and Sweden's high degree of digitization can lead to vulnerabilities in the payment system. It is therefore important that the public ensure that they have different ways to pay, such as cash, payment cards and access to payment services via mobile phone.",
       "title_original": "Nya rekommendationer för allmänhetens betalningsberedskap",
@@ -289,11 +316,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": []
     },
     {
-      "id": 191,
+      "id": 192,
       "title": "Sweden becomes member of Global Coalition on Telecommunications",
       "summary": "Sweden has become a member of the Global Coalition on Telecommunications (GCOT). It is a global coalition of countries that jointly drive policy development in telecommunications. In connection to Sweden joining the coalition, the members of GCOT launched Security and Resilience Principles for 6G, which Sweden endorses.",
       "title_original": "Sweden becomes member of Global Coalition on Telecommunications",
@@ -304,7 +331,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Finance",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "International",
