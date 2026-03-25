@@ -1,17 +1,49 @@
 {
-  "generated_at": "2026-03-23T09:33:04.432022+01:00",
-  "date": "2026-03-23",
-  "item_count": 17,
+  "generated_at": "2026-03-25T09:09:15.105531+01:00",
+  "date": "2026-03-25",
+  "item_count": 15,
   "items": [
     {
-      "id": 1,
-      "title": "Unexpected pollen culprit - \"small particles spread\"",
-      "summary": "Sneezing, watery eyes and itchy nose - the pollen season is now underway. For some allergy sufferers, there is also an unexpected pollen bomb that many do not know about.",
-      "title_original": "Oväntade pollenboven – ”sprids småpartiklar”",
-      "summary_original": "Snorigt, rinnande ögon och kliande näsa – nu är pollensäsongen i gång. För vissa allergiker finns det dessutom en oväntad pollenbomb som många inte vet om.",
-      "link": "https://www.svd.se/a/5pEAEb/pollensasongen-ar-har-dold-pollenbomb-i-paskris",
-      "date_display": "2026-03-23",
-      "date_iso": "2026-03-23T08:20:01+00:00",
+      "id": 3,
+      "title": "KI: Households worry more than normal",
+      "summary": "The mood in the Swedish economy is largely unchanged in March, according to a barometer indicator from the Norwegian Economic Institute (KI). The indicator for the month rises slightly to 99.9, from 99.7 in February.",
+      "title_original": "KI: Hushållen oroas mer än normalt",
+      "summary_original": "Stämningsläget i svensk ekonomi är i stort sett oförändrat i mars, enligt en barometerindikator från Konjunkturinstitutet (KI). Indikatorn för månaden stiger svagt till 99,9, från 99,7 i februari.",
+      "link": "https://www.svd.se/a/2ppBQv/ki-hushallen-oroas-mer-an-normalt",
+      "date_display": "2026-03-25",
+      "date_iso": "2026-03-25T08:03:07+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Näringsliv"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "New art gallery becomes a reality in Tornedalen: \"It seemed completely crazy\"",
+      "summary": "What makes 1,500 private individuals, several wealthy enthusiasts and an art manager from Stockholm go in and support an art gallery in the middle of nowhere? The answer can be found in a village just south of the Arctic Circle, where the first sod has now been laid for Konsthall Tornedalen.",
+      "title_original": "Ny konsthall blir verklighet i Tornedalen: ”Det verkade fullständigt skogstokigt”",
+      "summary_original": "Vad får 1 500 privatpersoner, flera välbärgade entusiaster och en konstchef från Stockholm att gå in och stötta en konsthall mitt ute i ingenstans? Svaret finns i en by strax söder om polcirkeln, där det första spadtaget till Konsthall Tornedalen nu har tagits.",
+      "link": "https://www.dn.se/kultur/ny-konsthall-blir-verklighet-i-tornedalen-det-verkade-fullstandigt-skogstokigt/",
+      "date_display": "2026-03-25",
+      "date_iso": "2026-03-25T07:57:56+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 15,
+      "title": "\"Duty of information\" will find more people in the shadow society",
+      "summary": "The government and SD continue with the duty of information. Employees of a number of authorities must report to the police when they discover people who do not have the right to stay in Sweden.",
+      "title_original": "”Informationsplikt” ska hitta fler i skuggsamhället",
+      "summary_original": "Regeringen och SD går vidare med informationsplikten. Anställda på ett antal myndigheter ska vara skyldiga att anmäla till polis när de upptäcker personer som inte har rätt att vistas i Sverige.",
+      "link": "https://www.svd.se/a/aJJbRM/informationsplikt-ska-hitta-fler-i-skuggsamhallet",
+      "date_display": "2026-03-25",
+      "date_iso": "2026-03-25T07:33:58+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -21,40 +53,53 @@
       ]
     },
     {
-      "id": 2,
-      "title": "The battle against the Liberals after the vote: \"Failed miserably\"",
-      "summary": "Simona Mohamsson has been given renewed confidence as Liberal party leader. It was an even vote - but the road ahead can be all the more bumpy. - She tried to shake up the party so that it would end up behind this new line. That has not been done, but it has failed miserably, says political scientist Jonas Hinnfors.",
-      "title_original": "Slaget mot Liberalerna efter omröstningen: ”Misslyckats kapitalt”",
-      "summary_original": "Simona Mohamsson har fått förnyat förtroende som Liberalernas partiledare. Det blev en jämn omröstning – men vägen framåt kan bli desto mer knagglig. – Hon försökte skaka om partiet så att man skulle sluta upp bakom den här nya linjen. Det har man inte gjort, utan det har misslyckats kapitalt, säger statsvetaren Jonas Hinnfors.",
-      "link": "https://www.dn.se/sverige/slaget-mot-liberalerna-efter-omrostningen-misslyckats-kapitalt/",
+      "id": 167,
+      "title": "SEK 240 million in new support to Ukraine",
+      "summary": "The Government has presented a new support package to Ukraine for 2026 worth around SEK 240 million. The support includes SEK 150 million for the Ukrainian Red Cross for humanitarian operations. In addition, the support package is heavily focused on children’s needs, supporting the provision of school food in areas close to the frontline, promoting reforms for family-based care of children and supporting children’s mental health.",
+      "title_original": "SEK 240 million in new support to Ukraine",
+      "summary_original": "The Government has presented a new support package to Ukraine for 2026 worth around SEK 240 million. The support includes SEK 150 million for the Ukrainian Red Cross for humanitarian operations. In addition, the support package is heavily focused on children’s needs, supporting the provision of school food in areas close to the frontline, promoting reforms for family-based care of children and supporting children’s mental health.",
+      "link": "https://www.government.se/press-releases/2026/03/sek-240-million-in-new-support-to-ukraine/",
       "date_display": "2026-03-23",
-      "date_iso": "2026-03-23T08:17:34+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 5,
-      "title": "The Stockholm Stock Exchange is collapsing",
-      "summary": "When the Stockholm Stock Exchange opened on Monday morning, the broad index OMXSPI had fallen by 2.4 percent. - The money is moving away from the stock market, now people are nervous, says Calle Söderberg, savings economist at Nordnet.  Shortly after opening, the stock market rose slightly again and around ten minutes after opening, the decline was around two percent.  Over the weekend, Trump has threatened to strike Iran's energy infrastructure if the Strait of Hormuz does not open tonight, and the decline was expected.",
-      "title_original": "Stockholmsbörsen rasar",
-      "summary_original": "När Stockholmsbörsen öppnade under måndagsmorgonen hade det breda indexet OMXSPI fallit med 2,4 procent. – Pengarna söker sig bort från aktiemarknaden, nu är folk nervösa, säger Calle Söderberg, sparekonom på Nordnet.  Strax efter öppning gick börsen något uppåt igen och runt tio minuter efter öppning låg nedgången på runt två procent.  Trump har under helgen hotat med att slå mot Irans energiinfrastruktur  om inte Hormuzsundet öppnar i natt och nedgången var väntad.",
-      "link": "https://www.tv4.se/artikel/4aUeBOwVUkGHwJFtP87ZfH/stockholmsboersen-rasar",
-      "date_display": "2026-03-23",
-      "date_iso": "2026-03-23T08:09:32+00:00",
-      "source": "TV4 Nyheterna",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
+      "date_iso": "2026-03-23T14:52:19+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "1 day old",
       "tags": [
-        "Nyheterna",
-        "/ekonomi"
+        "Press release",
+        "International",
+        "Ministry for Foreign Affairs",
+        "International development cooperation",
+        "Foreign and security policy",
+        "Sweden's support to Ukraine",
+        "Benjamin Dousa"
       ]
     },
     {
-      "id": 175,
+      "id": 170,
+      "title": "SEK 555 million in new humanitarian aid for Gaza",
+      "summary": "After more than two years of war and suffering, children in Gaza are in acute need of health and medical care, psychosocial support, safety, nutrition and education. Initiatives in these areas are needed to lay the foundations for reconstruction and recovery. Sweden is now providing SEK 555 million in aid, which will be distributed between the UN Children’s Fund (UNICEF), the UN World Food Programme (WFP) and the United Nations Development Programme, and will help bring safety, stability and well-being to children in Gaza.",
+      "title_original": "SEK 555 million in new humanitarian aid for Gaza",
+      "summary_original": "After more than two years of war and suffering, children in Gaza are in acute need of health and medical care, psychosocial support, safety, nutrition and education. Initiatives in these areas are needed to lay the foundations for reconstruction and recovery. Sweden is now providing SEK 555 million in aid, which will be distributed between the UN Children’s Fund (UNICEF), the UN World Food Programme (WFP) and the United Nations Development Programme, and will help bring safety, stability and well-being to children in Gaza.",
+      "link": "https://www.government.se/press-releases/2026/03/sek-555-million-in-new-humanitarian-aid-for-gaza/",
+      "date_display": "2026-03-23",
+      "date_iso": "2026-03-23T13:13:14+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry for Foreign Affairs",
+        "International development cooperation",
+        "Foreign and security policy",
+        "Response to the situation in Israel/Palestine",
+        "Benjamin Dousa"
+      ]
+    },
+    {
+      "id": 184,
       "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada and others on the Strait of Hormuz: 19 March 2026",
       "summary": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada, Republic of Korea, New Zealand, Denmark, Latvia, Slovenia, Estonia, Norway, Sweden, Finland, Czechia, Romania, Bahrain and Lithuania on the Strait of Hormuz.",
       "title_original": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada and others on the Strait of Hormuz: 19 March 2026",
@@ -65,7 +110,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -76,7 +121,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 186,
       "title": "The policy rate remains unchanged at 1.75 percent",
       "summary": "The executive board has decided to leave the key interest rate unchanged at 1.75 percent and the interest rate is expected to remain at this level for some time to come. But the war in the Middle East makes the forecast very uncertain.  The Riksbank is following developments closely and will adapt monetary policy if the inflation and business cycle prospects require it.",
       "title_original": "Styrräntan oförändrad på 1,75 procent",
@@ -87,11 +132,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": []
     },
     {
-      "id": 185,
+      "id": 187,
       "title": "The Riksbank lowers the interest rate on the supplementary liquidity facility",
       "summary": "In the Riksbank's monetary policy control system, the interest rate that shall apply to the banks' overnight deposits and lending in the Riksbank is specified. In the Riksbank's supplementary liquidity facility, banks can take loans against collateral such as covered bonds. The interest surcharge on the supplementary liquidity facility is now reduced from 0.75 percentage points to 0.30 percentage points above the policy rate. In addition, the Riksbank removes the restriction on the percentage of covered bonds that the banks may use as collateral for loans from the Riksbank. The changes come into effect on 8 April 2026, and are part of the Riksbank's long-term work to facilitate banks' adaptation to an environment with less excess liquidity.",
       "title_original": "Riksbanken sänker räntan på den kompletterande likviditetsfaciliteten",
@@ -102,11 +147,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "5 days old",
       "tags": []
     },
     {
-      "id": 186,
+      "id": 188,
       "title": "Sweden joins Pax Silica initiative",
       "summary": "On 17 March, Minister for Foreign Affairs Maria Malmer Stenergard signed the Pax Silica Declaration in connection with her visit to Houston, Texas. The initiative brings together leading technology nations and aims to strengthen cooperation to secure supply chains for emerging technologies. Pax Silica will also help promote innovation, secure digital infrastructure and protect sensitive technologies.",
       "title_original": "Sweden joins Pax Silica initiative",
@@ -117,7 +162,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Press release",
         "International",
@@ -128,7 +173,7 @@
       ]
     },
     {
-      "id": 187,
+      "id": 189,
       "title": "Statement by Minister for Energy, Business and Industry and Deputy Prime Minister Ebba Busch at the Energy Council meeting in Brussels",
       "summary": "Statement by Minister for Energy, Business and Industry and Deputy Prime Minister Ebba Busch at the Energy Council meeting in Brussels on 16 March 2026.",
       "title_original": "Statement by Minister for Energy, Business and Industry and Deputy Prime Minister Ebba Busch at the Energy Council meeting in Brussels",
@@ -139,7 +184,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Speech",
         "EU",
@@ -149,7 +194,7 @@
       ]
     },
     {
-      "id": 188,
+      "id": 190,
       "title": "Sweden provides humanitarian support to Lebanon",
       "summary": "Sweden is announcing a new SEK 65 million humanitarian aid package for Lebanon due to the ongoing military escalation between Israel and Hezbollah, which has caused a rapid deterioration in the humanitarian situation in the country. The support will be distributed among UN organisations, the International Red Cross and Red Crescent Movement and civil society to provide support and protection for people who now find themselves in the midst of the crisis.",
       "title_original": "Sweden provides humanitarian support to Lebanon",
@@ -160,7 +205,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "International",
@@ -170,7 +215,7 @@
       ]
     },
     {
-      "id": 189,
+      "id": 191,
       "title": "Joint statement by the Prime Ministers of the Nordic countries and Canada",
       "summary": "Joint statement by the Prime Ministers of the Nordic countries and Canada, Oslo, 15 March 2026.",
       "title_original": "Joint statement by the Prime Ministers of the Nordic countries and Canada",
@@ -181,7 +226,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -196,7 +241,7 @@
       ]
     },
     {
-      "id": 190,
+      "id": 192,
       "title": "Speech by the Minister for Foreign Affairs at the Baltic Sea Security Talks in Gdansk",
       "summary": "Speech by the Minister for Foreign Affairs Maria Malmer Stenergard at the Baltic Sea Security Talks in Gdansk, 12 March 2026. Check against delivery.",
       "title_original": "Speech by the Minister for Foreign Affairs at the Baltic Sea Security Talks in Gdansk",
@@ -207,7 +252,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Speech",
         "International",
@@ -217,7 +262,7 @@
       ]
     },
     {
-      "id": 191,
+      "id": 193,
       "title": "The Payments Report 2026: Measures required to reduce vulnerability and increase inclusion in the payments market",
       "summary": "In order to reduce dependence on the outside world, the banks need to develop new payment services based on national and European systems. Primarily, banks must offer more services for instant payments, otherwise legislation should be introduced. To increase inclusion in the payment market, more payment methods are needed for those who do not have a payment account or experience digital exclusion. Access to cash services also needs to be improved, the Riksbank writes in the Payment Report published today.",
       "title_original": "Betalningsrapporten 2026: Åtgärder krävs för minskad sårbarhet och ökad inkludering på betalningsmarknaden",
@@ -228,11 +273,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": []
     },
     {
-      "id": 192,
+      "id": 194,
       "title": "The Riksbank's business survey: \"It is not an obvious recovery, but we see that it is still happening\"",
       "summary": "The large Swedish companies are experiencing a certain improvement in the economy, but the recovery is both slow and hesitant. The troubled global situation has noticeably affected household consumption and companies' willingness to invest, and makes companies cautious when looking ahead. This is shown by the Riksbank's company survey in February.",
       "title_original": "Riksbankens företagsundersökning: ”Det är ingen självklar återhämtning men vi ser att det ändå händer”",
@@ -243,96 +288,8 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "12 days old",
+      "age_tag": "13 days old",
       "tags": []
-    },
-    {
-      "id": 193,
-      "title": "Statement by Ms Nina Larsson, Minister for Gender Equality",
-      "summary": "Statement by Ms Nina Larsson, Minister for Gender Equality at the UN Commission on the Status of Women, New York, 9 March 2026. Check against delivery.",
-      "title_original": "Statement by Ms Nina Larsson, Minister for Gender Equality",
-      "summary_original": "Statement by Ms Nina Larsson, Minister for Gender Equality at the UN Commission on the Status of Women, New York, 9 March 2026. Check against delivery.",
-      "link": "https://www.government.se/speeches/2026/03/statement-by-ms-nina-larsson-minister-for-gender-equality/",
-      "date_display": "2026-03-10",
-      "date_iso": "2026-03-10T14:54:30+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Employment",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "Speech",
-        "International",
-        "Ministry of Employment",
-        "Gender equality",
-        "Nina Larsson"
-      ]
-    },
-    {
-      "id": 194,
-      "title": "Statement from Ministry for Foreign Affairs on summoning of Russian Ambassador",
-      "summary": "On 9 March, the Russian Ambassador in Stockholm was summoned to the Ministry for Foreign Affairs.",
-      "title_original": "Statement from Ministry for Foreign Affairs on summoning of Russian Ambassador",
-      "summary_original": "On 9 March, the Russian Ambassador in Stockholm was summoned to the Ministry for Foreign Affairs.",
-      "link": "https://www.government.se/statements/2026/03/statement-from-ministry-for-foreign-affairs-on-summoning-of-russian-ambassador/",
-      "date_display": "2026-03-10",
-      "date_iso": "2026-03-10T09:26:54+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "International",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Statement",
-        "Sweden's support to Ukraine"
-      ]
-    },
-    {
-      "id": 195,
-      "title": "Government supports women’s and girls’ resilience in Ukraine",
-      "summary": "Russia’s systematic and illegal attacks in Ukraine have deadly consequences. Women may be vulnerable, but they also play a key role in Ukraine’s civilian resilience in areas such as health and medical care, education and defence initiatives. Therefore, the Government is allocating more than SEK 71 million for activities that benefit women and girls in Ukraine. The funds will be distributed between the United Nations Population Fund (UNFPA) and the United Nations Programme for Gender Equality and the Empowerment of Women (UN Women) with a focus on humanitarian activities.",
-      "title_original": "Government supports women’s and girls’ resilience in Ukraine",
-      "summary_original": "Russia’s systematic and illegal attacks in Ukraine have deadly consequences. Women may be vulnerable, but they also play a key role in Ukraine’s civilian resilience in areas such as health and medical care, education and defence initiatives. Therefore, the Government is allocating more than SEK 71 million for activities that benefit women and girls in Ukraine. The funds will be distributed between the United Nations Population Fund (UNFPA) and the United Nations Programme for Gender Equality and the Empowerment of Women (UN Women) with a focus on humanitarian activities.",
-      "link": "https://www.government.se/press-releases/2026/03/government-supports-womens-and-girls-resilience-in-ukraine/",
-      "date_display": "2026-03-10",
-      "date_iso": "2026-03-10T07:58:18+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Employment",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry of Employment",
-        "Ministry for Foreign Affairs",
-        "International development cooperation",
-        "Sweden's support to Ukraine",
-        "Benjamin Dousa",
-        "Nina Larsson"
-      ]
-    },
-    {
-      "id": 196,
-      "title": "Minister for Gender Equality wants to see stronger international alliances against online threats and hatred",
-      "summary": "Minister for Gender Equality Nina Larsson will lead the Swedish delegation attending the UN Commission on the Status of Women in New York on 9–19 March, the world’s largest conference on women’s rights and gender equality. Ms Larsson will take part during the first week and will be advocating for stronger international alliances against online threats and hatred. The conference on women’s rights and gender equality is held annually and is the second largest in the UN system.",
-      "title_original": "Minister for Gender Equality wants to see stronger international alliances against online threats and hatred",
-      "summary_original": "Minister for Gender Equality Nina Larsson will lead the Swedish delegation attending the UN Commission on the Status of Women in New York on 9–19 March, the world’s largest conference on women’s rights and gender equality. Ms Larsson will take part during the first week and will be advocating for stronger international alliances against online threats and hatred. The conference on women’s rights and gender equality is held annually and is the second largest in the UN system.",
-      "link": "https://www.government.se/press-releases/2026/03/minister-for-gender-equality-wants-to-see-stronger-international-alliances-against-online-threats-and-hatred/",
-      "date_display": "2026-03-09",
-      "date_iso": "2026-03-09T12:33:12+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Employment",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry of Employment",
-        "Democracy and human rights",
-        "Gender equality",
-        "Nina Larsson"
-      ]
     }
   ]
 }
