@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-03-27T09:12:57.397693+01:00",
-  "date": "2026-03-27",
+  "generated_at": "2026-03-29T10:08:24.051867+02:00",
+  "date": "2026-03-29",
   "item_count": 16,
   "items": [
     {
-      "id": 2,
-      "title": "This is how gestational diabetes should be detected earlier",
-      "summary": "More and more people are being diagnosed with gestational diabetes, which can lead to complications for both baby and mother. New, sharper recommendations from the National Board of Health and Welfare should lead to earlier testing and that more people can receive treatment.",
-      "title_original": "Så ska graviditetsdiabetes upptäckas tidigare",
-      "summary_original": "Allt fler diagnostiseras med graviditetsdiabetes, vilket kan leda till komplikationer för både barn och mamma. Nya, skarpare rekommendationer från Socialstyrelsen ska leda till tidigare testning och att fler kan få behandling.",
-      "link": "https://www.svd.se/a/Wvvox2/sa-ska-graviditetsdiabetes-upptackas-tidigare",
-      "date_display": "2026-03-27",
-      "date_iso": "2026-03-27T08:00:39+00:00",
+      "id": 0,
+      "title": "\"Wrong when the state has to control recruitment\"",
+      "summary": "The government chooses a model for labor immigration where the state tries to anticipate future skills needs in detail. It is practically impossible, and the green industries can be hit hard, write debaters.",
+      "title_original": "”Fel när staten ska styra rekrytering”",
+      "summary_original": "Regeringen väljer en modell för arbetskraftsinvandringen där staten i detalj försöker förutse framtida kompetensbehov. Det är i praktiken omöjligt, och de gröna näringarna kan drabbas hårt, skriver debattörer.",
+      "link": "https://www.svd.se/a/9ppbnp/arbetskraftsinvandring-de-grona-naringarna-behover-undantas-fran-lonekravet-skriver-debattorer",
+      "date_display": "2026-03-29",
+      "date_iso": "2026-03-29T08:00:00+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Sverige"
+        "Debatt"
       ]
     },
     {
       "id": 3,
-      "title": "Letter to the editor. Low oil prices would be good for the climate",
-      "summary": "LETTER TO THE EDITOR. A higher oil price makes it more profitable to pump more crude around the world. However, the prices that we consumers face when we fill up with fossil fuel and diesel need to be raised, writes the climate policy analyst Magnus Nilsson.",
-      "title_original": "Insändare. Lågt oljepris vore bra för klimatet",
-      "summary_original": "INSÄNDARE. Ett högre oljepris gör det mer lönsamt att pumpa upp mer råolja runt om i världen. Däremot behöver priserna som vi konsumenter möter när vi tankar fossil bensin och diesel höjas, skriver den klimatpolitiska analytikern Magnus Nilsson.",
-      "link": "https://www.dn.se/insandare/lagt-oljepris-vore-bra-for-klimatet/",
-      "date_display": "2026-03-27",
-      "date_iso": "2026-03-27T08:00:17+00:00",
+      "title": "New mortgage rules - you should keep an eye on this",
+      "summary": "Now the rules of the game are changing in the housing market. Eased amortization requirements and raised mortgage ceilings should make it easier for first-time buyers. Here are the changes to be aware of from April 1.",
+      "title_original": "Nya bolåneregler – detta ska du ha koll på",
+      "summary_original": "Nu förändras spelreglerna på bostadsmarknaden. Lättade amorteringskrav och höjt bolånetak ska underlätta för förstagångsköpare. Här är ändringarna att ha koll på från den 1 april.",
+      "link": "https://www.dn.se/ekonomi/nya-bolaneregler-detta-ska-du-ha-koll-pa/",
+      "date_display": "2026-03-29",
+      "date_iso": "2026-03-29T07:43:54+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -36,27 +36,47 @@
       "tags": []
     },
     {
-      "id": 6,
-      "title": "Epstein victims sue the state",
-      "summary": "Six of the dozen victims whose identities were revealed when the US Department of Justice released the Epstein files in January are now suing the state, the AFP news agency reports. The around three million files from the investigation against the sex offender Jeffrey Epstein contained around 100 names and nude photos where people's faces had failed to be blurred. According to the lawsuit, the department disclosed personal information and made the victims known to the world, which means a new trauma where strangers write and threaten them. The lawsuit also includes the search giant Google.",
-      "title_original": "Epsteinoffer stämmer staten",
-      "summary_original": "Sex av alla tiotal offer vars identiteter avslöjades när det amerikanska justitiedepartementet släppte Epsteinfilerna i januari stämmer nu staten, rapporterar nyhetsbyrån AFP. De runt tre miljoner filerna ur utredningen mot sexförbrytaren Jeffrey Epstein innehöll runt 100 namn och nakenbilder där människors ansikten hade missats att blurras. Enligt stämningen avslöjade departementet personuppgifter och gjorde offren kända för världen, vilket innebär ett nytt trauma där främlingar skriver och hotar dem. Stämningen omfattar också sökjätten Google.",
-      "link": "https://www.tv4.se/artikel/1eeltebW8vm3PCSK7OFFy9/epsteinoffer-staemmer-staten",
-      "date_display": "2026-03-27",
-      "date_iso": "2026-03-27T07:56:56+00:00",
-      "source": "TV4 Nyheterna",
+      "id": 7,
+      "title": "The fateful year of 1979 rules the Middle East",
+      "summary": "War, peace and revolution changed an entire region in ways that are still relevant nearly fifty years later.",
+      "title_original": "Ödesåret 1979 styr Mellanöstern",
+      "summary_original": "Krig, fred och revolution förändrade en hel region på sätt som fortfarande är aktuella snart femtio år senare.",
+      "link": "https://www.svd.se/a/d44vbA/odesaret-1979-styr-mellanostern",
+      "date_display": "2026-03-29",
+      "date_iso": "2026-03-29T07:15:00+00:00",
+      "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Inrikes",
-        "/inrikes",
-        "/jeffrey-epstein",
-        "/epstein-dokumenten"
+        "Ledare"
       ]
     },
     {
-      "id": 149,
+      "id": 140,
+      "title": "Prime Minister receives European Parliament President Roberta Metsola",
+      "summary": "Prime Minister Ulf Kristersson received President of the European Parliament Roberta Metsola on Friday, 27 March. Together, the leaders visited Stockholm’s stock exchange, Nasdaq Stockholm, and discussed ways to strengthen the EU’s capital markets and competitiveness.",
+      "title_original": "Prime Minister receives European Parliament President Roberta Metsola",
+      "summary_original": "Prime Minister Ulf Kristersson received President of the European Parliament Roberta Metsola on Friday, 27 March. Together, the leaders visited Stockholm’s stock exchange, Nasdaq Stockholm, and discussed ways to strengthen the EU’s capital markets and competitiveness.",
+      "link": "https://www.government.se/articles/2026/03/prime-minister-receives-european-parliament-president-roberta-metsola/",
+      "date_display": "2026-03-28",
+      "date_iso": "2026-03-28T09:05:35+00:00",
+      "source": "Government.se",
+      "ministry": "Prime Minister's Office",
+      "type": "Official Information",
+      "age_tag": "today",
+      "tags": [
+        "EU",
+        "Prime Minister's Office",
+        "Economic policy",
+        "Financial markets",
+        "Article",
+        "Ulf Kristersson",
+        "Government’s priorities"
+      ]
+    },
+    {
+      "id": 176,
       "title": "Minister for Foreign Affairs inaugurates Sweden’s new Consulate-General in Houston",
       "summary": "On 16–18 March, Minister for Foreign Affairs Maria Malmer Stenergard visited Texas together with HRH The Crown Princess and a business delegation. During the visit, Sweden’s new Consulate-General in Houston was inaugurated.",
       "title_original": "Minister for Foreign Affairs inaugurates Sweden’s new Consulate-General in Houston",
@@ -67,7 +87,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -77,7 +97,7 @@
       ]
     },
     {
-      "id": 150,
+      "id": 177,
       "title": "Joint statement by the Leaders of the Joint Expeditionary Force",
       "summary": "Joint statement by the Leaders of the Joint Expeditionary Force (JEF), Helsinki, 26 March 2026.",
       "title_original": "Joint statement by the Leaders of the Joint Expeditionary Force",
@@ -88,7 +108,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -102,7 +122,7 @@
       ]
     },
     {
-      "id": 179,
+      "id": 182,
       "title": "Minutes from the monetary policy meeting on 18 March 2026",
       "summary": "Minutes from the monetary policy meeting on 18 March 2026",
       "title_original": "Protokoll från det penningpolitiska mötet den 18 mars 2026",
@@ -113,11 +133,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": []
     },
     {
-      "id": 187,
+      "id": 183,
       "title": "SEK 240 million in new support to Ukraine",
       "summary": "The Government has presented a new support package to Ukraine for 2026 worth around SEK 240 million. The support includes SEK 150 million for the Ukrainian Red Cross for humanitarian operations. In addition, the support package is heavily focused on children’s needs, supporting the provision of school food in areas close to the frontline, promoting reforms for family-based care of children and supporting children’s mental health.",
       "title_original": "SEK 240 million in new support to Ukraine",
@@ -128,7 +148,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "International",
@@ -140,7 +160,7 @@
       ]
     },
     {
-      "id": 188,
+      "id": 184,
       "title": "SEK 555 million in new humanitarian aid for Gaza",
       "summary": "After more than two years of war and suffering, children in Gaza are in acute need of health and medical care, psychosocial support, safety, nutrition and education. Initiatives in these areas are needed to lay the foundations for reconstruction and recovery. Sweden is now providing SEK 555 million in aid, which will be distributed between the UN Children’s Fund (UNICEF), the UN World Food Programme (WFP) and the United Nations Development Programme, and will help bring safety, stability and well-being to children in Gaza.",
       "title_original": "SEK 555 million in new humanitarian aid for Gaza",
@@ -151,7 +171,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "International",
@@ -163,7 +183,7 @@
       ]
     },
     {
-      "id": 192,
+      "id": 185,
       "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada and others on the Strait of Hormuz: 19 March 2026",
       "summary": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada, Republic of Korea, New Zealand, Denmark, Latvia, Slovenia, Estonia, Norway, Sweden, Finland, Czechia, Romania, Bahrain and Lithuania on the Strait of Hormuz.",
       "title_original": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada and others on the Strait of Hormuz: 19 March 2026",
@@ -174,7 +194,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -185,7 +205,7 @@
       ]
     },
     {
-      "id": 194,
+      "id": 186,
       "title": "The policy rate remains unchanged at 1.75 percent",
       "summary": "The executive board has decided to leave the key interest rate unchanged at 1.75 percent and the interest rate is expected to remain at this level for some time to come. But the war in the Middle East makes the forecast very uncertain.  The Riksbank is following developments closely and will adapt monetary policy if the inflation and business cycle prospects require it.",
       "title_original": "Styrräntan oförändrad på 1,75 procent",
@@ -196,11 +216,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": []
     },
     {
-      "id": 195,
+      "id": 187,
       "title": "The Riksbank lowers the interest rate on the supplementary liquidity facility",
       "summary": "In the Riksbank's monetary policy control system, the interest rate that shall apply to the banks' overnight deposits and lending in the Riksbank is specified. In the Riksbank's supplementary liquidity facility, banks can take loans against collateral such as covered bonds. The interest surcharge on the supplementary liquidity facility is now reduced from 0.75 percentage points to 0.30 percentage points above the policy rate. In addition, the Riksbank removes the restriction on the percentage of covered bonds that the banks may use as collateral for loans from the Riksbank. The changes come into effect on 8 April 2026, and are part of the Riksbank's long-term work to facilitate banks' adaptation to an environment with less excess liquidity.",
       "title_original": "Riksbanken sänker räntan på den kompletterande likviditetsfaciliteten",
@@ -211,11 +231,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": []
     },
     {
-      "id": 196,
+      "id": 188,
       "title": "Sweden joins Pax Silica initiative",
       "summary": "On 17 March, Minister for Foreign Affairs Maria Malmer Stenergard signed the Pax Silica Declaration in connection with her visit to Houston, Texas. The initiative brings together leading technology nations and aims to strengthen cooperation to secure supply chains for emerging technologies. Pax Silica will also help promote innovation, secure digital infrastructure and protect sensitive technologies.",
       "title_original": "Sweden joins Pax Silica initiative",
@@ -226,7 +246,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "International",
@@ -237,7 +257,7 @@
       ]
     },
     {
-      "id": 197,
+      "id": 189,
       "title": "Statement by Minister for Energy, Business and Industry and Deputy Prime Minister Ebba Busch at the Energy Council meeting in Brussels",
       "summary": "Statement by Minister for Energy, Business and Industry and Deputy Prime Minister Ebba Busch at the Energy Council meeting in Brussels on 16 March 2026.",
       "title_original": "Statement by Minister for Energy, Business and Industry and Deputy Prime Minister Ebba Busch at the Energy Council meeting in Brussels",
@@ -248,7 +268,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Speech",
         "EU",
@@ -258,7 +278,7 @@
       ]
     },
     {
-      "id": 198,
+      "id": 190,
       "title": "Sweden provides humanitarian support to Lebanon",
       "summary": "Sweden is announcing a new SEK 65 million humanitarian aid package for Lebanon due to the ongoing military escalation between Israel and Hezbollah, which has caused a rapid deterioration in the humanitarian situation in the country. The support will be distributed among UN organisations, the International Red Cross and Red Crescent Movement and civil society to provide support and protection for people who now find themselves in the midst of the crisis.",
       "title_original": "Sweden provides humanitarian support to Lebanon",
@@ -269,7 +289,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": [
         "Press release",
         "International",
@@ -279,7 +299,7 @@
       ]
     },
     {
-      "id": 199,
+      "id": 191,
       "title": "Joint statement by the Prime Ministers of the Nordic countries and Canada",
       "summary": "Joint statement by the Prime Ministers of the Nordic countries and Canada, Oslo, 15 March 2026.",
       "title_original": "Joint statement by the Prime Ministers of the Nordic countries and Canada",
@@ -290,7 +310,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -302,27 +322,6 @@
         "Ulf Kristersson",
         "Civil defence",
         "Military defence"
-      ]
-    },
-    {
-      "id": 200,
-      "title": "Speech by the Minister for Foreign Affairs at the Baltic Sea Security Talks in Gdansk",
-      "summary": "Speech by the Minister for Foreign Affairs Maria Malmer Stenergard at the Baltic Sea Security Talks in Gdansk, 12 March 2026. Check against delivery.",
-      "title_original": "Speech by the Minister for Foreign Affairs at the Baltic Sea Security Talks in Gdansk",
-      "summary_original": "Speech by the Minister for Foreign Affairs Maria Malmer Stenergard at the Baltic Sea Security Talks in Gdansk, 12 March 2026. Check against delivery.",
-      "link": "https://www.government.se/speeches/2026/03/speech-by-the-minister-for-foreign-affairs-at-the-baltic-sea-security-talks-in-gdansk-on-12-march/",
-      "date_display": "2026-03-13",
-      "date_iso": "2026-03-13T13:51:21+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Speech",
-        "International",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Maria Malmer Stenergard"
       ]
     }
   ]
