@@ -1,34 +1,17 @@
 {
-  "generated_at": "2026-03-29T10:08:24.051867+02:00",
-  "date": "2026-03-29",
-  "item_count": 16,
+  "generated_at": "2026-03-31T10:40:12.519336+02:00",
+  "date": "2026-03-31",
+  "item_count": 13,
   "items": [
     {
-      "id": 0,
-      "title": "\"Wrong when the state has to control recruitment\"",
-      "summary": "The government chooses a model for labor immigration where the state tries to anticipate future skills needs in detail. It is practically impossible, and the green industries can be hit hard, write debaters.",
-      "title_original": "”Fel när staten ska styra rekrytering”",
-      "summary_original": "Regeringen väljer en modell för arbetskraftsinvandringen där staten i detalj försöker förutse framtida kompetensbehov. Det är i praktiken omöjligt, och de gröna näringarna kan drabbas hårt, skriver debattörer.",
-      "link": "https://www.svd.se/a/9ppbnp/arbetskraftsinvandring-de-grona-naringarna-behover-undantas-fran-lonekravet-skriver-debattorer",
-      "date_display": "2026-03-29",
-      "date_iso": "2026-03-29T08:00:00+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Debatt"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "New mortgage rules - you should keep an eye on this",
-      "summary": "Now the rules of the game are changing in the housing market. Eased amortization requirements and raised mortgage ceilings should make it easier for first-time buyers. Here are the changes to be aware of from April 1.",
-      "title_original": "Nya bolåneregler – detta ska du ha koll på",
-      "summary_original": "Nu förändras spelreglerna på bostadsmarknaden. Lättade amorteringskrav och höjt bolånetak ska underlätta för förstagångsköpare. Här är ändringarna att ha koll på från den 1 april.",
-      "link": "https://www.dn.se/ekonomi/nya-bolaneregler-detta-ska-du-ha-koll-pa/",
-      "date_display": "2026-03-29",
-      "date_iso": "2026-03-29T07:43:54+00:00",
+      "id": 4,
+      "title": "Hanna Hellquist on Söder's attack: \"Overstepping\"",
+      "summary": "She calls Björn Söder's attack on a Sida official an \"exaggeration\" and has called on SD's aid organization to stop payments to abortion opponents. At the same time, Sida's acting director general Hanna Hellquist defends the decision to give Hepatica 23 new million. - We obey the government and the governance is clear, she says.",
+      "title_original": "Hanna Hellquist om Söders attack: ”Övertramp”",
+      "summary_original": "Hon kallar Björn Söders attack på en Sida-handläggare för ”övertramp” och har uppmanat SD:s biståndsorganisation att stoppa utbetalningar till abortmotståndare. Samtidigt försvarar Sidas tillförordnade generaldirektör Hanna Hellquist beslutet att ge Hepatica 23 nya miljoner. – Vi lyder under regeringen och styrningen är tydlig, säger hon.",
+      "link": "https://www.dn.se/sverige/hanna-hellquist-om-soders-attack-overtramp/",
+      "date_display": "2026-03-31",
+      "date_iso": "2026-03-31T08:29:33+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -36,24 +19,39 @@
       "tags": []
     },
     {
-      "id": 7,
-      "title": "The fateful year of 1979 rules the Middle East",
-      "summary": "War, peace and revolution changed an entire region in ways that are still relevant nearly fifty years later.",
-      "title_original": "Ödesåret 1979 styr Mellanöstern",
-      "summary_original": "Krig, fred och revolution förändrade en hel region på sätt som fortfarande är aktuella snart femtio år senare.",
-      "link": "https://www.svd.se/a/d44vbA/odesaret-1979-styr-mellanostern",
-      "date_display": "2026-03-29",
-      "date_iso": "2026-03-29T07:15:00+00:00",
-      "source": "Svenska Dagbladet (SvD)",
+      "id": 6,
+      "title": "Anna Hedenmo is a new columnist in Dagens Nyheter",
+      "summary": "As of April 1, Anna Hedenmo is a new independent columnist in DN. Her articles will be published in the editorial pages every two weeks.",
+      "title_original": "Anna Hedenmo är ny kolumnist i Dagens Nyheter",
+      "summary_original": "Från och med den 1 april är Anna Hedenmo ny fristående kolumnist i DN. Hennes texter kommer att publiceras på ledarsidorna varannan vecka.",
+      "link": "https://www.dn.se/kultur/anna-hedenmo-ar-ny-kolumnist-i-dagens-nyheter/",
+      "date_display": "2026-03-31",
+      "date_iso": "2026-03-31T08:24:29+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 8,
+      "title": "Trump threatens to take Iran's oil heartland: \"Could get really, really bloody\"",
+      "summary": "The expert's sharp warning • \"This is no ordinary island\"",
+      "title_original": "Trump hotar ta Irans oljehjärta: ”Kan bli riktigt, riktigt blodigt”",
+      "summary_original": "Expertens skarpa varning • ”Det här är ingen vanlig ö”",
+      "link": "https://www.tv4.se/artikel/4zxzPMrZGxPGBrAiSYIm5w/trump-hotar-ta-irans-oljehjaerta-kan-bli-riktigt-riktigt-blodigt",
+      "date_display": "2026-03-31",
+      "date_iso": "2026-03-31T08:21:55+00:00",
+      "source": "TV4 Nyheterna",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Ledare"
+        "Nyheterna"
       ]
     },
     {
-      "id": 140,
+      "id": 180,
       "title": "Prime Minister receives European Parliament President Roberta Metsola",
       "summary": "Prime Minister Ulf Kristersson received President of the European Parliament Roberta Metsola on Friday, 27 March. Together, the leaders visited Stockholm’s stock exchange, Nasdaq Stockholm, and discussed ways to strengthen the EU’s capital markets and competitiveness.",
       "title_original": "Prime Minister receives European Parliament President Roberta Metsola",
@@ -64,7 +62,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
@@ -76,7 +74,7 @@
       ]
     },
     {
-      "id": 176,
+      "id": 185,
       "title": "Minister for Foreign Affairs inaugurates Sweden’s new Consulate-General in Houston",
       "summary": "On 16–18 March, Minister for Foreign Affairs Maria Malmer Stenergard visited Texas together with HRH The Crown Princess and a business delegation. During the visit, Sweden’s new Consulate-General in Houston was inaugurated.",
       "title_original": "Minister for Foreign Affairs inaugurates Sweden’s new Consulate-General in Houston",
@@ -87,7 +85,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -97,7 +95,7 @@
       ]
     },
     {
-      "id": 177,
+      "id": 186,
       "title": "Joint statement by the Leaders of the Joint Expeditionary Force",
       "summary": "Joint statement by the Leaders of the Joint Expeditionary Force (JEF), Helsinki, 26 March 2026.",
       "title_original": "Joint statement by the Leaders of the Joint Expeditionary Force",
@@ -108,7 +106,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -122,7 +120,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 188,
       "title": "Minutes from the monetary policy meeting on 18 March 2026",
       "summary": "Minutes from the monetary policy meeting on 18 March 2026",
       "title_original": "Protokoll från det penningpolitiska mötet den 18 mars 2026",
@@ -133,11 +131,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "6 days old",
       "tags": []
     },
     {
-      "id": 183,
+      "id": 191,
       "title": "SEK 240 million in new support to Ukraine",
       "summary": "The Government has presented a new support package to Ukraine for 2026 worth around SEK 240 million. The support includes SEK 150 million for the Ukrainian Red Cross for humanitarian operations. In addition, the support package is heavily focused on children’s needs, supporting the provision of school food in areas close to the frontline, promoting reforms for family-based care of children and supporting children’s mental health.",
       "title_original": "SEK 240 million in new support to Ukraine",
@@ -148,7 +146,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Press release",
         "International",
@@ -160,7 +158,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 192,
       "title": "SEK 555 million in new humanitarian aid for Gaza",
       "summary": "After more than two years of war and suffering, children in Gaza are in acute need of health and medical care, psychosocial support, safety, nutrition and education. Initiatives in these areas are needed to lay the foundations for reconstruction and recovery. Sweden is now providing SEK 555 million in aid, which will be distributed between the UN Children’s Fund (UNICEF), the UN World Food Programme (WFP) and the United Nations Development Programme, and will help bring safety, stability and well-being to children in Gaza.",
       "title_original": "SEK 555 million in new humanitarian aid for Gaza",
@@ -171,7 +169,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Press release",
         "International",
@@ -183,7 +181,7 @@
       ]
     },
     {
-      "id": 185,
+      "id": 195,
       "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada and others on the Strait of Hormuz: 19 March 2026",
       "summary": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada, Republic of Korea, New Zealand, Denmark, Latvia, Slovenia, Estonia, Norway, Sweden, Finland, Czechia, Romania, Bahrain and Lithuania on the Strait of Hormuz.",
       "title_original": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada and others on the Strait of Hormuz: 19 March 2026",
@@ -194,7 +192,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -205,7 +203,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 196,
       "title": "The policy rate remains unchanged at 1.75 percent",
       "summary": "The executive board has decided to leave the key interest rate unchanged at 1.75 percent and the interest rate is expected to remain at this level for some time to come. But the war in the Middle East makes the forecast very uncertain.  The Riksbank is following developments closely and will adapt monetary policy if the inflation and business cycle prospects require it.",
       "title_original": "Styrräntan oförändrad på 1,75 procent",
@@ -216,11 +214,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": []
     },
     {
-      "id": 187,
+      "id": 197,
       "title": "The Riksbank lowers the interest rate on the supplementary liquidity facility",
       "summary": "In the Riksbank's monetary policy control system, the interest rate that shall apply to the banks' overnight deposits and lending in the Riksbank is specified. In the Riksbank's supplementary liquidity facility, banks can take loans against collateral such as covered bonds. The interest surcharge on the supplementary liquidity facility is now reduced from 0.75 percentage points to 0.30 percentage points above the policy rate. In addition, the Riksbank removes the restriction on the percentage of covered bonds that the banks may use as collateral for loans from the Riksbank. The changes come into effect on 8 April 2026, and are part of the Riksbank's long-term work to facilitate banks' adaptation to an environment with less excess liquidity.",
       "title_original": "Riksbanken sänker räntan på den kompletterande likviditetsfaciliteten",
@@ -231,11 +229,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "12 days old",
       "tags": []
     },
     {
-      "id": 188,
+      "id": 198,
       "title": "Sweden joins Pax Silica initiative",
       "summary": "On 17 March, Minister for Foreign Affairs Maria Malmer Stenergard signed the Pax Silica Declaration in connection with her visit to Houston, Texas. The initiative brings together leading technology nations and aims to strengthen cooperation to secure supply chains for emerging technologies. Pax Silica will also help promote innovation, secure digital infrastructure and protect sensitive technologies.",
       "title_original": "Sweden joins Pax Silica initiative",
@@ -246,7 +244,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "Press release",
         "International",
@@ -254,74 +252,6 @@
         "Foreign and security policy",
         "Innovation",
         "Maria Malmer Stenergard"
-      ]
-    },
-    {
-      "id": 189,
-      "title": "Statement by Minister for Energy, Business and Industry and Deputy Prime Minister Ebba Busch at the Energy Council meeting in Brussels",
-      "summary": "Statement by Minister for Energy, Business and Industry and Deputy Prime Minister Ebba Busch at the Energy Council meeting in Brussels on 16 March 2026.",
-      "title_original": "Statement by Minister for Energy, Business and Industry and Deputy Prime Minister Ebba Busch at the Energy Council meeting in Brussels",
-      "summary_original": "Statement by Minister for Energy, Business and Industry and Deputy Prime Minister Ebba Busch at the Energy Council meeting in Brussels on 16 March 2026.",
-      "link": "https://www.government.se/speeches/2026/03/statement-by-minister-for-energy-business-and-industry-and-deputy-prime-minister-ebba-busch-at-the-energy-council-meeting-in-brussels/",
-      "date_display": "2026-03-17",
-      "date_iso": "2026-03-17T08:33:02+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Climate and Enterprise",
-      "type": "Official Information",
-      "age_tag": "11 days old",
-      "tags": [
-        "Speech",
-        "EU",
-        "Ministry of Climate and Enterprise",
-        "Energy",
-        "Ebba Busch"
-      ]
-    },
-    {
-      "id": 190,
-      "title": "Sweden provides humanitarian support to Lebanon",
-      "summary": "Sweden is announcing a new SEK 65 million humanitarian aid package for Lebanon due to the ongoing military escalation between Israel and Hezbollah, which has caused a rapid deterioration in the humanitarian situation in the country. The support will be distributed among UN organisations, the International Red Cross and Red Crescent Movement and civil society to provide support and protection for people who now find themselves in the midst of the crisis.",
-      "title_original": "Sweden provides humanitarian support to Lebanon",
-      "summary_original": "Sweden is announcing a new SEK 65 million humanitarian aid package for Lebanon due to the ongoing military escalation between Israel and Hezbollah, which has caused a rapid deterioration in the humanitarian situation in the country. The support will be distributed among UN organisations, the International Red Cross and Red Crescent Movement and civil society to provide support and protection for people who now find themselves in the midst of the crisis.",
-      "link": "https://www.government.se/press-releases/2026/03/sweden-provides-humanitarian-support-to-lebanon/",
-      "date_display": "2026-03-16",
-      "date_iso": "2026-03-16T16:26:07+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "International development cooperation",
-        "Benjamin Dousa"
-      ]
-    },
-    {
-      "id": 191,
-      "title": "Joint statement by the Prime Ministers of the Nordic countries and Canada",
-      "summary": "Joint statement by the Prime Ministers of the Nordic countries and Canada, Oslo, 15 March 2026.",
-      "title_original": "Joint statement by the Prime Ministers of the Nordic countries and Canada",
-      "summary_original": "Joint statement by the Prime Ministers of the Nordic countries and Canada, Oslo, 15 March 2026.",
-      "link": "https://www.government.se/statements/2026/03/joint-statement-by-the-prime-ministers-of-the-nordic-countries-and-canada/",
-      "date_display": "2026-03-15",
-      "date_iso": "2026-03-15T10:33:42+00:00",
-      "source": "Government.se",
-      "ministry": "Prime Minister's Office",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "International",
-        "Prime Minister's Office",
-        "Trade and investment promotion",
-        "Foreign and security policy",
-        "Statement",
-        "Sweden's support to Ukraine",
-        "NATO",
-        "Ulf Kristersson",
-        "Civil defence",
-        "Military defence"
       ]
     }
   ]
