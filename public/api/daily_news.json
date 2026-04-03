@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-01T10:48:08.175388+02:00",
-  "date": "2026-04-01",
-  "item_count": 15,
+  "generated_at": "2026-04-03T10:15:13.509096+02:00",
+  "date": "2026-04-03",
+  "item_count": 13,
   "items": [
     {
       "id": 2,
-      "title": "Details: M promises to let SD into the government",
-      "summary": "The moderates will let the Sweden Democrats into a government if the Tidö parties win the election, according to information to TV4.",
-      "title_original": "Uppgifter: M lovar släppa in SD i regeringen",
-      "summary_original": "Moderaterna kommer att släppa in Sverigedemokraterna i en regering om Tidöpartierna vinner valet, enligt uppgifter till TV4.",
-      "link": "https://www.svd.se/a/GxxmLV/uppgifter-m-lovar-slappa-in-sd-i-regeringen",
-      "date_display": "2026-04-01",
-      "date_iso": "2026-04-01T08:43:53+00:00",
+      "title": "Low pressure Dave spoils Easter with wind and snow",
+      "summary": "A troublesome Easter weather awaits with a deep low pressure on its way in - towards Easter day there may be warnings, according to SMHI's meteorologist. - It looks a bit messy on Sunday actually and really windy in Götaland in particular, says Anna Belking.",
+      "title_original": "Lågtrycket Dave sabbar påsken med blåst och snö",
+      "summary_original": "Ett besvärligt påskväder väntar med ett djupt lågtryck på intåg – framåt påskdagen kan det bli tal om varningar, enligt SMHI:s meteorolog. – Det ser lite stökigt ut på söndagen faktiskt och riktigt blåsigt i framförallt Götaland, säger Anna Belking.",
+      "link": "https://www.svd.se/a/3pp8vA/lagtrycket-dave-sabbar-pasken-med-blast-och-sno",
+      "date_display": "2026-04-03",
+      "date_iso": "2026-04-03T08:08:07+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -21,35 +21,14 @@
       ]
     },
     {
-      "id": 3,
-      "title": "Details: The moderates let SD into government after the election",
-      "summary": "TV4 Nyheterna learns that the Moderates are letting the Sweden Democrats into government and that Prime Minister Ulf Kristersson will be a candidate for Prime Minister in the election this fall. This will be presented at the joint press conference at 11.30.",
-      "title_original": "Uppgifter: Moderaterna släpper in SD i regering efter valet",
-      "summary_original": "TV4 Nyheterna erfar att Moderaterna släpper in Sverigedemokraterna i regering och att statsminister Ulf Kristersson kommer att var statsministerkandidat i valet i höst. Detta kommer att presenteras på den gemensamma presskonferensen vid 11.30.",
-      "link": "https://www.tv4.se/artikel/3YyULIehxT1GocPqU1rAye/uppgifter-moderaterna-slaepper-in-sd-i-regering-efter-valet",
-      "date_display": "2026-04-01",
-      "date_iso": "2026-04-01T08:42:37+00:00",
-      "source": "TV4 Nyheterna",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Nyheterna",
-        "/inrikes",
-        "/politik",
-        "/valet-2022/moderaterna",
-        "/valet-2022/sverigedemokraterna"
-      ]
-    },
-    {
-      "id": 11,
-      "title": "DN Debate Replicas. \"The companies' proposals threaten the stability of the labor market\"",
-      "summary": "DN DEBATE REPLIES. Trade unions Saco and TCO: It is noteworthy that the companies are pushing proposals that could create the very upheaval they say they want to avoid.",
-      "title_original": "DN Debatt Repliker. ”Företagarnas förslag hotar arbetsmarknadens stabilitet”",
-      "summary_original": "DN DEBATT REPLIKER. Fackförbunden Saco och TCO: Anmärkningsvärt att Företagarna driver förslag som kan skapa just den ryckighet de säger sig vilja undvika.",
-      "link": "https://www.dn.se/debatt/foretagarnas-forslag-hotar-arbetsmarknadens-stabilitet/",
-      "date_display": "2026-04-01",
-      "date_iso": "2026-04-01T08:21:50+00:00",
+      "id": 6,
+      "title": "Mjällby stronger - even though the golden heroes are gone",
+      "summary": "Since the SM gold last autumn, Mjällby has lost several key players, changed coaches - and somehow become even stronger. The barking team from Listerlandet has flown through the pre-season and reached the final in the Swedish Cup. Is there any stopping the reigning champions?",
+      "title_original": "Mjällby starkare – trots att guldhjältarna är borta",
+      "summary_original": "Sedan SM-guldet i höstas har Mjällby blivit av med flera nyckelspelare, bytt tränare – och på något sätt blivit ännu starkare. Skrällaget från Listerlandet har flugit fram genom försäsongen och gått till final i Svenska cupen. Finns det något stopp för de regerande mästarna?",
+      "link": "https://www.dn.se/sport/mjallby-starkare-trots-att-guldhjaltarna-ar-borta/",
+      "date_display": "2026-04-03",
+      "date_iso": "2026-04-03T08:02:05+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -57,7 +36,22 @@
       "tags": []
     },
     {
-      "id": 4,
+      "id": 7,
+      "title": "Six profiles to keep an eye on in Hammarby-Mjällby",
+      "summary": "On Saturday afternoon, the Allsvenskan is back again after the winter break. The series starts with a big meeting right away when the reigning champions Mjällby are pitted against Hammarby in Stockholm. Here are three profiles in each team to keep an extra eye on during the match.",
+      "title_original": "Sex profiler att ha koll på i Hammarby-Mjällby",
+      "summary_original": "Under lördagseftermiddagen är allsvenskan tillbaka igen efter vinteruppehållet. Serien startar med ett stormöte direkt när de regerande mästarna Mjällby ställs mot Hammarby i Stockholm. Här är tre profiler i varje lag att ha ett extra öga på under matchen.",
+      "link": "https://www.dn.se/sport/sex-profiler-att-ha-koll-pa-i-hammarby-mjallby/",
+      "date_display": "2026-04-03",
+      "date_iso": "2026-04-03T08:02:02+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 170,
       "title": "Minister for Rural Affairs Peter Kullgren welcomes Germany to For Forest+",
       "summary": "Sweden is this year’s chair of the For Forest+ group. In this context, Minister for Rural Affairs Peter Kullgren hosted a meeting of the group’s members on 31 March, during which the group welcomed Germany as a new member. With the addition of Germany, For Forest+ now consists of eight EU Member States that collectively account for around 60 per cent of the forests of the 27 EU Member States (EU27).",
       "title_original": "Minister for Rural Affairs Peter Kullgren welcomes Germany to For Forest+",
@@ -68,7 +62,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Rural Affairs and Infrastructure",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "1 day old",
       "tags": [
         "Press release",
         "EU",
@@ -78,7 +72,7 @@
       ]
     },
     {
-      "id": 150,
+      "id": 180,
       "title": "Maria Malmer Stenergard takes part in the informal meeting of EU foreign ministers",
       "summary": "On 31 March 2026, Minister for Foreign Affairs Maria Malmer Stenergard is taking part in an informal meeting of EU foreign ministers.",
       "title_original": "Maria Malmer Stenergard takes part in informal meeting of EU foreign ministers",
@@ -89,7 +83,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "Press release",
         "EU",
@@ -100,7 +94,7 @@
       ]
     },
     {
-      "id": 152,
+      "id": 181,
       "title": "Joint Statement on the occasion of the informal meeting of EU Foreign Ministers",
       "summary": "Joint statement by the High Representative of the European Union for Foreign Affairs and Security Policy, Austria, Belgium, Bulgaria, Croatia, Czech Republic, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Ukraine.",
       "title_original": "Joint Statement on the occasion of the informal meeting of EU Foreign Ministers",
@@ -111,7 +105,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "EU",
         "Ministry for Foreign Affairs",
@@ -133,7 +127,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
@@ -156,7 +150,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -177,7 +171,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -202,11 +196,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "8 days old",
       "tags": []
     },
     {
-      "id": 196,
+      "id": 195,
       "title": "SEK 240 million in new support to Ukraine",
       "summary": "The Government has presented a new support package to Ukraine for 2026 worth around SEK 240 million. The support includes SEK 150 million for the Ukrainian Red Cross for humanitarian operations. In addition, the support package is heavily focused on children’s needs, supporting the provision of school food in areas close to the frontline, promoting reforms for family-based care of children and supporting children’s mental health.",
       "title_original": "SEK 240 million in new support to Ukraine",
@@ -217,7 +211,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "International",
@@ -229,7 +223,7 @@
       ]
     },
     {
-      "id": 197,
+      "id": 196,
       "title": "SEK 555 million in new humanitarian aid for Gaza",
       "summary": "After more than two years of war and suffering, children in Gaza are in acute need of health and medical care, psychosocial support, safety, nutrition and education. Initiatives in these areas are needed to lay the foundations for reconstruction and recovery. Sweden is now providing SEK 555 million in aid, which will be distributed between the UN Children’s Fund (UNICEF), the UN World Food Programme (WFP) and the United Nations Development Programme, and will help bring safety, stability and well-being to children in Gaza.",
       "title_original": "SEK 555 million in new humanitarian aid for Gaza",
@@ -240,7 +234,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "International",
@@ -252,7 +246,7 @@
       ]
     },
     {
-      "id": 199,
+      "id": 197,
       "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada and others on the Strait of Hormuz: 19 March 2026",
       "summary": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada, Republic of Korea, New Zealand, Denmark, Latvia, Slovenia, Estonia, Norway, Sweden, Finland, Czechia, Romania, Bahrain and Lithuania on the Strait of Hormuz.",
       "title_original": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada and others on the Strait of Hormuz: 19 March 2026",
@@ -263,7 +257,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -272,36 +266,6 @@
         "Statement",
         "Ulf Kristersson"
       ]
-    },
-    {
-      "id": 200,
-      "title": "The policy rate remains unchanged at 1.75 percent",
-      "summary": "The executive board has decided to leave the key interest rate unchanged at 1.75 percent and the interest rate is expected to remain at this level for some time to come. But the war in the Middle East makes the forecast very uncertain.  The Riksbank is following developments closely and will adapt monetary policy if the inflation and business cycle prospects require it.",
-      "title_original": "Styrräntan oförändrad på 1,75 procent",
-      "summary_original": "Direktionen har beslutat att lämna styrräntan oförändrad på 1,75 procent och räntan väntas ligga kvar på denna nivå under en tid framöver. Men kriget i Mellanöstern gör prognosen mycket osäker.  Riksbanken följer utvecklingen noga och kommer att anpassa penningpolitiken om inflations- och konjunkturutsikterna kräver det.",
-      "link": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/styrrantan-oforandrad-pa-175-procent2/",
-      "date_display": "2026-03-19",
-      "date_iso": "2026-03-19T08:42:40+00:00",
-      "source": "Riksbanken",
-      "ministry": "Central Bank",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": []
-    },
-    {
-      "id": 201,
-      "title": "The Riksbank lowers the interest rate on the supplementary liquidity facility",
-      "summary": "In the Riksbank's monetary policy control system, the interest rate that shall apply to the banks' overnight deposits and lending in the Riksbank is specified. In the Riksbank's supplementary liquidity facility, banks can take loans against collateral such as covered bonds. The interest surcharge on the supplementary liquidity facility is now reduced from 0.75 percentage points to 0.30 percentage points above the policy rate. In addition, the Riksbank removes the restriction on the percentage of covered bonds that the banks may use as collateral for loans from the Riksbank. The changes come into effect on 8 April 2026, and are part of the Riksbank's long-term work to facilitate banks' adaptation to an environment with less excess liquidity.",
-      "title_original": "Riksbanken sänker räntan på den kompletterande likviditetsfaciliteten",
-      "summary_original": "I Riksbankens penningpolitiska styrsystem anges vilken ränta som ska gälla för bankernas in- och utlåning över natten i Riksbanken. I Riksbankens kompletterande likviditetsfacilitet kan bankerna ta lån mot säkerheter som exempelvis säkerställda obligationer. Räntepåslaget på den kompletterande likviditetsfaciliteten sänks nu från 0,75 procentenheter till 0,30 procentenheter över styrräntan. Dessutom tar Riksbanken bort begränsningen för hur stor andel säkerställda obligationer bankerna får använda som säkerhet vid lån från Riksbanken. Förändringarna träder i kraft den 8 april 2026, och är en del av Riksbankens långsiktiga arbete med att underlätta bankernas anpassning till en miljö med mindre överskottslikviditet.",
-      "link": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/riksbanken-sanker-rantan-pa-den-kompletterande-likviditetsfaciliteten/",
-      "date_display": "2026-03-19",
-      "date_iso": "2026-03-19T08:29:00+00:00",
-      "source": "Riksbanken",
-      "ministry": "Central Bank",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": []
     }
   ]
 }
