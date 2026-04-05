@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-04-03T10:15:13.509096+02:00",
-  "date": "2026-04-03",
+  "generated_at": "2026-04-05T10:07:40.353660+02:00",
+  "date": "2026-04-05",
   "item_count": 13,
   "items": [
     {
-      "id": 2,
-      "title": "Low pressure Dave spoils Easter with wind and snow",
-      "summary": "A troublesome Easter weather awaits with a deep low pressure on its way in - towards Easter day there may be warnings, according to SMHI's meteorologist. - It looks a bit messy on Sunday actually and really windy in Götaland in particular, says Anna Belking.",
-      "title_original": "Lågtrycket Dave sabbar påsken med blåst och snö",
-      "summary_original": "Ett besvärligt påskväder väntar med ett djupt lågtryck på intåg – framåt påskdagen kan det bli tal om varningar, enligt SMHI:s meteorolog. – Det ser lite stökigt ut på söndagen faktiskt och riktigt blåsigt i framförallt Götaland, säger Anna Belking.",
-      "link": "https://www.svd.se/a/3pp8vA/lagtrycket-dave-sabbar-pasken-med-blast-och-sno",
-      "date_display": "2026-04-03",
-      "date_iso": "2026-04-03T08:08:07+00:00",
+      "id": 0,
+      "title": "\"The Social Democrats are failing women in healthcare\"",
+      "summary": "The Social Democrats call themselves the party of equality - but in Region Stockholm the policy has had the opposite effect. Women are affected as patients, staff and relatives when care is lacking, write L debaters.",
+      "title_original": "”Socialdemokraterna sviker kvinnor i vården”",
+      "summary_original": "Socialdemokraterna kallar sig jämställdhetens parti – men i Region Stockholm har politiken fått motsatt effekt. Kvinnor drabbas som patienter, personal och anhöriga när vården brister, skriver L-debattörer.",
+      "link": "https://www.svd.se/a/L44R51/liberalerna-socialdemokraterna-sviker-kvinnor-i-varden",
+      "date_display": "2026-04-05",
+      "date_iso": "2026-04-05T08:00:00+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Sverige"
+        "Debatt"
       ]
     },
     {
-      "id": 6,
-      "title": "Mjällby stronger - even though the golden heroes are gone",
-      "summary": "Since the SM gold last autumn, Mjällby has lost several key players, changed coaches - and somehow become even stronger. The barking team from Listerlandet has flown through the pre-season and reached the final in the Swedish Cup. Is there any stopping the reigning champions?",
-      "title_original": "Mjällby starkare – trots att guldhjältarna är borta",
-      "summary_original": "Sedan SM-guldet i höstas har Mjällby blivit av med flera nyckelspelare, bytt tränare – och på något sätt blivit ännu starkare. Skrällaget från Listerlandet har flugit fram genom försäsongen och gått till final i Svenska cupen. Finns det något stopp för de regerande mästarna?",
-      "link": "https://www.dn.se/sport/mjallby-starkare-trots-att-guldhjaltarna-ar-borta/",
-      "date_display": "2026-04-03",
-      "date_iso": "2026-04-03T08:02:05+00:00",
+      "id": 4,
+      "title": "SMHI warns: Now the storm Dave is moving in",
+      "summary": "SMHI has issued an orange warning for storm winds of 25-30 meters per second in western and central Sweden when storm Dave moves in on Sunday. From the middle of the day until the evening it will be windy at its worst. The authorities urge everyone not to go out on the roads, unless you have to.",
+      "title_original": "SMHI varnar: Nu drar stormen Dave in",
+      "summary_original": "SMHI har utfärdat en orange varning för stormvindar på 25-30 meter per sekund i västra och mellersta Sverige när stormen Dave drar in på söndagen. Från mitt på dagen och fram till kvällen kommer det att blåsa som värst. Myndigheterna uppmanar alla att inte ge sig ut på vägarna, om man inte måste.",
+      "link": "https://www.dn.se/sverige/smhi-varnar-nu-drar-stormen-dave-in/",
+      "date_display": "2026-04-05",
+      "date_iso": "2026-04-05T07:57:19+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -37,13 +37,13 @@
     },
     {
       "id": 7,
-      "title": "Six profiles to keep an eye on in Hammarby-Mjällby",
-      "summary": "On Saturday afternoon, the Allsvenskan is back again after the winter break. The series starts with a big meeting right away when the reigning champions Mjällby are pitted against Hammarby in Stockholm. Here are three profiles in each team to keep an extra eye on during the match.",
-      "title_original": "Sex profiler att ha koll på i Hammarby-Mjällby",
-      "summary_original": "Under lördagseftermiddagen är allsvenskan tillbaka igen efter vinteruppehållet. Serien startar med ett stormöte direkt när de regerande mästarna Mjällby ställs mot Hammarby i Stockholm. Här är tre profiler i varje lag att ha ett extra öga på under matchen.",
-      "link": "https://www.dn.se/sport/sex-profiler-att-ha-koll-pa-i-hammarby-mjallby/",
-      "date_display": "2026-04-03",
-      "date_iso": "2026-04-03T08:02:02+00:00",
+      "title": "Mercedes CLA: The brand's most important electric car for a long time",
+      "summary": "The Mercedes CLA is the brand's most important car for a long time. It shows that Mercedes is a player to be reckoned with in the context of electric cars with its low consumption, long range and fast charging. At the same time, they have lost in parts where Mercedes usually shines and make it unnecessarily complicated for the customer.",
+      "title_original": "Mercedes CLA: Märkets viktigaste elbil på länge",
+      "summary_original": "Mercedes CLA är märkets viktigaste bil på länge. Den visar att Mercedes är en spelare att räkna med i elbilsammanhang med sin låga förbrukning, långa räckvidd och snabba laddning. Samtidigt har man tappat i delar där Mercedes vanligtvis glänser och gör det onödigt komplicerat för kunden.",
+      "link": "https://www.dn.se/motor/mercedes-cla-markets-viktigaste-elbil-pa-lange/",
+      "date_display": "2026-04-05",
+      "date_iso": "2026-04-05T07:43:23+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -51,7 +51,28 @@
       "tags": []
     },
     {
-      "id": 170,
+      "id": 158,
+      "title": "Maria Malmer Stenergard visits Spain",
+      "summary": "Minister for Foreign Affairs Maria Malmer Stenergard visited Spain on 26 March. She visited the Swedish Honorary Consulate in Torrevieja and met with expatriate Swedes, civil society organisations and political representatives. Ms Malmer Stenergard also attended the Sweden-Ukraine men’s football World Cup qualifier match.",
+      "title_original": "Maria Malmer Stenergard visits Spain",
+      "summary_original": "Minister for Foreign Affairs Maria Malmer Stenergard visited Spain on 26 March. She visited the Swedish Honorary Consulate in Torrevieja and met with expatriate Swedes, civil society organisations and political representatives. Ms Malmer Stenergard also attended the Sweden-Ukraine men’s football World Cup qualifier match.",
+      "link": "https://www.government.se/articles/2026/04/maria-malmer-stenergard-visits-spain/",
+      "date_display": "2026-04-03",
+      "date_iso": "2026-04-03T16:17:43+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "International",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "Article",
+        "Maria Malmer Stenergard"
+      ]
+    },
+    {
+      "id": 183,
       "title": "Minister for Rural Affairs Peter Kullgren welcomes Germany to For Forest+",
       "summary": "Sweden is this year’s chair of the For Forest+ group. In this context, Minister for Rural Affairs Peter Kullgren hosted a meeting of the group’s members on 31 March, during which the group welcomed Germany as a new member. With the addition of Germany, For Forest+ now consists of eight EU Member States that collectively account for around 60 per cent of the forests of the 27 EU Member States (EU27).",
       "title_original": "Minister for Rural Affairs Peter Kullgren welcomes Germany to For Forest+",
@@ -62,7 +83,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Rural Affairs and Infrastructure",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "EU",
@@ -72,7 +93,7 @@
       ]
     },
     {
-      "id": 180,
+      "id": 185,
       "title": "Maria Malmer Stenergard takes part in the informal meeting of EU foreign ministers",
       "summary": "On 31 March 2026, Minister for Foreign Affairs Maria Malmer Stenergard is taking part in an informal meeting of EU foreign ministers.",
       "title_original": "Maria Malmer Stenergard takes part in informal meeting of EU foreign ministers",
@@ -83,7 +104,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "EU",
@@ -94,7 +115,7 @@
       ]
     },
     {
-      "id": 181,
+      "id": 186,
       "title": "Joint Statement on the occasion of the informal meeting of EU Foreign Ministers",
       "summary": "Joint statement by the High Representative of the European Union for Foreign Affairs and Security Policy, Austria, Belgium, Bulgaria, Croatia, Czech Republic, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Ukraine.",
       "title_original": "Joint Statement on the occasion of the informal meeting of EU Foreign Ministers",
@@ -105,7 +126,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "EU",
         "Ministry for Foreign Affairs",
@@ -116,7 +137,7 @@
       ]
     },
     {
-      "id": 187,
+      "id": 190,
       "title": "Prime Minister receives European Parliament President Roberta Metsola",
       "summary": "Prime Minister Ulf Kristersson received President of the European Parliament Roberta Metsola on Friday, 27 March. Together, the leaders visited Stockholm’s stock exchange, Nasdaq Stockholm, and discussed ways to strengthen the EU’s capital markets and competitiveness.",
       "title_original": "Prime Minister receives European Parliament President Roberta Metsola",
@@ -127,7 +148,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
@@ -139,7 +160,7 @@
       ]
     },
     {
-      "id": 190,
+      "id": 193,
       "title": "Minister for Foreign Affairs inaugurates Sweden’s new Consulate-General in Houston",
       "summary": "On 16–18 March, Minister for Foreign Affairs Maria Malmer Stenergard visited Texas together with HRH The Crown Princess and a business delegation. During the visit, Sweden’s new Consulate-General in Houston was inaugurated.",
       "title_original": "Minister for Foreign Affairs inaugurates Sweden’s new Consulate-General in Houston",
@@ -150,7 +171,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -160,7 +181,7 @@
       ]
     },
     {
-      "id": 191,
+      "id": 194,
       "title": "Joint statement by the Leaders of the Joint Expeditionary Force",
       "summary": "Joint statement by the Leaders of the Joint Expeditionary Force (JEF), Helsinki, 26 March 2026.",
       "title_original": "Joint statement by the Leaders of the Joint Expeditionary Force",
@@ -171,7 +192,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -185,7 +206,7 @@
       ]
     },
     {
-      "id": 193,
+      "id": 195,
       "title": "Minutes from the monetary policy meeting on 18 March 2026",
       "summary": "Minutes from the monetary policy meeting on 18 March 2026",
       "title_original": "Protokoll från det penningpolitiska mötet den 18 mars 2026",
@@ -196,11 +217,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": []
     },
     {
-      "id": 195,
+      "id": 196,
       "title": "SEK 240 million in new support to Ukraine",
       "summary": "The Government has presented a new support package to Ukraine for 2026 worth around SEK 240 million. The support includes SEK 150 million for the Ukrainian Red Cross for humanitarian operations. In addition, the support package is heavily focused on children’s needs, supporting the provision of school food in areas close to the frontline, promoting reforms for family-based care of children and supporting children’s mental health.",
       "title_original": "SEK 240 million in new support to Ukraine",
@@ -211,7 +232,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": [
         "Press release",
         "International",
@@ -223,7 +244,7 @@
       ]
     },
     {
-      "id": 196,
+      "id": 197,
       "title": "SEK 555 million in new humanitarian aid for Gaza",
       "summary": "After more than two years of war and suffering, children in Gaza are in acute need of health and medical care, psychosocial support, safety, nutrition and education. Initiatives in these areas are needed to lay the foundations for reconstruction and recovery. Sweden is now providing SEK 555 million in aid, which will be distributed between the UN Children’s Fund (UNICEF), the UN World Food Programme (WFP) and the United Nations Development Programme, and will help bring safety, stability and well-being to children in Gaza.",
       "title_original": "SEK 555 million in new humanitarian aid for Gaza",
@@ -234,7 +255,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": [
         "Press release",
         "International",
@@ -243,28 +264,6 @@
         "Foreign and security policy",
         "Response to the situation in Israel/Palestine",
         "Benjamin Dousa"
-      ]
-    },
-    {
-      "id": 197,
-      "title": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada and others on the Strait of Hormuz: 19 March 2026",
-      "summary": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada, Republic of Korea, New Zealand, Denmark, Latvia, Slovenia, Estonia, Norway, Sweden, Finland, Czechia, Romania, Bahrain and Lithuania on the Strait of Hormuz.",
-      "title_original": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada and others on the Strait of Hormuz: 19 March 2026",
-      "summary_original": "Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada, Republic of Korea, New Zealand, Denmark, Latvia, Slovenia, Estonia, Norway, Sweden, Finland, Czechia, Romania, Bahrain and Lithuania on the Strait of Hormuz.",
-      "link": "https://www.government.se/statements/2026/03/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-netherlands-japan-canada-and-others-on-the-strait-of-hormuz-19-march-2026/",
-      "date_display": "2026-03-20",
-      "date_iso": "2026-03-20T20:17:57+00:00",
-      "source": "Government.se",
-      "ministry": "Prime Minister's Office",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "International",
-        "Prime Minister's Office",
-        "Energy",
-        "Foreign and security policy",
-        "Statement",
-        "Ulf Kristersson"
       ]
     }
   ]

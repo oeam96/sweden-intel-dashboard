@@ -1,290 +1,1744 @@
 # Sweden Intelligence Report
-Generated: 2026-04-03T10:15:13.509096+02:00
+Generated: 2026-04-05T10:07:40.353660+02:00
 Window: last 14 days
 
-## The coast guard has boarded an oil tanker on its way from Russia
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The oil tanker Flora 1 is on the EU's sanctions list and is suspected of oil spills off Gotland. The vessel was ordered into Swedish territorial waters and boarded by the police and Coast Guard.
-
-[Read Full Article](https://www.sydsvenskan.se/skane/kustbevakningen-har-bordat-en-oljetanker-pa-vag-fran-ryssland/)
-
----
-
-## New ship boarding - suspected Russian shadow fleet
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-On Friday morning, the coast guard boarded a vessel off Ystad's coast that is believed to have caused an oil spill, the authority confirms. The ship is suspected of belonging to the Russian shadow fleet.
-
-[Read Full Article](https://www.hd.se/sverige/kustbevakningen-har-bordat-nytt-fartyg/)
-
----
-
-## Low pressure Dave spoils Easter with wind and snow
+## "The Social Democrats are failing women in healthcare"
 **Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
+**Category:** General News | **Date:** 2026-04-05 (today)
 
-A troublesome Easter weather awaits with a deep low pressure on its way in - towards Easter day there may be warnings, according to SMHI's meteorologist. - It looks a bit messy on Sunday actually and really windy in Götaland in particular, says Anna Belking.
+The Social Democrats call themselves the party of equality - but in Region Stockholm the policy has had the opposite effect. Women are affected as patients, staff and relatives when care is lacking, write L debaters.
 
-[Read Full Article](https://www.svd.se/a/3pp8vA/lagtrycket-dave-sabbar-pasken-med-blast-och-sno)
+[Read Full Article](https://www.svd.se/a/L44R51/liberalerna-socialdemokraterna-sviker-kvinnor-i-varden)
 
 ---
 
-## French-owned ship passed Hormuz
+## Where will the money for a new high school come from?
 **Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
+**Category:** General News | **Date:** 2026-04-05 (today)
 
-A French-owned freighter has been able to sail through the Strait of Hormuz. After Donald Trump's complaint, France and South Korea announce that they will try together to ensure that traffic can resume.
+Petter and Birgitta Cronberg like the new high school in Höganäs.
 
-[Read Full Article](https://www.hd.se/varlden/lander-vill-forsoka-oppna-hormuzsundet/)
-
----
-
-## French-owned ship passed Hormuz
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-A French-owned freighter has been able to sail through the Strait of Hormuz. After Donald Trump's complaint, France and South Korea announce that they will try together to ensure that traffic can resume.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/lander-vill-forsoka-oppna-hormuzsundet/)
+[Read Full Article](https://www.hd.se/min-mening/var-ska-pengarna-till-nytt-gymnasium-tas-ifran/)
 
 ---
 
-## Do you only think of the elderly when you release your summer program?
+## New technical facility underway in Ängelholm
 **Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
+**Category:** General News | **Date:** 2026-04-05 (today)
 
-_No summary text available from RSS._
+In a few years, a new transformer station may be ready at the entrance to the Fridhem area in Ängelholm. The construction is part of Öresundskraft's investment in modernizing the electricity network in the area.
 
-[Read Full Article](https://www.hd.se/min-mening/tanker-ni-bara-pa-de-aldre-nar-ni-slapper-ert-sommarprogram/)
-
----
-
-## Mjällby stronger - even though the golden heroes are gone
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Since the SM gold last autumn, Mjällby has lost several key players, changed coaches - and somehow become even stronger. The barking team from Listerlandet has flown through the pre-season and reached the final in the Swedish Cup. Is there any stopping the reigning champions?
-
-[Read Full Article](https://www.dn.se/sport/mjallby-starkare-trots-att-guldhjaltarna-ar-borta/)
+[Read Full Article](https://www.hd.se/angelholm/ny-teknisk-anlaggning-pa-gang-i-angelholm/)
 
 ---
 
-## Six profiles to keep an eye on in Hammarby-Mjällby
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-On Saturday afternoon, the Allsvenskan is back again after the winter break. The series starts with a big meeting right away when the reigning champions Mjällby are pitted against Hammarby in Stockholm. Here are three profiles in each team to keep an extra eye on during the match.
-
-[Read Full Article](https://www.dn.se/sport/sex-profiler-att-ha-koll-pa-i-hammarby-mjallby/)
-
----
-
-## The sun rises over Thundercat's creative playhouse
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-On "Distracted" delicious soul is mixed with logical guest appearances from Tame Impala, Asap Rocky or Lil Yachty. But Thundercat also looks towards the falsetto pop of the 60s. The result will be immediately delicious, says DN's Mattias Dahlström.
-
-[Read Full Article](https://www.dn.se/kultur/solen-gar-upp-over-thundercats-kreativa-lekstuga/)
-
----
-
-## Curious about the history of Bob the Dog's historic cover? Win tickets here
+## He is guided by literature and faith: "It's a lot about forgiveness"
 **Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
+**Category:** General News | **Date:** 2026-04-05 (today)
 
-"The story of Bob Hund's album cover in far too many slides" is how Martin Kann's performance at The Tivoli on April 23 is described. Compete for tickets below!
+What do Émile Zola and Fyodor Dostoyevsky have to do with Contastino Capotondi?  Why is it not important to agree? And what does he really think about BoIS missing the open goal of moving up to the Allsvenskan in 2024? HD has met BoIS key players ahead of this year's premiere.
 
-[Read Full Article](https://www.hd.se/noje/nyfiken-pa-historien-om-bob-hunds-historiska-omslag-vinn-biljetter-har/)
+[Read Full Article](https://www.hd.se/sport/han-vagleds-av-litteratur-och-tro-handlar-mycket-om-forlatelse/)
 
 ---
 
-## The EU dispute can affect the work against child abuse
+## SMHI warns: Now the storm Dave is moving in
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+SMHI has issued an orange warning for storm winds of 25-30 meters per second in western and central Sweden when storm Dave moves in on Sunday. From the middle of the day until the evening it will be windy at its worst. The authorities urge everyone not to go out on the roads, unless you have to.
+
+[Read Full Article](https://www.dn.se/sverige/smhi-varnar-nu-drar-stormen-dave-in/)
+
+---
+
+## Rögle Direkt: All about the playoffs
 **Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
+**Category:** General News | **Date:** 2026-04-05 (today)
 
-The disagreement about "chat control" can create problems for how abuse of children online can be combated. Today, the temporary rules disappear.  - The police agree with us that the legislation is needed, says Susanna Pettersson, child rights lawyer at Ecpat.
-
-[Read Full Article](https://www.hd.se/varlden/eu-braket-kan-paverka-arbetet-mot-barnovergrepp/)
-
----
-
-## The EU dispute can affect the work against child abuse
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The disagreement about "chat control" can create problems for how abuse of children online can be combated. Today, the temporary rules disappear.  - The police agree with us that the legislation is needed, says Susanna Pettersson, child rights lawyer at Ecpat.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/eu-braket-kan-paverka-arbetet-mot-barnovergrepp/)
-
----
-
-## The Coast Guard has boarded a new suspicious vessel
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The coast guard has boarded yet another vessel suspected of belonging to the Russian shadow fleet. In recent years, the ship has had four different names and seven different flags. The ship is kept connected to an oil spill off Gotland.
-
-[Read Full Article](https://www.dn.se/sverige/kustbevakningen-har-bordat-ett-nytt-misstankt-fartyg/)
-
----
-
-## Experts warn Trump: the attacks in Iran suspected war crimes
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-In an open letter, over 100 American experts on international law warn Donald Trump that the attacks in Iran may constitute war crimes. They also point to the president's dehumanizing rhetoric, that he is "going to bomb Iran back to the stone age" and that he attacks "just because it's fun", and warns other countries to assist the United States in the illegal war against Iran.
-
-[Read Full Article](https://www.dn.se/varlden/experter-varnar-trump-anfallen-i-iran-misstankta-krigsbrott/)
-
----
-
-## Woods after the crash: "Talked to the president"
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-A week ago, golf star Tiger Woods crashed his car. In videos that have now been released from the arrest, Woods tells the officers who are going to arrest him that he "just talked to the president".
-
-[Read Full Article](https://www.svd.se/a/q66l5g/woods-efter-kraschen-pratade-med-presidenten)
-
----
-
-## The canceled Easter tells something
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The fact that the police in Västerås have advised Jews against celebrating Easter shows that Sweden is not up to the task of pacifying the Jewish minority.
-
-[Read Full Article](https://www.svd.se/a/k00gKv/i-vasteras-gav-man-efter-for-hoten)
-
----
-
-## The car must also have a future in Malmö
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Malmö needs a traffic policy that is based on reality - including motorists, writes the columnist. Stock photography Linnégatan 2001.
-
-[Read Full Article](https://www.sydsvenskan.se/malmo/bilen-maste-ocksa-ha-en-framtid-i-malmo/)
-
----
-
-## Film list week 14: Star-studded "The drama" new in theaters
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The original and charming "The drama" is Easter's big premiere - a rom-com beyond the usual. DN's film editor Helena Lindblad lists the best films in theaters right now.
-
-[Read Full Article](https://www.dn.se/kultur/filmlistan-vecka-14-stjarnklara-the-drama-ny-pa-bio/)
-
----
-
-## They want to try to open the Strait of Hormuz
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.svd.se/a/2ppO2l/de-vill-forsoka-oppna-hormuzsundet)
-
----
-
-## The coast guard has boarded ships
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.svd.se/a/xrrBnQ/kustbevakningen-har-bordat-fartyg)
-
----
-
-## The coast guard has boarded ships
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-It concerns the vessel Flora 1, a suspected false-flag oil tanker that is on the EU's sanctions list.  The ship was boarded early this morning and is now being taken to Ystad. The master is suspected of environmental crimes after a suspected oil spill east of Gotland. The Coast Guard flight discovered the spill early yesterday. At the time, the spill was over 12 kilometers long. "We act when we detect spills. This is a result of our enhanced maritime surveillance that we conduct as a result of the deteriorating security situation in the Baltic Sea region," says Daniel Stenling, deputy operational director at the Coast Guard, in a press release. "Devastating consequences" Flora 1 was on her way to the Gulf of Finland when she was stopped.  The Coast Guard assesses the risk of the oil reaching land as low. They also write that this is the first time that the Coast Guard can clearly trace a release to a vessel subject to sanctions. "The government takes the incident seriously, even though this time it is not a question of an extensive oil spill", writes Carl-Oskar Bohlin (M), Minister for Civil Defence, on X. "A more extensive spill could have had devastating consequences for marine ecosystems and Swedish coasts", The investigation is led by prosecutors.
-
-[Read Full Article](https://www.tv4.se/artikel/7LwVK6MazZqylOvpHTuczq/kustbevakningen-har-bordat-fartyg)
-
----
-
-## Uncommitted Davido does not offer more than he was paid for
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The drummer seems to be at the wrong gig and Davido himself mostly feels like he wants to get out of there. When the Afrobeat king plays at Banankompaniet, the songs are thrown away on a sparse audience by an uninterested artist, writes Hasan Ramic.
-
-[Read Full Article](https://www.dn.se/kultur/oengagerad-davido-bjuder-inte-pa-mer-an-han-fatt-betalt-for/)
-
----
-
-## Christina found alive - after 32 years
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-On May 15, 1994, 13-year-old Christina Plante walked to her horse in a stable near her home in a small Arizona community.  She never arrived and was soon reported missing. Posters that were put up showed her face and a text describing her outfit: White t-shirt, shorts in red, yellow and blue and black tennis shoes. The case was classified by police as "a disappearance under threatening or suspicious circumstances" and an extensive search effort was launched, but neither police nor volunteers found any trace of the girl. Interrogations with residents nearby yielded nothing and after a few years the case was moved to the police's cold case department.  The new description When the department gained access to more advanced technology in recent years, it was decided to take a closer look at Christina Plante's disappearance.  Police released an updated description of her and asked the public to be on the lookout for a woman who is now 44 years old, with blue eyes and dark blonde hair.  And this week, the group's efforts bore fruit.  Found alive "Using new technology, more modern search methods and a detailed review of the case, our detectives found new leads that ultimately led to a breakthrough," the Gila County Sheriff's Office said in a statement. Christina Plante is found alive. The police have confirmed her identity and the investigation into her disappearance is closed - after more than three decades. The police also write that, out of respect for her privacy, they do not want to go into how the disappearance happened or where she has been.
-
-[Read Full Article](https://www.tv4.se/artikel/2A10G8YAptsZBVMqdET4G0/hittad-vid-liv-efter-32-ar)
-
----
-
-## After the fatal accident: Requires measures on Regementsvägen
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Two serious accidents in a short time have drawn strong criticism of the traffic situation on Regementsvägen. After an elderly man died and a boy was injured, the Ica Maxi manager is now demanding measures to increase security.
-
-[Read Full Article](https://www.hd.se/helsingborg/efter-dodsolyckan-krav-pa-atgarder-pa-regementsvagen/)
-
----
-
-## Letter to the editor. National borders should not be more important than human life
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-LETTER TO THE EDITOR. In the 21st century alone, several million have died in war and the number is rising every day. It is strange that people still die in war to defend something that does not really exist, namely borders, writes Zena Bergström.
-
-[Read Full Article](https://www.dn.se/insandare/landsgranser-borde-inte-vara-viktigare-an-manniskoliv/)
-
----
-
-## Rögle direct: Everything about the playoffs
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Rögle has won two must-win games and reduced to 3–2 in the quarter-final series against Färjestad. Next up is a match in Karlstad. Here you get the latest news from Rögle's playoff journey.
+Rögle has now won three must-win matches and equalized 3–3 in the quarter-final series against Färjestad. Now a decisive match awaits in the Catena arena.  Welcome to take your back on HD until drop this afternoon.
 
 [Read Full Article](https://www.hd.se/sport/rogle-direkt-back-tillbaka-i-laguppstallningen-mot-timra/)
 
 ---
 
-## The last-minute forecast: This will be the Easter weather in Scania
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
+## MFF Direkt: Get the latest about Malmö FF here
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-05 (today)
 
-Rain in the morning, some sun in the afternoon. This is what the forecast looks like for the Easter weekend in Skåne, three days in a row.
+All live reporting on Malmö FF takes place here. Matches, training and fast news.
 
-[Read Full Article](https://www.hd.se/vadret/sista-minuten-prognosen-sa-blir-det-skanska-paskvadret/)
+[Read Full Article](https://www.sydsvenskan.se/sport/mff-direkt-fa-det-senaste-om-malmo-ff-har/)
 
 ---
 
-## No to the national ceramic center in Höganäs
+## Mercedes CLA: The brand's most important electric car for a long time
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+The Mercedes CLA is the brand's most important car for a long time. It shows that Mercedes is a player to be reckoned with in the context of electric cars with its low consumption, long range and fast charging. At the same time, they have lost in parts where Mercedes usually shines and make it unnecessarily complicated for the customer.
+
+[Read Full Article](https://www.dn.se/motor/mercedes-cla-markets-viktigaste-elbil-pa-lange/)
+
+---
+
+## Storm Dave Approaching - Extended Warnings
 **Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
+**Category:** General News | **Date:** 2026-04-05 (today)
 
-The dream of making Höganäs a national ceramic center will have to wait. The Riksdag has said no - but politicians in the Riksdag, Höganäs municipality and KKAM intend to continue pushing the issue.
+Storm winds are expected to hit southwestern Sweden during the afternoon of Easter. - It will be very windy, it is best to stay inside, says Magnus Nilsson Sangrud, meteorologist at SMHI.
 
-[Read Full Article](https://www.hd.se/hoganas/nej-till-nationellt-keramiskt-centrum-i-hoganas/)
+[Read Full Article](https://www.hd.se/sverige/stormen-dave-fortsatter-sin-framfart/)
+
+---
+
+## Storm Dave approaching - extended warnings
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Storm winds are expected to hit southwestern Sweden during the afternoon of Easter. - It will be very windy, it is best to stay inside, says Magnus Nilsson Sangrud, meteorologist at SMHI.
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/stormen-dave-fortsatter-sin-framfart/)
+
+---
+
+## Ten points - that's why Rögle suddenly takes off in the playoffs
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+A week ago, I listed ten reasons why Rögle got into the playoffs wrong and were down 3-0 in games. Three straight victories later, the match series against Färjestad is tied. Here are ten factors behind the huge boom.
+
+[Read Full Article](https://www.hd.se/sport/tio-punkter-darfor-lyfter-rogle-plotsligt-i-slutspelet/)
+
+---
+
+## New situation in Malmö - no longer favorite: "You want a negative angle"
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Dissatisfied supporters, new names for several important positions, sporting setbacks - SEK 90 million poorer. And not even favorites for the SM gold anymore. Is Malmö FF about to lose its lead at the top of the Swedish football hierarchy? - It takes time to build a new foundation, says team captain Anders Christiansen - who also sends a hard pass to critical media.
+
+[Read Full Article](https://www.dn.se/sport/ny-situation-i-malmo-inte-langre-favorit-ni-vill-ha-en-negativ-vinkel/)
+
+---
+
+## Anders Svensson: The growing language gap is a core problem for democracy
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Already 50 years ago, many Swedes were found to misunderstand words in social debate and official language. According to recent research, this problem appears to be becoming more and more common, writes Språktidningen's Anders Svensson.
+
+[Read Full Article](https://www.dn.se/kultur/anders-svensson-den-vaxande-sprakklyftan-ar-ett-karnproblem-for-demokratin/)
+
+---
+
+## Everyone wants to read about the murder, but how close can we get?
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.sydsvenskan.se/chefredaktor-jonas-kanje/alla-vill-lasa-om-mordet-men-hur-nara-kan-vi-ga/)
+
+---
+
+## Thanks to Bubu, the Nobel laureate's songs are sung in Scania
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+In the Tagore choir in Lund, Swedes and Indians together sing the songs of the Indian Nobel laureate in Bengali. It would not have happened without Bubu Munshi Eklund, 75, who came with his love for Skåne.
+
+[Read Full Article](https://www.sydsvenskan.se/familj/tack-vare-bubu-sjungs-nobelpristagarens-sanger-i-skane/)
+
+---
+
+## New rental legislation on the way - more flexible rules for the rental market
+**Outlet:** ABC Nyheter
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+The government has put forward the bill 'A more flexible rental market' with market rents for newly built apartments and simplified second-hand rules - but the Tenants' Association warns of increased segregation. 
+ The post New rental legislation on the way – more flexible rules for the rental market appeared first on ABC Nyheter.
+
+[Read Full Article](https://www.abcnyheter.se/ny-hyreslagstiftning-pa-vag-mer-flexibla-regler-for-hyresmarknaden/)
+
+---
+
+## Incandescent fire at Perstorp's industrial park
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+At eight o'clock on Sunday morning, an alarm came that there were flames coming from wood chips at Perstorp's industrial park.
+
+[Read Full Article](https://www.hd.se/perstorp/glodbrand-pa-perstorps-industripark/)
+
+---
+
+## A clean Åstorp – or an expensive bill for the countryside?
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/min-mening/ett-rent-astorp-eller-en-dyr-nota-for-landsbygden/)
+
+---
+
+## Swedish WC gold in curling: "Fantastic"
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Sweden's team Niklas Edin takes home his eighth gold in the curling World Cup after the 9-6 victory against Canada last night.  - I am super proud of the team, says team captain Niklas Edin.
+
+[Read Full Article](https://www.hd.se/sport/svenskt-vm-guld-i-curling-fantastiskt/)
+
+---
+
+## Swedish WC gold in curling: "Fantastic"
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Sweden's team Niklas Edin takes home his eighth gold in the curling World Cup after the 9-6 victory against Canada last night.  - I am super proud of the team, says team captain Niklas Edin.
+
+[Read Full Article](https://www.sydsvenskan.se/sport/svenskt-vm-guld-i-curling-_Tltp/)
+
+---
+
+## Scary or sexy? That's why shape wear is so controversial
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+They make one look slimmer and smoother, without much effort. The beloved, hated Spanx garment recently turned 25, but the idea of ​​shaping the body goes much further than that. DN's Tara Moshizi digs deep into the underwear drawer - and makes an unexpected discovery.
+
+[Read Full Article](https://www.dn.se/kultur/skrammande-eller-sexigt-darfor-ar-shape-wear-sa-omdiskuterat/)
+
+---
+
+## Now the storm is coming: "Don't venture out unnecessarily"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+From 12 o'clock SMHI has issued an orange warning for northwestern Götaland. Gothenburg, Trollhättan, Uddevalla, Borås and Jönköping are among the cities that are expected to receive the strongest winds during the afternoon and until Monday night.
+
+In parts of the Bohu coast such as Orust and Tjörn, it will blow over 30 meters per second in the villages. But so far SMHI has not issued any red alert, which is the highest.
+
+SMHI's orange warnings apply until 2 a.m. on Monday. The yellow warning was extended during the morning to include a larger area both to the south and east, and until 3 o'clock.
+
+[Read Full Article](https://www.tv4.se/artikel/52ekDjJSrB1uwikM0LLYtW/nu-kommer-stormen-dave)
+
+---
+
+## Details: Attack on oil refinery in Russia
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Ukraine has carried out a drone attack on an oil refinery in Kstovo in the Nizhny Novgorod region, about 50 miles east of Moscow, the Kyiv Independent newspaper reports, citing Russian sources on Telegram.  Content posted on Telegram accounts in Russia show explosions and flames erupting from what is believed to be a facility owned by Russian oil company Lukoil. Russian authorities also claim that parts of a downed Ukrainian drone partially destroyed an oil pipeline in Primorsk, south of Viborg, reports the AFP news agency. The attacks take place at the same time that allies of Ukraine have urged the country to hold off on attacks against Russian energy facilities, reports Bloomberg. The night's attacks against Russia have not been confirmed by Ukraine.
+
+[Read Full Article](https://www.tv4.se/artikel/tt-260405-ukrainaoro1-a47685a6/uppgifter-attack-mot-oljeraffinaderi-i-ryssland)
+
+---
+
+## The fashion giant's new move – selling clothes via AI
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Shop underwear and socks directly through an AI service? The opportunity is now being launched by H&M's American competitor GAP.
+
+[Read Full Article](https://www.hd.se/ekonomi/modejattens-nya-drag-saljer-klader-via-ai/)
+
+---
+
+## The fashion giant's new move – selling clothes via AI
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Shop underwear and socks directly through an AI service? The opportunity is now being launched by H&M's American competitor GAP.
+
+[Read Full Article](https://www.sydsvenskan.se/ekonomi/modejattens-nya-drag-saljer-klader-via-ai/)
+
+---
+
+## The fashion giant's new move – selling clothes via AI
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Shop underwear and socks directly through an AI service? The opportunity is now being launched by H&M's American competitor GAP.
+
+[Read Full Article](https://www.svd.se/a/2ppWWy/modejattens-nya-drag-saljer-klader-via-ai)
+
+---
+
+## Drunkenness in Jönköping - caravan on fire
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Almost 80 people have been taken into custody after disturbances and fights in connection with a motor fair in Jönköping where thousands of people gathered. The police describe the level of drunkenness as high.
+
+[Read Full Article](https://www.svd.se/a/K88VxX/fylleslag-i-jonkoping-husvagn-i-brand)
+
+---
+
+## Man's best friend older than previously thought
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Humans and dogs have lived side by side for over 15,000 years, since the end of the Ice Age, according to a new study published in Nature.
+
+[Read Full Article](https://www.hd.se/sverige/manniskans-basta-van-aldre-an-tidigare-trott/)
+
+---
+
+## Man's best friend older than previously thought
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Humans and dogs have lived side by side for over 15,000 years, since the end of the Ice Age, according to a new study published in Nature.
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/manniskans-basta-van-aldre-an-tidigare-trott/)
+
+---
+
+## See the view from Malmö's most expensive apartment
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+It's spring for the exclusive condominiums. Demand for premium housing has increased despite the downturn. At Citadellskajen in Malmö, the city's most expensive apartment to date is currently being built. Follow up!
+
+[Read Full Article](https://www.sydsvenskan.se/malmo/se-utsikten-fran-malmos-dyraste-lagenhet-nagonsin/)
+
+---
+
+## Trump: Downed pilot rescued from Iran
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+The second US fighter pilot shot down over Iran has been rescued by US special forces, President Donald Trump confirms.  "We caught him!", writes the president in his post on Truth Social.
+
+[Read Full Article](https://www.sydsvenskan.se/varlden/kallor-forsvunne-piloten-raddad-fran-iran/)
+
+---
+
+## Trump: Downed pilot rescued from Iran
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+The second US fighter pilot shot down over Iran has been rescued by US special forces, President Donald Trump confirms.  "We caught him!", writes the president in his post on Truth Social.
+
+[Read Full Article](https://www.hd.se/varlden/kallor-forsvunne-piloten-raddad-fran-iran/)
+
+---
+
+## Storm Dave approaching - extended warnings
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Storm winds are expected to hit southwestern Sweden during the afternoon of Easter. - It will be very windy, it is best to stay inside, says Magnus Nilsson Sangrud, meteorologist at SMHI.
+
+[Read Full Article](https://www.svd.se/a/m00qol/stormen-dave-fortsatter-sin-framfart)
+
+---
+
+## Iran's militia recruits children - patrols with guns
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Twelve-year-olds with automatic weapons have begun patrolling the streets of Tehran.  The children's task is to stifle popular protests and ensure that Iranians do not violate the regime's internet restrictions.
+
+[Read Full Article](https://www.sydsvenskan.se/varlden/irans-milis-varvar-barn-patrullerar-med-vapen/)
+
+---
+
+## The missing American has been found - out of Iran
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+The American crewman who was shot down over Iran on Friday has been rescued after a dramatic rescue effort.
+
+[Read Full Article](https://www.svd.se/a/OkkVOb/forsvunna-amerikanen-har-hittats-ute-ur-iran)
+
+---
+
+## New research: This is why some people never get the flu
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+It is about dermcidin, a peptide, which is found naturally in, among other things, sweat, saliva and tears and which scientists know protects us against various infectious agents. In the past, it has been shown that it can protect against certain bacteria. Now it turns out that the peptide can have an important role in how we cope with the flu virus. A research group from Spain has analyzed samples from 19 people who work in health care and who state that they have never had the flu. The analyzes showed that they had a high concentration of dermcidin, which could be an explanation for their not being infected.  Lab studies The researchers also did lab studies where they saw that dermcidin could prevent two common flu viruses from attaching to human cells. The peptide also protected mice from contracting the flu. The study has been published in the scientific journal Pnas. "The results show that our own bodies have natural mechanisms to prevent viral infections, which opens up opportunities to develop new, more effective antiviral treatments," says Álex Mira, researcher at the Fisabio Foundation and one of the researchers behind the study, in a press release.
+
+[Read Full Article](https://www.tv4.se/artikel/tt-260404-influensa1-98606a02/ny-forskning-darfor-far-vissa-aldrig-influensa)
+
+---
+
+## Mr. B: A lot of songs make me cry, these make me not
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Today, northern Europe's most headphone-addicted house ear sends a greeting to winter's best ear friend. And if he has a message, it's this: Music, huh? What a thing!
+
+[Read Full Article](https://www.dn.se/kultur/herr-b-manga-latar-far-mig-att-grata-de-har-far-mig-att-lata-bli/)
+
+---
+
+## It is time for a European Federation
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+GUEST CHRONICLE: We cannot place the entire responsibility for Europe's development on former Riksbank governors and the next generation of right-wing populists. In collaboration with Liberal Debatt, Eric Luth writes that liberals need to shut up and urgently push for a European federation.
+
+[Read Full Article](https://www.hd.se/opinion/ledare/det-ar-dags-for-en-europeisk-federation/)
+
+---
+
+## Messy in Jönköping - 80s taken care of
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Several people were taken into custody in Jönköping during the Easter Eve evening in connection with a motor fair. - We have almost 80 taken into custody, says the police's operations leader Andreas Fyhr to Expressen.
+
+[Read Full Article](https://www.hd.se/sverige/stokigt-i-jonkoping-80-tal-omhandertagna/)
+
+---
+
+## Messy in Jönköping - 80s taken care of
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Several people were taken into custody in Jönköping during the Easter Eve evening in connection with a motor fair. - We have almost 80 taken into custody, says the police's operations leader Andreas Fyhr to Expressen.
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/stokigt-i-jonkoping-80-tal-omhandertagna/)
+
+---
+
+## Young Republicans embrace anti-Semitism – new movement emerging in the US
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+NEW YORK. During the Iran War, young Republicans turn against Israel and embrace anti-Semitism. First up is James Fishback, a 31-year-old Internet phenomenon described as the future of Trumpism.
+
+[Read Full Article](https://www.dn.se/varlden/unga-republikaner-omfamnar-antisemitism-ny-rorelse-vaxer-fram-i-usa/)
+
+---
+
+## Iran's militia recruits children - patrols with guns
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Twelve-year-olds with automatic weapons have begun patrolling the streets of Tehran.  The children's task is to stifle popular protests and ensure that Iranians do not violate the regime's internet restrictions.
+
+[Read Full Article](https://www.hd.se/varlden/irans-milis-varvar-barn-patrullerar-med-vapen/)
+
+---
+
+## Peter Wolodarski: That's not a president's logic - that's the Maga gangster's
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Trump creates chaos for his own gain. NATO has become an empty shell - and Europe now stands alone.
+
+[Read Full Article](https://www.dn.se/ledare/peter-wolodarski-det-ar-inte-en-presidents-logik-det-ar-maga-gangsterns/)
+
+---
+
+## Mikael Wiehe turns 80 – but would rather look forward than back
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Mikael Wiehe told us this summer that he was affected by Alzheimer's and on Friday he turns 80. But nostalgia is not for him. "The best thing my friends and I can do at this age is not whine about how things used to be better. It's traditional, traditional."
+
+[Read Full Article](https://www.hd.se/kultur/mikael-wiehe-fyller-80-men-blickar-hellre-framat-an-bakat/)
+
+---
+
+## The home is waiting - Olena Hnatiuk's book responds to the banner in Valencia
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Before the WC playoff match in Valencia, the Ukrainians unfurled the banner "Home is waiting". Olena Hnatiuk in Skäret asked the visitors what a home is - and now the Ukrainian exile's research is published in book form.
+
+[Read Full Article](https://www.hd.se/kultur/hemmet-vantar-olena-hnatiuks-bok-svarar-pa-banderollen-i-valencia/)
+
+---
+
+## Mikael Wiehe turns 80 – but would rather look forward than back
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Mikael Wiehe told us this summer that he was affected by Alzheimer's and on Friday he turns 80. But nostalgia is not for him. "The best thing my friends and I can do at this age is not whine about how things used to be better. It's traditional, traditional."
+
+[Read Full Article](https://www.sydsvenskan.se/kultur/mikael-wiehe-fyller-80-men-blickar-hellre-framat-an-bakat/)
+
+---
+
+## Drunken brawl and caravan fire - at a motor fair: "Like a festival"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+During the Easter weekend, a large motor fair is taking place at Elmia in Jönköping. In connection with it, thousands of people have gathered to party in the parking lot outside – a tradition that has been going on for several years. - We have had a fairly high level of preparedness ahead of this weekend. With hindsight, we succeeded with a good effort and good planning, says police spokesperson Mats Pettersson. Already on Good Friday evening, the police took about 15 people into custody for drunk driving and disorderly conduct. Several cases of assault were also dealt with. 80 people taken care of During the evening of Easter Eve, the riot increased and the police estimate that up to 9,000 people, mostly young people, gathered in the car park. - We had a lot to do and there was a high degree of intoxication, says Mats Pettersson. The police took about 80 people into custody, of which 47 under the law on the treatment of intoxicated persons.  A lot of suspected crimes were also committed: At least seven cases of drug crimes Ten cases of assault, one of which was classified as serious where the victim had to be taken to hospital Two cases of sexual crimes Several cases of vandalism Drunk driving Traffic offenses Traffic accidents A total of four people were arrested, including a man in his 20s suspected of the serious assault. In addition, the police have issued 68 administrative fines. Caravan burned up In addition, a caravan was set on fire. - The caravan suddenly started to burn quite well. In the end it closed, but no one was hurt. There, we have drawn up a notification of public negligence. The police say that the party was at its worst between 9pm and 3am, but that it was rowdy all weekend. - There has been a party here for several days in this parking lot. It's more or less like a festival, says Mats Pettersson.
+
+[Read Full Article](https://www.tv4.se/artikel/tt-260405-motormassastok1-6d605b6e/stokigt-i-jonkoping-80-tal-omhandertagna)
+
+---
+
+## Cars destroyed in fire
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+On the night of Sunday, SOS Alarm was alerted to a car fire on Hyacintgatan in Holma in Malmö.
+
+[Read Full Article](https://www.sydsvenskan.se/bilbrand-pa-holma/)
+
+---
+
+## Åsa Beckman: My garden has made me less afraid of dying
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Growers are visionaries who constantly know they are at risk of disappointment. But the garden and cultivation restore our place in the world, writes DN's Åsa Beckman.
+
+[Read Full Article](https://www.dn.se/kultur/asa-beckman-min-tradgard-har-gjort-mig-mindre-radd-for-att-do/)
+
+---
+
+## Knife fight outside Höganäs - one to hospital
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Police and an ambulance went out on Saturday evening to an address outside Höganäs after an alarm about a fight in an apartment.
+
+[Read Full Article](https://www.hd.se/hoganas/knivbrak-utanfor-hoganas-en-till-sjukhus/)
+
+---
+
+## "Interesting for us as middle-aged cis men"
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Reading "Finn sig" was an eye opener for Petter Schaffer, who started a male separatist book club that only reads women. But what have they learned about the female perspective? That question seems to divide the group.
+
+[Read Full Article](https://www.svd.se/a/k000BB/intressant-for-oss-som-medelalders-cis-man)
+
+---
+
+## Cuba's last defender: "Not given a fair chance"
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Blacked-out cities, empty store shelves and jailed regime critics have become commonplace in Cuba. Previously, the communist regime in Havana was praised by Swedish politicians and cultural figures. Now the Swedish-Cuban association stands alone.
+
+[Read Full Article](https://www.svd.se/a/2pppVq/svensk-kubanska-foreningen-forsvarar-det-kommunistiska-styret-i-havanna)
+
+---
+
+## Quick laws are the point.
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.sydsvenskan.se/opinion/moa-berglof/snabba-lagar-ar-sjalva-poangen/)
+
+---
+
+## Zecira Musovic: "You get some kind of superpower as a mother"
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+HELSINGBORG. Ten years ago, Zecira Musovic thought she would have to quit football if she wanted to start a family. Now the national team goalkeeper is back between the posts, barely eight months after little Zarah was born. - You get some kind of superpower as a mother, says the 29-year-old in a major DN interview.
+
+[Read Full Article](https://www.dn.se/sport/zecira-musovic-man-far-nagon-slags-superkraft-som-morsa/)
+
+---
+
+## Jakob's murder film was spread - no one is held accountable
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+For two years, Camilla Hall has chosen not to drive past the tunnel where her 16-year-old son Jakob was murdered. Now she is back on the scene, when it is clear that no one will be held accountable for how the footage from the murder was spread. - That is what hurts so much. That someone can stand there and film when my child dies, says Camilla Hall.
+
+[Read Full Article](https://www.hd.se/orkelljunga/mordfilm-pa-jakob-spreds-ingen-stalls-till-svars/)
+
+---
+
+## The missing pilot has been rescued: "We have him"
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+The missing fighter pilot has been rescued by the United States. The operation was carried out by a specialized commando force and firefights broke out on the spot. "We have him," says Donald Trump.
+
+[Read Full Article](https://www.dn.se/varlden/saknade-piloten-har-raddats-vi-har-honom/)
+
+---
+
+## That's why it became MFF: "Not planning to move home yet"
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Oscar Sjöstrand chose not to play in the top league in the Netherlands and signed for Malmö FF instead. - Malmö is Malmö after all. It's like Ajax in Holland, the biggest, says the 21-year-old winger.
+
+[Read Full Article](https://www.sydsvenskan.se/sport/darfor-blev-det-mff-inte-tankt-flytta-hem-an/)
+
+---
+
+## Leader: The municipalities are facing a cost bomb – and you are the one who has to pay
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Many people are surprised that municipalities do not offer the elderly cooked food, but refer them to the freezer counters of grocery stores. So far, however, no politician has presented a sustainable solution to the problem.
+
+[Read Full Article](https://www.dn.se/ledare/kommunerna-star-infor-en-kostnadsbomb-och-det-ar-du-som-far-betala/)
+
+---
+
+## Sources: Shot down American found in Iran
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.svd.se/a/y55qdg/kallor-nedskjutna-piloten-hittad-i-iran)
+
+---
+
+## David Thurfjell: What do we do with God when AI exists?
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+In loneliness, doubt and doubt we have turned to religion for comfort and guidance. But with AI, we can now have conversations where someone is always with us, instantly responding and offering closeness. How does it affect our faith and capacity for imagination, asks religious historian David Thurfjell.
+
+[Read Full Article](https://www.dn.se/kultur/david-thurfjell-vad-ska-vi-med-gud-till-nar-ai-finns/)
+
+---
+
+## Missing fighter pilot rescued: "We have him!"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Sources: Found by US special forces • Trump's jubilation
+
+[Read Full Article](https://www.tv4.se/artikel/4KDgTZpd54luyIgb1yHhp1/kaellor-foersvunne-piloten-raeddad-fran-iran)
+
+---
+
+## "The Disclosure Act makes it more difficult for the authorities to carry out their core mission."
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+It is through studies of officials' perception of what a whistleblowing law can mean, and knowledge of what similar laws have meant historically, that we establish that the whistleblowing law would entail a risk of racial profiling, write four researchers from universities and colleges in Lund, Malmö and Stockholm.
+
+[Read Full Article](https://www.sydsvenskan.se/opinion/angiverilagen-gor-det-svarare-for-myndigheterna-att-utfora-sitt-karnuppdrag/)
+
+---
+
+## Iran's militia recruits children - patrols with guns
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Twelve-year-olds with automatic weapons have begun patrolling the streets of Tehran. The children's task is to stifle popular protests and ensure that Iranians do not violate the regime's internet restrictions.
+
+[Read Full Article](https://www.svd.se/a/xrrqjQ/irans-milis-varvar-barn-patrullerar-med-vapen)
+
+---
+
+## The compass is more important than the map
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Those who devote their work to drawing red lines on the map will stand in despair on the day reality is redrawn.
+
+[Read Full Article](https://www.svd.se/a/vrrRQp/kompassen-ar-viktigare-an-kartan)
+
+---
+
+## Jens Littorin: Sad if this was the last saw of the world's best curling team
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+The Olympics were a flop, but the WC gold still makes this season one of Lag Niklas Edin's most successful. It would be sad if this was the last we got to see of the world's best curling team.
+
+[Read Full Article](https://www.dn.se/sport/jens-littorin-trakigt-om-det-har-var-det-sista-vid-sag-av-varldens-basta-curlinglag/)
+
+---
+
+## Letter to the editor. S and C must present their alternative to the voters
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+LETTER TO THE EDITOR. Give voters who are critical of the Tidö government hope for a future where the sun is on its way up instead of down. But how can we voters believe that the opposition parties are capable of cooperating when they cannot paint a common minimal vision and a clear government alternative? wonders Sven Svedulf.
+
+[Read Full Article](https://www.dn.se/insandare/s-och-c-maste-redovisa-sitt-alternativ-for-valjarna/)
+
+---
+
+## House of 156 square meters sold
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/bjuv/hus-pa-156-kvadratmeter-salt/)
+
+---
+
+## Susanna Birgersson:
+What needs to be cut to make me more authentic?
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+The entire Bible is full of teaching aimed at chiseling
+
+[Read Full Article](https://www.dagen.se/livsstil/susanna-birgersson-vad-behoever-skaeras-bort-foer-att-jag-ska-bli-mer-aekta/10199508)
+
+---
+
+## Hopeful for Austrian nuns who fled back to their convent
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Hoping for a personal meeting with Pope Leo when they plan for the Rome trip.
+
+[Read Full Article](https://www.dagen.se/nyheter/hoppfullt-foer-oesterrikiska-nunnor-som-flydde-tillbaka-till-sitt-kloster/10279326)
+
+---
+
+## Attentive study that young people apply to the church is withdrawn
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+The British Bible Society received a completely incorrect basis from an opinion institute - has been the basis for debate about the Jesus trend in the country
+
+[Read Full Article](https://www.dagen.se/nyheter/uppmaerksammad-studie-att-unga-soeker-sig-till-kyrkan-dras-tillbaka/10275769)
+
+---
+
+## Christ is risen
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+"5 minutes with God" is an easily accessible devotional podcast based on prayer and the Bible.
+
+[Read Full Article](https://www.dagen.se/podd/kristus-aer-uppstanden/10281335)
+
+---
+
+## God needs no likes
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+Frida Park: Take care that the church does not lose its saltiness
+
+[Read Full Article](https://www.dagen.se/ledare/gud-behoever-inga-likes/10280513)
+
+---
+
+## "They arrive at the intercessory prayer in clusters"
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+In Jämtland, many newcomers seek out the churches' lavish youth evenings
+
+[Read Full Article](https://www.dagen.se/livsstil/de-kommer-fram-till-foerboenen-i-klungor/10274133)
+
+---
+
+## So does a downed pilot to survive
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+A frantic hunt is underway for an American fighter pilot who ejected from his plane over Iran. The pilots are trained in survival, but in recent decades the United States has carried out few rescue operations of the type now underway.
+
+[Read Full Article](https://www.hd.se/varlden/sa-gor-en-nedskjuten-pilot-for-att-overleva/)
+
+---
+
+## So does a downed pilot to survive
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+A frantic hunt is underway for an American fighter pilot who ejected from his plane over Iran. The pilots are trained in survival, but in recent decades the United States has carried out few rescue operations of the type now underway.
+
+[Read Full Article](https://www.sydsvenskan.se/varlden/sa-gor-en-nedskjuten-pilot-for-att-overleva/)
+
+---
+
+## Trump: Downed pilot rescued from Iran
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-05 (today)
+
+The second US fighter pilot shot down over Iran has been rescued by US special forces, President Donald Trump confirms. "We caught him!", writes the president in his post on Truth Social.
+
+[Read Full Article](https://www.svd.se/a/RjjVQ2/regeringsbyggnad-skadad-i-kuwait)
+
+---
+
+## Edin after the WC gold last night: "Super proud"
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Team Niklas Edin is back on the throne. On the night of Sunday Swedish time, the world's most meritorious curling team won the WC final against Canada and secured their eighth WC gold. - I am super proud of the team, Edin said in SVT's live broadcast.
+
+[Read Full Article](https://www.dn.se/sport/edin-efter-vm-guldet-i-natt-superstolt/)
+
+---
+
+## Car drove into parade - several injured
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.svd.se/a/pBBqbV/bil-kort-in-i-parad-flera-skadade)
+
+---
+
+## The expert's warning after limited supplementary loans
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The new mortgage rules have now come into force. This means that the possibility of extending one's mortgage is limited. "Those who already own their home are less able to borrow," says savings economist Felicia Schön.
+
+[Read Full Article](https://www.svd.se/a/q66BBw/expertens-varning-efter-begransade-tillaggslan)
+
+---
+
+## Scandal scenes in Germany - match canceled
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Scandalous scenes played out in the German second league and the meeting between Dynamo Dresden and Hertha Berlin had to be interrupted for just over a quarter of an hour.
+
+[Read Full Article](https://www.hd.se/sport/skandalscener-i-tyskland-match-avbrots/)
+
+---
+
+## Scandal scenes in Germany - match canceled
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Scandalous scenes played out in the German second league and the meeting between Dynamo Dresden and Hertha Berlin had to be interrupted for just over a quarter of an hour.
+
+[Read Full Article](https://www.sydsvenskan.se/sport/skandalscener-i-tyskland-match-avbrots/)
+
+---
+
+## New research: This is why some people never get the flu
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+A substance found in saliva and sweat may explain why some people never get the flu, according to a new study.
+
+[Read Full Article](https://www.hd.se/sverige/ny-forskning-darfor-far-vissa-aldrig-influensa-TByGO/)
+
+---
+
+## New research: This is why some people never get the flu
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+A substance found in saliva and sweat may explain why some people never get the flu, according to a new study.
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/ny-forskning-darfor-far-vissa-aldrig-influensa-3_yIn/)
+
+---
+
+## Now the astronauts are closer to the moon than the earth
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+On April 1, a new chapter in the space age began. The Artemis program's first manned rocket lifted off for the moon from the Kennedy Space Center in Florida. Now the crew is closer to the moon than the earth.
+
+[Read Full Article](https://www.hd.se/varlden/nu-ar-astronauterna-narmre-manen-an-jorden/)
+
+---
+
+## Now the astronauts are closer to the moon than the earth
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+On April 1, a new chapter in the space age began. The Artemis program's first manned rocket lifted off for the moon from the Kennedy Space Center in Florida. Now the crew is closer to the moon than the earth.
+
+[Read Full Article](https://www.sydsvenskan.se/varlden/nu-ar-astronauterna-narmre-manen-an-jorden/)
+
+---
+
+## Authorities in weather warning: Stay inside on Sunday
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.svd.se/a/0pp1WE/myndigheter-i-vadervarning-stanna-inne-pa-sondag)
+
+---
+
+## Swedish overconsumption is marked with a gloomy date
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Today, April 4, is Sweden's "Overshoot day". This is when the year's ration of renewable resources has been used up if everyone on earth had lived as voraciously as the Swedes.
+
+[Read Full Article](https://www.hd.se/sverige/svensk-overkonsumtion-markeras-med-dystert-datum/)
+
+---
+
+## Swedish overconsumption is marked with a gloomy date
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Today, April 4, is Sweden's "Overshoot day". This is when the year's ration of renewable resources has been used up if everyone on earth had lived as voraciously as the Swedes.
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/svensk-overkonsumtion-markeras-med-dystert-datum/)
+
+---
+
+## Trump considers changes - ministers hanging loose
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+In a short period of time, Trump has fired both Attorney General Pam Bondi and Homeland Security Secretary Kristi Noem. The president is now considering more changes within the cabinet - and two ministers are hanging extra loose, according to sources to several media outlets.
+
+[Read Full Article](https://www.dn.se/varlden/trump-overvager-forandringar-ministrarna-som-hanger-lost/)
+
+---
+
+## He can "shut down half the internet": We must protect ourselves
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Two years ago, the world was a couple of clicks away from digital doom in a cyber attack. In Huddinge, there is a man who, according to an expert, could, on similar premises, "turn off half the internet".  - Confidence is all I have here. I can't break it or risk it, he says of his project, which is one of the cornerstones of the Internet.
+
+[Read Full Article](https://www.hd.se/sverige/han-kan-slacka-halva-internet-vi-maste-skydda-oss/)
+
+---
+
+## He can "shut down half the internet": We must protect ourselves
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Two years ago, the world was a couple of clicks away from digital doom in a cyber attack. In Huddinge, there is a man who, according to an expert, could, on similar premises, "turn off half the internet".  - Confidence is all I have here. I can't break it or risk it, he says of his project, which is one of the cornerstones of the Internet.
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/han-kan-slacka-halva-internet-vi-maste-skydda-oss/)
+
+---
+
+## Criticism: The entire EU "open to illegal migrants"
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Across Europe, the mass legalization of undocumented migrants in Spain, which begins this month, is being closely watched. The critics believe that the entire EU is being opened up to the migrants - who should not be rewarded for staying here illegally.
+
+[Read Full Article](https://www.svd.se/a/ExxemK/spanien-oppnar-for-papperslosa-migranter)
+
+---
+
+## Dozens of animals dead after Russian attacks
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The Russian attacks on Ukraine have continued on Saturday, where, among other things, a market was hit. President Volodymyr Zelenskyy accuses Moscow of choosing "escalation over ceasefire".
+
+[Read Full Article](https://www.svd.se/a/d44Vww/dodliga-attacker-under-pask)
+
+---
+
+## The new Russian strategy: "Creates a tougher psychological pressure"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Russia has changed its strategy in the air war against Ukraine. In recent times, the attacks have become more numerous, more frequent, and have increasingly occurred during the day as well. According to the Kyiv Independent, thousands of drones and robots were sent against Ukraine in March alone. The new tactic is about keeping a constant pressure up. Civilian targets and critical infrastructure are being hit to a greater extent, with the goal of creating a constant sense of danger and exhausting both society and the air defense. Increased production According to military expert Joakim Paasikivi, it is clear what differentiates the situation from before. - The new thing is really the frequency. That the Russian side has the industrial ability to increase the production of both drones and robots, he says. Russia is also increasingly using robots, because they are more difficult to stop. - What works is to a greater extent robots than drones, he says. However, the drones still have an important role. - They are needed partly to terrorize the civilian population, but also to make it difficult for the Ukrainian air defense, says Paasikivi. The biggest problems for Ukraine arise with ballistic and hypersonic robots. - What comes through and which is dependent on qualified air defense, such as Patriot and NASAMS, are the ballistic robots, he says. Daytime attacks increase the pressure A clear change is that Russia now attacks more often also during the day, in contrast to before when nocturnal attacks dominated. - The reason why the Russian attacks are now also carried out during the day is that you have the ability. It is a relatively cheap way for Russia to increase the pressure, says Paasikivi. He points out that Russia has had few successes on the ground in recent months. - When you have not had any breakthroughs on the ground, then the airstrikes become a way to keep the pressure up, he says. "At full throttle all the time" Despite the increased pressure, Paasikivi does not believe that the strategy will break Ukraine. - Life is becoming much more difficult for the Ukrainians, that is known. But that Ukraine sku
+
+[Read Full Article](https://www.tv4.se/artikel/PNx3uI955qF9H7qf3c1xW/nya-ryska-strategin-i-ukraina-pa-helspaenn-hela-tiden)
+
+---
+
+## Ukraine bats ahead of elections in Hungary: "It's disgusting"
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+BUDAPEST. Viktor Orbán devotes a large part of his election speeches to attacking war-torn Ukraine. For Ukrainian refugees in Hungary, the scaremongering is hard to bear. - It is painful. When I see the hateful election posters, I want to paint them over, says Maria Trotsenko from Kiev.
+
+[Read Full Article](https://www.dn.se/varlden/ukraina-slagtra-infor-valet-i-ungern-det-ar-vidrigt/)
+
+---
+
+## New research: This is why some people never get the flu
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+A substance found in saliva and sweat may explain why some people never get the flu, according to a new study.
+
+[Read Full Article](https://www.hd.se/sverige/ny-forskning-darfor-far-vissa-aldrig-influensa/)
+
+---
+
+## New research: This is why some people never get the flu
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+A substance found in saliva and sweat may explain why some people never get the flu, according to a new study.
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/ny-forskning-darfor-far-vissa-aldrig-influensa/)
+
+---
+
+## The boarded ship may leave Sweden
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The boarded ship Flora 1 is now allowed to leave Sweden, the Coast Guard writes in a press release.
+
+[Read Full Article](https://www.hd.se/skane/det-bordade-fartyget-far-lamna-sverige/)
+
+---
+
+## The boarded ship may leave Sweden
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The boarded ship Flora 1 is now allowed to leave Sweden, the Coast Guard writes in a press release.
+
+[Read Full Article](https://www.sydsvenskan.se/skane/det-bordade-fartyget-far-lamna-sverige/)
+
+---
+
+## The tanker may leave Sweden
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The ship Flora 1 is allowed to leave Sweden, writes the Coast Guard in a press release. The vessel was boarded by the Coast Guard in collaboration with the Swedish Police Agency during Friday morning. The investigation after the suspected oil spill shows that no environmental crime can be proven. Meanwhile, Cameroon has confirmed that the tanker is registered in the country's shipping register. There is thus no legal basis for further measures and the vessel must leave its anchorage outside Ystad. - The suspicions do not lead to prosecution, but shipping must know that the Swedish authorities work together to maintain order at sea. We act to increase maritime safety and protect the environment. If there is a suspicious vessel, we intervene based on the prevailing conditions, says Daniel Stenling, deputy head of the Coast Guard's operational department. "We are satisfied" It was last Thursday that the Coast Guard's flight discovered a roughly twelve kilometer long spill of mineral oil within Sweden's economic zone. The tanker Flora 1 was identified early on as interesting for the investigation. Even the suspicion of lack of seaworthiness has now been put to rest after the ship's flag state has been clarified. - If there is no legal basis for a further preliminary investigation, we do not detain vessels. In addition, there is a flag state. We are satisfied to have created clarity on that issue, says Daniel Stenling.
+
+[Read Full Article](https://www.tv4.se/artikel/68oOhdLxschMvn1ivp7BYH/fartyget-flora-1-far-laemna-sverige)
+
+---
+
+## Epstein victim's family demands meeting with King Charles
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The family of the late Virginia Giuffre is demanding to see King Charles during his upcoming visit to the United States. They hope it will lead to the British government taking action against people linked to Epstein's network.
+
+[Read Full Article](https://www.dn.se/varlden/epsteinoffrets-familj-kraver-mote-med-kung-charles/)
+
+---
+
+## Israelis demand an end to the war: "Don't bomb"
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Hundreds of Israelis demonstrated on Saturday in Tel Aviv against Israel's war and Prime Minister Benjamin Netanyahu.
+
+[Read Full Article](https://www.svd.se/a/gkkqd5/israeler-kraver-slut-pa-kriget-bomba-inte)
+
+---
+
+## Those on hunger strike to stop criticized the teenage deportations
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+A group of young people stand with umbrellas outside the Riksdag in the April weather. The network for young people threatened with deportation describes the hunger strike as a last resort to have their voice heard. Co-founder and V-politician Leo Ahmed says that since December the network has written debate articles, emailed and called politicians to stop the so-called teenage expulsions - without results. On March 6, the Tidöpartierna's decision came to clarify the valve that exists in family immigration, which means that there must be a dependent relationship between the teenager and the adult. But according to Leo Ahmed, the problem remains. - At the latest last week, there were two young people who received a deportation order, and therefore we now feel that we have no choice, he says. The sisters were deported Co-founder Leo Ahmed raises, among other things, the situation of two girls in the network - Donya, 20, and Darya, 24 - who were deported to Iran last fall, while the rest of the family had to stay in Sweden. - They are currently in the middle of the war and several of the young people are facing the same situation. We have young people from Iran and Iraq. It's not just about insecurity and war, but about separating families, he says. At the same time, Leo Ahmed is critical of the fact that the government's decision to pause deportations does not cover the young people who have already received deportation orders. Worried about life in Iraq One ​​of them is Kani Hassan, who is present at the hunger strike together with his sister. They have both received deportation orders to Iraq and had their appeals rejected. - What I am most worried about is what my life will look like in Iraq. A country where women have no rights at all, where education for women is not seen as an option and where you end up vulnerable as a woman. I am very afraid of that, says Kani Hassan. - It is Sweden that has shaped us, we cannot live anywhere else. Many of us risk ending up in social vulnerability and very difficult situations if we go back to the countries they want to send us to. "Sweden is our homeland" Bad
+
+[Read Full Article](https://www.tv4.se/artikel/dj2VhpYnM2nJRVbrSKDmU/de-hungerstrejkar-foer-att-stoppa-kritiserade-tonarsutvisningarna)
+
+---
+
+## New research: This is why some people never get the flu
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+A substance found in saliva and sweat may explain why some people never get the flu, according to a new study.
+
+[Read Full Article](https://www.svd.se/a/M77VAB/ny-forskning-darfor-far-vissa-aldrig-influensa)
+
+---
+
+## Therefore, everyone wants photo models from South Sudan
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+It started with Alek Wek 30 years ago. Today, as many as nine of the world's 50 most sought-after photo models are from South Sudan. But the boom is threatened by visa problems, which are getting worse as Western countries tighten entry rules.
+
+[Read Full Article](https://www.hd.se/varlden/darfor-vill-alla-ha-fotomodeller-fran-sydsudan/)
+
+---
+
+## Therefore, everyone wants photo models from South Sudan
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+It started with Alek Wek 30 years ago. Today, as many as nine of the world's 50 most sought-after photo models are from South Sudan. But the boom is threatened by visa problems, which are getting worse as Western countries tighten entry rules.
+
+[Read Full Article](https://www.sydsvenskan.se/varlden/darfor-vill-alla-ha-fotomodeller-fran-sydsudan/)
+
+---
+
+## Winter is no longer what it once was
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Many experienced the past winter as severe, but just a couple of decades ago it would have been perceived as both short and mild instead. Climate change manifests itself in Sweden mainly through milder and wetter winters and earlier and earlier springs.
+
+[Read Full Article](https://www.svd.se/a/d44Gmq/arstidernas-forandringar-i-en-varmare-varld)
+
+---
+
+## No to the Swedish Epstein investigation
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The Tidö parties say no to an independent investigation into Jeffrey Epstein's connections to Sweden, reports P4 Stockholm.
+
+[Read Full Article](https://www.hd.se/sverige/nej-till-svensk-epstein-utredning/)
+
+---
+
+## No to the Swedish Epstein investigation
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The Tidö parties say no to an independent investigation into Jeffrey Epstein's connections to Sweden, reports P4 Stockholm.
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/nej-till-svensk-epstein-utredning/)
+
+---
+
+## The Chamber of Commerce: We get less for the money
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The government is on its way with a multibillion-dollar plan for roads and railways. But taxpayers are getting less and less for their money, claims the Stockholm Chamber of Commerce. Now they want to give the Swedish Transport Administration competition.
+
+[Read Full Article](https://www.svd.se/a/8pp1QA/manga-miljarder-till-nya-vagar-och-jarnvag-som-bara-blir-dyrare)
+
+---
+
+## Internal turmoil in the White House - they could be fired next
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Just a few weeks apart, Donald Trump has gotten rid of two of his most high-profile ministers. Now, according to sources, concerns are growing within their own ranks. "There may be more people who have to smoke before the mid-term elections," says US expert Emma Ricknell.
+
+[Read Full Article](https://www.svd.se/a/BxxQ8G/intern-oro-i-vita-huset-de-kan-sparkas-harnast)
+
+---
+
+## No to the Swedish Epstein investigation
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The Tidö parties say no to an independent investigation into Jeffrey Epstein's connections to Sweden, reports P4 Stockholm.
+
+[Read Full Article](https://www.svd.se/a/XMMV9g/nej-till-svensk-epstein-utredning)
+
+---
+
+## Ships get out - Swedish shipowners: "Positive"
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Several ships have passed through the Strait of Hormuz in the last 24 hours following agreements with Iran. But the Swedish tanker company Stena Bulk, with several vessels stranded in the Persian Gulf, is lying low. Stena's CEO Erik Hånell hopes that the EU can push to get them released.
+
+[Read Full Article](https://www.svd.se/a/QJJev8/svenska-rederiet-stena-bulk-positiv-till-att-fartyg-gar-igenom-hormuz-men-inget-trendskifte)
+
+---
+
+## Cover image of JD Vance's new book has put small Methodist church on the map.
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Parishioner: I had to see the picture to believe it.
+
+[Read Full Article](https://www.dagen.se/nyheter/omslagsbild-pa-jd-vance-nya-bok-har-satt-liten-metodistkyrka-pa-kartan/10282438)
+
+---
+
+## DN Debate. "We who were born prematurely are so much more than just care packages"
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+DN DEBATE. New advice states that healthcare should not try to save babies in week 22. And of course it is tough to live with learning problems or extensive visual impairment. But you usually don't suffer so much that you'd rather be dead. This is how we would never talk about children with burns or cancer, writes Sara Johansson, behavioral scientist and herself born extremely prematurely.
+
+[Read Full Article](https://www.dn.se/debatt/vi-som-foddes-for-tidigt-ar-sa-mycket-mer-an-bara-vardpaket/)
+
+---
+
+## "Europe must compete better against China"
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Swedish and European industry is facing a period of fierce competition from China. For Sweden, there are therefore strong reasons to introduce the euro and work for more European integration, writes Fredrik Sjöholm (IFN).
+
+[Read Full Article](https://www.svd.se/a/K88W4y/europa-maste-tavla-battre-mot-kina-skriver-fredrik-sjoholm)
+
+---
+
+## The historic cinema became an expensive warehouse
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The demand for rental storage in Stockholm is skyrocketing in connection with attic and basement storage disappearing from new homes. This despite the fact that a storage rental costs at least twice as much as an apartment, according to DN's review. - People are prepared to pay, says Thomas Espemo, Swedish director of Pelican Self Storage.
+
+[Read Full Article](https://www.dn.se/ekonomi/anrika-biografen-blev-dyra-forrad/)
+
+---
+
+## Mjällby's worst result since 2024: "We miss completely"
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The reigning champions Mjällby did not do much right against Hammarby. The Stockholm team won 3–0 and ran over the yellow-clad in the Allsvenskan premiere. A bottom pacifier from Mjällby that has not been seen for a very long time. The last time they conceded three goals was in July 2024 – also then against Bajen.
+
+[Read Full Article](https://www.dn.se/sport/mjallbys-samsta-resultat-sedan-2024-vi-missar-totalt/)
+
+---
+
+## The champions after the premiere: "I feel bad"
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The reigning champion team Mjällby went on a premiership that was called enough. - You feel pissed off, says Tom Pettersson after the 0-3 loss.
+
+[Read Full Article](https://www.sydsvenskan.se/sport/mastarna-efter-premiarsmallen-mar-piss/)
+
+---
+
+## The craft more than halfway to the moon: "Beautiful sight"
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The Artemis II expedition is now closer to the Moon than Earth. New images taken by the astronauts from the spacecraft's window show its destination - the moon.
+
+[Read Full Article](https://www.dn.se/varlden/farkosten-mer-an-halvvags-till-manen-vacker-syn/)
+
+---
+
+## This is how the missing pilot may have acted: "Smoke signals and mirrors"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Chased towards promised reward • The expert on how the pilot should think now
+
+[Read Full Article](https://www.tv4.se/artikel/2NAIVEL6CdcFzgjlRYwpK8/sa-kan-foersvunna-piloten-fly-iran-roeksignaler-och-speglar)
+
+---
+
+## He was shot down over enemy land: "People are chasing you"
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+During several previous conflicts, pilots have ended up in enemy countries. The 26-year-old American Ronald Young found himself in the middle of the war in Iraq in 2003. - People are chasing you. They are trying to kill you. You realize you just want to survive, he tells the New York Times.
+
+[Read Full Article](https://www.dn.se/varlden/han-skots-ner-over-fiendeland-manniskor-jagar-dig/)
+
+---
+
+## Real Madrid title shot - fell to bottom team
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Real Madrid went on a real cold shower in the title hunt in La Liga. The star team fell away against the bottom team Mallorca - who decided with the 2-1 goal in extra time.
+
+[Read Full Article](https://www.sydsvenskan.se/sport/real-madrid-titelsmall-foll-mot-bottenlaget/)
+
+---
+
+## Brassaï's nocturnal Paris images shimmer with light
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The Hungarian photographer Brassaï is one of the masters of the 20th century, and the Modern Museum is now showing roughly 160 of his black-and-white images from Paris nightlife during the interwar period. Bo Madestrand sees both romanticism and raw expression in his vintage prints.
+
+[Read Full Article](https://www.dn.se/kultur/brassais-nattliga-parisbilder-skimrar-av-ljus/)
+
+---
+
+## Over 1,400 have been killed in Israeli attacks
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The death toll in Lebanon in ongoing Israeli attacks against Iran-backed Hezbollah has risen to over 1,400. New raids on the capital Beirut as well as Tire were carried out on Saturday.
+
+[Read Full Article](https://www.dn.se/varlden/over-1-400-har-dodats-i-israeliska-attacker/)
+
+---
+
+## Many attacks on economic targets in the war
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+US President Donald Trump is threatening to attack more economic targets in Iran if the country does not meet his demands. Many such attacks have already hit the countries around the Persian Gulf during the war.
+
+[Read Full Article](https://www.svd.se/a/rrrqW8/manga-attacker-mot-ekonomiska-mal-i-kriget)
+
+---
+
+## Her app is used by thousands of pregnant women
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+When Michaela Forni herself was expecting her first child, she lacked a pregnancy app that took her seriously, and was there when care wasn't enough. As CEO of the pregnancy app Baby Journey, she has gone from influencer to tech entrepreneur and power holder in the baby industry. - It should be like a midwife who is also your best friend, she says.
+
+[Read Full Article](https://www.dn.se/ekonomi/hennes-app-anvands-av-tusentals-gravida/)
+
+---
+
+## The midwife on pregnancy apps: "No calming effect"
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+There are more pregnancy apps than any other medical field – and thanks to them, expectant parents are more informed than ever. But at the midwifery clinics, it is noticeable that knowledge does not always lead to security, but can sow doubt and worry. - We are experiencing increasing uncertainty among pregnant women, says midwife Karin Mikaelsson Nordin.
+
+[Read Full Article](https://www.dn.se/ekonomi/barnmorskan-om-gravidapparna-ingen-lugnande-effekt/)
+
+---
+
+## Bjerkebo premiere hero for Sirius
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Isak Bjerkebo became the premiership hero for Sirius away against Degerfors in the Allsvenskan premiere. A goal and an assist were his results in a clear 3–0 victory. - It's a good day at work, he tells TV4 Play.
+
+[Read Full Article](https://www.sydsvenskan.se/sport/bjerkebo-premiarhjalte-for-sirius/)
+
+---
+
+## That's why you shouldn't stockpile petrol - even though prices may rise
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Concerns about rising oil and fuel prices have some talking about stockpiling petrol in advance. But according to experts, it is usually a bad idea - both financially and in terms of safety. According to Carl-Erik Stjernvall, technical expert at Riksförbundet M Sweden, the idea falls quickly when you look at what is actually required.  - The vast majority of people do not have approved containers to store a large amount of petrol at home. Then you first have to buy cans or containers – and even then the financial profit disappears, says Carl‑Erik. A fresh product According to the MSB's guidelines, a single vessel must not normally be larger than 20 litres, and there are limits to how much flammable liquid can be stored in a home without a special permit. According to the authority, a household may store a maximum of 100 liters of flammable liquid, and only for personal use. If you want to store more, you need permission from the municipality. Unlike canned food, gasoline cannot be stored for any length of time. - Gasoline is somewhat of a perishable commodity. You can't save petrol at home for a year and expect it to be just as good, says Stjernvall. What happens over time is that the quality of the petrol deteriorates. - The octane number drops. If you have 95-octane petrol and store it for a long time, it can later hold a significantly lower octane rating, he says. "Cause a serious explosion" It could damage the car. - An engine that needs 95 octane can run quite badly if the petrol is only around 89-90 octane. If you drive for a long time on such petrol, in the worst case it can lead to damage, says Stjernvall. In addition to the financial aspects, there are also security risks.  - Gasoline fumes are explosive. In the wrong mixing ratio, the vapors themselves can cause a serious explosion, he says. Insurance risk According to Carl-Erik Stjernvall, there are also legal aspects to take into account. - If you don't follow the existing guidelines, there is a risk that the home insurance will not apply if something happens, he says. Despite the concerns, he sees no signs of an acute shortage at the moment. - There is
+
+[Read Full Article](https://www.tv4.se/artikel/7fVeyyVjjRaTaqWp682XzU/daerfoer-ska-du-inte-bunkra-bensin-trots-att-priserna-kan-stiga)
+
+---
+
+## Women are not willful creatures who smooth their cheeks because a man has decided to do so
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Man is obsessed with resurrection. But not religiously – but through cosmetic procedures. It is sicker than we can really bear to see, writes Andreas Ekström.
+
+[Read Full Article](https://www.sydsvenskan.se/kultur/kvinnor-ar-inga-viljelosa-varelser-som-slatar-ut-kinderna-for-att-en-man-har-bestamt-det/)
+
+---
+
+## Johan Esk: After Hammarby's demonstration of power - this could be the new "Life of Bajen"
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Outclassing. Demonstration of power. Dream start. A shut-up victory. After Hammarby's 3-0 against the champion Mjällby, the question is whether the fans were right before kick-off: This could be the new "Life of Bajen".
+
+[Read Full Article](https://www.dn.se/sport/johan-esk-efter-hammarbys-maktdemonstration-det-har-kan-vara-nya-life-of-bajen/)
+
+---
+
+## Hammarby got off to a dream start
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Mjällby was almost unbeatable last year. Fotbollsallsvenskan 2026 is already a completely different story. Paulos Abraham scored a hat-trick as Hammarby ran over the reigning champions 3-0 in the opener.
+
+[Read Full Article](https://www.svd.se/a/d44Vdq/hammarby-fick-dromstart)
+
+---
+
+## Dream start for Hammarby after Abraham's hat-trick
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Three goals from Paulos Abraham - and a dream start to the Allsvenskan season for Hammarby. The premiership victory against Mjällby was an impressive statement of strength that made the Bajen fans sing about gold.
+
+[Read Full Article](https://www.svd.se/a/V66Vl1/hammarby-vinner-forsta-allsvenska-matchen)
+
+---
+
+## Fewer young people vote: "Given up to the point that they don't act"
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The last parliamentary election marked a historic trend break – fewer young people voted. Segregation and a failure to capture the strong commitment of young people may be behind it. Now the fight is on to reverse the trend. - We live in one of the world's best countries for influencing and making one's voice heard, says Ahmed Abdirahman, CEO of Järvaveckan.
+
+[Read Full Article](https://www.dn.se/sverige/farre-unga-rostar-uppgivna-till-den-nivan-att-de-inte-agerar/)
+
+---
+
+## Hammarby crushed Mjällby
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+The final teams in the Swedish cup, Hammarby IF and Mjällby AIF, met at 3Arena in Stockholm in the Allsvenskan premiere. Then the home team's coach Kalle Karlsson chose to bench left-back Noah Persson and brought in Ibrahima Fofana as centre-back and moved Frederik Winther out to the left. In addition, Frank Junior Adjei was benched and Oscar Johansson Schellhas took his place in central midfield. Mjällby recently had offensive player Jeppe Kjær injured and in his absence Ludwig Malachowski Thorell was trusted from the start. In addition, Timo Stavitski started instead of the new acquisition Villiam Granath. Two quick goals Just before half-time, Frederik Winther hit a long and good ball from his own half of the pitch and Paulos Abraham was completely free. The forward first shot at Robin Wallinder who saved, but the striker got the ball, judging by the TV images with his hand, and made it 1-0 to the home team. Just two minutes later, Abraham scored two goals. Besara put the ball to the left where Abraham received and coolly rolled in 2-0. - Incredibly nice, we played a damn good half. It was nice to get a reward too with two late goals. Now we just have to keep the lead and try to score more (goals) going forward, Abraham told TV4 at halftime. About the fact that he brought the ball with his hand, he says: - It could be, I'm not entirely sure. I need to see about that. I don't care that much. Now it was a goal and I scored another. I suck at it. Criticism at halftime: "Too many mistakes" TV4 expert John Guidetti was critical of Mjällby at halftime. - The problem now was that there were too many mistakes, too many lost second balls, which led to the first goal coming after a poor defensive game. Disaster. After that came the 2-0 goal, Guidetti said in the studio during the break. Mjällby made two changes at halftime. Ludwig Malachowski Thorell and Timo Stavitski stepped off and Áki Samuelsen and Villiam Granath entered. But it didn't help. Hattrick straight away in the second The second half was only three minutes old when Paulos Abraham scored
+
+[Read Full Article](https://www.tv4.se/artikel/6iIRBE4TLMpR0emCCFcXRf/hammarby-krossade-mjaellby)
+
+---
+
+## Downed planes can hit Trump hard: "Lost control"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Trump's promises are questioned • "May be remembered as someone who betrayed his ideals"
+
+[Read Full Article](https://www.tv4.se/artikel/62yuw0t8gDo7lu3oi1RRqt/nedskjutna-planen-kan-sla-hart-mot-trump-tappat-kontrollen)
+
+---
+
+## New position for Annika Borg - becomes prison chaplain at Norrtäljeanstalten
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+"I am very happy to be in the arms of Roslagen in Norrtälje."
+
+[Read Full Article](https://www.dagen.se/nyheter/ny-tjaenst-foer-annika-borg-blir-faengelsepraest-pa-norrtaeljeanstalten/10282383)
+
+---
+
+## The unexpected proposal: Build playgrounds - inside cemeteries
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+Brämhult cemetery outside Borås is a bit of a pioneer when it comes to including the younger visitors. Last year, the memorial well was built and a stone's throw away, a labyrinth has also been built for those who are tired of the silence at the grave.  - Here we have a memorial well and mailbox. In the mailbox are pencils and crayons that the children can use to draw a picture and put in the well, says Stefan Bärve, cemetery director in Borås. There are also plans for small wheelbarrows and garden tools and a barbecue area on the edge of the burial ground.  - We need to build new things for the future so that today's children get a different view of life in cemeteries. Make it a nice place instead of it being perceived as scary.  Want to create an understanding of life and death In the study, researchers at SLU interviewed representatives from the funeral industry to see how cemeteries could be made more welcoming for the little ones. The aim is both to give the children a greater understanding of life and death, but also to offer green spaces when the cities become denser.  In order to succeed, more decorations, sculptures and berry bushes are suggested, but you can also think of going further.   - We have found examples where you have an environment next to a burial ground that includes both nature and play equipment and that it works very well. It could indicate that you have playground-like environments, but think about where you place them, says Märit Jansson, docent in landscape planning at SLU, Sweden's University of Agriculture.  Met with positive reactions Among the visitors to Brämhult's cemetery, the proposal is met with mostly positive reactions.  - I think it's great that you think like that. Because the children must see this as part of life, says Bosse Johansson. - It's well thought out, but I don't think it should be right next to the burial stones so that there will be shoals and noise, says Kristina Arvidsson.  Do you understand those who think that cemeteries should be a quiet oasis, not a playground for children? - I agree h
+
+[Read Full Article](https://www.tv4.se/artikel/3FmdEkMHLDxqhR2yF9GS1E/foerslaget-bygg-lekplatser-inne-pa-kyrkogardar)
+
+---
+
+## Clear today: Sweden has used up this year's share of the earth's resources
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+After just three months, Sweden has used up its share of the year's renewable resources. The rest of the year we live on ecological credit - at the expense of future generations.  The day is called Overshoot Day, and in Sweden it falls on April 4 – six days earlier than last year. - If everyone consumed as people do in Sweden, the entire earth's renewable resources would run out today. It is quite early and it means that we have a fairly high consumption compared to other countries, says Isadora Wronski, senior strategist at Greenpeace. She likens Overshoot Day to a bankruptcy. - If you deal with finances and don't stick to your budget, what happens then? Well, then you end up going bankrupt. And that also applies to the planet. How we reverse the trend In order to slow down the development, both political decisions and changed lifestyles are required.  - We need to invest in sufficiency measures, which are about reducing the use of resources while doing things that we humans feel good about. It can be simple things like reducing food waste, eating a more plant-based diet, reducing energy consumption and choosing the bicycle, says Isadora Wronski. She emphasizes that a sustainable life does not have to involve sacrifices.  - It is perfectly possible to live a good life without wasting our resources. On the political level, more drastic measures are needed, especially when it comes to the economy.  - We need to fundamentally change our entire economic system. We need to leave an economy that only focuses on growth, it is not possible to constantly use more energy and resources to create throughput. The scientists say we can't handle it and that's one of the root causes of this, says Wronski. "It's not rocket science" Qatar was the first country to reach its Overshoot Day this year - already on February 4, followed by Luxembourg and Singapore.  Only on June 5 will we know when Earth's Overshoot Day occurs. Last year it happened on July 24.  - We know exactly what needs to be done, it's not rocket science, but then we also need b
+
+[Read Full Article](https://www.tv4.se/artikel/6oBJXFd5b3yLh7UgmYTWuj/klart-i-dag-sverige-har-foerbrukat-arets-andel-av-jordens-resurser)
+
+---
+
+## Grief and frustration among Christians in Nigeria after new deadly attacks
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+At least 53 people were killed during Palm Sunday in places with predominantly Christian populations.
+
+[Read Full Article](https://www.dagen.se/nyheter/sorg-och-frustration-bland-kristna-i-nigeria-efter-nya-doedliga-attacker/10282223)
+
+---
+
+## Was infected with HIV as a young person: "My friend asked me to put on gloves"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+When 27-year-old Mohammed Walai was diagnosed almost ten years ago, there was still a lot of ignorance about HIV, both in himself and in those around him.  - I remember very little actually, but I remember that I was afraid that I was going to die and I had a very poor grasp of the treatment. The whole room shook and I was very much in shock, he says.  His mother reacted the same way when he told and he came out as gay at the same time.  - She was thoughtful about what would happen with my HIV diagnosis and how this will affect us in the future. “Will I even be able to have children?” Malva Lambertz, 25 today, took tests because of an unfaithful partner. After three days, the results came and she was asked to go to the reception and see the midwife. - I went there and then she said: You have contracted HIV. I started laughing at first, it was some shock for me. Then I started crying and said: Will I even be able to have children? Continued prejudice and stigma Despite great medical advances, many still face prejudice and stigma.  - A girl friend did not want to toast with me and distanced herself a little. So it was noticed. I received a comment about using plastic gloves when cutting fruit, it felt very difficult, says Malva.  Mohammed Walai was also met with mixed reactions, but mostly supportive. - Some had as bad a clue as I did, but because I received good information, it was quickly possible to tell: It is not a problem, I will be allowed to take medicine and it will not be transferred to anyone. I can have sex like anyone.
+
+Both emphasize that today's treatment makes it possible to live a normal life without the risk of infecting others.  The obligation to provide information may disappear This week the news came that government investigators are proposing that the obligation to provide information for HIV should be removed. Both Mohammed Walai and Malva Lambertz hope it will help reduce stigma and normalize the view of HIV. There are still professions where people with HIV are excluded, for example
+
+[Read Full Article](https://www.tv4.se/artikel/6l22IQyOgQb4hc7pHuZatR/att-leva-med-hiv-som-ung-trodde-jag-skulle-doe)
+
+---
+
+## That's why Japanese people live longer than Swedes - in nursing homes
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-04 (today)
+
+In Japan people live the longest in the whole world. Now, researchers at Karolinska Institutet, in collaboration with research groups from Japanese universities, have tried to understand why and measured the remaining lifespan at the age of 75. - The discussion started with what are healthy and sick years of life. It is very difficult to define, but we chose to look at when you have care for the elderly, i.e. live in what we call special housing or nursing homes, says Karin Modig, associate professor of epidemiology at KI, who has led the research study.  Unexpected result The result shows that Swedes and Japanese have roughly the same number of healthy life years. In contrast, Japanese people live longer with formal aged care.  - We thought it was a bit unexpected when we first saw the result. I think a lot of people interpret Japan's long life span as them living healthy for so long. This study indicates that it doesn't really look like that, says Karin Modig.  At age 75, a Japanese woman has an average of 10.4 healthy years of life and 5.1 years of elderly care left. For a Swedish woman, the corresponding figures are 9.9 years without and 3.8 years with elderly care. For men, the difference is smaller. On average, a Japanese man can expect 9.8 years without and 2.2 years with care. A Swedish man can expect 9.6 years without and 2.1 years with care.  Different care for the elderly The researchers have a couple of hypotheses about why the result looks the way it does. Karin Modig explains that one reason may be that the threshold for receiving elderly care is lower in Japan.  - But then I think that one could expect that the population that has no health care at all would be even healthier in Japan. Now they are so similar to Sweden, so it is a bit contradictory.  Another explanation could be that Japan has more intensive elderly care than Sweden. Karin Modig's Japanese co-author believes that there are cultural differences between the countries, where in Japan there are certain life-sustaining treatments for the elderly that we do not have here. - In Sweden, we probably see the goal of care for the elderly as that it should provide quality
+
+[Read Full Article](https://www.tv4.se/artikel/XD6m90aIzWo6XvI7SBpBe/daerfoer-lever-japaner-laengre-aen-svenskar-pa-aeldreboenden)
+
+---
+
+## "Direct impact on Sweden" - if Iran's threat becomes reality
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-04 (1 day old)
+
+Another strait can be closed • "Direct impact on Sweden" • Popular goods become more expensive
+
+[Read Full Article](https://www.tv4.se/artikel/2XcNXeC39HF59fgWP4aNca/expert-drapslag-foer-vaerldshandeln-om-irans-nya-hot-blir-verklighet)
+
+---
+
+## Putin shuts down the internet more and more: "Everything has escalated"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-04 (1 day old)
+
+The development is described in a new report from UI, where Ingvarsson is one of the co-authors. Over the past year, Russia has shut down mobile internet in over 80 regions and blocked apps such as Instagram, Facebook and Whatsapp. The consequence has been that it is difficult to book tickets on public transport, do one's job and have contact with each other. Now the measures are aimed at Telegram, which according to Ingvarsson, is one of the most important platforms for information dissemination and discussion in the country. - This has entered a critical phase and since about a year ago, everything has escalated. Government apps unpopular The aim is to create a government-controlled, parallel internet, similar to the Chinese system. But the Russian alternatives are inferior and transparent to the security services, Ingvarsson believes. - These apps are pretty bad. Trying to force Russians over by shutting down the internet and forcing them to use these state-controlled apps has been extremely unpopular, he says. Fear of repression increases Ingvarsson says that the Russian state apparatus simultaneously used Telegram for propaganda and surveillance, which makes the shutdown ahead of the fall parliamentary elections extra remarkable. - If you close the app, you don't know where their communication goes. There are a lot of questions and some speculation. Putin would be extra scared after what he has seen in Venezuela and Iran. He feels that he needs to have this tool in place and it may be that they want to escalate the war.  According to Ingvarsson, the opposition at the national level is basically erased, while some opposition at the local level is allowed because it benefits the Kremlin. - You don't want a governor or a mayor to grow too popular. There you can allow some opposition, some mapping of abuse of power and corruption. At the local and regional level, there are still some opportunities for influence, but even they are heavily suppressed.
+
+[Read Full Article](https://www.tv4.se/artikel/1WMHB9wSSHld6mVvpgk9ig/ryssland-stryper-internetfriheten-allt-mer)
+
+---
+
+## Forest policy: The government presents new rules for forestry
+**Outlet:** ABC Nyheter
+**Category:** General News | **Date:** 2026-04-04 (1 day old)
+
+The government has submitted a legal council referral with proposals for regulatory simplification and clearer supervision of forestry - something forest owner organizations welcome but environmental organizations view with concern. 
+ The post Forest policy: The government presents new rules for forestry appeared first on ABC Nyheter.
+
+[Read Full Article](https://www.abcnyheter.se/skogspolitik-regeringen-lagger-fram-nya-regler-for-skogsbruk/)
+
+---
+
+## Sugar cake with coconut and lemon
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-04 (1 day old)
+
+Today's weekend tip offers a juicy and airy coconut cake, dressed in a cream cheese glaze and generously topped with roasted coconut. Perfect as a luxurious sponge cake when you want to impress a little extra.  See Camilla Hamid's recipe
+
+[Read Full Article](https://www.tv4.se/artikel/5LTEpiNj1W0Ij3b4U6bpqy/sockerkaka-med-kokos-och-citron)
+
+---
+
+## More avalanches than normal - the expert warns: "Is quite worried"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-04 (1 day old)
+
+The number of incidents where skiers or snowmobilers started avalanches is more than double this year compared to a normal year, with over 120 incidents – the worst in 10 years.  During Good Friday, an 800 meter wide avalanche is said to have triggered in Sorsele. The week before, five snowmobilers were dragged into an avalanche in Abisko. All survived, but one suffered serious injuries.  Weak snow layer under large slabs According to avalanche experts, the increased risk is due to long periods of persistent cold and little snow, followed by blizzards that deposited large amounts of snow on top of a fragile lower snow layer. By digging a test pit, the differences can be made visible. Jenny Råghall digs a pit and by pressing on the snow first near the surface and then further down along the wall of the pit, she shows how the snow can differ between different levels. - Up here it is quite loose and nice, here is an old crust that is hard and down here my whole hand disappears in, and if you look at the crystals it looks like granulated sugar or flake salt and it is these crystals that are not so durable as they are burdened by heavy flakes of other snow, she says.  Harder to predict Flak problems, where heavy snowfields rest on a weak layer at the bottom, large in size, make avalanches harder to predict. It is something that experts believe may become more common as climate changes. - What we believe is that we will have more extreme weather events, which means that it will be more difficult to predict avalanches and more difficult to handle them when you are out and want to use the terrain. - I don't think you can say that it is becoming more dangerous, but perhaps more unpredictable. How you can reduce the risk In recent weeks, a large number of avalanches have occurred in Kebnekaise and Abiskofjällen, but other parts of the mountain chain have also been affected. How little it takes to start an avalanche can vary greatly. State mountain trails in flat areas are generally considered safe from avalanches, while sloping areas are more at risk. Through field observations in combination with weather forecasts, avalanches are updated
+
+[Read Full Article](https://www.tv4.se/artikel/4vlUG1SMLwob6pkcQWokaR/fler-laviner-aen-normalt-experten-varnar-aer-ganska-orolig)
+
+---
+
+## Now it is the Center Party's turn to be smeared
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-04-04 (1 day old)
+
+The attacks on the opponents of the Social Democrats and their democratic legitimacy will continue. And now it is the Center Party's turn to submit.
+
+[Read Full Article](https://www.svd.se/a/wrrzVn/nu-ar-det-centerpartiets-tur-att-bli-brunsmetat)
+
+---
+
+## "In God, I have experienced a completely new joy"
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-04 (1 day old)
+
+17-year-old Teodor de Medeiros went from being an atheist to becoming a Christian.
+
+[Read Full Article](https://www.dagen.se/livsstil/i-gud-har-jag-upplevt-en-helt-ny-glaedje/10212651)
+
+---
+
+## Birger Thureson:
+Criticized the omission of Hitler from the pulpit - was called for questioning 22 times
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-04 (1 day old)
+
+The worldly and Bible-drenched noblewoman Amelie Posse appears as a radical preacher
+
+[Read Full Article](https://www.dagen.se/kultur/birger-thureson-kritiserade-underlatenheten-mot-hitler-fran-predikstolen-kallades-till-foerhoer-22-ganger/10264185)
+
+---
+
+## Liselotte J Andersson:
+The world needs an Easter Sunday
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-04 (1 day old)
+
+Jesus appears - a helper in need - an injection of faith, hope and love
+
+[Read Full Article](https://www.dagen.se/livsstil/liselotte-j-andersson-vaerlden-behoever-en-paskdag/10279701)
+
+---
+
+## Several religious communities are not allowed to take out insurance
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-04 (1 day old)
+
+Minister of Social Affairs Jakob Forssmed (KD): "Not relevant to introduce any state insurance cover."
+
+[Read Full Article](https://www.dagen.se/nyheter/flera-trossamfund-far-inte-teckna-foersaekringar/10281195)
+
+---
+
+## Nine teenagers baptized on the same Sunday in the parish Vois, Norrköping
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-04 (1 day old)
+
+Pastor Hemen Derki: "A strong and clear answer to prayer"
+
+[Read Full Article](https://www.dagen.se/nyheter/nio-tonaringar-doepta-samma-soendag-i-foersamlingen-vois-norrkoeping/10279491)
+
+---
+
+## M and S use the crucifixion when they criticize each other on Tiktok
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-04 (1 day old)
+
+"So disrespectful! Exploiting religious symbols for political gain," writes one of several who question the use on Tiktok.
+
+[Read Full Article](https://www.dagen.se/nyheter/m-och-s-anvaender-korsfaestelsen-naer-de-kritiserar-varandra-pa-tiktok/10281226)
+
+---
+
+## Saw a "posing" Trump: "Of course he's not leaving"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-03 (1 day old)
+
+At the same time, the Russian top warns of the EU's development: "Worse than NATO"
+
+[Read Full Article](https://www.tv4.se/artikel/5Ui8RSQPgeKUcIt5lugubD/sagar-en-poserande-trump-han-laemnar-sjaelvklart-inte)
+
+---
+
+## The desert rat is next in line to be revealed
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-03 (1 day old)
+
+In the second episode of "Masked Singer Sweden", Ekenråttan received the least number of votes and was forced to leave the competition. Behind the mask hid the lawyer and Sweden's former Minister of Justice Thomas Bodström. The program is known as Sweden's most secretive singing competition, but keeping quiet about one's participation was nothing new for someone who is used to secrecy as a politician. - But the question is whether I have ever experienced as much secrecy as there was around Masked Singer, he says. "We didn't see it coming" During the course of the program, parts of the panel were on the "Beck" track. Pernilla Wahlgren guessed her friend and actor Måns Nathanaelson, while Carina Berg thought it was Peter Haber. Edvin Törnblom instead suspected Hasse Aro, because he thought it was someone who had quarreled with his mother. Behrouz Badreh leaned towards Filip Dikmen, based on the dance steps. But behind the mask was instead a person who appeared in the same season of "The Traitors" as Filip Dikmen - and who, like Hasse Aro, had quarreled with Edvin Törnblom's mother in the Traitors. - We didn't see that coming, says Carina Berg. The connection to Johan Glans That Thomas Bodström had to dress up as a rat, he believes, is due to his background in the football team AIK - Gnaget - where he played during the late 1980s. During the course of the program, viewers were exposed to several other clues. Here is the explanation behind some of them: The program was hosted by Johan Glans. Thomas Bodström had a small role in the TV series "Enkelstöten" which he also participated in. It was also Thomas Bodström's connection to Sissela Kyle and Tomas von Brömssen. In one feature it was mentioned that the Desert Rat "gives all shots justice". Arrests here refers to people who have been arrested and are to be brought to justice. "I am also the protector of the weak" also refers to the fact that Thomas Bodström is a lawyer. The clue "I have even been rewarded for my biggest fraud" refers to Thomas Bodström winning the Traitors. That he also
+
+[Read Full Article](https://www.tv4.se/artikel/32xqWs3dWeXqhRsZKsK4fx/oekenrattan-naest-pa-tur-att-avsloejas)
+
+---
+
+## "Especially when you're standing in the shower and there's talk of hanging purses"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-03 (1 day old)
+
+31,400 tickets sold and crowd party.  All-Swedish football is in full swing and tomorrow all eyes are on the meeting between Mjällby AIF and Hammarby IF at 3Arena.  - Of course it will be fun with the Allsvenskan, it's the best thing we have. It is full of expectations and none have failed yet, says Mjällby player Jacob Bergström.  The reigning champions are on their way up to Stockholm to defend their gold. One who has premiere nerves in him is the 31-year-old striker Jacob Bergström.  - Even if you play division 4 every game. That's the way it should be, says Jacob Bergström.  "Something you want to experience again" Jacob Bergström is sitting at the front of Mjällby's player bus when Efter fem calls to check the pulse before the premiere. The atmosphere in the bus is undeniably calm, but there are groupings. - There is a little card game in the back of the bus. The cool guys. Then slightly older people sit at the front of the bus, says Jacob Bergström.  Mjällby has taken the whole of football Sweden by storm after its first historic SM gold last year. The small club from Hällevik in Blekinge, with around 1,500 inhabitants, has in just seven years gone from division 1 all the way to the top of Swedish football.  - It's something you want to experience again. What we did last year was amazing. We did everything right. That's what it takes to win. It is up to us if we want to and can. We will do everything we can to do it again, says Jacob Bergström.  Can't be left alone at the bath house Jacob Bergström has received a lot of attention after the gold, both on and off the pitch. Last fall, he was asked on SVT's talk show Carina Bergfeldt what he has that Kylian Mbappé lacks. The answer? "Hang purse" - which made all the guests break down.  Now he is not even allowed to be alone in the bathhouse.  - It's a little special when you're standing in the shower and there's talk of hanging purses. It gets kind of silly. So it is what it is. But it's fun that people are happy and positive. It's nice, says Jacob Bergström.
+
+[Read Full Article](https://www.tv4.se/artikel/6jrNr46svX1jIIo4qyXgkZ/speciellt-naer-man-star-i-duschen-och-det-snackas-haengpung)
+
+---
+
+## Maria Malmer Stenergard visits Spain
+**Outlet:** Government.se
+**Category:** Ministry for Foreign Affairs | **Date:** 2026-04-03 (1 day old)
+
+Minister for Foreign Affairs Maria Malmer Stenergard visited Spain on 26 March. She visited the Swedish Honorary Consulate in Torrevieja and met with expatriate Swedes, civil society organisations and political representatives. Ms Malmer Stenergard also attended the Sweden-Ukraine men’s football World Cup qualifier match.
+
+[Read Full Article](https://www.government.se/articles/2026/04/maria-malmer-stenergard-visits-spain/)
+
+---
+
+## Fire broke out in the apartments - Monica, 79, is now homeless
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-03 (1 day old)
+
+Monica Snell had been on a course when she came home and was met by a large rescue mission. - It was almost five o'clock when I arrived on the bus. Then I saw all the fire trucks, very, very many. And police. It was a shock, says Monica. It was around 12 o'clock on March 30 that a fire broke out in the attic of the house located in Värmdö municipality. The entire building with 114 homes had to be evacuated, reports Mitti.  "I don't know anything" Monica was given a couple of hours to go into her apartment and empty the trash, fridge and freezer and get things she needed. - I couldn't see any damage to my apartment, but it was very humid and difficult to open and close the apartment door, says Monica and explains that it took a lot of water to get the fire in the wooden house to stop smoldering.  The first two nights Monica slept with a friend. Now she gets to stay in a hotel for a week. But she doesn't yet know where it will lead. In the coming week, the insurance company will provide more information about the next step.  - I was offered an evacuation apartment, but then it was withdrawn. I don't know anything and now I have to wait until Tuesday. Could take 1.5 years According to Monica, it could take up to a year and a half before everything is renovated and she and her neighbors can return to their homes.  - You are still in some sort of state of shock. You do what you have to do and take it one day at a time. I have to go out but where do I go? says Monica. No one was physically injured in the fire. And what caused it is not clear. The latest Monica has heard is that it is supposed to be a "technical issue".  Monica has written a list of things she will take with her when she is allowed to enter the apartment again on Tuesday. But she can't pack much more than she can carry, because she doesn't have a car.  - It will really be a special Easter.
+
+[Read Full Article](https://www.tv4.se/artikel/l8i5T5MWMUdl5dbhEKgJ1/brand-broet-ut-i-laegenheterna-monica-79-star-nu-utan-bostad)
+
+---
+
+## Concern that the Swedish dream is being stopped: "Man becomes furious"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-03 (1 day old)
+
+The Swedish men's World Cup promotion has led to great celebration, but among fans planning to travel to the United States there is concern. The reason is the risk of new entry requirements - which could stop Swedes at the border.  - That we now get the chance to see our heroes in the WC, you don't want to miss that. Just the thought that it wouldn't work is hard - you get furious, says Gabriella Nilsson Nuñez, board member of Camp Sweden.  Concerns among Swedish fans The Trump administration has previously flagged that tourists may have to provide information about their social media accounts, phone numbers and email addresses from the past five years. The proposal came in December, but it is unclear if and when it might come into force. - Many people say "If they face that, then I won't be admitted", says Gabriella Nilsson Nuñez.  Gabriella and Pelle Nilsson Nuñez sit on the board of the supporters association Camp Sweden. They have noticed a great interest in this summer's championship, but also that some fans feel a concern.  - I think people are waiting to see if the entry requirements will come, but most of the people we have spoken to say that they only intend to go to Mexico and not to the USA, says Pelle Nilsson Nuñez.  Denied after review The Norwegian journalist Amund Trellevik has previously been denied a visa to the United States, after authorities went through his social media. That's when he and several European journalists were invited last fall by the US State Department to participate in an exchange program. - They wanted insight into everything I do on social media. The message I received was that I had to open all my social media accounts, says Amund Trellevik.  At first he did not receive an answer as to why he was refused a visa, but later the decision was justified by the fact that the case could not be processed until the departure date had passed.  - I have been admitted to authoritarian countries such as Belarus and Azerbaijan and have never been denied entry until now. "Take height to be denied" At the moment, it is not certain whether the demands will come
+
+[Read Full Article](https://www.tv4.se/artikel/50f35yLHWGSlRxupLw6Ao/raedsla-foer-att-svenska-vm-droemmen-stoppas-rasande)
+
+---
+
+## Jewish Passover celebrations in Västerås canceled after warning from the police
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-03 (1 day old)
+
+Chairman: "It is with sadness that we cancel, it does not feel good at all"
+
+[Read Full Article](https://www.dagen.se/nyheter/judiskt-paskfirande-i-vaesteras-instaellt-efter-varning-fran-polisen/10282047)
+
+---
+
+## Here Steffo eats a 13-month-old egg: "It worked"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-03 (1 day old)
+
+The best way to extend the life of eggs is to turn them. Eggs should be stored with the blunt end up. Then the air bubble ends up inside the egg at precisely the blunt end and the rest of the inside of the shell is covered with bacteria-inhibiting egg whites that the bacteria cannot get through. - The bacteria don't like egg white because it contains bactericidal substances. They want to get into the yolk, says Marie-Louise Danielsson-Tham. When the egg starts to get old, the egg cords that hold the contents in place loosen.  - Because the egg white is lighter than the yolk, it floats up. But if the air chamber lies there and slows down, the egg-eating bacteria that sit on the shell and want to enter through the pores cannot reach the yolk, but are prevented by the air chamber. How long then? - Yes, for however long. In front of her are eggs of varying ages. The oldest has been stored for 13 months. The water in the egg has evaporated through the pores in the shell and the contents are crunchy - but completely safe to eat. Steffo Thörnquist, presenter of Nyhetsmorgon, takes a bite. - It was possible to eat, says Steffo Thörnquist. The reason is that the germ-killing egg white has protected the yolk. - There are no bacteria inside the egg as long as you have the shell on, says Marie-Louise Danielsson-Tham. The migration test A common trick to check if eggs are old is to put them in a glass or bowl of water.  If the egg floats, it is old. And that's right, says Marie-Louise Danielsson-Tham, because the liquid in the egg evaporates and an increasingly large part is made up of air - but that doesn't mean it's bad. The taste may change slightly though.  - It will be a concentrated egg taste.
+
+[Read Full Article](https://www.tv4.se/artikel/01jBSfqv6vLQx7AcjtOT10/haer-aeter-steffo-13-manader-gammalt-aegg-det-gick-ju)
+
+---
+
+## Top Ten: These are the best Jesus movies of all time
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-03 (1 day old)
+
+Kulturnytt's film critic Joakim Silverdal has listed his favorites for Easter.
+
+[Read Full Article](https://www.dagen.se/nyheter/topp-tio-dessa-aer-de-baesta-jesusfilmerna-genom-tiderna/10281999)
+
+---
+
+## Uefa: Serbian Red Star fined for profanity - not icon image
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-03 (1 day old)
+
+The European Football Association refutes previous information.
+
+[Read Full Article](https://www.dagen.se/nyheter/uefa-serbiska-roeda-stjaernan-fick-boeter-foer-svordom-inte-ikonbild/10281888)
+
+---
+
+## Mohamsson reacts to the criticized meeting: "Sad"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-03 (1 day old)
+
+For the benefit of Musikhjälpen, junior high school teacher Maria Wiman invited education minister Simona Mohamsson (L) home for a day for a sum of SEK 56,500. About a thousand people were helped to raise that sum together. The ad promised a full day with the minister - but she only got just over three hours in Mohamsson's company. - Win a day with the Minister of Education, it was clearly stated in the advertisement. A day for me who works at school is at least 8-9 hours, says Maria Wiman. "This is not my day, it is our day" Simona Mohamsson visited Maria Wiman's work and met her colleagues and students. But the idea was also that Maria Wiman would get an insight into what a day as Minister of Education looks like. - As a teacher, you often feel that there is a lot going on above your head. Decisions are made and there are new regulations and often not so much resources are allocated, but you get a lot of new things to do on your desk without really having time or opportunity. I have worked for a long time in the school world and I am very curious about what really happens behind the scenes, says Maria Wiman. Before this day, Maria Wiman had collected approximately 700 testimonies from teachers, students and guardians who wanted the chance to reach out to the Minister of Education and present their view of the school world. That is why Wiman has chosen to advertise its purchase. - I'm using my consumer rights, I think. If you buy an item you are not completely satisfied with, you make a complaint. - This is not my day. This is our day, says Maria Wiman. Mohamsson: "No day is the same" The money in Musikhjälpen went to children's right to education, and therefore Maria Wiman demands nothing more than to be given the promised time. Simona Mohamsson defends the short day by saying that no two days are the same as Minister of Education.
+
+- It's sad that Maria wasn't happy with the time we had together, because I really appreciated it and thought it was wonderful. Is it the case that Maria wants to keep up even more on how
+
+[Read Full Article](https://www.tv4.se/artikel/qRIoyxWinMJdo5Q5n44B2/mohamsson-bemoeter-kritiserade-moetet-trakigt)
+
+---
+
+## The expert: The price of petrol can rise significantly – as early as next week
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-03 (1 day old)
+
+The unrest in the Middle East creates an imbalance in the oil market and drives up the costs of refineries. Iran has almost closed the Strait of Hormuz, where large quantities of oil are normally transported. The price increases are taking place at the same time as, among others, Saudi Arabia has increased the production of oil, but the refineries are said to already feel a tight market. The lack of oil is now forcing refineries to pay more to secure the oil they need. On Thursday, the actual price of Brent, the price refiners pay for crude oil, rose to over $140 a barrel - the highest level since the 2008 financial crisis, according to Bloomberg. Before the war in Iran broke out, the price was just over 70 dollars. "Physical reality" There has been a large price difference between the oil on the world market and the price that many refineries are forced to pay, explains Christian Kopfer, commodity analyst at Arctic Securities. It can quickly hit the prices of petrol, diesel and jet fuel - also in Sweden, he believes. Then there is this big price difference between the oil on the world market and the price that many refineries are forced to pay. - The reality that the refineries live in is really the physical reality. When they go to buy oil for their refineries, they notice this scarcity that exists right now on oil. Then they have to pay premiums in addition to the price that is on the oil market. It will simply be a competition between refineries, says Christian Kopfer. - That premium is then passed on to the products, which are petrol, diesel or jet fuel. It is reflected quite quickly in the market, he continues.  Rising prices This is reflected quite quickly in the market – usually within a few days. Kopfer therefore believes in a major price increase already in the coming week and assesses that the price of petrol may rise above the 20 kroner mark. - I am absolutely sure of that. It's only days away.  - The situation in the Middle East does not have to get worse, it is enough that the situation is unchanged in the Middle East so
+
+[Read Full Article](https://www.tv4.se/artikel/2a8AW5tBxuaJ3QxbRugQPI/expertens-dom-bensinpriset-stiger-rejaelt-redan-naesta-vecka)
+
+---
+
+## Here Woods calls Trump - right after the crash: "Thank you very much"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-03 (1 day old)
+
+Florida police have released video from their body cameras showing the aftermath of Tiger Woods' car crash a week ago. Wearing a cap and sunglasses, the former golf pro walks and talks on the phone.  - Thank you very much. Okay, I understand. Bye, he says and puts the phone in his pocket.  According to the police report, he is profusely sweaty and has noticeably enlarged pupils. - It was the president, he says to one of the policemen. Trump: Feel sorry for him It's unclear who called who, but Woods and Trump have been described as close friends. They have played golf together for many years and Trump presented a medal to Woods in 2019. - I feel so sorry for him, he is having a hard time, Trump said shortly after the accident.  - He is a very close friend and a fantastic person, but he is having a hard time. Opiates in pockets Tiger Woods is also dating Donald Trump's former daughter-in-law Vanessa Trump, who was married to Donald Trump Junior.  The 50-year-old former golf pro is suspected of drunk driving after the accident. Police also found opiates in his pockets. He denies wrongdoing but says he will temporarily step aside and focus on recovery.
+
+[Read Full Article](https://www.tv4.se/artikel/2z5qxniZ7r8BEgBs7v7hI8/haer-ringer-woods-trump-direkt-efter-kraschen-tack-sa-mycket)
+
+---
+
+## Christians in Syria limit their Easter celebrations after attacks
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-03 (1 day old)
+
+The violence that hit the Christian town of al-Suqaylabiyah has prompted churches to take security measures ahead of Easter.
+
+[Read Full Article](https://www.dagen.se/nyheter/kristna-i-syrien-begraensar-sitt-paskfirande-efter-attacker/10281405)
+
+---
+
+## The army chief is fired - for his greatest and only sin
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-04-03 (1 day old)
+
+First came the news that Minister of Justice Pam Bondi may leave her post. Or more drastically put: Bondi gets fired.
+
+The announcement is both unexpected and expected.
+Unexpected in the sense that Pam Bondi has been an unapologetically loyal Trump supporter for at least ten years. Already as the attorney general of the state of Florida, she supported Donald Trump before he was elected president for the first time in 2016.
+But expected because the president has become increasingly frustrated with her department's handling of the so-called Epstein documents. That is, the extensive documentation that the legal authorities have collected regarding Jeffrey Epstein, the financier who was convicted of sex crimes and trafficking.  Described as close friends For several years in the 90s, Epstein and Trump hung out privately and were then described as very close friends.
+Epstein was arrested again in the summer of 2019 and died in a Manhattan jail. Officially, it was suicide, but the speculation about how he died does not want to end.
+
+In addition, Trump is unhappy with Pam Bondi's failure to prosecute and convict several people the president considers his personal enemies.
+
+However, the fact that the head of the army, four-star general Randy George, was allowed to go was quite expected.
+His biggest and perhaps only sin is that General George first worked closely with Joe Biden's Secretary of Defense Lloyd Austin. To then be appointed head of the army by Joe Biden in particular. Something that neither Donald Trump nor his "Secretary of War" Pete Hegseth looks at with kind eyes.  Moderate pace Two eyebrow-raising departures within the space of a few days.
+But compared to Trump's first term when it felt like ministers and advisers were being kicked out of the White House several times every month, the rate of departures in the Trump 2 era has been fairly moderate.
+
+[Read Full Article](https://www.tv4.se/artikel/4FKKlCeHS9XYeCPDyjpHHW/armechefen-sparkas-foer-sin-stoersta-och-enda-synd)
+
+---
+
+## Christian astronaut: "There are no atheists on space rockets"
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-03 (1 day old)
+
+Victor Glover and three colleagues are on their way to the moon.
+
+[Read Full Article](https://www.dagen.se/nyheter/kristen-astronaut-pa-rymdraketer-finns-det-inte-nagra-ateister/10281809)
 
 ---
 
 ## Sweden supports Ukraine - the Riksdag says yes to extra amendment budget
 **Outlet:** ABC Nyheter
-**Category:** General News | **Date:** 2026-04-03 (today)
+**Category:** General News | **Date:** 2026-04-03 (2 days old)
 
 The Riksdag has by a wide majority approved the government's additional amendment budget, which includes military and humanitarian support to Ukraine as well as strengthened national vaccine preparedness. 
  The post Sweden supports Ukraine – the Riksdag says yes to extra amendment budget appeared first on ABC Nyheter.
@@ -293,737 +1747,9 @@ The Riksdag has by a wide majority approved the government's additional amendmen
 
 ---
 
-## Tiger Woods after the crash: "I spoke to the president"
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-A week ago, golf star Tiger Woods crashed his car. In videos that have now been released from the arrest, Woods tells the officers who are going to arrest him that he "just talked to the president".
-
-[Read Full Article](https://www.hd.se/sport/tiger-woods-efter-kraschen-jag-pratade-med-presidenten/)
-
----
-
-## Tiger Woods after the crash: "I spoke to the president"
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-A week ago, golf star Tiger Woods crashed his car. In videos that have now been released from the arrest, Woods tells the officers who are going to arrest him that he "just talked to the president".
-
-[Read Full Article](https://www.sydsvenskan.se/sport/tiger-woods-efter-kraschen-jag-pratade-med-presidenten/)
-
----
-
-## Iran: American plane has been shot down
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Iran's military says it has shot down a US warplane over the country. State media are showing images of what are said to be wreckage of one of America's most advanced planes.
-
-[Read Full Article](https://www.hd.se/varlden/kallor-iran-har-fortsatt-stor-attackkapacitet/)
-
----
-
-## Iran: American plane has been shot down
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Iran's military says it has shot down a US warplane over the country. State media are showing images of what are said to be wreckage of one of America's most advanced planes.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/kallor-iran-har-fortsatt-stor-attackkapacitet/)
-
----
-
-## Johanna Frändén: I am so happy that I didn't have to give birth in Sweden
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The care of mothers and newborns is about to become an election issue. Was it necessary to start wiping babies with rough paper before the politicians reacted? DN's Johanna Frändén is happy that she was able to give birth in France - fully courted by all kinds of healthcare staff.
-
-[Read Full Article](https://www.dn.se/kultur/johanna-franden-jag-ar-sa-glad-att-jag-slapp-foda-barn-i-sverige/)
-
----
-
-## Johanne Lykke Naderehvandi: Once you've stepped into the circle of witches, you don't want to step out
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-One Maundy Thursday, Johanne Lykke Naderehvandi looked up at the spring sky, waiting for them to come and get her. She was seven years old at the time - but her fascination with witches has followed her throughout her life. Here the author writes about the magical women who resist in a rotten society.
-
-[Read Full Article](https://www.dn.se/kultur/johanne-lykke-naderehvandi-nar-man-val-har-klivit-in-i-haxornas-krets-vill-man-inte-kliva-ur/)
-
----
-
-## Gold and bronze for Sweden in doubles in the junior EC
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Lova Nilsson and Elin Bergqvist won JEM gold in doubles yesterday. They defeated home players Laura Nisch/Lea Hassforth, Germany, in the final 438-375. Elissa Mehmet and Saga Johansson took bronze. - Awesome, says Lova Nilsson.
-
-[Read Full Article](https://www.dn.se/sport/guld-och-brons-for-sverige-i-dubbel-i-junior-em/)
-
----
-
-## Helium shortage hits research - price doubled
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The crisis in the Middle East is hitting hard against the supply of helium, which, in addition to balloons, is used in magnetic cameras, chip manufacturing and research.  - It's definitely a bang, says Maja Olvegård at Uppsala University.
-
-[Read Full Article](https://www.hd.se/sverige/heliumbrist-slar-mot-forskning-priset-dubblat/)
-
----
-
-## Helium shortage hits research - price doubled
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The crisis in the Middle East is hitting hard against the supply of helium, which, in addition to balloons, is used in magnetic cameras, chip manufacturing and research.  - It's definitely a bang, says Maja Olvegård at Uppsala University.
-
-[Read Full Article](https://www.sydsvenskan.se/sverige/heliumbrist-slar-mot-forskning-priset-dubblat/)
-
----
-
-## Hundreds of thousands receive no electricity support: "Don't understand"
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The government's proposed electricity subsidy must go directly to households - but not to all. Several hundred thousand households will be left without. - The government turns a blind eye to it, says Kenny Fredman of the interest organization Bostadsrätterna.
-
-[Read Full Article](https://www.sydsvenskan.se/ekonomi/hundratusentals-far-inget-elstod-forstar-inte/)
-
----
-
-## Hundreds of thousands receive no electricity support: "Don't understand"
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The government's proposed electricity subsidy must go directly to households - but not to all. Several hundred thousand households will be left without. - The government turns a blind eye to it, says Kenny Fredman of the interest organization Bostadsrätterna.
-
-[Read Full Article](https://www.hd.se/ekonomi/hundratusentals-far-inget-elstod-forstar-inte/)
-
----
-
-## Barbro Ehnbom: Thought the verdict against Epstein was political
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The sentence against the sex offender Jeffrey Epstein in 2008 was perceived as politically motivated. That's why Barbro Ehnbom continued contact with him, she tells SVT.
-
-[Read Full Article](https://www.hd.se/sverige/barbro-ehnbom-trodde-domen-mot-epstein-var-politisk/)
-
----
-
-## Barbro Ehnbom: Thought the verdict against Epstein was political
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The sentence against the sex offender Jeffrey Epstein in 2008 was perceived as politically motivated. That's why Barbro Ehnbom continued contact with him, she tells SVT.
-
-[Read Full Article](https://www.sydsvenskan.se/sverige/barbro-ehnbom-trodde-domen-mot-epstein-var-politisk/)
-
----
-
-## Ehnbom: Thought the verdict against Epstein was political
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The sentence against the sex offender Jeffrey Epstein in 2008 was perceived as politically motivated. That's why Barbro Ehnbom continued contact with him, she tells SVT.
-
-[Read Full Article](https://www.svd.se/a/166AJe/ehnbom-trodde-domen-mot-epstein-var-politisk)
-
----
-
-## This is how Landskrona residents celebrate Easter
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The Church of Sweden continues to lose members, a trend that has long been evident in Landskrona. HD therefore took to the streets to find out what Easter really means to the townspeople.
-
-[Read Full Article](https://www.hd.se/landskrona/sa-firar-landskronabor-pask/)
-
----
-
-## Hundreds of thousands receive no electricity support: "Don't understand"
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The government's proposed electricity subsidy must go directly to households - but not to all. Several hundred thousand households that have so-called shared electricity in their tenements and condominiums will be left without. - The government turns a blind eye to it, says Kenny Fredman of the interest organization Bostadsrätterna.
-
-[Read Full Article](https://www.svd.se/a/JOO98J/hundratusentals-far-inget-elstod-forstar-inte)
-
----
-
-## Iran: American plane has been shot down
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.svd.se/a/5pp7g1/iran-amerikanskt-plan-har-skjutits-ned)
-
----
-
-## Follow developments in Iran and the Middle East
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/varlden/folj-utvecklingen-i-iran-har/)
-
----
-
-## Follow developments in Iran and the Middle East
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/folj-utvecklingen-i-iran-har/)
-
----
-
-## Superguiden 2026: This is happening in Helsingborg
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Here you will find most of the best things happening in Helsingborg's entertainment during 2026.
-
-[Read Full Article](https://www.hd.se/dygnet-runt/superguiden-2026-det-har-hander-i-helsingborg/)
-
----
-
-## Woman on electric scooter hit in Rörsjöstaden
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-A woman on an electric scooter was hit by a car in Malmö during the night of Good Friday.
-
-[Read Full Article](https://www.sydsvenskan.se/malmo/person-pakord-i-rorsjostaden-3TzyK/)
-
----
-
-## Insanely rich flavors at the Italian tavern Graziano
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-There is not much you would like to change - and everything ends with the top dessert bombolone.
-
-[Read Full Article](https://www.sydsvenskan.se/kultur/bong/vansinnigt-rika-smaker-pa-italienska-krogen-graziano/)
-
----
-
-## The country's largest wine region is emerging in northwestern Skåne - can get its own shuttle bus
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Forget Tuscany and Bordeaux. In northwestern Scania, Sweden's new wine region is emerging - here the farms are densely packed. A private wine route and a shuttle bus between the vineyards are two of the investments in the new Terra Skåne.
-
-[Read Full Article](https://www.hd.se/bastad/landets-storsta-vinregion-vaxer-fram-i-skane-kan-fa-egen-shuttlebuss/)
-
----
-
-## Superguiden 2026: Plan your year of fun in Malmö - day by day
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Festivals, premieres, concerts, exhibitions, quizzes, stand-up shows, pub openings and much more. Dygnet Runt gives you the best overview - day by day - of what is happening in Malmö's entertainment during 2026.
-
-[Read Full Article](https://www.sydsvenskan.se/dygnet-runt/superguiden-2026-planera-ditt-nojesar-i-malmo-dag-for-dag/)
-
----
-
-## Details: Hegseth fires top military
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-US Secretary of War Pete Hegseth is firing Army Chief of Staff General Randy George, unnamed Pentagon officials said.
-
-[Read Full Article](https://www.svd.se/a/WvvGKk/uppgifter-hegseth-sparkar-toppmilitar)
-
----
-
-## Israel wants to stay in Lebanon: "Massive escalation"
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Israel wants the country's military to remain in southern Lebanon and establish a "security zone" south of the Litani River. Defense Minister Katz claims that all houses along the border with Israel will be demolished. - It is a massive escalation, and a very aggressive policy, says Israel expert Anders Persson to TT.
-
-[Read Full Article](https://www.hd.se/varlden/israel-vill-stanna-i-libanon-massiv-eskalering/)
-
----
-
-## Israel wants to stay in Lebanon: "Massive escalation"
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Israel wants the country's military to remain in southern Lebanon and establish a "security zone" south of the Litani River. Defense Minister Katz claims that all houses along the border with Israel will be demolished. - It is a massive escalation, and a very aggressive policy, says Israel expert Anders Persson to TT.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/israel-vill-stanna-i-libanon-massiv-eskalering/)
-
----
-
-## The hunt for the fatal gene: "I feel responsible for finding everyone who carries the disease"
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Genealogist and TV profiler Stina Loo's daughter was only five years old when her genes were tested. The answer showed that she, like her mother, is at high risk of suffering from fatal tumors. Here's the story of genetic detective work that may have saved both their lives—and of a 300-year-old family curse.
-
-[Read Full Article](https://www.dn.se/sverige/jakten-pa-den-dodliga-genen-jag-kanner-ansvar-for-att-hitta-alla-som-bar-pa-sjukdomen/)
-
----
-
-## Säverman: Here an uncle hangs his cane in a lemon tree
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Säverman spies and eavesdrops in an environment where people have time to spare: In the hospital's cafe. There, the silence is also telling.
-
-[Read Full Article](https://www.dn.se/kultur/saverman-har-hanger-en-farbror-sin-kapp-i-ett-citrontrad/)
-
----
-
-## Team Edin ready for semi-finals after dream stone
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The curling men are ready for the semi-finals of the curling world championship in Utah, USA. Team Edin finished the group stage with a victory against the Czech Republic with a whopping 11–2.
-
-[Read Full Article](https://www.hd.se/sport/lag-edin-klart-for-semifinal-efter-dromsten/)
-
----
-
-## Team Edin ready for semi-finals after dream stone
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The curling men are ready for the semi-finals of the curling world championship in Utah, USA. Team Edin finished the group stage with a victory against the Czech Republic with a whopping 11–2.
-
-[Read Full Article](https://www.sydsvenskan.se/sport/lag-edin-klart-for-semifinal-efter-dromsten/)
-
----
-
-## Launched out of orbit - heading for the moon
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The four astronauts of the Artemis II expedition are now officially on their way to the moon.  - Humanity has once again shown what we are capable of, says astronaut Jeremy Hansen aboard the space rocket Orion.
-
-[Read Full Article](https://www.hd.se/sverige/skjuts-ur-omloppsbanan-pa-vag-mot-manen/)
-
----
-
-## Launched out of orbit - heading for the moon
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The four astronauts of the Artemis II expedition are now officially on their way to the moon.  - Humanity has once again shown what we are capable of, says astronaut Jeremy Hansen aboard the space rocket Orion.
-
-[Read Full Article](https://www.sydsvenskan.se/sverige/skjuts-ur-omloppsbanan-pa-vag-mot-manen/)
-
----
-
-## "Charged matches with a lot of emotion"
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Reigning champion team Luleå is further in the SM play-offs. A rival meeting with Skellefteå awaits in the semi-final series. - There will be loaded matches with a lot of emotions, says goalkeeper Matteus Ward to TV4 Play after 1–0 and 4–2 in matches against Frölunda.
-
-[Read Full Article](https://www.sydsvenskan.se/sport/lulea-till-semifinal-levtchi-avgjorde/)
-
----
-
-## Guide: Can last year's raucous team defend the Allsvenskan gold?
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Mjällby roared last year - but Hammarby is the favorite this year. Will the club from Hällevik succeed in defending the SM title? The Allsvenskan starts this weekend and here is what you need to know before the premier round.
-
-[Read Full Article](https://www.sydsvenskan.se/sport/guide-kan-fjolarets-skrallag-forsvara-allsvenska-guldet/)
-
----
-
-## Team Edin ready for semi-finals after dream stone
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The curling men are ready for the semi-finals of the curling world championship in Utah, USA. Team Edin finished the group stage with a victory against the Czech Republic with a whopping 11–2.
-
-[Read Full Article](https://www.dn.se/sport/lag-edin-klart-for-semifinal-efter-dromsten/)
-
----
-
-## Data: Iran has lots of robots and drones left
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Iran's regime says it has shot down a US F35 fighter jet. The Iranian regime still has lots of robots and drones, sources told CNN. - They are still very much ready to cause total devastation in the entire region, says one of the sources.
-
-[Read Full Article](https://www.dn.se/varlden/uppgifter-iran-har-mangder-av-robotar-och-dronare-kvar/)
-
----
-
-## Arlo Parks gropes his way through the nightlife and is true to melancholy
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Her voice is as adorable as ever, but Arlo Park's "I just want to have fun" record is not as clubby as one might expect, says DN's Frida Söderqvist.
-
-[Read Full Article](https://www.dn.se/kultur/arlo-parks-trevar-genom-nattlivet-och-ar-trogen-melankolin/)
-
----
-
-## Sources: Underestimating Iran – Can 'Completely Destroy' Region
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The intelligence alert: "Absolutely crazy if you think we'll be done in two weeks"
-
-[Read Full Article](https://www.tv4.se/artikel/8YEbAZgvmVCQANoBEETGp/kaellor-underskattar-iran-kan-fullstaendigt-foergoera-regionen)
-
----
-
-## Confessed murder to new friends - turned out to be undercover cops
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-A man from Malmö is brutally murdered. Soon the suspicions are directed at his friends. But there is a lack of conclusive evidence - so the police decide to set up an advanced trap. The goal is for them to gain the trust of one of the main suspects. He is invited to dinners, spas and hotel stays. Where does the police's methods really go?
-
-[Read Full Article](https://www.sydsvenskan.se/malmo/erkande-mord-till-nya-vanner-visade-sig-vara-hemliga-poliser/)
-
----
-
-## Senseless to go so far for love
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-I am moved by the fact that there are people who do something as senseless as search "Married at First Sight" to meet the right one.
-
-[Read Full Article](https://www.svd.se/a/3ppGkL/gvfo-ar-moraliskt-tveksamt-men-rorande-skriver-hanna-lublin)
-
----
-
-## Close to death – the doctor from Helsingborg sees light tunnels and quantum physics in the final stages of life
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Helsingborg writer Jan Lidbeck's book of essays on death is the starting point for Jimmy Vulovic's column about how we look at and write about the afterlife.
-
-[Read Full Article](https://www.hd.se/kultur/nara-doden-lakaren-fran-helsingborg-ser-ljustunnlar-och-kvantfysik-i-livets-slutskede/)
-
----
-
-## Brandsta City Släckers ready for Bjuvsfesten
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Rarely have any firefighters been so hot for festival bookers. But even before they entered the Mello stage, Brandsta City Släckers was secured for Bjuvsfesten.
-
-[Read Full Article](https://www.hd.se/bjuv/brandsta-city-slackers-klara-for-bjuvsfesten/)
-
----
-
-## In Lund, left and right stick together - but what do the residents think?
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-In Lund, the right and the left rule together - and the people of Lund seem to like it. The rating for the Social Democrats and the Moderates will be good, shows a new survey conducted by Sydsvenskan. Only one party's voters are more critical than happy that S and M govern the municipality.
-
-[Read Full Article](https://www.sydsvenskan.se/lund/i-lund-haller-vanster-och-hoger-ihop-men-vad-tycker-invanarna/)
-
----
-
-## Hunting for eternal life - so we are deceived by the "longevity" movement
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The dream of living longer is being sold like never before. But much of what is marketed within "longevity" lacks evidence and risks leading to unnecessary interventions.
-
-[Read Full Article](https://www.svd.se/a/vremm5/atlantic-jakten-pa-evigt-liv-sa-luras-vi-av-longevityrorelsen)
-
----
-
-## What party is a chihuahua?
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Our listener Alice has sent in an audio question wondering which dog breeds our different lots are most similar to?
-
-[Read Full Article](https://www.svd.se/a/y550nK/svd-s-podd-politiken-ar-sverigedemokraterna-en-schafer)
-
----
-
-## "Almost impossible to recruit judges"
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-A judge dealing with 500 cases, hearings that are canceled and year-long waiting times. For several years, there has been a lack of judges at the district court in Hälsingland. "In some places, it is almost impossible to recruit judges," says the Director General of the Swedish Courts Administration.
-
-[Read Full Article](https://www.svd.se/a/j00PAA/halsinglands-tingsratt-saknar-domare-nastan-omojligt-att-rekrytera)
-
----
-
-## Launched from orbit - now Artemis II is headed for the moon
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Together with fellow astronauts Reid Wiseman, Victor Glover and Christina Koch, he launched himself out of Earth's orbit in the direction of the moon just before 2 a.m. on Friday, Swedish time. The Orion space rocket is now scheduled to make a lap around the moon before returning to Earth. - The crew feels in good spirits up here on their way to the moon, Hansen says in the live broadcast from the US space agency Nasa.  First in over 50 years Although the astronauts will not land on the moon, it is the first space journey in 53 years with the goal of the moon. The launch also took place from the Kennedy Space Center in Florida – the same place where the Apollo missions had their beginnings in the 1960s and 1970s. The astronauts are expected to be the people who have been farthest from Earth ever when they circle the moon and turn home to then land in the Pacific Ocean, AP writes.  Since Apollo 17 left the Moon in 1972, manned spaceflight has remained in low Earth orbit.  The goal: Stay on the moon The astronauts aboard Artemis II are expected to reach the moon on Boxing Day and reach the backside on April 7. Then they go home again. But NASA's long-term goal is for there to be a permanent presence of humans on the moon, director Jared Isaacman said in a speech last week. - Now the goal is not to plant flags and leave footprints. This time we will stay. The authority invests 20 billion in establishing a base at the moon's south pole where both the Japanese and European space agencies will help. The first landing is expected to take place in 2028.
-
-[Read Full Article](https://www.tv4.se/artikel/tt-260403-rymdenmanresa1-585c6f22/skjuts-ur-omloppsbanan-pa-vag-mot-manen)
-
----
-
-## Sjöström back: "Is no longer sensitive to lack of sleep"
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Next Saturday she jumps into the pool for her first competition in over 600 days. Sarah Sjöström's comeback after pregnancy will be somewhat earlier than planned, and in front of the home audience. - What the result is doesn't really matter that much. I'm just happy that the body works as well as it does, says Sjöström.
-
-[Read Full Article](https://www.dn.se/sport/sjostrom-tillbaka-ar-inte-langre-kanslig-for-somnbrist/)
-
----
-
-## The EU dispute can affect the work against child abuse
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The disagreement about "chat control" can create problems for how abuse of children online can be combated. Today, the temporary rules disappear. - The police agree with us that the legislation is needed, says Susanna Pettersson, child rights lawyer at Ecpat.
-
-[Read Full Article](https://www.svd.se/a/gkkmOa/eu-braket-kan-paverka-arbetet-mot-barnovergrepp)
-
----
-
-## Domestic flight near crash: "Use the flight or lose it"
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-SKELLEFTEÅ. Sweden would get cheaper flights and more tours. But travel has fallen to 1982 levels - and the Iran war puts everything on edge. - Use the flight or lose it, says SAS CEO Anko van der Werff to DN.
-
-[Read Full Article](https://www.dn.se/ekonomi/inrikesflyget-nara-krasch-anvand-flyget-eller-forlora-det/)
-
----
-
-## Swedish airports are under threat: "More than half are at risk of disappearing"
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The country's smaller airports live on artificial respiration. Now the collapse of domestic flights and new proposals could be the definitive death blow in a number of locations. - More than half of the routes risk disappearing, says Peter Larsson at Sweden's regional airports.
-
-[Read Full Article](https://www.dn.se/ekonomi/svenska-flygplatser-hotas-fler-an-halften-riskerar-att-forsvinna/)
-
----
-
-## Here the firefighters are trained for war: "Feels very uncomfortable"
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Firefighters in Södra Älvsborg are now training to detect and avoid mines, grenades and unexploded ammunition - while saving lives.
-
-- It's a bit surreal. After all, we have to try to know how to act if we have operations ahead and how to get to the location safely. We have very big challenges, says Henrik Gustafsson, instructor at the Rescue Service Södra Älvsborg and continues: 
-
-- On the one hand, we are quite offensive as firefighters, we want to get there quickly and solve the problems. Now we have to take a step back and think about how we act. At the same time that we have to speed up the whole thing. 16,000 firefighters to be trained All of Sweden's 16,000 emergency firefighters are to be trained in ammunition and mine handling this year.
-
-Until 2028, the Civil Defense Authority invests SEK 80 million annually to equip the emergency services for preparedness and war. It is also about, for example, rescuing people in riots, emergency care during war as well as decontamination and protection against chemical warfare agents and nuclear weapons. The efforts are based, among other things, on experiences from Ukraine.
-
-- It's something we hoped not to have to do, of course. But I think it is very useful in any case, says Johan Palmqvist, instructor at the Rescue Service Södra Älvsborg. "A new reality" - After all, we have come to realize that this is a new reality that we need to deal with. It feels very uncomfortable, but I think it went pretty well anyway. It was a good exercise, says Andreas Eriksson, firefighter.
-
-[Read Full Article](https://www.tv4.se/artikel/2LjTu46sUcGuBGuUlYgx3N/haer-utbildas-brandmaennen-foer-krig-kaenns-vaeldigt-obehagligt)
-
----
-
-## Dreaming about the Allsvenskan is free
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Safe back. New HIF manager Stevie Grieve has been the central figure in the venture from day one.
-
-[Read Full Article](https://www.hd.se/sport/att-dromma-om-allsvenskan-ar-gratis/)
-
----
-
-## Andreas has been producing spot-free milk for 23 years
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Accuracy and a feeling for the animals. Dairy farmer Andreas Nilsson believes this is the recipe for success behind quality milk deliveries. Now he will meet the king and receive a gold medal for his work.
-
-[Read Full Article](https://www.hd.se/astorp/andreas-har-producerat-prickfri-mjolk-i-23-ar/)
-
----
-
-## The country's largest wine region is emerging in northwestern Skåne - can get its own shuttle bus
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Forget Tuscany and Bordeaux. In northwestern Scania, Sweden's new wine region is emerging - here the farms are densely packed. A private wine route and a shuttle bus between the vineyards are two of the investments in the new Terra Skåne.
-
-[Read Full Article](https://www.sydsvenskan.se/naringsliv/landets-storsta-vinregion-vaxer-fram-i-nordvastra-skane-kan-fa-egen-shuttlebuss-17PSh/)
-
----
-
-## Elderly man suspected of serious drunken driving
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-A man in his 90s was stopped by police in Åstorp late on Maundy Thursday.
-
-[Read Full Article](https://www.hd.se/astorp/aldre-man-misstankt-for-grovt-rattfylleri/)
-
----
-
-## Thrown out by FCR - now they are back in the top league
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-After being kicked out of FC Rosengård, the futsal team was without an association and a future. But the players did not give up, but found a new way. Now they are back among the elite as Malmö Futsal Club. - Despite the conditions, we did it together and have managed to regain our place in the top league. No one can take that away from us, says team captain Mia Westerblad.
-
-[Read Full Article](https://www.sydsvenskan.se/sport/utkastade-av-fcr-nu-ar-de-tillbaka-i-hogstaligan/)
-
----
-
-## Young man abused in Vallåkra
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-An 18-year-old man was beaten in Vallåkra late on Maundy Thursday.
-
-[Read Full Article](https://www.hd.se/helsingborg/man-misshandlad-i-vallakra/)
-
----
-
-## Helium shortage hits research - price doubled
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The crisis in the Middle East is hitting hard against the supply of helium, which, in addition to balloons, is used in magnetic cameras, chip manufacturing and research. - It's definitely a bang, says Maja Olvegård at Uppsala University.
-
-[Read Full Article](https://www.dn.se/sverige/heliumbrist-slar-mot-forskning-priset-dubblat/)
-
----
-
-## Israel wants to stay in Lebanon: "Massive escalation"
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Israel wants the country's military to remain in southern Lebanon and establish a "security zone" south of the Litani River. Defense Minister Katz claims that all houses along the border with Israel will be demolished. - It is a massive escalation, and a very aggressive policy, says Israel expert Anders Persson to TT.
-
-[Read Full Article](https://www.svd.se/a/4334lo/israel-vill-stanna-i-libanon-massiv-eskalering)
-
----
-
-## So the Swedish state disappeared
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-There is no other country in the OECD that, in the same way as Sweden, has dismantled a supporting pillar in the state administration.
-
-[Read Full Article](https://www.svd.se/a/ExxeOa/sa-forsvann-den-svenska-staten)
-
----
-
-## "Super Mario Galaxy - the movie": The plumber should be flushed down the nearest toilet
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-All the ingenuity and joy of discovery from the classic game is gone.
-
-[Read Full Article](https://www.hd.se/kultur/super-mario-galaxy-filmen-rormokaren-borde-spolas-ned-i-narmsta-toalett/)
-
----
-
-## Therefore, Tidö has misinterpreted "Swedish values"
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Easter, Pesach and Ramadan meet in the calendar - but in Swedish politics, the holidays are used as clubs in the debate about which values ​​really belong here, writes Josefina Bengtsson.
-
-[Read Full Article](https://www.hd.se/opinion/ledare/darfor-har-tido-feltolkat-svenska-varderingar/)
-
----
-
-## "The Hen": Smuggler's drama seen from a bird's point of view
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The hen, or rather the eight different hens the film crew worked with, constantly fascinates with a varied body language.
-
-[Read Full Article](https://www.hd.se/kultur/honan-smugglardrama-sett-ur-en-fagels-synvinkel/)
-
----
-
-## "The Hen": Smuggler's drama seen from a bird's point of view
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The hen, or rather the eight different hens the film crew worked with, constantly fascinates with a varied body language.
-
-[Read Full Article](https://www.sydsvenskan.se/kultur/honan-smugglardrama-sett-ur-en-fagels-synvinkel/)
-
----
-
-## "I was a stranger": The idea of ​​the refugee drama is good - but why is the villain in the focus?
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The kaleidoscope of human destinies should show the storm force of the Syrian refugee wave - but the impression is divided, writes Michael Tapper.
-
-[Read Full Article](https://www.sydsvenskan.se/kultur/i-was-a-stranger-tanken-med-flyktingdramat-ar-god-men-varfor-star-skurken-i-fokus/)
-
----
-
-## The warm-up is everyone's. But the villa owners have to dig themselves in.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-At the lighthouse in Malmö after storm Malik in January 2022.
-
-[Read Full Article](https://www.sydsvenskan.se/opinion/uppvarmningen-ar-allas-men-villaagarna-far-sjalva-grava-ner-sig/)
-
----
-
-## "Should I have kept quiet about the grandson's tantrum?"
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The four-year-old grandson makes a fuss about getting dressed every morning, and has tantrums. Grandma happened to see this and tried to give the parents good advice - which created a bad atmosphere. Should she have kept quiet? Child psychologist Malin Bergström gives advice.
-
-[Read Full Article](https://www.dn.se/insidan/borde-jag-varit-tyst-om-barnbarnets-vredesutbrott/)
-
----
-
-## Helium shortage hits research - price doubled
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-The crisis in the Middle East is hitting hard against the supply of helium, which, in addition to balloons, is used in magnetic cameras, chip manufacturing and research. - It's definitely a bang, says Maja Olvegård at Uppsala University.
-
-[Read Full Article](https://www.svd.se/a/GxxE8x/heliumbrist-slar-mot-forskning-priset-dubblat)
-
----
-
-## Amanda Sokolnicki: The clumsy moves of the moderates can make Ebba Busch coup
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Ebba Busch does not like to appear irrelevant. And she definitely doesn't like it when it's her own prime minister who makes her look unimportant.
-
-[Read Full Article](https://www.dn.se/ledare/amanda-sokolnicki-moderaternas-klumpiga-drag-kan-fa-ebba-busch-att-kuppa/)
-
----
-
-## Letter to the editor. Protect the coast with drones instead of expensive frigates
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-LETTER TO THE EDITOR. It is insane to invest SEK 60 billion in large frigates that modern drones can quickly knock out. The frigate decision must therefore be put on the table and investment efforts redirected to Ukrainian naval drones of various types to be deployed along our long coasts, writes Björn Svensson, member of the Defense Educators and the Society for Community Information.
-
-[Read Full Article](https://www.dn.se/insandare/skydda-kusten-med-dronare-i-stallet-for-dyra-fregatter/)
-
----
-
 ## Sweden's Christian Council: It is important that the church becomes a safe place when the powers of the police increase
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-03 (today)
+**Category:** General News | **Date:** 2026-04-03 (2 days old)
 
 The government is expanding the police's ability to check people who are suspected of being in Sweden illegally
 
@@ -1033,7 +1759,7 @@ The government is expanding the police's ability to check people who are suspect
 
 ## "You never get tired of telling about the Easter message"
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-03 (today)
+**Category:** General News | **Date:** 2026-04-03 (2 days old)
 
 Johannes Nord preaches on SR's broadcast on Easter Sunday • The entire list of Christian programs on SVT and SR during Easter
 
@@ -1041,9 +1767,20 @@ Johannes Nord preaches on SR's broadcast on Easter Sunday • The entire list of
 
 ---
 
+## Titus Oak Long:
+An easter egg to die for, right?
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-04-03 (2 days old)
+
+Living our lives worthy of Jesus' sacrifice is an impossibility.
+
+[Read Full Article](https://www.dagen.se/livsstil/titus-eklange-ett-paskaegg-vaert-att-doe-foer-eller/10199373)
+
+---
+
 ## Brian Zahnd returns to Sweden - "I felt warmly received at Torp"
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-03 (today)
+**Category:** General News | **Date:** 2026-04-03 (2 days old)
 
 The American preacher ended up in the hot air before the visit to the Torp Conference - now he is participating in the Spring Meeting in Gothenburg
 
@@ -1053,7 +1790,7 @@ The American preacher ended up in the hot air before the visit to the Torp Confe
 
 ## More and more organizations are phasing out their child sponsors and sponsored children
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-03 (today)
+**Category:** General News | **Date:** 2026-04-03 (2 days old)
 
 SOS Children's Villages moves over 40,000 child sponsors to general monthly giving
 
@@ -1063,7 +1800,7 @@ SOS Children's Villages moves over 40,000 child sponsors to general monthly givi
 
 ## "Our family didn't get to experience any healing - but we got peace"
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-03 (today)
+**Category:** General News | **Date:** 2026-04-03 (2 days old)
 
 Idol participant Nicolina-Mercedes and father Jonatan Brandström about the unusual father-daughter relationship, music, Idol success and the ordeal when the family suffered the greatest sorrow of them all.
 
@@ -1071,460 +1808,9 @@ Idol participant Nicolina-Mercedes and father Jonatan Brandström about the unus
 
 ---
 
-## Titus Oak Long:
-An easter egg to die for, right?
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Living our lives worthy of Jesus' sacrifice is an impossibility.
-
-[Read Full Article](https://www.dagen.se/livsstil/titus-eklange-ett-paskaegg-vaert-att-doe-foer-eller/10199373)
-
----
-
-## Boy injured in scooter accident
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.svd.se/a/j00yrz/pojke-skadad-i-skoterolycka)
-
----
-
-## Iran: American plane has been shot down
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-03 (today)
-
-Iran's military says it has shot down a US warplane over the country. State media are showing images of what are said to be wreckage of one of America's most advanced planes.
-
-[Read Full Article](https://www.svd.se/a/M77edB/kallor-iran-har-tusentals-dronare)
-
----
-
-## Launched out of orbit - heading for the moon
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-The four astronauts of the Artemis II expedition are now officially on their way to the moon. - Humanity has once again shown what we are capable of, says astronaut Jeremy Hansen aboard the space rocket Orion.
-
-[Read Full Article](https://www.svd.se/a/wrrBKd/astronauterna-pa-vag-mot-manen)
-
----
-
-## The fine dining pizza makes us long for London
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-Hard-booked Italians, the world's oldest kitchen and the beer giant's new branch - London has got springtime vibes. These are the best tables right now.
-
-[Read Full Article](https://www.svd.se/a/5ppdWX/de-basta-restaurangerna-i-london-just-nu)
-
----
-
-## “Go there at least twice a month”
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-Victoria Larm can live on creamy truffle pasta, remembers a single dinner in Venice and always listens to Mahler in the kitchen.
-
-[Read Full Article](https://www.svd.se/a/3ppGxv/victoria-larm-fattar-inte-lojromstoast)
-
----
-
-## That's how far you can go with cash in Malmö
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.sydsvenskan.se/malmo/sa-langt-kommer-du-med-cash-i-malmo/)
-
----
-
-## Important Iranian bridge hit - Iran threatens to retaliate
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-After US President Donald Trump said in a speech to the nation that Iran should be bombed "back to the stone age", the Iranian robotic salvos against the countries of the region have continued. Meanwhile, an important bridge near Iran's capital Tehran has been damaged in an airstrike.
-
-[Read Full Article](https://www.dn.se/varlden/viktig-iransk-bro-traffad-iran-hotar-att-hamnas/)
-
----
-
-## Vance to Hungary for Orbán's election spurt
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-Strong headwinds are blowing in public opinion for Prime Minister Viktor Orbán. But the US continues to drum up its support for Hungary's leader ahead of the April 12 parliamentary election.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/vance-till-ungern-for-orbans-valspurt/)
-
----
-
-## Ehnbom responds to criticism: "I'm not a monster"
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-The financier Barbro Ehnbom presented Swedish, young women to convicted sex offender Jeffrey Epstein. Now she responds to the criticism in SVT's Aktuellt. - I had absolutely no idea of ​​the horrors he was guilty of.
-
-[Read Full Article](https://www.dn.se/varlden/ehnbom-bemoter-kritiken-jag-ar-inte-ett-monster/)
-
----
-
-## This is how the astronauts eat on board Orion
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-43 cups of coffee, five kinds of chili sauce and 58 tortillas. These are some of the 189 foods aboard Orion during the ten-day journey to the moon and back.
-
-[Read Full Article](https://www.svd.se/a/8pp03Q/sa-ater-astronauterna-pa-artemis-ii)
-
----
-
-## The US stock market recovered after Iran's announcement
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-The stock market in the United States fell during the opening of Maundy Thursday's trading as a result of sharp price increases in oil futures. But at the close, the leading stock indexes had recovered following Iran's announcement that Iran and Oman are sketching an agreement on the Strait of Hormuz.
-
-[Read Full Article](https://www.sydsvenskan.se/ekonomi/usa-borsen-aterhamtade-sig-efter-irans-besked/)
-
----
-
-## Russian invasion force met in March in Ukraine
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-Russia's invasion army has failed to achieve further territorial gains in Ukraine in March. But Russian shelling claimed two civilian lives on Thursday.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/ryska-invasionsstyrkan-motad-i-mars-i-ukraina/)
-
----
-
-## The Turn of the Police - 50 years after Laura left the masquerade
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-In October 1974, 17-year-old Laura Ann Aime was on her way home from a party in Utah. She left the party alone and went to a store to do some shopping, but was never seen again in her life. When two students were out hiking the American Fork Canyon, they found Laura dead a few feet from the road. She had been badly beaten, tied up and left without clothes. Found dead by the side of the road A sock was found which was probably used to strangle her and the investigation showed that the body was probably left there shortly before it was found. The theory is that she was alive several days after she was taken away. The murder of Laura Ann Aime had many similarities to other acts committed by serial killer Ted Bundy. Several other victims had been similarly dumped in Utah and the western United States, but Bundy was never convicted of the murder. Confessed to the murder before he was executed Ted Bundy murdered a large number of women and girls in the United States between 1974 and 1978. He often used different tactics to attract his victims.  He was executed in Florida in 1989, but shortly before that he confessed to the murder of Laura Ann Aime. However, Bundy did not provide details about the murder, and the police and prosecutors did not accept his confession - instead choosing to keep the case open.  The authorities also looked at other suspected perpetrators, but had no success.  New technology became the solution - found Bundy's DNA The murder remained unsolved for over 50 years, but the police hoped that time would be on their side and that technological developments could help them move forward. - Over time the evidence gets worse, but the positive thing is that forensics, the police, science is developing, says police inspector Mike Reynolds. Two investigators chose to look at the case again. They felt the evidence was good, but something more was needed – despite the similarities to other Bundy murders, there were flaws in the investigation and it could not be established beyond a reasonable doubt that he was the killer.  But a new dna technology would be the solution. The proof was sent to et
-
-[Read Full Article](https://www.tv4.se/artikel/4PlV6ITUChhC9Q6U56s01I/polisens-vaendning-50-ar-efter-att-laura-laemnade-festen-i-utah)
-
----
-
-## Trump indulges - testifies to one thing
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-The White House has tried to give the image of a well-planned operation against Iran. But at a casual Easter lunch, Trump, who was in good spirits, happened to reveal something about the war.
-
-[Read Full Article](https://www.svd.se/a/WvvzL2/trump-forsa-sig-vittnar-om-en-sak)
-
----
-
-## Here, Woods is arrested after the crash
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-It was last Friday that Tiger Woods hit the edge of a trailer and overturned his car.  - I looked down at my phone and then suddenly boom, he tells the police on the spot. No one was injured in the accident. But on the spot, the police suspect that he may be under the influence.  The police's body cameras show how Tiger Woods is arrested and how a police officer finds two tablets in his pocket.  At the police station he does not test for alcohol but refuses to give a urine test at the police station, which is a crime. He is later released on bail. On social media, he writes four days later that he is stepping aside to seek treatment. Unclear for what. "This is necessary so that I can prioritize my well-being and work towards a lasting recovery," he writes. Recently made a comeback Tiger Woods has been plagued with major injury problems in recent years. In October, Woods had back surgery for the seventh time and in March of last year he tore his hamstring. Last week, the 50-year-old played his first competition in over a year when he played a match in the TGL indoor league. After the comeback, Tiger told the media that he did not rule out play in the first major of the year, the Masters, which will be played at Augusta National April 9-12. - We'll see how it goes. I will train and play at home this week, keep trying to make progress, Woods said according to TT. Badly injured in 2021 In 2021, Woods was badly injured when he overturned his car in California. An investigation showed that he had then driven at 129 kilometers per hour, twice the speed limit. In the accident, he suffered severe leg injuries that required surgery. Four years earlier, in 2017, Woods was arrested on suspicion of driving under the influence. He is then said to have been found asleep in his vehicle stationary in the middle of the road with the engine running. In 2009, after his SUV crashed into a fire hydrant and into a tree outside his home near Orlando, he also took a break. Tiger Woods is considered to be one of the most prominent golfers of all time and has won 82 competitions on the PGA tour, among other things. Have
-
-[Read Full Article](https://www.tv4.se/artikel/dz7XcgxNMZ7Mka9yZznpY/haer-grips-woods-efter-kraschen)
-
----
-
-## Won Oscar - labeled a foreign agent
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-He has received both threats and thanks from his compatriots for the film "Mr Nobody against Putin". Pavel Talankin is the leisure leader who challenged Russian propaganda - and was awarded an Oscar.
-
-[Read Full Article](https://www.svd.se/a/0ppJjo/ryske-pavel-talankin-intervjuas-om-dokumentaren-mr-nobody-against-putin)
-
----
-
-## Improbable premise sinks Norwegian drama
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-Edith has had children on her own. But soon she becomes obsessed with finding out who the anonymous donor is.
-
-[Read Full Article](https://www.svd.se/a/GxxRgQ/solomamma-biofilm-recension-av-karoline-eriksson)
-
----
-
-## The farmer raises the alarm after the war: "A perfect storm"
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-The Iran war is now in its fifth week and there is little evidence that the conflict is nearing an end. Shipping from the Strait of Hormuz remains very limited, if not stagnant, and on Thursday night the futures price for a barrel of North Sea oil was $108, according to Trading Economics.  An increase of over 50 percent compared to before the outbreak of war. Something that hit hard against the farmer Carl-Fredrik Svederberg in Lidköping, who uses around 24 cubic meters of diesel a year. - For my part, it means an extra SEK 150,000.  Not only the price worries He describes a "perfect storm" for plant growers. Due to good harvests in the world in recent years, the price of grain has fallen. Then came the war in the Middle East and the price of diesel and fertilizer hit the roof. - All of a sudden we have a cost development at my company that exceeds just over a million. But it's not just the price that worries. - The big thing that we are discussing in agriculture right now is: Will we even get diesel and fertilizer? He mentions that the EU raised the issue of fuel rationing. The National Federation of Farmers also expresses alarmism about the situation. - The costs in agriculture have increased by a couple of billions in the last two months, writes Palle Borgström, LRF's confederation chairman in a press release. Expert: The world has never seen anything like it Samuel Ciszuk, energy analyst at ELS Analysis, says in Efter Fem that the world has never had similar problems before. Today, the world has lost about twice as much oil in volume compared to the great oil crisis of 1973, he says. - Nobody benefits from such a big interruption. In the short term, oil producers may profit and get paid well, but this will lead to the disappearance of markets and the exclusion of consumers. At the lowest level, this means that we will have to pay more for food, according to Samuel Ciszuk. But it is not in all parts of the world that you will be able to afford to pay. - It is a famine disaster that will probably increase in parts
-
-[Read Full Article](https://www.tv4.se/artikel/7yMJMGAr1L3LVwssRRbqLQ/lantbrukaren-larmar-efter-kriget-en-perfekt-storm)
-
----
-
-## Antique Gold Helmet Found - 'Best News'
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-Last year, a 2,500-year-old gold helmet was stolen from a museum in the Netherlands. Now it has been found.  - It is fantastic. It's the best news we could get, says art investigator Arthur Brand.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/antik-guldhjalm-aterfunnen-basta-nyheterna/)
-
----
-
-## Karl Dalén: Bondi was as loyal as a dog - yet she was fired
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-WASHINGTON. Donald Trump has fired one of his most loyal employees. The problems surrounding the Epstein investigation and the inability to prosecute more of Trump's enemies contributed to the firing of Attorney General Pam Bondi. Enter Todd Blanche, who recently bragged about how many Trump critics have ended up at the Department of Justice.
-
-[Read Full Article](https://www.dn.se/varlden/karl-dalen-bondi-var-lojal-som-en-hund-anda-fick-hon-sparken/)
-
----
-
-## The Venture Capitalist: Shut down the top executives – now
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-The Tax Agency allows two top managers suspected of crimes to remain in office. Now the criticism is growing, at the same time that venture capitalist Ola Nordquist is commenting for the first time on the poking of general manager Katrin Westling Palm.
-
-[Read Full Article](https://www.svd.se/a/V663WJ/skatteverket-brottsmisstankta-toppchefer-sitter-kvar)
-
----
-
-## Letter to the editor. Noted by DN's readers on April 2
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-LETTER TO THE EDITOR. Dagens Nyheter's readers give their views on the situation in Sweden and the world as well as DN's content on Maundy Thursday, April 2.
-
-[Read Full Article](https://www.dn.se/insandare/noterat-av-dns-lasare-den-2-april-3/)
-
----
-
-## Oil manager: Swedes to Spain will be a problem
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-Choked oil flows and pressured world economy. Donald Trump's next move in the Iran crisis will have consequences far beyond the Middle East. Here are three scenarios of what could happen now.
-
-[Read Full Article](https://www.svd.se/a/Bxx19E/irankrisen-kan-bli-ransonering-spaniensemester-blir-problem)
-
----
-
-## The powerhouse retains its glittering core
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-The fuss has been peeled off and the lyrics have matured, but the band still makes dreamy post-punk with strong melodies, writes DN's Matilda Källén about Makthaverskan's new album.
-
-[Read Full Article](https://www.dn.se/kultur/makthaverskan-har-kvar-sin-glittrande-karna/)
-
----
-
-## Expert: Three factors speak against a Russian spring offensive
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-Several components are missing for a Russian spring offensive, says military expert Johan Huovinen. However, another, perhaps even greater threat looms over Ukraine. - By midsummer there is a risk that Ukraine will go bankrupt, he says.
-
-[Read Full Article](https://www.dn.se/varlden/expert-tre-faktorer-talar-mot-en-rysk-varoffensiv/)
-
----
-
-## 400-year-old Swedish ship became a guitar for Keith Richards
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-The guitar, which contains wood from the regal ship Riksäppelt, has now been played live with The Rolling Stones, in front of thousands of fans worldwide.  The conversation that changed everything It all started with some hand-built guitars in a music store in Stockholm. Suddenly the call came. - "You need to sit down... I'm going to tell you something." One of the world's most iconic rock guitarists had opened his eyes to Jim's guitars.
-Keith Richards' guitar technician Pierre de Buport had stepped into the shop and bought a guitar on the spot.
-Soon after, the next question came: Can you build another one? Wood from a Swedish wreck One of the guitars that has now reached the world stage carries a unique history.
-It is built of wood from the royal ship Riksäppelt, launched in 1662 and sunk off Dalarö in 1676.
-Jim Herlin found the wood via a homestead in Söderköping. - We moved the holiday package and pushed beams into the car, he says. The 400-year-old wood now lives on in both the fingerboard and neck in the middle of rock history. From silence to stage Once the guitar was sent on its way, there was silence. No answer. Then – suddenly – it appeared. In the hands of Keith Richards.
-
-On stage. In front of an audience. - It was like a gift from above, says Jim Herlin. 400-year-old wood that still rocks Today, Jim Herlin continues to build guitars in his workshop in Saltsjöbaden. But the material makes demands. - The body had to be impregnated with superglue to hold it together. It's the mask, he says. The result is an instrument with a history spanning four centuries – from the bottom of the sea to the world's biggest stages.
-
-[Read Full Article](https://www.tv4.se/artikel/pimivXBr2F0HLLP0LmML6/400-arigt-svenskt-skepp-blev-gitarr-at-keith-richards)
-
----
-
-## US expert: Another bar for Trump's female associates
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-Donald Trump has fired Attorney General Pam Bondi. Her handling of the Epstein issue is a big reason, according to US expert Jan Hallenberg. - Trump has considered her a burden for a long time.
-
-[Read Full Article](https://www.dn.se/varlden/usa-expert-en-annan-ribba-for-trumps-kvinnliga-medarbetare/)
-
----
-
-## Want to make Sweden more like Denmark: "Simple question of freedom"
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-The moderates want to remove the requirement that alcohol must be served within a clearly defined area. The party believes that freer rules can make Swedish cities more attractive, strengthen the restaurant industry and create more jobs. 
-
-For the proposal to become a reality, the Moderates need to get the other Tidö parties on board. The hope is that Sweden can then become more like, for example, Denmark, France or Germany - with freer serving in the urban environment. 
-
-- The government has made a number of changes there. The farm sale, the dance permit removed and the food requirement abolished in the summer, says Benjamin Dousa (M) to TV4 Nyheterna. 
-
-Christofer Fjellner (M), opposition city councilor in Stockholm, emphasizes that the capital should be a model municipality and that it is about reducing bureaucratic obstacles. 
-
-- Basically, it's a simple matter of freedom. There is no reasonable reason why on that side of the glass I can drink a beer, but on this side of the glass I can't buy and drink a beer, says Christofer Fjellner (M) to TV4 Nyheterna.  The temperance movement warns The proposal faces criticism from the temperance movement, which warns of the consequences and believes that clear regulation is needed so that alcohol serving can take place in a controlled manner. At Movendi, which was previously called IOGT-NTO, one sees several problems with an easing of the law. 
-
- - We know that alcohol is one of the biggest causes of violence and insecurity in our urban environment. Here we know that it is crucial to have very good legislation to protect, make sure that the serving of alcohol can take place under control, says Emil Juslin, political director at Movendi, to TV4 Nyheterna. 
-
-Juslin highlights that even those who do not drink alcohol are affected by its harmful effects. He says that 27 percent of all accidents are alcohol-related today and that he sees risks with M's proposal. 
-
-- Is that really where we want to invest our societal resources?, says Emil Juslin. 
-
-Benjamin Dousa (M) believes that a freer alcohol policy can contribute to a more orderly cow
-
-[Read Full Article](https://www.tv4.se/artikel/7pDjNUdPRl38Q4oBkth5dA/vill-goera-mer-sverige-mer-likt-danmark-enkel-frihetsfraga)
-
----
-
-## Put the wrong thing in his mouth - teammate yelled: "Stupid donkey"
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-After four days with the taste of coconut in his mouth in "Robinson", Aydin Haressi began to have a "slight psychosis" and put various things in his mouth. Finally he found a flower that tasted like banana - but the plant was super poisonous. When he ate it, he broke a clear rule and was therefore forced to leave the show. - I was a stupid donkey who felt: What is the worst that can happen? But who will see you eat a flower if no one cuts you off? But apparently someone snitched on me, he says in the program. She told Teammate Iki Gonzalez Magnusson says that she had talked to Aydin Haressi on several occasions and urged him not to eat things they didn't get. According to her, they had to constantly monitor that he did not swim too far, take things from the other team or injure himself with the machete. - I have worked as a personal assistant and it was a bit like that feeling, she tells TV4 Nyheterna. She does not regret going to the production. - What was the alternative? That I would tell his kids that no, we didn't tell when Aydin ate an obviously poisonous plant and got really sick and that's why your dad didn't come home. That would have been really cool. "Idiot" After Aydin Haressi was forced to leave the island, several teammates go hard on him and call him, among other things, "idiot". They believe that he won the "SM in fucking idiocy" and that they should get the "Nobel Prize in patience" for putting up with him for so long. - I laughed a little to myself considering that my girl has put up with me for 21 years. And if there's anyone who should have a Nobel Prize, it's her, he says to TV4 Nyheterna. Aydin Haressi, who got a lot of TV time, believes that one of the reasons they chose to gossip about the production was rooted in jealousy. That that would be the motive and that the group was nasty to Aydin Haressi is something Iki Gonzalez Magnusson denies. - It's so very sad, because my inbox is full of hate because I'm a bully. It just feels so fucking boring, she says.
-
-[Read Full Article](https://www.tv4.se/artikel/1oV9Yx3BHmKLG8Mgrdi6Hg/stoppade-fel-grej-i-munnen-lagkamrat-tjallade-dum-asna)
-
----
-
-## Öfvergård responds after the famous advertisement: "It felt absolutely right"
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-Anders Öfvergård - known to many as the "Angry Carpenter" - is a familiar face to the Swedish people.  But a couple of years ago a scandal broke. It turned out that he stole a sirloin steak and an entrecote worth SEK 400 from a self-scan at Ica Maxi in Värmdö. He was convicted of petty theft and had to pay a fine of SEK 40,000. He himself believed that it happened by mistake, but the court ruled that he stole the goods intentionally.  April fools joke? That's why many raised their eyebrows when he appeared in a Lidl campaign on April Fool's Day - where he advertised meat. In the post, he holds up meat from Lidl but with the text "Swedish meat worth every penny". Comedian Anis don Demina writes "stroke of genius." At first there was speculation that it was all a joke. "Oh haha ​​best April Fool's joke so far today," writes one person in the comments. Confirmed on social media But in a sketch on Anders Öfvergård's own profile, the advertisement is confirmed. "I don't agree to anything. But this felt right." The whole sketch is based on Anders Öfvergård standing in the self-scan and having to pay for meat, but he doesn't want to make a mistake and asks for help.  - Something seems to have gone wrong here, he says. The comments on the post are mostly positive. Tobbe the magician writes "😂😂😂 Love you!!!" and Bettina Buchanan "Hahaha OOOOOOOOOOO!!!!". Now he will do meat advertising for Lidl. - We were looking for someone with an interest in good meat. The fact that Anders also knows exactly what is worth every penny made the choice easy. We are happy that he now chooses to pass the checkout with our meat, we see that as the ultimate quality certificate, says Matthias Glöckler, head of media and digital marketing at Lidl, to Expressen.
-
-[Read Full Article](https://www.tv4.se/artikel/1HlCsSlKJh6JN1JlgUS4hU/oefvergard-svarar-efter-omtalade-reklamen-det-kaendes-helt-raett)
-
----
-
-## "Tough conversation" with Trump - then the minister was fired
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-According to CNN's sources, Trump is said to have been annoyed with Attorney General Pam Bondi's handling of the Epstein files and because she did not investigate or prosecute enough of his political opponents.  On Thursday, reports came from several American media, citing information, that Trump had chosen to fire Bondi. The White House initially denied the reports, but a short time later Trump came out and told that Bondi is quitting.  "Pam did a tremendous job overseeing extensive law enforcement across our country," Trump wrote. "A great American patriot" On the night of Thursday, Swedish time, Trump gave a speech in which he updated on the situation in Iran. Shortly before the speech, Trump reportedly had a meeting with Bondi, where she was informed that she would not remain in her post for much longer.  The meeting between Bondi and Trump is said to have been "tough" and the president is said to have discussed the decision with several of his closest associates in recent days. Trump writes that Bondi will now work in the private sector instead and thanks her for the work she has done as minister.  "Pam Bondi is a great American patriot and a loyal friend who has faithfully served as my Attorney General for the past year," Trump wrote. Details: Zeldin Takes Over Deputy Attorney General Todd Blanche will temporarily take over Bondi's role. According to Fox News, the White House is now considering appointing Lee Zeldin as the new attorney general. Today, he is head of the US Environmental Protection Agency EPA.  Zeldin is said to have met with Trump on Tuesday to discuss other issues, but then the ministerial post is also said to have been discussed.  The announcement comes just weeks after Trump fired Homeland Security Secretary Kristi Noem. She was instead given a role as special envoy for "The Shield of the Americas", which Trump describes as a "new security initiative in the Western Hemisphere".
-
-[Read Full Article](https://www.tv4.se/artikel/3OWATSY3PM2juKK3y972W1/uppgifter-trump-sparkar-bondi)
-
----
-
-## Republicans and Democrats join forces - after Trump's statement
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-Joint comment after the NATO performance
-
-[Read Full Article](https://www.tv4.se/artikel/4p3AUCXBPHTvAaTUKvqeoH/republikaner-och-demokrater-gar-samman-efter-trumps-uttalande)
-
----
-
-## Right-wing profiler Aron Flam is prosecuted - after a big fight: "Really ashamed"
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-In July this year, Marie Åkesdotter, elected for the Green Party in Tyresö, and right-wing profiler Aron Flam, on X, argued about the war in Gaza. Aron Flam is a screenwriter and comedian, but is now above all known as a debater and opinion leader on the right wing. He has over 80,000 followers on X and runs the community podcast "Deconstructive criticism". Now he is being charged with unlawful threats, alternatively molestation. During the argument, he called Åkesdotter a "Nazi", "Hamas groupie", "Jew hater" and "Nazi cunt". He also urged Åkesdotter to kill herself. "Are you stupid or not? PS! Now I have your home address," he wrote later, which according to the prosecutor's side constitutes the threat itself. Åkesdotter: Very unpleasant Aron Flam "crossed all boundaries", says Marie Åkesdotter to TV4 Nyheterna. She says that the debater tried to turn her criticism into anti-Semitism, but that during the exchange of words she kept pointing out that it was Israel's far-right government that she was criticizing. - I felt that he tried to scare me into silence. He ended up threatening me. Then I felt that this is not okay - we cannot have such a social climate. The local politician wasn't particularly worried about him personally doing anything to her, but possibly his tail. - He has a big platform, with a lot of fans. It's a high pitch now, she says. - It has also affected my family, who are worried and sad, of course.  After the incident, Marie Åkesdotter has publicly removed her contact details. Flam: Ashamed of how I spoke Aron Flam does not believe that he has threatened her.  - She doesn't seem to have perceived it as a threat. She has slept on the matter and then decided to report it. In questioning, Marie Åkesdotter says that she slept on the matter and then chose to report it because "it was over the line". - It was a clear attempt to scare me into silence, she says in questioning. Aron Flam says that Marie Åkesdotter called him a genocide, genocide apologist and child killer, which he considers to be a type of
-
-[Read Full Article](https://www.tv4.se/artikel/51b2mOCteFMuL3UA7zzAxe/hoegerprofilen-aron-flam-atalas-efter-storbrak-skaems-verkligen)
-
----
-
-## The new trend: Powerpoint dating
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-Powerpoint dating works so that friends of the person who wants to meet love take over the presentation, and deliver a number of statements and pictures of their single friend in front of the audience. Angela Ahola, PhD in psychology and dating expert, is very positive about the new method. 
-
-- This new phenomenon is so much fun, and it's actually a modern version of an old strategy with matchmaking via friends, she says.  Three reasons for success Powerpoint dating has become a trend in both the USA, Great Britain and Australia, and Angela Ahola believes that there are three reasons why it can be a success in Sweden as well.  - We combine three very smart and good things. We thirst for the physical meeting, so we get it. Then we also get a social context for the person. As the finishing touch, we get a person who vouches for this person. If someone recommends a book or series, we're more likely to watch it, this third-party verification is powerful. "Seems great fun" Does this mean the apps are about to disappear?  - You have seen a decrease in app use, but I think they will remain. Rather, this is a reaction to how the apps make us feel. It's fun, we get to laugh, we get pitched. I think it looks like great fun, says Angela Ahola.
-
-[Read Full Article](https://www.tv4.se/artikel/6dXEqmP3kTnG6yeSaOrTqx/nya-singeltrenden-powerpoint-dejting)
-
----
-
-## Gyökeres trademark protects its target gesture - can give millions
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-Viktor Gyökeres has become known for his target gesture, where he puts his hands in front of his face like a mask. Now he has trademarked the gesture with the European Patent Office, as sports journalist Fabrizio Romano was the first to report.  The application was sent in at the beginning of 2025 and was approved in September, as can be seen from documents seen by TV4. Haaland missed Gyökeres follows an international trend where athletes are increasingly seeking trademark protection for their names and gestures. Soccer star Erling Haaland, for example, secured rights in the US to his goal gesture where he sits in the lotus position. However, Haaland missed out in his home country of Norway, where another person bribed the trademark already in the fall of 2022. Other soccer stars who trademarked their goal gestures are Kylian Mbappé and Cole Palmer. Ronaldo's fortune How much trademark protection is worth depends entirely on the extent to which it is used. But the move gives Gyökeres a possible source of income that is potentially worth hundreds of millions of kroner, if the target gesture is used in, for example, a fashion or advertising context.  The business magazine Forbes, for example, values ​​Cristian Ronaldo's fortune at 280 million dollars, and a large part of that value comes from sponsorship deals and the CR7 brand.
-
-[Read Full Article](https://www.tv4.se/artikel/1KjMgJ6jBJZO0vj8Um27xJ/gyoekeres-varumaerkesskyddar-sin-malgest)
-
----
-
-## The blackmailers' New Year's greeting: "WRONG FAMILY! Cheers"
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-On December 15 last year, a two-week nightmare began for a family in Halmstad. The mother in the family started receiving text messages from unknown people who said that her sons had a drug debt of 130,000 kroner. But they had not borrowed any money. Throwing stones at the house "Your sons owe drug money, they have to pay it back, it's urgent", "we won't let this go so easily as you know", "my money, they're going to get your fucking dirt", she had to read. The family also had photographs of their villa sent to them, and on December 19, two guys appeared at the house and threw stones. They could be arrested by the police, who set up cameras at the house. Murder contract on the sons Around the same time, an assignment was posted on the platform Signal, about "cutting 2 Swedish brothers in Halmstad who need to learn their homework". Weapons and accommodation would be settled by the client. The family found out about this and then had to live under police protection and were forced to cancel the entire Christmas. The twist: "Sick, isn't it?" But around New Year there was a different tone in the messages. Then an SMS came in which the extortionists wrote that they had received money from those who had the real debt. "SLOWLY but SURELY after a while into the discussion with XX's brother I understood that you are the WRONG FAMILY! Sick right?", wrote the sender. "Merry Christmas and Happy New Year Greetings from the mountains". Five sentenced Now five people are sentenced for involvement in the tangle. Two men in their 20s are convicted of attempted extortion and aiding and abetting attempted extortion. One of them is previously convicted of attempted murder. Two minors are sentenced to youth care for the same crime. A man in his 40s gets five months in prison for aiding and abetting attempted extortion, and aggravated illegal driving. The convicts must also pay SEK 18,000 each in damages to the five family members who were affected. It is still unknown who gave the perpetrators the assignment.
-
-[Read Full Article](https://www.tv4.se/artikel/1WFkKPaRmNWhkmXrzjKhNS/utpressarnas-nyarshaelsning-fel-familj-skal)
-
----
-
-## So many young people worry about their personal finances
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-A new survey from LO paints a dark picture of young people's faith in the future. According to the survey, every third young person worries about their personal finances, and the worry is greatest among women. This is an increase of four percent compared to the previous year. The record high unemployment rate among young people is said to be a contributing cause of the increased anxiety. - It is a very dark situation for young people on the labor market, and our survey confirms what we warned about. A youth generation that feels abandoned and lacks hope for the future, says Elsa Alm, youth secretary at LO. The concern about not getting a job has increased from 43 to 57 percent – ​​a clear increase from last year, according to LO. An important election issue Even among those who have a job, there is increased concern, according to LO. 23 percent of those who work are afraid of losing their jobs, especially those with temporary or part-time employment. Unemployment has also climbed the list of issues young people think are important in the election, the survey shows. Only healthcare is rated as more important, which is also a clear increase from last year's survey. The survey was conducted by Novus and had 2,178 respondents. The groups' results are weighted based on Statistics Sweden's data on gender and age.
-
-[Read Full Article](https://www.tv4.se/artikel/eR1To4c1eaEiDQxcu5NSa/sa-manga-unga-oroar-sig-oever-sin-privatekonomi)
-
----
-
-## Love is blind-Ellen about the storm of hate - "A social problem"
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-Today, the last episode - the reunion - of this year's season of "Love Is Blind Sweden" was released. In the reality series, singles date behind closed doors in capsules and get engaged before they've even seen each other.  One of the season's most talked about participants is Ellen O'Reilly. She accepted a proposal from Fabian Patterson without seeing him, but when they first met she chose to break off the engagement immediately. In Nyhetsmorgan, she explains that she panicked. - You can see that in my body language. It's a charged situation for both of them. "It doesn't feel good" When Ellen O'Reilly gets to meet Fabian Patterson for the first time, she describes that reality catches up with her. - Somewhere the gut feeling kicks in, at the absolute worst time. It doesn't feel good. And there you have a choice to either go ahead with the experiment, accept the ring and later find an excuse that looks better on TV - or to be honest and say how you feel. For me it was the latter, she says in Nyhetsmorgon. The pressure and expectations were too great, she believes. - You have time to think a thousand thoughts. But one thought that was very clear was: If this is love, then it costs far too much for me. There will be such enormous pressure. Receives a lot of hate Her actions in the television program have provoked strong reactions and Ellen O'Reilly has received many critical comments. - I don't think you can ever prepare for it. Of course, I've had great reactions as well, but the reactions have been strong. And mainly from women. What do they say? - It is, after all, the classic online hate, which is a major social problem today. It is worrying. She says that she apologized to Fabian Patterson and that they straightened everything out after the cameras went off.
-
-[Read Full Article](https://www.tv4.se/artikel/5P7AyeO5Z3RXTHwetCBkiX/love-is-blind-ellen-om-hatstormen-ett-samhaellsproblem)
-
----
-
-## Messy Easter weather – snow, rain, icy conditions and sun
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-Easter weather looks set to be unsettled with rain, snow and the risk of muddy roads. Those traveling from the Mälardal region and southern Sweden, to cross the Dalälven and get up to the mountains may have to expect to pass through snow or icy conditions.  - It looks like there will be very large local variations, with a few surprises regarding the road conditions, says TV4's meteorologist Ulrika Elvgren.  It will be cold nights in the whole of Norrland, but on the night of Easter Eve there may be snow in southern Sweden as well. Near the coast in the south, the risk of slipping is considered to be less.  Sun in its places Despite the unsettled weather, the sun can peek out in its places. - If you have rain in the morning, there will be some sun in the afternoon and vice versa.  On Good Friday, it seems to be sunniest in Norrland, while the west coast may have a sunny but windy Easter Eve. Even in southern Götaland and along the Västerbotten and Norrbotten coasts, the sun can peek out during Saturday.  - On Easter day, it is once again the Norrland coast and perhaps even the Lapland mountains that will get some sun, says Ulrika Elvgren. Drive carefully Easter is a big traffic weekend and Ulrika Elvgren advises against driving with summer tires if you are traveling north and inland.  - Now the sun is doing its job, but it can still be quite slippery at the beginning of April.  She also advises travelers to follow the forecast extra carefully.  - You might also be able to avoid driving when it's worst. Now there will be a narrower and narrower window during the day as it is extra slippery, says Ulrika Elvgren.
-
-[Read Full Article](https://www.tv4.se/artikel/6lBE1QMcldLIgqylMsoxHm/stoekiga-paskvaedret-snoe-regn-ishalka-och-sol)
-
----
-
-## Vinegar-cooked salmon with dill mayonnaise
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-Today's dinner tip offers cooked salmon where vinegar provides a healthy and balanced acid instead of traditional vinegar. The juicy salmon is accompanied by creamy dill mayonnaise and crispy gherkins. Serve with boiled potatoes for a complete meal. See Stefan Ekengren's recipe
-
-[Read Full Article](https://www.tv4.se/artikel/4arkkRn4IRegjoLWZzzsqg/vinaegerinkokt-lax-med-dillmajonnaes)
-
----
-
-## Karl has received 16 threatening calls: "They can kill your wife and your child"
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (today)
-
-Karl Mattias Bergsten, formerly known as Mehdi Houshmand Rahimi, has long supported Crown Prince Reza Pahlavi as the new leader of Iran if the regime falls. He has participated in several demonstrations and says himself that he had close contact with the crown prize. 
-
-He is not above threats from regime supporters, but in recent weeks the attacks have increased.
-
-- They say: We are calling from the Revolutionary Guard of the Islamic Republic, if you continue, we have your parents. We arrest them and they will pay for what you do.
-
-They target his relatives in Iran but also his wife and children in Sweden. During the interview, someone calls and tells him to shut up. He says they even threatened to hire a shooter in Sweden to kill him. - You can only pay 1,000-2,000 to a young person and they can murder your wife, they can murder your child. Threats from several quarters TV4 Nyheterna has spoken to several Iranians in exile who testify to threats from the regime, but also from other quarters. - Previously, I was worried about the Islamic regime that threatens our security. Today, there are two fronts that we are worried about. Extreme royalists, who come with threats and harassment, in addition to the Iranian regime, says Mehrdad Darvishpour, associate professor of social work at Mälardalen University.  He does not support US and Israeli attacks on Iran and says he has received threats from extreme royalists. But it is difficult to know whether they are really royalists or actually come from the Islamic regime, he believes.  He belonged to the radical left in Iran and was involved in the revolution against the shah in 1979. He was imprisoned by the Revolutionary Guard, escaped and ended up in Sweden. Here he has demonstrated and received threats from the regime for a long time. He does not believe that the intervention of the United States and Israel makes the situation better. - War and Iranian oppression create nothing but suffering and a dark future for Iran. The intervention creates an opportunity Karl Mattias Bergsten, who is active in the Sweden Democrats, says that of course he is in
-
-[Read Full Article](https://www.tv4.se/artikel/3141A1GZAfpVv8Yxy6McMB/hoten-mot-exiliranier-oekar-fatt-16-samtal-fran-iran)
-
----
-
 ## Postcovid still affects thousands of Swedes
 **Outlet:** ABC Nyheter
-**Category:** General News | **Date:** 2026-04-02 (1 day old)
+**Category:** General News | **Date:** 2026-04-02 (3 days old)
 
 Six years after the outbreak of the pandemic, thousands of Swedes are still struggling with post-covid - and the Karolinska Institute's researchers state that effective treatments are still lacking. 
  The post Postcovid still affects thousands of Swedes appeared first on ABC Nyheter.
@@ -1533,69 +1819,9 @@ Six years after the outbreak of the pandemic, thousands of Swedes are still stru
 
 ---
 
-## Teacher shot dead in Södertälje: "Focus on taking care of students"
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (1 day old)
-
-The alarm came in at 7:30 a.m. from a residential area in the central parts of the city. - He has been taken to hospital with very serious injuries, said Per Fahlström, press spokesperson at the Stockholm police region, shortly after the shooting. The shot has been identified by the police and it is an adult man, they confirm for TV4 Nyheterna. At lunchtime, the police announced that he is dead.  Worked as a teacher According to information to TV4 Nyheterna, the murder victim worked as a teacher in Salem municipality. "The Municipality of Salem can confirm that an employee in our business has died after a shooting in Södertälje. It is a very serious incident and our thoughts go out to the employee's relatives," it writes on its website. The municipality has activated crisis support after the murder. "Our full focus is to take care of our students and employees in a situation that causes concern. We have strengthened support in our operations and are close to create security for those who need it." Bullet hole in car window Several people are said to have been nearby and the police are questioning witnesses to form a picture of what has happened. The shot man was found outside. - He was found in or next to a car, says Per Fahlström. Photos from the crime scene show bullet holes in the car window near the driver's seat. A police helicopter is circling the area and police forensics officers in white are collecting evidence. A primary school nearby has been housed. "Not safe in his own area" The area is described as calm and residents that TV4 Nyheterna spoke to are shocked.  Many of them were on their way to school and work when two explosions echoed between the residential buildings. - You don't really feel safe in your own area anymore. It creates anxiety and worry, especially since I have younger siblings, says Natali Kolosova. Alice Valiente also lives in the area. She says that she will look around a little more in the future. - It never ends, what to do. Others may be affected. This is terrible, that it is so close, she says.
-
-[Read Full Article](https://www.tv4.se/artikel/6zejSeW5pd8dFauoEW8a0S/man-skjuten-i-soedertaelje)
-
----
-
-## Postcovid increases the risk of heart disease - new study
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (1 day old)
-
-It is researchers at the Karolinska Institute who have investigated how remaining health problems after a covid infection are connected with subsequent diseases in the cardiovascular system. The study included 9,000 individuals diagnosed with post-covid in Region Stockholm. Two-thirds of them were women. These were compared with Sweden's other adult population under the age of 65. Heart rhythm disorders and coronary artery disease were found to be more common in both women and men with post-covid. During the four-year follow-up, 18.2 percent of the women and 20.6 percent of the men with post-covid suffered some form of cardiovascular event. Among the group without, the corresponding figure was 8.4 percent and 11.1 percent, respectively. In women, an increased risk of heart failure and peripheral vascular disease was also seen. "Big number of darkness". The differences remained even after the researchers adjusted for age, socioeconomics and other risk factors. Even those who have never sought care for their problems can be at risk.  People who had a tough time for several months after their first covid infection may also be affected by these results. Those who did not get well quickly after their covid but had increased fatigue and so for months after the covid-19 infection. We know that there is a large number of dark people, says Axel Carlsson. He urges everyone who has suffered from post-covid to try to compensate with their lifestyle. If you have had such a problem, it is important that you keep track of your values. Blood pressure, blood fats, the known cardiovascular risk factors and the lifestyle habits you can influence, such as eating fruit and vegetables, exercising and not smoking. Chronic inflammation Exactly what the connection is due to is not clear. But what one suspects is that it is a chronic inflammation that lasts for a long time in these people, and then it can affect both blood vessels and the heart negatively. It can increase the risk of forming small blood clots in the vessels and affect the blood vessels and the heart, says Axel Carlsson. One consolation in this context is that the researchers found no clear connection between
-
-[Read Full Article](https://www.tv4.se/artikel/tt-260402-postcovid1-f0ea3953/studie-postcovid-okar-risk-for-hjartsjukdomar)
-
----
-
-## The expert's tip: How to nail the summer job
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (1 day old)
-
-There are 50,000 available summer jobs to apply for on the Employment Agency's job platform Platsbanken. That's about the same number as last year - so increasing unemployment in society in general is not noticeable in the summer jobs anyway. - Not with regard to the demand for labor in the summer, as businesses that need to solve their summer staffing and seasonal jobs exist to the same extent now as before, says Alexandra Sjöberg, job seeker expert at the Employment Service. Search in other places It is not too late if you start now, she believes, but also says that it is time to speed up if you want to secure a summer job. Most summer jobs are in healthcare, but also in industry, sales, hotels and restaurants. It is about services such as cleaners, serving staff, assistant nurses and care assistants. In order to maximize her chances of getting a summer job, Alexandra Sjöberg believes that it is important to think broadly – ​​both in terms of profession and geography. - Be a little open. Sometimes we lock ourselves up and become our own worst enemy because we have preconceived notions. The summer jobs in particular are so delicious that they appear in places where you might not otherwise have thought of working, such as out in the archipelago or on Gotland. Follow up on your application Dare to make contact is also important. - Yes, but go into a store and search. Then you reach the so-called hidden jobs if you yourself are proactive in your job search. But also when you have an application out, you can actually call and follow up on your CV and application. Then you become more than this document you have submitted. Alexandra Sjöberg believes that you should adapt your application to the job you are applying for and highlight experiences that suit that particular job. But if it's your first job, maybe you don't have much experience? - Perhaps you have been part of the student council, involved in the scouts or trained the younger members of the football team? There is much that you may not think of yourself that you can highlight as strengths and experiences.
-
-[Read Full Article](https://www.tv4.se/artikel/qvkUoE2jxGBE9lqgfjjLs/expertens-tips-sa-lyckas-du-fa-sommarjobb)
-
----
-
-## Orange fog over the whole island - risk groups are warned
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (1 day old)
-
-Pictures from the cities of Heraklion and Chania show an almost cinematic appearance. The background is strong winds over North Africa. The wind has dragged sand particles from the Sahara north across the Mediterranean. The thick orange fog is so dense that air traffic over the Greek island is being diverted. The phenomenon is enhanced by the fact that it is hot and rainy, local media reports.  Warns at-risk groups Crete's Civil Defense Authority urges residents to avoid non-essential travel. The recommendation is primarily aimed at people with illnesses as well as children and the elderly. Meteorologists estimate that the fog may remain over the island for most of the Easter weekend and only lift on Sunday evening, when winds from North Africa are expected to subside.
-
-[Read Full Article](https://www.tv4.se/artikel/7rtJBMNUWyEMLYlRcNChnM/orange-dimma-oever-hela-oen-riskgrupper-varnas)
-
----
-
-## Denies negotiations with the US: "Irrational demands"
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (1 day old)
-
-Ready for ground invasion
-
-[Read Full Article](https://www.tv4.se/artikel/3Oyx7CTwaZAF2oaukctatd/nekar-till-foerhandlingar-med-usa-irrationella-krav)
-
----
-
-## Nasa's Artemis II was delayed last night - to circle the moon
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-02 (1 day old)
-
-At 00.35, Swedish time, the US space agency Nasa's manned expedition Artemis II began with a rocket launch. Astronauts will now take a turn around the moon and then come back to Earth. Although the astronauts will not land on the moon, it is the first space journey in 53 years with the goal of the moon. The launch also took place from the Kennedy Space Center in Florida – the same place where the Apollo missions had their beginnings in the 1960s and 1970s. The astronauts are expected to be the people who have been farthest from Earth ever when they circle the moon and turn home to then land in the Pacific Ocean, AP writes. With their noses at the moon some 400,000 kilometers away, Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen left Earth to the roar of the spacecraft's Space Launch System (SLS) engines. A short time later, NASA announced that the astronauts had reached Earth's orbit and that SLS had been disconnected. Five minutes into the flight, Commander Wiseman saw the group's objective: We have a beautiful moonrise, we're heading straight for it, he said from the capsule. Many spectators had gathered outside the cordoned off area to see the launch in place. Nasa also had a live broadcast for space enthusiasts worldwide. The capsule with the astronauts in it will remain in Earth's orbit for just over a day before it continues on around the moon.
-
-[Read Full Article](https://www.tv4.se/artikel/tt-260402-rymdenmanresa1-9e7d2a56/har-lyfter-manraketen-ingen-har-varit-langre-bort)
-
----
-
 ## Sven-Erik Mattiasson: I have been to all Swedish cities
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-02 (1 day old)
+**Category:** General News | **Date:** 2026-04-02 (3 days old)
 
 Jämtland Evangelist's editor turns 90 - continues to spread the message of Jesus
 
@@ -1605,7 +1831,7 @@ Jämtland Evangelist's editor turns 90 - continues to spread the message of Jesu
 
 ## Sweet oat chickens for Easter
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-02 (1 day old)
+**Category:** General News | **Date:** 2026-04-02 (3 days old)
 
 Do crafts together with the children, and enjoy something sweet after the meal •
 
@@ -1615,7 +1841,7 @@ Do crafts together with the children, and enjoy something sweet after the meal �
 
 ## Unacceptable that every seventh Christian in the world is persecuted
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-02 (1 day old)
+**Category:** General News | **Date:** 2026-04-02 (3 days old)
 
 Regional challenges in security policy and stability mean that more and more European countries are turning inward with both resources and political energy, writes Yusuf Aydin (KD).
 
@@ -1625,7 +1851,7 @@ Regional challenges in security policy and stability mean that more and more Eur
 
 ## When Jesus cries, it is something special
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-02 (1 day old)
+**Category:** General News | **Date:** 2026-04-02 (3 days old)
 
 Then, in that moment, when our "yes" to him is pronounced, Jesus' tears turn to joy, writes Inga-Lill Lundgren
 
@@ -1633,119 +1859,9 @@ Then, in that moment, when our "yes" to him is pronounced, Jesus' tears turn to 
 
 ---
 
-## Robert Morris out of prison after six months behind bars
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-02 (1 day old)
-
-Founder of Gateway Church after serving prison sentence: Is deeply saddened.
-
-[Read Full Article](https://www.dagen.se/nyheter/robert-morris-ute-fran-faengelse-efter-sex-manader-bakom-las-och-bom/10280061)
-
----
-
-## "I have never understood the betrayal of Judas"
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-02 (1 day old)
-
-In his latest novel, the author Niklas Rådström interprets the passion story.
-
-[Read Full Article](https://www.dagen.se/kultur/jag-har-aldrig-foerstatt-judas-foerraederi/10229389)
-
----
-
-## The Minister of Migration answered a parliamentary question about the Ninos case
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-02 (1 day old)
-
-The Center Party's Niels Paarup-Petersen: He wants to get asylum in another country. But even that he is not allowed to do
-
-[Read Full Article](https://www.dagen.se/nyheter/migrationsministern-svarade-pa-riksdagsfraga-om-fallet-ninos/10280616)
-
----
-
-## The story of Emmaus teaches us to walk with Christ
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-02 (1 day old)
-
-Erik Helmerson: Why does God want them not to recognize their master?
-
-[Read Full Article](https://www.dagen.se/ledare/beraettelsen-om-emmaus-laer-oss-att-vandra-med-kristus/10278065)
-
----
-
-## The pressured situation expert: Wants to make it everyone's problem
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-04-01 (1 day old)
-
-Therefore, Trump will not be listened to
-
-[Read Full Article](https://www.tv4.se/artikel/7IyC0XqH0QrrfBfFyf3jlO/experten-om-pressade-laeget-vill-goera-det-till-allas-problem)
-
----
-
-## Priest after Sweden's WC ticket: "God is the foundation of everything that happens"
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-01 (1 day old)
-
-Sweden came last in their qualifying group and were almost counted out - so it is described as a minor miracle that there is now a soccer World Cup in the USA
-
-[Read Full Article](https://www.dagen.se/nyheter/praest-efter-sveriges-vm-biljett-gud-aer-grunden-till-allt-som-sker/10280214)
-
----
-
-## Robot shrapnel strikes near the Holy Passover sites in Jerusalem
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-01 (1 day old)
-
-'We cannot live in constant war - Many Christians are moving away from here'.
-
-[Read Full Article](https://www.dagen.se/nyheter/robotsplitter-slar-ner-naera-de-heliga-paskplatserna-i-jerusalem/10280393)
-
----
-
-## Does the SD notice make Dum Melon Day Drum Melon Day?
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-01 (1 day old)
-
-Erik Helmerson: Big risks if Jimmie Åkesson becomes minister.
-
-[Read Full Article](https://www.dagen.se/ledare/goer-sd-beskedet-dymmelonsdagen-till-drummelonsdag/10280722)
-
----
-
-## April, April, have you been keeping up with all the pranks that have been going on throughout the day?
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-01 (1 day old)
-
-Neither the giant Jesus statue in Ulricehamn nor the Pentecostal pastor Christian Mölk's candidacy for the Christian Democrats turned out to be true
-
-[Read Full Article](https://www.dagen.se/nyheter/april-april-har-du-haengt-med-i-alla-skaemten-som-briserat-under-dagen/10280304)
-
----
-
-## The moderates want to form a government with SD
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-01 (1 day old)
-
-The moderates let the Sweden Democrats into a government if the Tidö parties win the election. SD is promised responsibility for at least the migration and integration issues.
-
-[Read Full Article](https://www.dagen.se/nyheter/moderaterna-vill-bilda-regering-med-sd/10280696)
-
----
-
-## Meet the deluded with warm arms - not a cold hand
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-01 (1 day old)
-
-When faith is formed through algorithms, mature Christians must be there
-
-[Read Full Article](https://www.dagen.se/ledare/jakob-norrhall-moet-de-vilseledda-med-varma-famnen-inte-kalla-handen/10278363)
-
----
-
 ## Minister for Rural Affairs Peter Kullgren welcomes Germany to For Forest+
 **Outlet:** Government.se
-**Category:** Ministry of Rural Affairs and Infrastructure | **Date:** 2026-04-01 (1 day old)
+**Category:** Ministry of Rural Affairs and Infrastructure | **Date:** 2026-04-01 (3 days old)
 
 Sweden is this year’s chair of the For Forest+ group. In this context, Minister for Rural Affairs Peter Kullgren hosted a meeting of the group’s members on 31 March, during which the group welcomed Germany as a new member. With the addition of Germany, For Forest+ now consists of eight EU Member States that collectively account for around 60 per cent of the forests of the 27 EU Member States (EU27).
 
@@ -1755,7 +1871,7 @@ Sweden is this year’s chair of the For Forest+ group. In this context, Ministe
 
 ## Zlatan Ibrahimovic becomes a TV profile – new role in football broadcasts
 **Outlet:** ABC Nyheter
-**Category:** General News | **Date:** 2026-04-01 (2 days old)
+**Category:** General News | **Date:** 2026-04-01 (4 days old)
 
 Zlatan Ibrahimovic leaves the role of advisor for AC Milan and takes the step to the TV screen as a football analyst and commentator ahead of the autumn season. 
  The post Zlatan Ibrahimovic becomes a TV profile – new role in football broadcasts appeared first on ABC Nyheter.
@@ -1764,89 +1880,9 @@ Zlatan Ibrahimovic leaves the role of advisor for AC Milan and takes the step to
 
 ---
 
-## Congratulations on the name day Johan Harald!
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-01 (2 days old)
-
-'It's not everyone who can celebrate the name day of all their first, middle and last names, but I'm one of them!'
-
-[Read Full Article](https://www.dagen.se/familj/grattis-pa-namnsdagen-johan-harald/10231686)
-
----
-
-## Easter music? Yes, there actually is
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-01 (2 days old)
-
-Crosses, Carola and chickens - Easter offers a whole smorgasbord of music
-
-[Read Full Article](https://www.dagen.se/livsstil/paskmusik-ja-det-finns-faktiskt/10197067)
-
----
-
-## The priest who is accused of child pornography had previously been stung by the judge's chapter
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-01 (2 days old)
-
-Twenty years ago received a written reminder after being caught with porn on the church's computer and in 2018 he was investigated once again for touching a girl.
-
-[Read Full Article](https://www.dagen.se/nyheter/praest-som-atalas-foer-barnporr-hade-prickats-tidigare-av-domkapitel/10270955)
-
----
-
-## The Bible word on the tray became a prayer for the unborn daughter
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-01 (2 days old)
-
-The company is a way of life for the Flatebö family • "Not so much routine"
-
-[Read Full Article](https://www.dagen.se/livsstil/bibelordet-pa-brickan-blev-en-boen-foer-ofoedda-dottern/10277773)
-
----
-
-## Episode 24: We Built a Business - Without Losing Family
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-01 (2 days old)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.dagen.se/podd/avsnitt-24-vi-byggde-ett-foeretag-utan-att-tappa-bort-familjen/10279388)
-
----
-
-## After the pastors' dance at the conference - now there is dance hysteria in the Free Church
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-01 (2 days old)
-
-The dance at the Equmenia Church's winter conference went down like a bomb in Swedish Free Churchism, and shortly the first disco service will be held
-
-[Read Full Article](https://www.dagen.se/nyheter/efter-pastorernas-dans-pa-konferensen-nu-rader-det-danshysteri-i-frikyrkan/10262255)
-
----
-
-## Linnéa, 24: Depression didn't take me away from God - it brought me closer to him
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-01 (2 days old)
-
-Tells about the time in inpatient care where, in the midst of the most difficult situation of her life, she handed out Bibles to the other patients
-
-[Read Full Article](https://www.dagen.se/livsstil/linnea-24-depressionen-tog-mig-inte-ifran-gud-den-tog-mig-naermare-honom/10233037)
-
----
-
-## The reference to tradition calls for respect for attitudes other than one's own
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-04-01 (2 days old)
-
-It is difficult to move forward together if you do not regard your fellow travelers as real Christians, writes Olof Edsinger in a reply.
-
-[Read Full Article](https://www.dagen.se/debatt/haenvisningen-till-traditionen-manar-till-respekt-foer-andra-hallningar-aen-den-egna/10277098)
-
----
-
 ## Maria Malmer Stenergard takes part in the informal meeting of EU foreign ministers
 **Outlet:** Government.se
-**Category:** Ministry for Foreign Affairs | **Date:** 2026-03-31 (2 days old)
+**Category:** Ministry for Foreign Affairs | **Date:** 2026-03-31 (4 days old)
 
 On 31 March 2026, Minister for Foreign Affairs Maria Malmer Stenergard is taking part in an informal meeting of EU foreign ministers.
 
@@ -1856,7 +1892,7 @@ On 31 March 2026, Minister for Foreign Affairs Maria Malmer Stenergard is taking
 
 ## Joint Statement on the occasion of the informal meeting of EU Foreign Ministers
 **Outlet:** Government.se
-**Category:** Ministry for Foreign Affairs | **Date:** 2026-03-31 (2 days old)
+**Category:** Ministry for Foreign Affairs | **Date:** 2026-03-31 (4 days old)
 
 Joint statement by the High Representative of the European Union for Foreign Affairs and Security Policy, Austria, Belgium, Bulgaria, Croatia, Czech Republic, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Ukraine.
 
@@ -1866,7 +1902,7 @@ Joint statement by the High Representative of the European Union for Foreign Aff
 
 ## Report: Students with NPF receive less support at school
 **Outlet:** ABC Nyheter
-**Category:** General News | **Date:** 2026-03-31 (3 days old)
+**Category:** General News | **Date:** 2026-03-31 (5 days old)
 
 A new parliamentary report shows that students with neuropsychiatric disabilities (NPF) such as ADHD and autism largely lack adequate adapted support in Swedish schools. 
  The post Report: Students with NPF receive less support at school appeared first on ABC Nyheter.
@@ -1875,29 +1911,9 @@ A new parliamentary report shows that students with neuropsychiatric disabilitie
 
 ---
 
-## Treat yourself to juicy lamb this Easter
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-03-31 (3 days old)
-
-A taste sensation perfect for the Easter table, where the lamb becomes a symbol of Jesus, says Mayka Gulo, food influencer
-
-[Read Full Article](https://www.dagen.se/mat/bjud-pa-saftigt-lamm-i-pask/10201849)
-
----
-
-## Do we vilify and belittle those who think differently than ourselves?
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-03-31 (3 days old)
-
-We cannot wait for the politicians to change their tone, but the change must start with ourselves, writes Johan Eriksson
-
-[Read Full Article](https://www.dagen.se/debatt/foertalar-och-foerminskar-vi-dem-som-taenker-annorlunda-aen-oss-sjaelva/10269356)
-
----
-
 ## A record number of graduates are unemployed – experts demand reform
 **Outlet:** ABC Nyheter
-**Category:** General News | **Date:** 2026-03-30 (4 days old)
+**Category:** General News | **Date:** 2026-03-30 (6 days old)
 
 Sweden has a record number of graduates but high graduate unemployment - and an average candidate graduates at the age of 28, which experts say requires structural reforms. 
  The post A record number of graduates are unemployed – experts demand reform appeared first on ABC Nyheter.
@@ -1908,7 +1924,7 @@ Sweden has a record number of graduates but high graduate unemployment - and an 
 
 ## Protests against tougher immigration laws are spreading in Sweden
 **Outlet:** ABC Nyheter
-**Category:** General News | **Date:** 2026-03-29 (5 days old)
+**Category:** General News | **Date:** 2026-03-29 (7 days old)
 
 Thousands of people have demonstrated in Stockholm, Gothenburg and Malmö against tougher immigration laws and demand an end to deportations of young people who grew up in Sweden. 
  The post Protests against tougher immigration laws spread in Sweden appeared first on ABC News.
@@ -1919,7 +1935,7 @@ Thousands of people have demonstrated in Stockholm, Gothenburg and Malmö agains
 
 ## Prime Minister receives European Parliament President Roberta Metsola
 **Outlet:** Government.se
-**Category:** Prime Minister's Office | **Date:** 2026-03-28 (5 days old)
+**Category:** Prime Minister's Office | **Date:** 2026-03-28 (7 days old)
 
 Prime Minister Ulf Kristersson received President of the European Parliament Roberta Metsola on Friday, 27 March. Together, the leaders visited Stockholm’s stock exchange, Nasdaq Stockholm, and discussed ways to strengthen the EU’s capital markets and competitiveness.
 
@@ -1929,7 +1945,7 @@ Prime Minister Ulf Kristersson received President of the European Parliament Rob
 
 ## Sweden invests in energy preparedness in the midst of geopolitical unrest
 **Outlet:** ABC Nyheter
-**Category:** General News | **Date:** 2026-03-28 (6 days old)
+**Category:** General News | **Date:** 2026-03-28 (8 days old)
 
 Against the background of an uneasy geopolitical situation, the government presents an updated strategy for energy preparedness with strengthened reserve systems and increased coordination between authorities and municipalities. 
  The post Sweden invests in energy preparedness amid geopolitical unrest appeared first on ABC Nyheter.
@@ -1940,7 +1956,7 @@ Against the background of an uneasy geopolitical situation, the government prese
 
 ## New study: Coffee can reduce the risk of dementia
 **Outlet:** ABC Nyheter
-**Category:** General News | **Date:** 2026-03-27 (7 days old)
+**Category:** General News | **Date:** 2026-03-27 (9 days old)
 
 A new study from the Karolinska Institute suggests that those who drink two to four cups of coffee per day have a lower risk of developing dementia and Alzheimer's disease. 
  The post New study: Coffee can reduce the risk of dementia appeared first on ABC Nyheter.
@@ -1951,7 +1967,7 @@ A new study from the Karolinska Institute suggests that those who drink two to f
 
 ## Minister for Foreign Affairs inaugurates Sweden’s new Consulate-General in Houston
 **Outlet:** Government.se
-**Category:** Ministry for Foreign Affairs | **Date:** 2026-03-26 (7 days old)
+**Category:** Ministry for Foreign Affairs | **Date:** 2026-03-26 (9 days old)
 
 On 16–18 March, Minister for Foreign Affairs Maria Malmer Stenergard visited Texas together with HRH The Crown Princess and a business delegation. During the visit, Sweden’s new Consulate-General in Houston was inaugurated.
 
@@ -1961,7 +1977,7 @@ On 16–18 March, Minister for Foreign Affairs Maria Malmer Stenergard visited T
 
 ## Joint statement by the Leaders of the Joint Expeditionary Force
 **Outlet:** Government.se
-**Category:** Prime Minister's Office | **Date:** 2026-03-26 (7 days old)
+**Category:** Prime Minister's Office | **Date:** 2026-03-26 (9 days old)
 
 Joint statement by the Leaders of the Joint Expeditionary Force (JEF), Helsinki, 26 March 2026.
 
@@ -1969,20 +1985,9 @@ Joint statement by the Leaders of the Joint Expeditionary Force (JEF), Helsinki,
 
 ---
 
-## Duplantis sets a new world record in the pole vault
-**Outlet:** ABC Nyheter
-**Category:** General News | **Date:** 2026-03-26 (8 days old)
-
-Armand Duplantis has broken another world record in the pole vault and is consolidating his position as one of the most successful athletes in Swedish sports history. 
- The post Duplantis sets a new world record in the pole vault appeared first on ABC Nyheter.
-
-[Read Full Article](https://www.abcnyheter.se/duplantis-satter-nytt-varldsrekord-i-stavhopp/)
-
----
-
 ## Minutes from the monetary policy meeting on 18 March 2026
 **Outlet:** Riksbanken
-**Category:** Central Bank | **Date:** 2026-03-25 (8 days old)
+**Category:** Central Bank | **Date:** 2026-03-25 (10 days old)
 
 Minutes from the monetary policy meeting on 18 March 2026
 
@@ -1990,20 +1995,9 @@ Minutes from the monetary policy meeting on 18 March 2026
 
 ---
 
-## The government wants to accelerate the expansion of prisons
-**Outlet:** ABC Nyheter
-**Category:** General News | **Date:** 2026-03-25 (9 days old)
-
-With record occupancy in Swedish prisons, the government presents proposals to speed up the expansion of institutions and detention centers through a simplified planning process and faster procurement. 
- The post The government wants to accelerate the expansion of prisons appeared first on ABC Nyheter.
-
-[Read Full Article](https://www.abcnyheter.se/regeringen-vill-paskynda-utbyggnaden-av-fangelser/)
-
----
-
 ## SEK 240 million in new support to Ukraine
 **Outlet:** Government.se
-**Category:** Ministry for Foreign Affairs | **Date:** 2026-03-23 (10 days old)
+**Category:** Ministry for Foreign Affairs | **Date:** 2026-03-23 (12 days old)
 
 The Government has presented a new support package to Ukraine for 2026 worth around SEK 240 million. The support includes SEK 150 million for the Ukrainian Red Cross for humanitarian operations. In addition, the support package is heavily focused on children’s needs, supporting the provision of school food in areas close to the frontline, promoting reforms for family-based care of children and supporting children’s mental health.
 
@@ -2013,20 +2007,10 @@ The Government has presented a new support package to Ukraine for 2026 worth aro
 
 ## SEK 555 million in new humanitarian aid for Gaza
 **Outlet:** Government.se
-**Category:** Ministry for Foreign Affairs | **Date:** 2026-03-23 (10 days old)
+**Category:** Ministry for Foreign Affairs | **Date:** 2026-03-23 (12 days old)
 
 After more than two years of war and suffering, children in Gaza are in acute need of health and medical care, psychosocial support, safety, nutrition and education. Initiatives in these areas are needed to lay the foundations for reconstruction and recovery. Sweden is now providing SEK 555 million in aid, which will be distributed between the UN Children’s Fund (UNICEF), the UN World Food Programme (WFP) and the United Nations Development Programme, and will help bring safety, stability and well-being to children in Gaza.
 
 [Read Full Article](https://www.government.se/press-releases/2026/03/sek-555-million-in-new-humanitarian-aid-for-gaza/)
-
----
-
-## Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada and others on the Strait of Hormuz: 19 March 2026
-**Outlet:** Government.se
-**Category:** Prime Minister's Office | **Date:** 2026-03-20 (13 days old)
-
-Joint statement from the leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Japan, Canada, Republic of Korea, New Zealand, Denmark, Latvia, Slovenia, Estonia, Norway, Sweden, Finland, Czechia, Romania, Bahrain and Lithuania on the Strait of Hormuz.
-
-[Read Full Article](https://www.government.se/statements/2026/03/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-netherlands-japan-canada-and-others-on-the-strait-of-hormuz-19-march-2026/)
 
 ---
