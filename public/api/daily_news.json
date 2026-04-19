@@ -1,47 +1,17 @@
 {
-  "generated_at": "2026-04-17T11:08:13.307844+02:00",
-  "date": "2026-04-17",
-  "item_count": 7,
+  "generated_at": "2026-04-19T10:35:11.028087+02:00",
+  "date": "2026-04-19",
+  "item_count": 8,
   "items": [
     {
-      "id": 3,
-      "title": "The Danish \"New Year's party\" becomes a predictable party",
-      "summary": "Paprika Steen and Jakob Weis stylishly end their relationship-based film trilogy with a thunderous film party. The duo has a good eye for human ceremonies and attracts the country's biggest actors, but bets on half-charged conflicts and well-sweetened finale.",
-      "title_original": "Danska ”Nyårsfesten” blir ett förutsägbart party",
-      "summary_original": "Paprika Steen och Jakob Weis avslutar stilenligt sin relationsbaserade filmtrilogi med en dundrande filmkalas. Duon har ett gott öga för mänskliga ceremonier och lockar landets största skådespelare, men satsar på halvladdade konflikter och väl sötad final.",
-      "link": "https://www.dn.se/kultur/danska-nyarsfesten-blir-ett-forutsagbart-party/",
-      "date_display": "2026-04-17",
-      "date_iso": "2026-04-17T09:00:00+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 6,
-      "title": "That's how the parties want to help young people find housing, love and more money",
-      "summary": "Accommodation, love and a lot of money are at the top of young people's wish list for the future. DN has asked the eight parliamentary parties how they plan to deliver. - Unfortunately, we cannot go to the election on any kind of dating guarantee, says Benjamin Dousa (M).",
-      "title_original": "Så vill partierna hjälpa unga till bostad, kärlek och mer pengar",
-      "summary_original": "Boende, kärlek och mycket pengar ligger i topp på ungas önskelista för framtiden. DN har frågat de åtta riksdagspartierna hur de planerar att leverera. – Vi kan tyvärr inte gå till val på någon slags dejtningsgaranti, säger Benjamin Dousa (M).",
-      "link": "https://www.dn.se/sverige/sa-vill-partierna-hjalpa-unga-till-bostad-karlek-och-mer-pengar/",
-      "date_display": "2026-04-17",
-      "date_iso": "2026-04-17T08:55:27+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 7,
-      "title": "Russian rocket lit up the sky in northern Sweden",
-      "summary": "A strange light phenomenon lit up parts of the Västerbotten sky last night. The police suspected early on that it was a Russian space rocket - something that has now been confirmed by the Kremlin.",
-      "title_original": "Rysk raket lyste upp himlen i norra Sverige",
-      "summary_original": "Ett märkligt ljusfenomen lyste upp delar av Västerbottenhimlen i natt. Polisen misstänkte tidigt att det rörde sig om en rysk rymdraket – något som nu bekräftats av Kreml.",
-      "link": "https://www.svd.se/a/5p8qeE/rysk-raket-lyste-upp-himlen-i-norra-sverige",
-      "date_display": "2026-04-17",
-      "date_iso": "2026-04-17T08:44:59+00:00",
+      "id": 1,
+      "title": "Here is the dinosaur that smells the best",
+      "summary": "An Australian dinosaur steps past the T-rex itself. New findings suggest that muttaburrasaurus had the best sense of smell of all. - It has a small lump on its nose that is really prominent, says Professor Vera Weisbecker.",
+      "title_original": "Här är dinosaurien som luktar bäst",
+      "summary_original": "En australisk dinosaurie kliver förbi självaste T-rex. Nya fynd tyder på att muttaburrasaurus hade bäst luktsinne av alla. – Den har en liten klump på nosen som verkligen är framträdande, säger professor Vera Weisbecker.",
+      "link": "https://www.svd.se/a/n19oLx/har-ar-dinosaurien-som-luktar-bast",
+      "date_display": "2026-04-19",
+      "date_iso": "2026-04-19T08:30:44+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -51,18 +21,52 @@
       ]
     },
     {
-      "id": 155,
-      "title": "Government proposes bills to strengthen efforts for accountability for Russia’s aggression against Ukraine",
-      "summary": "Today, the Government is taking an important step to ensure accountability for Russia’s aggression against Ukraine. Through two Government Bills, it is proposed that Sweden join the Special Tribunal for the Crime of Aggression against Ukraine and accede to the Convention establishing an International Claims Commission for Ukraine. Sweden has played an active role in the establishment of both mechanisms.",
-      "title_original": "Government proposes bills to strengthen efforts for accountability for Russia’s aggression against Ukraine",
-      "summary_original": "Today, the Government is taking an important step to ensure accountability for Russia’s aggression against Ukraine. Through two Government Bills, it is proposed that Sweden join the Special Tribunal for the Crime of Aggression against Ukraine and accede to the Convention establishing an International Claims Commission for Ukraine. Sweden has played an active role in the establishment of both mechanisms.",
-      "link": "https://www.government.se/press-releases/2026/04/government-proposes-bills-to-strengthen-efforts-for-accountability-for-russias-aggression-against-ukraine/",
-      "date_display": "2026-04-16",
-      "date_iso": "2026-04-16T11:15:09+00:00",
+      "id": 2,
+      "title": "The boss – healthier but more stressed than co-workers",
+      "summary": "Managers are generally physically healthier than their employees. However, more stressed and mentally burdened. A special group is also particularly vulnerable.",
+      "title_original": "Chefen – friskare men mer stressad än medarbetare",
+      "summary_original": "Chefer är generellt sett fysiskt friskare än sina medarbetare. Däremot mera stressade och mentalt belastade. En särskild grupp är dessutom extra utsatt.",
+      "link": "https://www.svd.se/a/M7A05B/chefen-friskare-men-mer-stressad-an-medarbetare",
+      "date_display": "2026-04-19",
+      "date_iso": "2026-04-19T08:30:31+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Näringsliv"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Zelenskyy: Relief fills the Russian war coffers",
+      "summary": "Lifting sanctions against Russia is unrealistic, believes Ukrainian President Volodymyr Zelenskyy. A boost in oil revenues goes to the Kremlin's dwindling war coffers.",
+      "title_original": "Zelenskyj: Lättnader fyller ryska krigskassan",
+      "summary_original": "Att lyfta på sanktioner mot Ryssland är verklighetsfrånvänt, anser Ukrainas president Volodymyr Zelenskyj. En skjuts i oljeintäkterna går till Kremls sinande krigskassa.",
+      "link": "https://www.svd.se/a/d47AJj/zelenskyj-lattnader-fyller-ryska-krigskassan",
+      "date_display": "2026-04-19",
+      "date_iso": "2026-04-19T08:25:58+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Världen"
+      ]
+    },
+    {
+      "id": 164,
+      "title": "HM The King and Minister for Foreign Affairs visit Ukraine",
+      "summary": "Today, 17 April, HM The King and Minister for Foreign Affairs Maria Malmer Stenergard are visiting Lviv to show Sweden’s strong support for Ukraine.",
+      "title_original": "HM The King and Minister for Foreign Affairs visit Ukraine",
+      "summary_original": "Today, 17 April, HM The King and Minister for Foreign Affairs Maria Malmer Stenergard are visiting Lviv to show Sweden’s strong support for Ukraine.",
+      "link": "https://www.government.se/press-releases/2026/04/hm-the-king-and-minister-for-foreign-affairs-visit-ukraine/",
+      "date_display": "2026-04-17",
+      "date_iso": "2026-04-17T14:41:36+00:00",
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "1 day old",
       "tags": [
         "Press release",
         "International",
@@ -73,7 +77,50 @@
       ]
     },
     {
-      "id": 181,
+      "id": 166,
+      "title": "New Ambassadors from Maldives, Andorra, Ghana and Monaco",
+      "summary": "The following Ambassadors submitted their letters of credence to HM The King, on 16 April 2026: H.E. Aishath Shaan Shakir, Maldives, with residence in Berlin; H.E. Olga Gelabert Fàbrega, Andorra, with residence in Andorra; H.E. Dr Margaret Miewien Chebere, Ghana, with residence in Copenhagen; and H.E. Stéphanie Mourou Vikström, Monaco, with residence in Monaco.",
+      "title_original": "New Ambassadors from Maldives, Andorra, Ghana and Monaco",
+      "summary_original": "The following Ambassadors submitted their letters of credence to HM The King, on 16 April 2026: H.E. Aishath Shaan Shakir, Maldives, with residence in Berlin; H.E. Olga Gelabert Fàbrega, Andorra, with residence in Andorra; H.E. Dr Margaret Miewien Chebere, Ghana, with residence in Copenhagen; and H.E. Stéphanie Mourou Vikström, Monaco, with residence in Monaco.",
+      "link": "https://www.government.se/press-releases/2026/04/new-ambassadors-from-maldives-andorra-ghana-and-monaco/",
+      "date_display": "2026-04-17",
+      "date_iso": "2026-04-17T09:15:06+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "Diplomatic portal"
+      ]
+    },
+    {
+      "id": 180,
+      "title": "Government proposes bills to strengthen efforts for accountability for Russia’s aggression against Ukraine",
+      "summary": "Today, the Government is taking an important step to ensure accountability for Russia’s aggression against Ukraine. Through two Government Bills, it is proposed that Sweden join the Special Tribunal for the Crime of Aggression against Ukraine and accede to the Convention establishing an International Claims Commission for Ukraine. Sweden has played an active role in the establishment of both mechanisms.",
+      "title_original": "Government proposes bills to strengthen efforts for accountability for Russia’s aggression against Ukraine",
+      "summary_original": "Today, the Government is taking an important step to ensure accountability for Russia’s aggression against Ukraine. Through two Government Bills, it is proposed that Sweden join the Special Tribunal for the Crime of Aggression against Ukraine and accede to the Convention establishing an International Claims Commission for Ukraine. Sweden has played an active role in the establishment of both mechanisms.",
+      "link": "https://www.government.se/press-releases/2026/04/government-proposes-bills-to-strengthen-efforts-for-accountability-for-russias-aggression-against-ukraine/",
+      "date_display": "2026-04-16",
+      "date_iso": "2026-04-16T11:15:09+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "2 days old",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "Sweden's support to Ukraine",
+        "Maria Malmer Stenergard"
+      ]
+    },
+    {
+      "id": 182,
       "title": "Intensive negotiations on the European Grids Package.",
       "summary": "Statement by Sweden’s Minister for Energy, Business and Industry and Deputy Prime Minister Ebba Busch, 10 april, Stockholm.",
       "title_original": "Intensive negotiations on the European Grids Package.",
@@ -84,7 +131,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Speech",
         "EU",
@@ -95,7 +142,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 183,
       "title": "Sweden to host Meeting of NATO Ministers of Foreign Affairs on 21–22 May",
       "summary": "On 21–22 May, Sweden will host a meeting of NATO Ministers of Foreign Affairs in Helsingborg.",
       "title_original": "Sweden to host Meeting of NATO Ministers of Foreign Affairs on 21–22 May",
@@ -106,34 +153,13 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "International",
         "Ministry for Foreign Affairs",
         "Foreign and security policy",
         "NATO",
-        "Maria Malmer Stenergard"
-      ]
-    },
-    {
-      "id": 183,
-      "title": "Maria Malmer Stenergard visits Spain",
-      "summary": "Minister for Foreign Affairs Maria Malmer Stenergard visited Spain on 26 March. She visited the Swedish Honorary Consulate in Torrevieja and met with expatriate Swedes, civil society organisations and political representatives. Ms Malmer Stenergard also attended the Sweden-Ukraine men’s football World Cup qualifier match.",
-      "title_original": "Maria Malmer Stenergard visits Spain",
-      "summary_original": "Minister for Foreign Affairs Maria Malmer Stenergard visited Spain on 26 March. She visited the Swedish Honorary Consulate in Torrevieja and met with expatriate Swedes, civil society organisations and political representatives. Ms Malmer Stenergard also attended the Sweden-Ukraine men’s football World Cup qualifier match.",
-      "link": "https://www.government.se/articles/2026/04/maria-malmer-stenergard-visits-spain/",
-      "date_display": "2026-04-03",
-      "date_iso": "2026-04-03T16:17:43+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "International",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Article",
         "Maria Malmer Stenergard"
       ]
     }
