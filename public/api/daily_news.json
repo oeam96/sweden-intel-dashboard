@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-21T11:13:45.820405+02:00",
-  "date": "2026-04-21",
+  "generated_at": "2026-04-23T11:14:42.903478+02:00",
+  "date": "2026-04-23",
   "item_count": 12,
   "items": [
     {
-      "id": 0,
-      "title": "The clock is ticking – and almost everything about the war is unclear",
-      "summary": "The messages from Iran and the US have spread in all directions ahead of the end of the ceasefire. And now the clock is ticking. - Both parties have to bend so that they can move on to the next step, says US expert Jan Hallenberg.",
-      "title_original": "Klockan tickar – och nästan allt är oklart om kriget",
-      "summary_original": "Beskeden från Iran och USA har spretat åt alla håll inför sluttiden för vapenvilan. Och nu tickar klockan. – Båda parterna måste böja sig för att de ska kunna gå vidare till nästa steg, säger USA-experten Jan Hallenberg.",
-      "link": "https://www.dn.se/varlden/klockan-tickar-och-nastan-allt-ar-oklart-om-kriget/",
-      "date_display": "2026-04-21",
-      "date_iso": "2026-04-21T09:10:17+00:00",
+      "id": 5,
+      "title": "This is how you tell your friend that it smells bad",
+      "summary": "What should you do if your friend or colleague smells bad? Should you say anything at all? DN has asked three experts for advice. - Think about what you would prefer someone said to you, says psychologist Sara Larsson.",
+      "title_original": "Så berättar du för din kompis att den luktar illa",
+      "summary_original": "Vad ska du göra om din vän eller kollega luktar illa? Ska man säga något alls? DN har frågat tre experter om råd. – Tänk på vad du skulle föredra att någon sa till dig, säger psykologen Sara Larsson.",
+      "link": "https://www.dn.se/sverige/sa-berattar-du-for-din-kompis-att-den-luktar-illa/",
+      "date_display": "2026-04-23",
+      "date_iso": "2026-04-23T09:09:24+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -19,37 +19,70 @@
       "tags": []
     },
     {
-      "id": 1,
-      "title": "Fire extinguishers were emptied on an SL bus - woman suffered a concussion",
-      "summary": "In the middle of the morning rush, the 51-year-old man empties a fire extinguisher on the driver of the SL bus. When the blindfolded driver crashes, a woman falls and suffers a concussion. Now the 51-year-old is charged.",
-      "title_original": "Man tömde brandsläckare på SL-buss – kvinna fick hjärnskakning",
-      "summary_original": "Mitt i morgonrusningen tömmer den 51-årige mannen en brandsläckare över chauffören på SL-bussen. När den förblindade föraren tvärnitar faller en kvinna och får hjärnskakning. Nu åtalas 51-åringen.",
-      "link": "https://www.dn.se/sverige/man-tomde-brandslackare-pa-sl-buss-kvinna-fick-hjarnskakning/",
-      "date_display": "2026-04-21",
-      "date_iso": "2026-04-21T09:01:52+00:00",
-      "source": "Dagens Nyheter (DN)",
+      "id": 6,
+      "title": "Spaghetti alla puttanesca",
+      "summary": "Today's dinner tip is cooking a spaghetti alla puttanesca with the flavors of olives, capers and anchovies. A quick and rustic pasta dish with lovely saltiness and sting. Perfect when you want to cook something really good in a short time.  See Catarina König's recipe",
+      "title_original": "Spaghetti alla puttanesca",
+      "summary_original": "Dagens middagstips lagar en spaghetti alla puttanesca med smaker av oliver, kapris och sardeller. En snabb och rustik pastarätt med härlig sälta och sting. Perfekt när du vill laga något riktigt gott på kort tid.  Se Catarina Königs recept",
+      "link": "https://www.tv4.se/artikel/1tSLv8bIP6E6LPU0h7XhTh/spagetti-alla-puttanesca",
+      "date_display": "2026-04-23",
+      "date_iso": "2026-04-23T09:08:24+00:00",
+      "source": "TV4 Nyheterna",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
-      "tags": []
+      "tags": [
+        "Mat",
+        "/mat",
+        "/kokets-middag",
+        "/koket",
+        "/catarina-konig"
+      ]
     },
     {
-      "id": 2,
-      "title": "Everyday poetic and whispering art at Artipelag",
-      "summary": "The artist Fredrik Wretman is partially resident in Thailand and is now exhibiting at Artipelag together with Thai Apichaya Wanthiang. They work with completely different motifs and techniques but are united in a low-key appeal, writes Bo Madestrand.",
-      "title_original": "Vardagspoetisk och viskande konst på Artipelag",
-      "summary_original": "Konstnären Fredrik Wretman är delvis bosatt i Thailand och ställer nu ut på Artipelag tillsammans med thailändska Apichaya Wanthiang. De arbetar med helt olika motiv och tekniker men förenas i ett lågmält tilltal, skriver Bo Madestrand.",
-      "link": "https://www.dn.se/kultur/vardagspoetisk-och-viskande-konst-pa-artipelag/",
-      "date_display": "2026-04-21",
-      "date_iso": "2026-04-21T09:00:00+00:00",
-      "source": "Dagens Nyheter (DN)",
+      "id": 9,
+      "title": "\"New guidelines from Smer should be reviewed\"",
+      "summary": "The state's new guidelines for premature babies need to be revised. Smer's reasoning risks upsetting the entire life-saving care, debaters write in a closing remark.",
+      "title_original": "”Nya riktlinjer från Smer bör ses över”",
+      "summary_original": "Statens nya riktlinjer för tidigt födda behöver revideras. Smers resonemang riskerar att rubba hela den livräddande vården, skriver debattörer i en slutreplik.",
+      "link": "https://www.svd.se/a/rr8LKa/smers-resonemang-riskerar-att-rubba-den-livraddande-varden-skriver-debattorer",
+      "date_display": "2026-04-23",
+      "date_iso": "2026-04-23T09:00:00+00:00",
+      "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
-      "tags": []
+      "tags": [
+        "Debatt"
+      ]
     },
     {
-      "id": 142,
+      "id": 168,
+      "title": "Government presents proposals to increase pressure on illegal settlements in West Bank",
+      "summary": "The Government takes an extremely serious view of the continuing settlement policy and the increased settler violence in the West Bank, and is therefore proposing new measures in the form of an expanded differentiation policy. The Israeli Government’s actions in the West Bank violate international law.",
+      "title_original": "Government presents proposals to increase pressure on illegal settlements in West Bank",
+      "summary_original": "The Government takes an extremely serious view of the continuing settlement policy and the increased settler violence in the West Bank, and is therefore proposing new measures in the form of an expanded differentiation policy. The Israeli Government’s actions in the West Bank violate international law.",
+      "link": "https://www.government.se/press-releases/2026/04/government-presents-proposals-to-increase-pressure-on-illegal-settlements-in-west-bank/",
+      "date_display": "2026-04-21",
+      "date_iso": "2026-04-21T09:21:32+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "EU",
+        "International",
+        "Ministry for Foreign Affairs",
+        "Trade and investment promotion",
+        "Foreign and security policy",
+        "International law",
+        "Response to the situation in Israel/Palestine",
+        "Benjamin Dousa"
+      ]
+    },
+    {
+      "id": 174,
       "title": "Government announces SEK 15.4 million in support to democracy and cultural heritage preservation in Ukraine",
       "summary": "The Government is presenting a new support package focused on democracy and cultural heritage preservation in Ukraine of SEK 15.4 million for 2026–2028, SEK 8.7 million of which is for 2026. The support includes SEK 3 million to the National Democratic Institute (NDI), SEK 0.9 million to the Council of Europe and SEK 1.5 million to the OSCE Office for Democratic Institutions and Human Rights (ODIHR) for 2026. The support to cultural heritage initiatives includes SEK 10 million to Gotlands Museum for 2026–2028.",
       "title_original": "Government announces SEK 15.4 million in support to democracy and cultural heritage preservation in Ukraine",
@@ -60,7 +93,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "Press release",
         "International",
@@ -72,7 +105,7 @@
       ]
     },
     {
-      "id": 145,
+      "id": 175,
       "title": "Sweden increases humanitarian support to Lebanon",
       "summary": "Sweden is announcing an additional humanitarian support package to Lebanon of SEK 70 million. The support is being provided in light of the country’s worsening humanitarian situation due to the conflict between Israel and Hezbollah. It will contribute to addressing basic needs, protecting the civilian population and creating security for those who have been hardest-hit by the conflict.",
       "title_original": "Sweden increases humanitarian support to Lebanon",
@@ -83,7 +116,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "Press release",
         "International",
@@ -95,7 +128,7 @@
       ]
     },
     {
-      "id": 147,
+      "id": 176,
       "title": "Government approves support to cultural heritage preservation in Ukraine",
       "summary": "The Government has decided on new support totalling SEK 12 million for initiatives preserving the cultural heritage of Ukraine through UNESCO for 2026–2027. The support will ensure the protection and long-term preservation of cultural heritage sites threatened by the war.",
       "title_original": "Government approves support to cultural heritage preservation in Ukraine",
@@ -106,7 +139,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Culture",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "Press release",
         "International",
@@ -122,7 +155,7 @@
       ]
     },
     {
-      "id": 162,
+      "id": 180,
       "title": "Joint Statement by President Macron and Prime Minister Starmer, Co-chairs of the International Summit on the Strait of Hormuz: 17 April 2026",
       "summary": "Today, France and the United Kingdom convened 51 countries for an international summit on the Strait of Hormuz. The meeting underlined the determination of the international community to support freedom of navigation, to stand up for international law, and to protect global economic stability and energy security.",
       "title_original": "Joint Statement by President Macron and Prime Minister Starmer, Co-chairs of the International Summit on the Strait of Hormuz: 17 April 2026",
@@ -133,7 +166,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -143,7 +176,7 @@
       ]
     },
     {
-      "id": 179,
+      "id": 182,
       "title": "HM The King and Minister for Foreign Affairs visit Ukraine",
       "summary": "Today, 17 April, HM The King and Minister for Foreign Affairs Maria Malmer Stenergard are visiting Lviv to show Sweden’s strong support for Ukraine.",
       "title_original": "HM The King and Minister for Foreign Affairs visit Ukraine",
@@ -154,50 +187,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Sweden's support to Ukraine",
-        "Maria Malmer Stenergard"
-      ]
-    },
-    {
-      "id": 181,
-      "title": "New Ambassadors from Maldives, Andorra, Ghana and Monaco",
-      "summary": "The following Ambassadors submitted their letters of credence to HM The King, on 16 April 2026: H.E. Aishath Shaan Shakir, Maldives, with residence in Berlin; H.E. Olga Gelabert Fàbrega, Andorra, with residence in Andorra; H.E. Dr Margaret Miewien Chebere, Ghana, with residence in Copenhagen; and H.E. Stéphanie Mourou Vikström, Monaco, with residence in Monaco.",
-      "title_original": "New Ambassadors from Maldives, Andorra, Ghana and Monaco",
-      "summary_original": "The following Ambassadors submitted their letters of credence to HM The King, on 16 April 2026: H.E. Aishath Shaan Shakir, Maldives, with residence in Berlin; H.E. Olga Gelabert Fàbrega, Andorra, with residence in Andorra; H.E. Dr Margaret Miewien Chebere, Ghana, with residence in Copenhagen; and H.E. Stéphanie Mourou Vikström, Monaco, with residence in Monaco.",
-      "link": "https://www.government.se/press-releases/2026/04/new-ambassadors-from-maldives-andorra-ghana-and-monaco/",
-      "date_display": "2026-04-17",
-      "date_iso": "2026-04-17T09:15:06+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "3 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Diplomatic portal"
-      ]
-    },
-    {
-      "id": 182,
-      "title": "Government proposes bills to strengthen efforts for accountability for Russia’s aggression against Ukraine",
-      "summary": "Today, the Government is taking an important step to ensure accountability for Russia’s aggression against Ukraine. Through two Government Bills, it is proposed that Sweden join the Special Tribunal for the Crime of Aggression against Ukraine and accede to the Convention establishing an International Claims Commission for Ukraine. Sweden has played an active role in the establishment of both mechanisms.",
-      "title_original": "Government proposes bills to strengthen efforts for accountability for Russia’s aggression against Ukraine",
-      "summary_original": "Today, the Government is taking an important step to ensure accountability for Russia’s aggression against Ukraine. Through two Government Bills, it is proposed that Sweden join the Special Tribunal for the Crime of Aggression against Ukraine and accede to the Convention establishing an International Claims Commission for Ukraine. Sweden has played an active role in the establishment of both mechanisms.",
-      "link": "https://www.government.se/press-releases/2026/04/government-proposes-bills-to-strengthen-efforts-for-accountability-for-russias-aggression-against-ukraine/",
-      "date_display": "2026-04-16",
-      "date_iso": "2026-04-16T11:15:09+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "International",
@@ -209,6 +199,49 @@
     },
     {
       "id": 183,
+      "title": "New Ambassadors from Maldives, Andorra, Ghana and Monaco",
+      "summary": "The following Ambassadors submitted their letters of credence to HM The King, on 16 April 2026: H.E. Aishath Shaan Shakir, Maldives, with residence in Berlin; H.E. Olga Gelabert Fàbrega, Andorra, with residence in Andorra; H.E. Dr Margaret Miewien Chebere, Ghana, with residence in Copenhagen; and H.E. Stéphanie Mourou Vikström, Monaco, with residence in Monaco.",
+      "title_original": "New Ambassadors from Maldives, Andorra, Ghana and Monaco",
+      "summary_original": "The following Ambassadors submitted their letters of credence to HM The King, on 16 April 2026: H.E. Aishath Shaan Shakir, Maldives, with residence in Berlin; H.E. Olga Gelabert Fàbrega, Andorra, with residence in Andorra; H.E. Dr Margaret Miewien Chebere, Ghana, with residence in Copenhagen; and H.E. Stéphanie Mourou Vikström, Monaco, with residence in Monaco.",
+      "link": "https://www.government.se/press-releases/2026/04/new-ambassadors-from-maldives-andorra-ghana-and-monaco/",
+      "date_display": "2026-04-17",
+      "date_iso": "2026-04-17T09:15:06+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "5 days old",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "Diplomatic portal"
+      ]
+    },
+    {
+      "id": 184,
+      "title": "Government proposes bills to strengthen efforts for accountability for Russia’s aggression against Ukraine",
+      "summary": "Today, the Government is taking an important step to ensure accountability for Russia’s aggression against Ukraine. Through two Government Bills, it is proposed that Sweden join the Special Tribunal for the Crime of Aggression against Ukraine and accede to the Convention establishing an International Claims Commission for Ukraine. Sweden has played an active role in the establishment of both mechanisms.",
+      "title_original": "Government proposes bills to strengthen efforts for accountability for Russia’s aggression against Ukraine",
+      "summary_original": "Today, the Government is taking an important step to ensure accountability for Russia’s aggression against Ukraine. Through two Government Bills, it is proposed that Sweden join the Special Tribunal for the Crime of Aggression against Ukraine and accede to the Convention establishing an International Claims Commission for Ukraine. Sweden has played an active role in the establishment of both mechanisms.",
+      "link": "https://www.government.se/press-releases/2026/04/government-proposes-bills-to-strengthen-efforts-for-accountability-for-russias-aggression-against-ukraine/",
+      "date_display": "2026-04-16",
+      "date_iso": "2026-04-16T11:15:09+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "6 days old",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "Sweden's support to Ukraine",
+        "Maria Malmer Stenergard"
+      ]
+    },
+    {
+      "id": 185,
       "title": "Intensive negotiations on the European Grids Package.",
       "summary": "Statement by Sweden’s Minister for Energy, Business and Industry and Deputy Prime Minister Ebba Busch, 10 april, Stockholm.",
       "title_original": "Intensive negotiations on the European Grids Package.",
@@ -219,7 +252,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Speech",
         "EU",
@@ -227,28 +260,6 @@
         "Ministry of Climate and Enterprise",
         "Energy",
         "Ebba Busch"
-      ]
-    },
-    {
-      "id": 184,
-      "title": "Sweden to host Meeting of NATO Ministers of Foreign Affairs on 21–22 May",
-      "summary": "On 21–22 May, Sweden will host a meeting of NATO Ministers of Foreign Affairs in Helsingborg.",
-      "title_original": "Sweden to host Meeting of NATO Ministers of Foreign Affairs on 21–22 May",
-      "summary_original": "On 21–22 May, Sweden will host a meeting of NATO Ministers of Foreign Affairs in Helsingborg.",
-      "link": "https://www.government.se/press-releases/2026/04/sweden-to-host-nato-meeting-of-foreign-ministers-on-2122-may/",
-      "date_display": "2026-04-08",
-      "date_iso": "2026-04-08T11:00:18+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "NATO",
-        "Maria Malmer Stenergard"
       ]
     }
   ]
