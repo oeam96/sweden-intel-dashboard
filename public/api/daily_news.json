@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-25T10:33:28.163662+02:00",
-  "date": "2026-04-25",
+  "generated_at": "2026-04-27T11:41:31.658990+02:00",
+  "date": "2026-04-27",
   "item_count": 16,
   "items": [
     {
-      "id": 0,
-      "title": "David Szalay: \"I don't want my book to be reduced to a story about masculinity\"",
-      "summary": "For \"Meat\" David Szalay has received the prestigious Booker Prize - and been accused of plagiarism. DN's Gabriel Zetterström talks to the author about portraying sexual experiences, class divides and contemporary Europe.",
-      "title_original": "David Szalay: ”Jag vill inte att min bok reduceras till en berättelse om maskulinitet”",
-      "summary_original": "För ”Kött” har David Szalay mottagit det prestigefyllda Bookerpriset – och blivit anklagad för plagiat. DN:s Gabriel Zetterström samtalar med författaren om att skildra sexuella erfarenheter, klassklyftor och det samtida Europa.",
-      "link": "https://www.dn.se/kultur/david-szalay-jag-vill-inte-att-min-bok-reduceras-till-en-berattelse-om-maskulinitet/",
-      "date_display": "2026-04-25",
-      "date_iso": "2026-04-25T08:23:24+00:00",
+      "id": 2,
+      "title": "Black shirts and bureaucratic tyranny at Det Kongelige",
+      "summary": "In collaboration with Theater Basel, Det Kongelige stages \"The Coronation of Poppea\", and places the action in a fascist, Italian thirties. DN's Kristina Lindquist sees the brutal opera in Copenhagen.",
+      "title_original": "Svartskjortor och byråkratiskt tyranni på Det Kongelige",
+      "summary_original": "I samarbete med Theater Basel sätter Det Kongelige upp ”Poppeas kröning”, och förlägger handlingen till ett fascistiskt, italienskt trettiotal. DN:s Kristina Lindquist ser den brutala operan i Köpenhamn.",
+      "link": "https://www.dn.se/kultur/svartskjortor-och-byrakratiskt-tyranni-pa-det-kongelige/",
+      "date_display": "2026-04-27",
+      "date_iso": "2026-04-27T09:34:36+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -19,37 +19,41 @@
       "tags": []
     },
     {
-      "id": 5,
-      "title": "The board in Region Stockholm receives criticism from the auditors",
-      "summary": "The regional board in Stockholm receives sharp criticism from the auditors. The management has broken down in governance and control over the business - despite a large financial surplus. - We see it as a crisis of confidence, says opposition regional councilor Axel Conradi (M).",
-      "title_original": "Styret i Region Stockholm får kritik av revisorerna",
-      "summary_original": "Regionstyrelsen i Stockholm får skarp kritik av revisorerna. Ledningen har brustit i styrning och kontroll över verksamheten – trots ett stort ekonomiskt överskott. – Vi ser det som en förtroendekris, säger oppositionsregionrådet Axel Conradi (M).",
-      "link": "https://www.dn.se/sverige/styret-i-region-stockholm-far-kritik-av-revisorerna/",
-      "date_display": "2026-04-25",
-      "date_iso": "2026-04-25T08:12:31+00:00",
-      "source": "Dagens Nyheter (DN)",
+      "id": 3,
+      "title": "\"An airplane chair is as at home as my bed\"",
+      "summary": "Diplomat Carl Skau is head of the UN's food programme. Meet him in a conversation about buzzing drones, shrinking budgets and football talk with the Pope.",
+      "title_original": "”En flygstol är lika hemma som min säng”",
+      "summary_original": "Diplomaten Carl Skau är chef på FN:s livsmedelprogram. Möt honom i ett samtal om surrande drönare, krympande budgetar och fotbollssnack med påven.",
+      "link": "https://www.svd.se/a/8pPpEd/carl-skau-bitradande-chef-for-fn-s-livsmedelsprogram",
+      "date_display": "2026-04-27",
+      "date_iso": "2026-04-27T09:34:24+00:00",
+      "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
-      "tags": []
+      "tags": [
+        "Perfect Guide"
+      ]
     },
     {
-      "id": 6,
-      "title": "Podcaster Mindie Mendel: I'm glad I'm special and weird",
-      "summary": "Mindie Mendel has always felt different. She has been a goth hare, a punk, a Tiktok profile and now a podcaster - but the feeling of not belonging has never really left. In the podcast \"Loaded\", she searches for answers to who she is by meeting people who have chosen unusual life paths.",
-      "title_original": "Poddaren Mindie Mendel: Jag är glad att jag är speciell och knasig",
-      "summary_original": "Mindie Mendel har alltid känt sig annorlunda. Hon har varit gothare, punkare, Tiktokprofil och nu poddare – men känslan av att inte höra till har aldrig riktigt släppt. I podden ”Laddad” söker hon svar på vem hon är genom att möta människor som valt ovanliga livsvägar.",
-      "link": "https://www.dn.se/familj/poddaren-mindie-mendel-jag-ar-glad-att-jag-ar-speciell-och-knasig/",
-      "date_display": "2026-04-25",
-      "date_iso": "2026-04-25T08:11:16+00:00",
-      "source": "Dagens Nyheter (DN)",
+      "id": 4,
+      "title": "The trick that gives you a cheaper holiday",
+      "summary": "Is the travel vacuum bigger than the wallet? Many people are currently planning for the summer's adventure and get a certain amount of anxiety from high prices. Fortunately, there are several smart ways to keep costs down without compromising on the experience.",
+      "title_original": "Knepen som ger dig billigare semesterresa",
+      "summary_original": "Är ressuget större än plånboken? Många planerar just nu för sommarens äventyr och får ett visst ångestpåslag av höga priser. Som tur är finns det flera smarta sätt att hålla nere kostnaderna utan att tumma på upplevelsen.",
+      "link": "https://www.svd.se/a/y5l47e/sparekonomen-sharon-lavie-basta-tipsen-for-en-billig-semester",
+      "date_display": "2026-04-27",
+      "date_iso": "2026-04-27T09:33:08+00:00",
+      "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
-      "tags": []
+      "tags": [
+        "Näringsliv"
+      ]
     },
     {
-      "id": 144,
+      "id": 174,
       "title": "EU adopts 20th sanctions package against Russia",
       "summary": "The EU’s 20th package of sanctions includes comprehensive measures that hit the Russian economy, including Russia’s energy revenues and the shadow fleet. The package also includes measures against sanctions evasion, crypto services and access to sensitive technology used on the battlefield.",
       "title_original": "EU adopts 20th sanctions package against Russia",
@@ -60,7 +64,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "Press release",
         "EU",
@@ -71,7 +75,7 @@
       ]
     },
     {
-      "id": 163,
+      "id": 180,
       "title": "Christina Nilsson wins Government’s Music Export Prize",
       "summary": "Minister for International Development Cooperation and Foreign Trade Benjamin Dousa has presented the Government’s 2025 Music Export Prize to internationally acclaimed Swedish opera singer Christina Nilsson. The Government’s Special Prize was awarded to rock group The Hives, and the Government’s Honourable Mention went to production company MXM Music for the Taylor Swift Project.",
       "title_original": "Christina Nilsson wins Government’s Music Export Prize",
@@ -82,7 +86,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "International",
@@ -95,7 +99,7 @@
       ]
     },
     {
-      "id": 165,
+      "id": 181,
       "title": "Statement by Ms Nina Larsson, Minister for Gender Equality",
       "summary": "Statement at the Conference on ”Abolition in Action, 10th anniversary of French abolitionist law” in the French Parliament, Paris, 13 April 2026. Check against delivery.",
       "title_original": "Statement by Ms Nina Larsson, Minister for Gender Equality",
@@ -106,7 +110,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Employment",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Speech",
         "International",
@@ -116,7 +120,7 @@
       ]
     },
     {
-      "id": 166,
+      "id": 182,
       "title": "The French and Swedish Ministers for Gender Equality reaffirm partnership to combat human trafficking for sexual exploitation in Europe and globally",
       "summary": "On 13 April, the French and Swedish Ministers for Gender Equality Aurore Bergé and Nina Larsson met in Paris. They discussed their national experiences in preventing and combating sexual exploitation and reaffirmed their commitment to the French - Swedish joint strategy to combat human trafficking for sexual exploitation in Europe and globally.",
       "title_original": "The French and Swedish Ministers for Gender Equality reaffirm partnership to combat human trafficking for sexual exploitation in Europe and globally",
@@ -127,7 +131,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Employment",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "International",
         "Ministry of Employment",
@@ -138,7 +142,7 @@
       ]
     },
     {
-      "id": 180,
+      "id": 183,
       "title": "Government presents proposals to increase pressure on illegal settlements in West Bank",
       "summary": "The Government takes an extremely serious view of the continuing settlement policy and the increased settler violence in the West Bank, and is therefore proposing new measures in the form of an expanded differentiation policy. The Israeli Government’s actions in the West Bank violate international law.",
       "title_original": "Government presents proposals to increase pressure on illegal settlements in West Bank",
@@ -149,7 +153,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "6 days old",
       "tags": [
         "Press release",
         "EU",
@@ -163,7 +167,7 @@
       ]
     },
     {
-      "id": 181,
+      "id": 184,
       "title": "Government announces SEK 15.4 million in support to democracy and cultural heritage preservation in Ukraine",
       "summary": "The Government is presenting a new support package focused on democracy and cultural heritage preservation in Ukraine of SEK 15.4 million for 2026–2028, SEK 8.7 million of which is for 2026. The support includes SEK 3 million to the National Democratic Institute (NDI), SEK 0.9 million to the Council of Europe and SEK 1.5 million to the OSCE Office for Democratic Institutions and Human Rights (ODIHR) for 2026. The support to cultural heritage initiatives includes SEK 10 million to Gotlands Museum for 2026–2028.",
       "title_original": "Government announces SEK 15.4 million in support to democracy and cultural heritage preservation in Ukraine",
@@ -174,7 +178,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": [
         "Press release",
         "International",
@@ -186,7 +190,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 185,
       "title": "Sweden increases humanitarian support to Lebanon",
       "summary": "Sweden is announcing an additional humanitarian support package to Lebanon of SEK 70 million. The support is being provided in light of the country’s worsening humanitarian situation due to the conflict between Israel and Hezbollah. It will contribute to addressing basic needs, protecting the civilian population and creating security for those who have been hardest-hit by the conflict.",
       "title_original": "Sweden increases humanitarian support to Lebanon",
@@ -197,7 +201,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": [
         "Press release",
         "International",
@@ -209,7 +213,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 186,
       "title": "Government approves support to cultural heritage preservation in Ukraine",
       "summary": "The Government has decided on new support totalling SEK 12 million for initiatives preserving the cultural heritage of Ukraine through UNESCO for 2026–2027. The support will ensure the protection and long-term preservation of cultural heritage sites threatened by the war.",
       "title_original": "Government approves support to cultural heritage preservation in Ukraine",
@@ -220,7 +224,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Culture",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": [
         "Press release",
         "International",
@@ -236,7 +240,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 187,
       "title": "Joint Statement by President Macron and Prime Minister Starmer, Co-chairs of the International Summit on the Strait of Hormuz: 17 April 2026",
       "summary": "Today, France and the United Kingdom convened 51 countries for an international summit on the Strait of Hormuz. The meeting underlined the determination of the international community to support freedom of navigation, to stand up for international law, and to protect global economic stability and energy security.",
       "title_original": "Joint Statement by President Macron and Prime Minister Starmer, Co-chairs of the International Summit on the Strait of Hormuz: 17 April 2026",
@@ -247,7 +251,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -257,7 +261,7 @@
       ]
     },
     {
-      "id": 185,
+      "id": 188,
       "title": "HM The King and Minister for Foreign Affairs visit Ukraine",
       "summary": "Today, 17 April, HM The King and Minister for Foreign Affairs Maria Malmer Stenergard are visiting Lviv to show Sweden’s strong support for Ukraine.",
       "title_original": "HM The King and Minister for Foreign Affairs visit Ukraine",
@@ -268,7 +272,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Press release",
         "International",
@@ -279,7 +283,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 189,
       "title": "New Ambassadors from Maldives, Andorra, Ghana and Monaco",
       "summary": "The following Ambassadors submitted their letters of credence to HM The King, on 16 April 2026: H.E. Aishath Shaan Shakir, Maldives, with residence in Berlin; H.E. Olga Gelabert Fàbrega, Andorra, with residence in Andorra; H.E. Dr Margaret Miewien Chebere, Ghana, with residence in Copenhagen; and H.E. Stéphanie Mourou Vikström, Monaco, with residence in Monaco.",
       "title_original": "New Ambassadors from Maldives, Andorra, Ghana and Monaco",
@@ -290,7 +294,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "International",
@@ -300,7 +304,7 @@
       ]
     },
     {
-      "id": 187,
+      "id": 190,
       "title": "Government proposes bills to strengthen efforts for accountability for Russia’s aggression against Ukraine",
       "summary": "Today, the Government is taking an important step to ensure accountability for Russia’s aggression against Ukraine. Through two Government Bills, it is proposed that Sweden join the Special Tribunal for the Crime of Aggression against Ukraine and accede to the Convention establishing an International Claims Commission for Ukraine. Sweden has played an active role in the establishment of both mechanisms.",
       "title_original": "Government proposes bills to strengthen efforts for accountability for Russia’s aggression against Ukraine",
@@ -311,7 +315,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "International",
@@ -322,7 +326,7 @@
       ]
     },
     {
-      "id": 188,
+      "id": 191,
       "title": "Intensive negotiations on the European Grids Package.",
       "summary": "Statement by Sweden’s Minister for Energy, Business and Industry and Deputy Prime Minister Ebba Busch, 10 april, Stockholm.",
       "title_original": "Intensive negotiations on the European Grids Package.",
@@ -333,7 +337,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "Speech",
         "EU",
