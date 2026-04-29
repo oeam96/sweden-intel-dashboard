@@ -1,49 +1,17 @@
 {
-  "generated_at": "2026-04-27T11:41:31.658990+02:00",
-  "date": "2026-04-27",
-  "item_count": 16,
+  "generated_at": "2026-04-29T11:37:24.547942+02:00",
+  "date": "2026-04-29",
+  "item_count": 19,
   "items": [
     {
-      "id": 2,
-      "title": "Black shirts and bureaucratic tyranny at Det Kongelige",
-      "summary": "In collaboration with Theater Basel, Det Kongelige stages \"The Coronation of Poppea\", and places the action in a fascist, Italian thirties. DN's Kristina Lindquist sees the brutal opera in Copenhagen.",
-      "title_original": "Svartskjortor och byråkratiskt tyranni på Det Kongelige",
-      "summary_original": "I samarbete med Theater Basel sätter Det Kongelige upp ”Poppeas kröning”, och förlägger handlingen till ett fascistiskt, italienskt trettiotal. DN:s Kristina Lindquist ser den brutala operan i Köpenhamn.",
-      "link": "https://www.dn.se/kultur/svartskjortor-och-byrakratiskt-tyranni-pa-det-kongelige/",
-      "date_display": "2026-04-27",
-      "date_iso": "2026-04-27T09:34:36+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 3,
-      "title": "\"An airplane chair is as at home as my bed\"",
-      "summary": "Diplomat Carl Skau is head of the UN's food programme. Meet him in a conversation about buzzing drones, shrinking budgets and football talk with the Pope.",
-      "title_original": "”En flygstol är lika hemma som min säng”",
-      "summary_original": "Diplomaten Carl Skau är chef på FN:s livsmedelprogram. Möt honom i ett samtal om surrande drönare, krympande budgetar och fotbollssnack med påven.",
-      "link": "https://www.svd.se/a/8pPpEd/carl-skau-bitradande-chef-for-fn-s-livsmedelsprogram",
-      "date_display": "2026-04-27",
-      "date_iso": "2026-04-27T09:34:24+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Perfect Guide"
-      ]
-    },
-    {
-      "id": 4,
-      "title": "The trick that gives you a cheaper holiday",
-      "summary": "Is the travel vacuum bigger than the wallet? Many people are currently planning for the summer's adventure and get a certain amount of anxiety from high prices. Fortunately, there are several smart ways to keep costs down without compromising on the experience.",
-      "title_original": "Knepen som ger dig billigare semesterresa",
-      "summary_original": "Är ressuget större än plånboken? Många planerar just nu för sommarens äventyr och får ett visst ångestpåslag av höga priser. Som tur är finns det flera smarta sätt att hålla nere kostnaderna utan att tumma på upplevelsen.",
-      "link": "https://www.svd.se/a/y5l47e/sparekonomen-sharon-lavie-basta-tipsen-for-en-billig-semester",
-      "date_display": "2026-04-27",
-      "date_iso": "2026-04-27T09:33:08+00:00",
+      "id": 0,
+      "title": "The growth rocket takes aim at healthcare's time thieves",
+      "summary": "In just under three years, Tandem Health has gone from an idea on an airplane to an extremely fast-growing, billion-valued health technology company with tens of thousands of doctors and healthcare workers across Europe using Tandem's AI assistant every day.",
+      "title_original": "Tillväxtraket tar sikte på vårdens tidstjuvar",
+      "summary_original": "På knappt tre år har Tandem Health gått från en idé på ett flygplan till ett extremt snabbväxande miljardvärderat hälsoteknikbolag med tiotusentals läkare och vårdanställda över hela Europa som varje dag använder Tandems AI-assistent.",
+      "link": "https://www.svd.se/a/n192Rn/snabbvaxande-halsoteknikbolaget-tandem-health-nomineras-i-svd-affarsbragd-2026",
+      "date_display": "2026-04-29",
+      "date_iso": "2026-04-29T09:31:39+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -53,7 +21,134 @@
       ]
     },
     {
-      "id": 174,
+      "id": 1,
+      "title": "Moscow's setback: \"Putin's loss of prestige\"",
+      "summary": "The Russian forces from the Wagner Group and the Afrika Korps would save Mali's rule. Instead, they are pressured by the country's jihadists. It is a heavy loss of prestige for President Putin.",
+      "title_original": "Moskvas bakslag: ”Putins prestigeförlust”",
+      "summary_original": "De ryska styrkorna från Wagnergruppen och Afrikakåren skulle rädda Malis styre. I stället pressas de av landets jihadister. Det är en tung prestigeförlust för president Putin.",
+      "link": "https://www.svd.se/a/q6OQyz/ryska-afrikakarens-nederlag-i-mali-en-tung-prestigeforlust-for-putin",
+      "date_display": "2026-04-29",
+      "date_iso": "2026-04-29T09:31:13+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Världen"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Substitute teacher convicted of 16 rapes against children",
+      "summary": "A man in his 30s who was employed as an unauthorized teacher at a school in Gävle is sentenced to seven years in prison for 16 rapes against children, Gefle Dagblad reports. The man was charged at the end of February with 54 rapes against 27 different children and young people in Sweden, Denmark, Ireland and Norway. All younger than 15 years and the youngest being nine years old. According to the newspaper, the man allegedly found his victims on Snapchat and allegedly made them perform sexual acts on themselves in front of the camera.  Most of the crimes occurred while the man was employed at the school.",
+      "title_original": "Lärarvikarie döms för 16 våldtäkter mot barn",
+      "summary_original": "En man i 30-årsåldern som varit anställd som obehörig lärare på en skola i Gävle döms till sju års fängelse för 16 våldtäkter mot barn, rapporterar Gefle Dagblad. Mannen åtalades i slutet av februari för 54 våldtäkter mot 27 olika barn och unga i Sverige, Danmark, Irland och Norge. Samtliga yngre än 15 år och det yngsta vara nio år gammal. Enligt tidningen ska mannen ha hittat sina sina offer på Snapchat och ska ha fått dem att utföra sexuella handlingar på sig själva framför kameran.  De flesta brotten inträffade under tiden mannen var anställd på skolan.",
+      "link": "https://www.tv4.se/artikel/4EmJr2QBblr2i26rcPA3eU/laerarvikarie-doems-till-sju-ars-faengelse-foer-16-valdtaekter-mot-barn",
+      "date_display": "2026-04-29",
+      "date_iso": "2026-04-29T09:30:27+00:00",
+      "source": "TV4 Nyheterna",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Nyheterna",
+        "/inrikes",
+        "/brott-och-straff",
+        "/sexualbrott-mot-barn",
+        "/sexualbrott",
+        "/valdtakt"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Focus on Ukraine, NATO and Middle East as Maria Malmer Stenergard attends NB8 meeting in Estonia",
+      "summary": "Minister for Foreign Affairs Maria Malmer Stenergard is attending a meeting of Nordic-Baltic foreign ministers (NB8) in Kuressaare, Estonia, on 29–30 April. The agenda includes support to Ukraine, constraining Russia’s aggression in the region, boosting European security, current NATO issues and developments in the Middle East.",
+      "title_original": "Focus on Ukraine, NATO and Middle East as Maria Malmer Stenergard attends NB8 meeting in Estonia",
+      "summary_original": "Minister for Foreign Affairs Maria Malmer Stenergard is attending a meeting of Nordic-Baltic foreign ministers (NB8) in Kuressaare, Estonia, on 29–30 April. The agenda includes support to Ukraine, constraining Russia’s aggression in the region, boosting European security, current NATO issues and developments in the Middle East.",
+      "link": "https://www.government.se/press-releases/2026/04/focus-on-ukraine-nato-and-middle-east-as-maria-malmer-stenergard-attends-nb8-meeting-in-estonia/",
+      "date_display": "2026-04-29",
+      "date_iso": "2026-04-29T09:19:53+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "today",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "Nordic affairs",
+        "Maria Malmer Stenergard",
+        "N5/NB8–cooperation on foreign and security policy"
+      ]
+    },
+    {
+      "id": 145,
+      "title": "Sweden announces more than SEK 2.7 billion in humanitarian assistance to the world’s most vulnerable",
+      "summary": "The world’s humanitarian needs are immense. There are a record number of conflicts, with more than 300 million people in need of urgent humanitarian assistance. And there is a risk of needs further increasing this year. For this reason, Sweden is announcing more than SEK 2.7 billion in humanitarian assistance to the world’s most vulnerable for 2026.",
+      "title_original": "Sweden announces more than SEK 2.7 billion in humanitarian assistance to the world’s most vulnerable",
+      "summary_original": "The world’s humanitarian needs are immense. There are a record number of conflicts, with more than 300 million people in need of urgent humanitarian assistance. And there is a risk of needs further increasing this year. For this reason, Sweden is announcing more than SEK 2.7 billion in humanitarian assistance to the world’s most vulnerable for 2026.",
+      "link": "https://www.government.se/press-releases/2026/04/sweden-announces-more-than-sek-2.7-billion-in-humanitarian-assistance-to-the-worlds-most-vulnerable",
+      "date_display": "2026-04-28",
+      "date_iso": "2026-04-28T12:24:51+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "today",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry for Foreign Affairs",
+        "International development cooperation",
+        "Benjamin Dousa"
+      ]
+    },
+    {
+      "id": 162,
+      "title": "Government presents new support package for global health",
+      "summary": "The Government has presented a new support package for global health totalling SEK 72 million for 2026. The support includes SEK 50 million in core support to the International Vaccine Institute (IVI) for work with vaccines in low-income countries, and SEK 2 million to the Partnership for International Politics and Diplomacy for Health, a collaboration between Karolinska Institutet and the Stockholm School of Economics. The Government is also giving SEK 20 million in support for donations of medical technical equipment and medical supplies.",
+      "title_original": "Government presents new support package for global health",
+      "summary_original": "The Government has presented a new support package for global health totalling SEK 72 million for 2026. The support includes SEK 50 million in core support to the International Vaccine Institute (IVI) for work with vaccines in low-income countries, and SEK 2 million to the Partnership for International Politics and Diplomacy for Health, a collaboration between Karolinska Institutet and the Stockholm School of Economics. The Government is also giving SEK 20 million in support for donations of medical technical equipment and medical supplies.",
+      "link": "https://www.government.se/press-releases/2026/04/260427-government-presents-new-support-package-for-global-health/",
+      "date_display": "2026-04-27",
+      "date_iso": "2026-04-27T14:06:57+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry for Foreign Affairs",
+        "Ministry of Health and Social Affairs",
+        "International development cooperation",
+        "Benjamin Dousa",
+        "Elisabet Lann"
+      ]
+    },
+    {
+      "id": 163,
+      "title": "Sweden and France held a meeting in the Nuclear Steering Group in Paris",
+      "summary": "In his speech on nuclear deterrence doctrine, given on March 2nd at Ile Longue, President of the French Republic Emmanuel Macron announced bilateral strategic dialogues with the European partners involved, to establish the concept of forward deterrence.",
+      "title_original": "Sweden and France held a meeting in the Nuclear Steering Group in Paris",
+      "summary_original": "In his speech on nuclear deterrence doctrine, given on March 2nd at Ile Longue, President of the French Republic Emmanuel Macron announced bilateral strategic dialogues with the European partners involved, to establish the concept of forward deterrence.",
+      "link": "https://www.government.se/press-releases/2026/04/sweden-and-france-held-a-meeting-in-the-nuclear-steering-group-in-paris/",
+      "date_display": "2026-04-27",
+      "date_iso": "2026-04-27T11:00:20+00:00",
+      "source": "Government.se",
+      "ministry": "Prime Minister's Office",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "EU",
+        "Prime Minister's Office",
+        "Ulf Kristersson",
+        "Military defence"
+      ]
+    },
+    {
+      "id": 179,
       "title": "EU adopts 20th sanctions package against Russia",
       "summary": "The EU’s 20th package of sanctions includes comprehensive measures that hit the Russian economy, including Russia’s energy revenues and the shadow fleet. The package also includes measures against sanctions evasion, crypto services and access to sensitive technology used on the battlefield.",
       "title_original": "EU adopts 20th sanctions package against Russia",
@@ -64,7 +159,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "EU",
@@ -86,7 +181,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "International",
@@ -110,7 +205,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Employment",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Speech",
         "International",
@@ -131,7 +226,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Employment",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "International",
         "Ministry of Employment",
@@ -153,7 +248,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "EU",
@@ -167,7 +262,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 185,
       "title": "Government announces SEK 15.4 million in support to democracy and cultural heritage preservation in Ukraine",
       "summary": "The Government is presenting a new support package focused on democracy and cultural heritage preservation in Ukraine of SEK 15.4 million for 2026–2028, SEK 8.7 million of which is for 2026. The support includes SEK 3 million to the National Democratic Institute (NDI), SEK 0.9 million to the Council of Europe and SEK 1.5 million to the OSCE Office for Democratic Institutions and Human Rights (ODIHR) for 2026. The support to cultural heritage initiatives includes SEK 10 million to Gotlands Museum for 2026–2028.",
       "title_original": "Government announces SEK 15.4 million in support to democracy and cultural heritage preservation in Ukraine",
@@ -178,7 +273,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "International",
@@ -190,7 +285,7 @@
       ]
     },
     {
-      "id": 185,
+      "id": 186,
       "title": "Sweden increases humanitarian support to Lebanon",
       "summary": "Sweden is announcing an additional humanitarian support package to Lebanon of SEK 70 million. The support is being provided in light of the country’s worsening humanitarian situation due to the conflict between Israel and Hezbollah. It will contribute to addressing basic needs, protecting the civilian population and creating security for those who have been hardest-hit by the conflict.",
       "title_original": "Sweden increases humanitarian support to Lebanon",
@@ -201,7 +296,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "International",
@@ -213,7 +308,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 187,
       "title": "Government approves support to cultural heritage preservation in Ukraine",
       "summary": "The Government has decided on new support totalling SEK 12 million for initiatives preserving the cultural heritage of Ukraine through UNESCO for 2026–2027. The support will ensure the protection and long-term preservation of cultural heritage sites threatened by the war.",
       "title_original": "Government approves support to cultural heritage preservation in Ukraine",
@@ -224,7 +319,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Culture",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "International",
@@ -240,7 +335,7 @@
       ]
     },
     {
-      "id": 187,
+      "id": 188,
       "title": "Joint Statement by President Macron and Prime Minister Starmer, Co-chairs of the International Summit on the Strait of Hormuz: 17 April 2026",
       "summary": "Today, France and the United Kingdom convened 51 countries for an international summit on the Strait of Hormuz. The meeting underlined the determination of the international community to support freedom of navigation, to stand up for international law, and to protect global economic stability and energy security.",
       "title_original": "Joint Statement by President Macron and Prime Minister Starmer, Co-chairs of the International Summit on the Strait of Hormuz: 17 April 2026",
@@ -251,7 +346,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -261,7 +356,7 @@
       ]
     },
     {
-      "id": 188,
+      "id": 189,
       "title": "HM The King and Minister for Foreign Affairs visit Ukraine",
       "summary": "Today, 17 April, HM The King and Minister for Foreign Affairs Maria Malmer Stenergard are visiting Lviv to show Sweden’s strong support for Ukraine.",
       "title_original": "HM The King and Minister for Foreign Affairs visit Ukraine",
@@ -272,7 +367,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "International",
@@ -283,7 +378,7 @@
       ]
     },
     {
-      "id": 189,
+      "id": 190,
       "title": "New Ambassadors from Maldives, Andorra, Ghana and Monaco",
       "summary": "The following Ambassadors submitted their letters of credence to HM The King, on 16 April 2026: H.E. Aishath Shaan Shakir, Maldives, with residence in Berlin; H.E. Olga Gelabert Fàbrega, Andorra, with residence in Andorra; H.E. Dr Margaret Miewien Chebere, Ghana, with residence in Copenhagen; and H.E. Stéphanie Mourou Vikström, Monaco, with residence in Monaco.",
       "title_original": "New Ambassadors from Maldives, Andorra, Ghana and Monaco",
@@ -294,7 +389,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": [
         "Press release",
         "International",
@@ -304,7 +399,7 @@
       ]
     },
     {
-      "id": 190,
+      "id": 191,
       "title": "Government proposes bills to strengthen efforts for accountability for Russia’s aggression against Ukraine",
       "summary": "Today, the Government is taking an important step to ensure accountability for Russia’s aggression against Ukraine. Through two Government Bills, it is proposed that Sweden join the Special Tribunal for the Crime of Aggression against Ukraine and accede to the Convention establishing an International Claims Commission for Ukraine. Sweden has played an active role in the establishment of both mechanisms.",
       "title_original": "Government proposes bills to strengthen efforts for accountability for Russia’s aggression against Ukraine",
@@ -315,7 +410,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": [
         "Press release",
         "International",
@@ -323,28 +418,6 @@
         "Foreign and security policy",
         "Sweden's support to Ukraine",
         "Maria Malmer Stenergard"
-      ]
-    },
-    {
-      "id": 191,
-      "title": "Intensive negotiations on the European Grids Package.",
-      "summary": "Statement by Sweden’s Minister for Energy, Business and Industry and Deputy Prime Minister Ebba Busch, 10 april, Stockholm.",
-      "title_original": "Intensive negotiations on the European Grids Package.",
-      "summary_original": "Statement by Sweden’s Minister for Energy, Business and Industry and Deputy Prime Minister Ebba Busch, 10 april, Stockholm.",
-      "link": "https://www.government.se/speeches/2026/04/intensive-negotiations-on-the-european-grids-package/",
-      "date_display": "2026-04-13",
-      "date_iso": "2026-04-13T11:50:41+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Climate and Enterprise",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Speech",
-        "EU",
-        "International",
-        "Ministry of Climate and Enterprise",
-        "Energy",
-        "Ebba Busch"
       ]
     }
   ]
