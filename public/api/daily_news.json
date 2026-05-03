@@ -1,55 +1,65 @@
 {
-  "generated_at": "2026-05-01T11:20:40.107689+02:00",
-  "date": "2026-05-01",
-  "item_count": 18,
+  "generated_at": "2026-05-03T11:07:04.983755+02:00",
+  "date": "2026-05-03",
+  "item_count": 17,
   "items": [
     {
-      "id": 0,
-      "title": "Distinct country and revival in Kacey Musgrave's seventh album",
-      "summary": "In Kacey Musgrave's seventh album \"Middle of nowhere\" she returns to the place she grew up in Texas and that has meant a rekindling of the genre she started her career in, writes DN's Mattias Dahlström.",
-      "title_original": "Utpräglad country och nytändning i Kacey Musgraves sjunde album",
-      "summary_original": "I Kacey Musgraves sjunde album ”Middle of nowhere” återvänder hon till uppväxtorten i Texas och det har inneburit en nytändning för den genre hon inledde karriären i, skriver DN:s Mattias Dahlström.",
-      "link": "https://www.dn.se/kultur/utpraglad-country-och-nytandning-i-kacey-musgraves-sjunde-album/",
-      "date_display": "2026-05-01",
-      "date_iso": "2026-05-01T09:16:10+00:00",
-      "source": "Dagens Nyheter (DN)",
+      "id": 5,
+      "title": "The C leader: The government obscures and misleads",
+      "summary": "Center leader Elisabeth Thand Ringqvist thinks the government has kept voters in the dark about jobs and growth - and misled them about nuclear power. - It is perhaps a more alarmist scenario we have in front of us, she says.",
+      "title_original": "C-ledaren: Regeringen mörkar och vilseleder",
+      "summary_original": "Centerledaren Elisabeth Thand Ringqvist tycker att regeringen har mörkat för väljarna om jobben och tillväxten – och vilselett kring kärnkraften. – Det kanske är ett mer alarmistiskt scenario vi har framför oss, säger hon.",
+      "link": "https://www.svd.se/a/j03eJe/c-ledaren-regeringen-morkar-och-vilseleder",
+      "date_display": "2026-05-03",
+      "date_iso": "2026-05-03T08:40:00+00:00",
+      "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
-      "tags": []
+      "tags": [
+        "Sverige"
+      ]
     },
     {
-      "id": 1,
-      "title": "Helgens drink: Death star",
-      "summary": "DN's Elin Peters suggests a drink in time. This weekend a deadly cocktail.",
-      "title_original": "Helgens drink: Death star",
-      "summary_original": "DN:s Elin Peters tipsar om en drink i tiden. Denna helg en dödlig cocktail.",
-      "link": "https://www.dn.se/mat-dryck/helgens-drink-death-star/",
-      "date_display": "2026-05-01",
-      "date_iso": "2026-05-01T09:13:39+00:00",
-      "source": "Dagens Nyheter (DN)",
+      "id": 6,
+      "title": "Deadly super fungi spread in the hospitals",
+      "summary": "Drug-resistant fungi are a growing threat. Several cases of Candida auris are reported from India and Europe. \"It is the tip of an iceberg,\" says doctor Bharathi Arunan, to SVT.",
+      "title_original": "Dödliga supersvampar sprids på sjukhusen",
+      "summary_original": "Svampar som är resistenta mot läkemedel är ett växande hot. Från Indien och Europa rapporteras flera fall av Candida auris. ”Det är toppen av ett isberg”, säger läkaren Bharathi Arunan, till SVT.",
+      "link": "https://www.svd.se/a/aJGnaM/jastvampen-candida-auris-sprids-pa-indiska-sjukhus-hog-dodlighet",
+      "date_display": "2026-05-03",
+      "date_iso": "2026-05-03T08:28:38+00:00",
+      "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
-      "tags": []
+      "tags": [
+        "Världen"
+      ]
     },
     {
-      "id": 2,
-      "title": "Cheap drones deadly threat to Israel's soldiers in Lebanon",
-      "summary": "JERUSALEM. Surprise and surprise are often the key to victory in war, while those who think in old ways live dangerously. Israel shocked Hezbollah in the fall of 2024 - but during the ongoing fighting, it is the Shia militia that has taken Israel by surprise.",
-      "title_original": "Billiga drönare dödligt hot mot Israels soldater i Libanon",
-      "summary_original": "JERUSALEM. Överraskning och överrumpling är ofta nyckeln till seger i krig, medan den som tänker i gamla banor lever farligt. Israel chockade Hizbollah hösten 2024 – men under de pågående striderna är det shiamilisen som har överraskat ett handfallet Israel.",
-      "link": "https://www.dn.se/varlden/billiga-dronare-dodligt-hot-mot-israels-soldater-i-libanon/",
-      "date_display": "2026-05-01",
-      "date_iso": "2026-05-01T09:10:35+00:00",
-      "source": "Dagens Nyheter (DN)",
+      "id": 7,
+      "title": "Fire on train at Arlanda - extinguished by civilians",
+      "summary": "The alarm about the fire came at 10 o'clock in the morning.  The emergency services sent a large number of units to the scene. However, the fire could be dealt with even before the arrival of the firefighters. - There was at least one rescue leader on board the train, so three civilians were able to extinguish the fire immediately. It was under the train, so we don't know if it was on the track or on the train, but it didn't burn inside the train itself, says Anders Edgren at SJ's press service. Swedavia announces in an email to TV4 Nyheterna that the station at Arlanda is currently closed and instead refers its passengers to alternative means of transport to the airport. There is currently no forecast for when traffic can be up and running again. Arlanda Express is not affected by the stop, writes the Swedish Transport Administration. The alarm about the incident came at 10.02.",
+      "title_original": "Brand på tåg vid Arlanda – släcktes av civila",
+      "summary_original": "Larmet om branden kom vid 10-tiden på förmiddagen.  Räddningstjänsten skickade ett stort antal enheter till platsen. Branden kunde dock hanteras redan innan brandmännens ankomst. – Det fanns åtminstone en räddningsledare ombord på tåget, så tre civila personer kunde släcka branden direkt. Den var under tåget, så vi vet inte om det var på spåret eller på tåget, men det har inte brunnit inne i själva tåget, säger Anders Edgren på SJ:s presstjänst. Swedavia meddelar i ett mejl till TV4 Nyheterna att stationen på Arlanda för tillfället är avstängd och hänvisar istället sina resenärer till alternativa färdmedel till flygplatsen. Det saknas för tillfället prognos för när trafiken kan vara igång igen. Arlanda Express påverkas inte av stoppet, skriver Trafikverket. Larmet om händelsen kom vid 10.02.",
+      "link": "https://www.tv4.se/artikel/3yjTExrnsLtu0MrwXIRYGm/larm-om-brand-ombord-sj-tag-pa-arlanda",
+      "date_display": "2026-05-03",
+      "date_iso": "2026-05-03T08:19:15+00:00",
+      "source": "TV4 Nyheterna",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
-      "tags": []
+      "tags": [
+        "Nyheterna",
+        "/inrikes",
+        "/brand",
+        "/arlanda",
+        "/sj"
+      ]
     },
     {
-      "id": 140,
+      "id": 172,
       "title": "Joint Statement by the Nordic-Baltic Ministers (NB8) of Foreign Affairs",
       "summary": "We, the Ministers of Foreign Affairs and government representatives of the NB8, met in Kuressaare, Estonia on 29-30 April 2026, at a time of rapid change in the international security environment, with heightened geopolitical tensions, Russia continuing its war of aggression against Ukraine, and an urgent need for Europe to step up and take greater responsibility for shaping its future.",
       "title_original": "Joint Statement by the Nordic-Baltic Ministers (NB8) of Foreign Affairs",
@@ -60,7 +70,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -73,7 +83,7 @@
       ]
     },
     {
-      "id": 161,
+      "id": 179,
       "title": "Focus on Ukraine, NATO and Middle East as Maria Malmer Stenergard attends NB8 meeting in Estonia",
       "summary": "Minister for Foreign Affairs Maria Malmer Stenergard is attending a meeting of Nordic-Baltic foreign ministers (NB8) in Kuressaare, Estonia, on 29–30 April. The agenda includes support to Ukraine, constraining Russia’s aggression in the region, boosting European security, current NATO issues and developments in the Middle East.",
       "title_original": "Focus on Ukraine, NATO and Middle East as Maria Malmer Stenergard attends NB8 meeting in Estonia",
@@ -84,7 +94,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "International",
@@ -96,7 +106,7 @@
       ]
     },
     {
-      "id": 174,
+      "id": 180,
       "title": "Sweden announces more than SEK 2.7 billion in humanitarian assistance to the world’s most vulnerable",
       "summary": "The world’s humanitarian needs are immense. There are a record number of conflicts, with more than 300 million people in need of urgent humanitarian assistance. And there is a risk of needs further increasing this year. For this reason, Sweden is announcing more than SEK 2.7 billion in humanitarian assistance to the world’s most vulnerable for 2026.",
       "title_original": "Sweden announces more than SEK 2.7 billion in humanitarian assistance to the world’s most vulnerable",
@@ -107,7 +117,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "International",
@@ -117,7 +127,7 @@
       ]
     },
     {
-      "id": 180,
+      "id": 181,
       "title": "Government presents new support package for global health",
       "summary": "The Government has presented a new support package for global health totalling SEK 72 million for 2026. The support includes SEK 50 million in core support to the International Vaccine Institute (IVI) for work with vaccines in low-income countries, and SEK 2 million to the Partnership for International Politics and Diplomacy for Health, a collaboration between Karolinska Institutet and the Stockholm School of Economics. The Government is also giving SEK 20 million in support for donations of medical technical equipment and medical supplies.",
       "title_original": "Government presents new support package for global health",
@@ -128,7 +138,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "International",
@@ -140,7 +150,7 @@
       ]
     },
     {
-      "id": 181,
+      "id": 182,
       "title": "Sweden and France held a meeting in the Nuclear Steering Group in Paris",
       "summary": "In his speech on nuclear deterrence doctrine, given on March 2nd at Ile Longue, President of the French Republic Emmanuel Macron announced bilateral strategic dialogues with the European partners involved, to establish the concept of forward deterrence.",
       "title_original": "Sweden and France held a meeting in the Nuclear Steering Group in Paris",
@@ -151,7 +161,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "EU",
@@ -161,7 +171,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 183,
       "title": "EU adopts 20th sanctions package against Russia",
       "summary": "The EU’s 20th package of sanctions includes comprehensive measures that hit the Russian economy, including Russia’s energy revenues and the shadow fleet. The package also includes measures against sanctions evasion, crypto services and access to sensitive technology used on the battlefield.",
       "title_original": "EU adopts 20th sanctions package against Russia",
@@ -172,7 +182,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "EU",
@@ -183,7 +193,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 184,
       "title": "Christina Nilsson wins Government’s Music Export Prize",
       "summary": "Minister for International Development Cooperation and Foreign Trade Benjamin Dousa has presented the Government’s 2025 Music Export Prize to internationally acclaimed Swedish opera singer Christina Nilsson. The Government’s Special Prize was awarded to rock group The Hives, and the Government’s Honourable Mention went to production company MXM Music for the Taylor Swift Project.",
       "title_original": "Christina Nilsson wins Government’s Music Export Prize",
@@ -194,7 +204,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Press release",
         "International",
@@ -207,7 +217,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 185,
       "title": "Statement by Ms Nina Larsson, Minister for Gender Equality",
       "summary": "Statement at the Conference on ”Abolition in Action, 10th anniversary of French abolitionist law” in the French Parliament, Paris, 13 April 2026. Check against delivery.",
       "title_original": "Statement by Ms Nina Larsson, Minister for Gender Equality",
@@ -218,7 +228,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Employment",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Speech",
         "International",
@@ -228,7 +238,7 @@
       ]
     },
     {
-      "id": 185,
+      "id": 186,
       "title": "The French and Swedish Ministers for Gender Equality reaffirm partnership to combat human trafficking for sexual exploitation in Europe and globally",
       "summary": "On 13 April, the French and Swedish Ministers for Gender Equality Aurore Bergé and Nina Larsson met in Paris. They discussed their national experiences in preventing and combating sexual exploitation and reaffirmed their commitment to the French - Swedish joint strategy to combat human trafficking for sexual exploitation in Europe and globally.",
       "title_original": "The French and Swedish Ministers for Gender Equality reaffirm partnership to combat human trafficking for sexual exploitation in Europe and globally",
@@ -239,7 +249,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Employment",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "International",
         "Ministry of Employment",
@@ -250,7 +260,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 187,
       "title": "Government presents proposals to increase pressure on illegal settlements in West Bank",
       "summary": "The Government takes an extremely serious view of the continuing settlement policy and the increased settler violence in the West Bank, and is therefore proposing new measures in the form of an expanded differentiation policy. The Israeli Government’s actions in the West Bank violate international law.",
       "title_original": "Government presents proposals to increase pressure on illegal settlements in West Bank",
@@ -261,7 +271,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "EU",
@@ -275,7 +285,7 @@
       ]
     },
     {
-      "id": 187,
+      "id": 188,
       "title": "Government announces SEK 15.4 million in support to democracy and cultural heritage preservation in Ukraine",
       "summary": "The Government is presenting a new support package focused on democracy and cultural heritage preservation in Ukraine of SEK 15.4 million for 2026–2028, SEK 8.7 million of which is for 2026. The support includes SEK 3 million to the National Democratic Institute (NDI), SEK 0.9 million to the Council of Europe and SEK 1.5 million to the OSCE Office for Democratic Institutions and Human Rights (ODIHR) for 2026. The support to cultural heritage initiatives includes SEK 10 million to Gotlands Museum for 2026–2028.",
       "title_original": "Government announces SEK 15.4 million in support to democracy and cultural heritage preservation in Ukraine",
@@ -286,7 +296,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": [
         "Press release",
         "International",
@@ -298,7 +308,7 @@
       ]
     },
     {
-      "id": 188,
+      "id": 189,
       "title": "Sweden increases humanitarian support to Lebanon",
       "summary": "Sweden is announcing an additional humanitarian support package to Lebanon of SEK 70 million. The support is being provided in light of the country’s worsening humanitarian situation due to the conflict between Israel and Hezbollah. It will contribute to addressing basic needs, protecting the civilian population and creating security for those who have been hardest-hit by the conflict.",
       "title_original": "Sweden increases humanitarian support to Lebanon",
@@ -309,7 +319,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": [
         "Press release",
         "International",
@@ -321,7 +331,7 @@
       ]
     },
     {
-      "id": 189,
+      "id": 190,
       "title": "Government approves support to cultural heritage preservation in Ukraine",
       "summary": "The Government has decided on new support totalling SEK 12 million for initiatives preserving the cultural heritage of Ukraine through UNESCO for 2026–2027. The support will ensure the protection and long-term preservation of cultural heritage sites threatened by the war.",
       "title_original": "Government approves support to cultural heritage preservation in Ukraine",
@@ -332,7 +342,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Culture",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": [
         "Press release",
         "International",
@@ -348,7 +358,7 @@
       ]
     },
     {
-      "id": 190,
+      "id": 191,
       "title": "Joint Statement by President Macron and Prime Minister Starmer, Co-chairs of the International Summit on the Strait of Hormuz: 17 April 2026",
       "summary": "Today, France and the United Kingdom convened 51 countries for an international summit on the Strait of Hormuz. The meeting underlined the determination of the international community to support freedom of navigation, to stand up for international law, and to protect global economic stability and energy security.",
       "title_original": "Joint Statement by President Macron and Prime Minister Starmer, Co-chairs of the International Summit on the Strait of Hormuz: 17 April 2026",
@@ -359,35 +369,13 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
         "Foreign and security policy",
         "Statement",
         "Ulf Kristersson"
-      ]
-    },
-    {
-      "id": 191,
-      "title": "HM The King and Minister for Foreign Affairs visit Ukraine",
-      "summary": "Today, 17 April, HM The King and Minister for Foreign Affairs Maria Malmer Stenergard are visiting Lviv to show Sweden’s strong support for Ukraine.",
-      "title_original": "HM The King and Minister for Foreign Affairs visit Ukraine",
-      "summary_original": "Today, 17 April, HM The King and Minister for Foreign Affairs Maria Malmer Stenergard are visiting Lviv to show Sweden’s strong support for Ukraine.",
-      "link": "https://www.government.se/press-releases/2026/04/hm-the-king-and-minister-for-foreign-affairs-visit-ukraine/",
-      "date_display": "2026-04-17",
-      "date_iso": "2026-04-17T14:41:36+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Sweden's support to Ukraine",
-        "Maria Malmer Stenergard"
       ]
     }
   ]
