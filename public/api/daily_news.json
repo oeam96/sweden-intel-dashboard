@@ -1,17 +1,53 @@
 {
-  "generated_at": "2026-05-05T11:31:27.567736+02:00",
-  "date": "2026-05-05",
-  "item_count": 12,
+  "generated_at": "2026-05-07T12:03:38.721561+02:00",
+  "date": "2026-05-07",
+  "item_count": 14,
   "items": [
     {
-      "id": 5,
-      "title": "New AI technology helps the childless find sperm",
-      "summary": "With the help of artificial intelligence, it is possible to find sperm in samples where they are almost completely absent. In this way, the first \"Star baby\" has now been born in the USA.",
-      "title_original": "Ny AI-teknik hjälper barnlösa hitta spermier",
-      "summary_original": "Med hjälp av artificiell intelligens går det att hitta spermier i prover där de nästan saknas helt. På så sätt har nu den första ”Star-babyn” fötts i USA.",
-      "link": "https://www.dn.se/sverige/ny-ai-teknik-hjalper-barnlosa-hitta-spermier/",
-      "date_display": "2026-05-05",
-      "date_iso": "2026-05-05T09:16:35+00:00",
+      "id": 7,
+      "title": "Ken Ring is sentenced to prison",
+      "summary": "The artist Ken Ring is sentenced to seven months in prison in the Court of Appeal, writes Expressen. He is convicted of four counts of accounting crime and one case of gross accounting crime. In the district court, he was sentenced to eight months in prison in 2024, but now has the sentence reduced by one month because the appeals court was too slow.  \"When sentencing, it must be taken into account that the proceedings were too slow in the Court of Appeal. The Court of Appeal considers that the length of the delay is such that Ken Ring should be compensated with a one-month sentence reduction for slow proceedings.\" , writes the Court of Appeal.",
+      "title_original": "Ken Ring döms till fängelse",
+      "summary_original": "Artisten Ken Ring döms till sju månaders fängelse i hovrätten, skriver Expressen. Han fälls för fyra fall av bokföringsbrott och ett fall av grovt bokföringsbrott. I tingsrätten dömdes han till åtta månaders fängelse år 2024, men får nu straffet sänkt med en månad då hovrätten varit för långsam.  ”Vid straffmätningen ska beaktas att handläggningen varit för långsam i hovrätten. Hovrätten anser att dröjsmålets längd är sådant att Ken Ring ska kompenseras med en månads strafflindring för långsam handläggning.” , skriver hovrätten.",
+      "link": "https://www.tv4.se/artikel/3WS4oavgqTnRmQ7z3ADf06/ken-ring-doems-till-faengelse",
+      "date_display": "2026-05-07",
+      "date_iso": "2026-05-07T09:41:20+00:00",
+      "source": "TV4 Nyheterna",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Nyheterna",
+        "/inrikes",
+        "/brott-och-straff"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "The new thing is that he is proud of it",
+      "summary": "The Sweden Democrats are proud of what they have done and Tidö ends the term by questioning the form of government. The receipt chaos in the Riksdag is both historic and ironic.",
+      "title_original": "Det nya är att han är stolt över det",
+      "summary_original": "Sverigedemokraterna stoltserar med vad de har gjort och Tidö avslutar mandatperioden med att ifrågasätta regeringsformen. Kvittningskaoset i riksdagen är både historiskt och ironiskt.",
+      "link": "https://www.svd.se/a/8pPbvG/stora-nyheten-i-kvittningskaoset-sverigedemokraterna-stoltserar-med-vad-de-har-gjort",
+      "date_display": "2026-05-07",
+      "date_iso": "2026-05-07T09:41:17+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Politik"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Ebba Busch a winner when the voters rate the party leaders",
+      "summary": "KD's Ebba Busch strengthens her position in the trust league. This is shown by the DN/Ipsos survey where voters are allowed to rate the party leaders. The losers of the measurement are on the opposition side.",
+      "title_original": "Ebba Busch en vinnare när väljarna ger partiledarna betyg",
+      "summary_original": "KD:s Ebba Busch stärker sin position i förtroendeligan. Det visar DN/Ipsos undersökning där väljarna får betygsätta partiledarna. Mätningens förlorare finns på oppositionssidan.",
+      "link": "https://www.dn.se/sverige/ebba-busch-en-vinnare-nar-valjarna-ger-partiledarna-betyg/",
+      "date_display": "2026-05-07",
+      "date_iso": "2026-05-07T09:29:07+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -19,41 +55,47 @@
       "tags": []
     },
     {
-      "id": 8,
-      "title": "Here are Sweden's intelligence services",
-      "summary": "Must, FRA, NOA and Säpo are just a few parts of Sweden's collective intelligence operations. Next year there will be another – UND, Sweden's foreign intelligence service.",
-      "title_original": "Här är Sveriges underrättelsetjänster",
-      "summary_original": "Must, FRA, NOA och Säpo är bara några delar i Sveriges samlade underrättelseverksamhet. Nästa år kommer en till – UND, Sveriges utrikes underrättelsetjänst.",
-      "link": "https://www.svd.se/a/rr8odw/har-ar-sveriges-underrattelsetjanster",
-      "date_display": "2026-05-05",
-      "date_iso": "2026-05-05T09:09:20+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
+      "id": 72,
+      "title": "The policy rate remains unchanged at 1.75 percent",
+      "summary": "The risk that the war in the Middle East will lead to higher inflation has increased somewhat. At the same time, inflation is currently below the target and the latest outcomes have been clearly lower than in the Riksbank's forecast in March. In addition, the economy is weak. This means that there is room to wait for a clearer picture of the war's effects and the supply disruptions it entails. The executive board has decided to leave the key interest rate unchanged at 1.75 percent. The current level of the key interest rate gives the Riksbank a good starting point to adjust monetary policy if necessary to protect the inflation target.",
+      "title_original": "Styrräntan oförändrad på 1,75 procent",
+      "summary_original": "Risken för att kriget i Mellanöstern leder till högre inflation har ökat något. Samtidigt är inflationen i nuläget under målet och de senaste utfallen har varit tydligt lägre än i Riksbankens prognos i mars. Därtill är  konjunkturen svag. Det gör att det finns utrymme att invänta en tydligare bild av krigets effekter och de utbudsstörningar det medför. Direktionen har beslutat att lämna styrräntan oförändrad på 1,75 procent. Den nuvarande nivån på styrräntan ger Riksbanken ett bra utgångsläge att anpassa penningpolitiken om det behövs för att värna inflationsmålet.",
+      "link": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/styrrantan-oforandrad-pa-175-procent3/",
+      "date_display": "2026-05-07",
+      "date_iso": "2026-05-07T07:30:29+00:00",
+      "source": "Riksbanken",
+      "ministry": "Central Bank",
+      "type": "Official Information",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 147,
+      "title": "Prime Minister receives President of Lithuania",
+      "summary": "On Tuesday 5 May, Prime Minister Ulf Kristersson received President of the Republic of Lithuania Gitanas Nausėda for a bilateral meeting in Stockholm. Minister for EU Affairs Jessica Rosencrantz also participated.",
+      "title_original": "Prime Minister receives President of Lithuania",
+      "summary_original": "On Tuesday 5 May, Prime Minister Ulf Kristersson received President of the Republic of Lithuania Gitanas Nausėda for a bilateral meeting in Stockholm. Minister for EU Affairs Jessica Rosencrantz also participated.",
+      "link": "https://www.government.se/articles/2026/05/prime-minister-receives-president-of-lithuania/",
+      "date_display": "2026-05-06",
+      "date_iso": "2026-05-06T11:14:09+00:00",
+      "source": "Government.se",
+      "ministry": "Prime Minister's Office",
+      "type": "Official Information",
       "age_tag": "today",
       "tags": [
-        "Sverige"
+        "EU",
+        "Prime Minister's Office",
+        "Foreign and security policy",
+        "Article",
+        "Sweden's support to Ukraine",
+        "NATO",
+        "Ulf Kristersson",
+        "Military defence",
+        "Jessica Rosencrantz"
       ]
     },
     {
-      "id": 10,
-      "title": "\"Misleading about our review\"",
-      "summary": "",
-      "title_original": "”Missvisande om vår granskning”",
-      "summary_original": "",
-      "link": "https://www.svd.se/a/16v27Q/kvartal-missvisande-om-var-granskning-av-svt-s-opinionsmatningar",
-      "date_display": "2026-05-05",
-      "date_iso": "2026-05-05T09:00:00+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Debatt"
-      ]
-    },
-    {
-      "id": 180,
+      "id": 182,
       "title": "Joint Statement by the Nordic-Baltic Ministers (NB8) of Foreign Affairs",
       "summary": "We, the Ministers of Foreign Affairs and government representatives of the NB8, met in Kuressaare, Estonia on 29-30 April 2026, at a time of rapid change in the international security environment, with heightened geopolitical tensions, Russia continuing its war of aggression against Ukraine, and an urgent need for Europe to step up and take greater responsibility for shaping its future.",
       "title_original": "Joint Statement by the Nordic-Baltic Ministers (NB8) of Foreign Affairs",
@@ -64,7 +106,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -77,7 +119,7 @@
       ]
     },
     {
-      "id": 181,
+      "id": 183,
       "title": "Focus on Ukraine, NATO and Middle East as Maria Malmer Stenergard attends NB8 meeting in Estonia",
       "summary": "Minister for Foreign Affairs Maria Malmer Stenergard is attending a meeting of Nordic-Baltic foreign ministers (NB8) in Kuressaare, Estonia, on 29–30 April. The agenda includes support to Ukraine, constraining Russia’s aggression in the region, boosting European security, current NATO issues and developments in the Middle East.",
       "title_original": "Focus on Ukraine, NATO and Middle East as Maria Malmer Stenergard attends NB8 meeting in Estonia",
@@ -88,7 +130,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "International",
@@ -100,7 +142,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 184,
       "title": "Sweden announces more than SEK 2.7 billion in humanitarian assistance to the world’s most vulnerable",
       "summary": "The world’s humanitarian needs are immense. There are a record number of conflicts, with more than 300 million people in need of urgent humanitarian assistance. And there is a risk of needs further increasing this year. For this reason, Sweden is announcing more than SEK 2.7 billion in humanitarian assistance to the world’s most vulnerable for 2026.",
       "title_original": "Sweden announces more than SEK 2.7 billion in humanitarian assistance to the world’s most vulnerable",
@@ -111,7 +153,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "International",
@@ -121,7 +163,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 185,
       "title": "Government presents new support package for global health",
       "summary": "The Government has presented a new support package for global health totalling SEK 72 million for 2026. The support includes SEK 50 million in core support to the International Vaccine Institute (IVI) for work with vaccines in low-income countries, and SEK 2 million to the Partnership for International Politics and Diplomacy for Health, a collaboration between Karolinska Institutet and the Stockholm School of Economics. The Government is also giving SEK 20 million in support for donations of medical technical equipment and medical supplies.",
       "title_original": "Government presents new support package for global health",
@@ -132,7 +174,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Press release",
         "International",
@@ -144,7 +186,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 186,
       "title": "Sweden and France held a meeting in the Nuclear Steering Group in Paris",
       "summary": "In his speech on nuclear deterrence doctrine, given on March 2nd at Ile Longue, President of the French Republic Emmanuel Macron announced bilateral strategic dialogues with the European partners involved, to establish the concept of forward deterrence.",
       "title_original": "Sweden and France held a meeting in the Nuclear Steering Group in Paris",
@@ -155,7 +197,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Press release",
         "EU",
@@ -165,7 +207,7 @@
       ]
     },
     {
-      "id": 185,
+      "id": 187,
       "title": "EU adopts 20th sanctions package against Russia",
       "summary": "The EU’s 20th package of sanctions includes comprehensive measures that hit the Russian economy, including Russia’s energy revenues and the shadow fleet. The package also includes measures against sanctions evasion, crypto services and access to sensitive technology used on the battlefield.",
       "title_original": "EU adopts 20th sanctions package against Russia",
@@ -176,7 +218,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": [
         "Press release",
         "EU",
@@ -187,7 +229,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 188,
       "title": "Christina Nilsson wins Government’s Music Export Prize",
       "summary": "Minister for International Development Cooperation and Foreign Trade Benjamin Dousa has presented the Government’s 2025 Music Export Prize to internationally acclaimed Swedish opera singer Christina Nilsson. The Government’s Special Prize was awarded to rock group The Hives, and the Government’s Honourable Mention went to production company MXM Music for the Taylor Swift Project.",
       "title_original": "Christina Nilsson wins Government’s Music Export Prize",
@@ -198,7 +240,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "Press release",
         "International",
@@ -211,7 +253,7 @@
       ]
     },
     {
-      "id": 187,
+      "id": 189,
       "title": "Statement by Ms Nina Larsson, Minister for Gender Equality",
       "summary": "Statement at the Conference on ”Abolition in Action, 10th anniversary of French abolitionist law” in the French Parliament, Paris, 13 April 2026. Check against delivery.",
       "title_original": "Statement by Ms Nina Larsson, Minister for Gender Equality",
@@ -222,7 +264,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Employment",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "Speech",
         "International",
@@ -232,7 +274,7 @@
       ]
     },
     {
-      "id": 188,
+      "id": 190,
       "title": "The French and Swedish Ministers for Gender Equality reaffirm partnership to combat human trafficking for sexual exploitation in Europe and globally",
       "summary": "On 13 April, the French and Swedish Ministers for Gender Equality Aurore Bergé and Nina Larsson met in Paris. They discussed their national experiences in preventing and combating sexual exploitation and reaffirmed their commitment to the French - Swedish joint strategy to combat human trafficking for sexual exploitation in Europe and globally.",
       "title_original": "The French and Swedish Ministers for Gender Equality reaffirm partnership to combat human trafficking for sexual exploitation in Europe and globally",
@@ -243,7 +285,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Employment",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "International",
         "Ministry of Employment",
