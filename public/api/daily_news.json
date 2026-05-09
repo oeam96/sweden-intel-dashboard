@@ -1,53 +1,34 @@
 {
-  "generated_at": "2026-05-07T12:03:38.721561+02:00",
-  "date": "2026-05-07",
-  "item_count": 14,
+  "generated_at": "2026-05-09T11:02:37.651050+02:00",
+  "date": "2026-05-09",
+  "item_count": 11,
   "items": [
     {
-      "id": 7,
-      "title": "Ken Ring is sentenced to prison",
-      "summary": "The artist Ken Ring is sentenced to seven months in prison in the Court of Appeal, writes Expressen. He is convicted of four counts of accounting crime and one case of gross accounting crime. In the district court, he was sentenced to eight months in prison in 2024, but now has the sentence reduced by one month because the appeals court was too slow.  \"When sentencing, it must be taken into account that the proceedings were too slow in the Court of Appeal. The Court of Appeal considers that the length of the delay is such that Ken Ring should be compensated with a one-month sentence reduction for slow proceedings.\" , writes the Court of Appeal.",
-      "title_original": "Ken Ring döms till fängelse",
-      "summary_original": "Artisten Ken Ring döms till sju månaders fängelse i hovrätten, skriver Expressen. Han fälls för fyra fall av bokföringsbrott och ett fall av grovt bokföringsbrott. I tingsrätten dömdes han till åtta månaders fängelse år 2024, men får nu straffet sänkt med en månad då hovrätten varit för långsam.  ”Vid straffmätningen ska beaktas att handläggningen varit för långsam i hovrätten. Hovrätten anser att dröjsmålets längd är sådant att Ken Ring ska kompenseras med en månads strafflindring för långsam handläggning.” , skriver hovrätten.",
-      "link": "https://www.tv4.se/artikel/3WS4oavgqTnRmQ7z3ADf06/ken-ring-doems-till-faengelse",
-      "date_display": "2026-05-07",
-      "date_iso": "2026-05-07T09:41:20+00:00",
-      "source": "TV4 Nyheterna",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Nyheterna",
-        "/inrikes",
-        "/brott-och-straff"
-      ]
-    },
-    {
-      "id": 8,
-      "title": "The new thing is that he is proud of it",
-      "summary": "The Sweden Democrats are proud of what they have done and Tidö ends the term by questioning the form of government. The receipt chaos in the Riksdag is both historic and ironic.",
-      "title_original": "Det nya är att han är stolt över det",
-      "summary_original": "Sverigedemokraterna stoltserar med vad de har gjort och Tidö avslutar mandatperioden med att ifrågasätta regeringsformen. Kvittningskaoset i riksdagen är både historiskt och ironiskt.",
-      "link": "https://www.svd.se/a/8pPbvG/stora-nyheten-i-kvittningskaoset-sverigedemokraterna-stoltserar-med-vad-de-har-gjort",
-      "date_display": "2026-05-07",
-      "date_iso": "2026-05-07T09:41:17+00:00",
+      "id": 6,
+      "title": "Builds mini worlds in response to the screen",
+      "summary": "Miniatures are growing into an international subculture – and the Miniature Society notices an influx in Sweden as well. For Göril Larsson, it is an escape from reality. \"There are no limits,\" she says.",
+      "title_original": "Bygger minivärld som reaktion mot skärmen",
+      "summary_original": "Miniatyrer växer till en internationell subkultur – och Miniatyrsällskapet märker en tillströmning även i Sverige. För Göril Larsson är det en verklighetsflykt. ”Där finns inga gränser”, säger hon.",
+      "link": "https://www.svd.se/a/2pv8dy/bygger-minivarld-som-reaktion-mot-skarmen",
+      "date_display": "2026-05-09",
+      "date_iso": "2026-05-09T08:38:44+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Politik"
+        "Sverige"
       ]
     },
     {
-      "id": 23,
-      "title": "Ebba Busch a winner when the voters rate the party leaders",
-      "summary": "KD's Ebba Busch strengthens her position in the trust league. This is shown by the DN/Ipsos survey where voters are allowed to rate the party leaders. The losers of the measurement are on the opposition side.",
-      "title_original": "Ebba Busch en vinnare när väljarna ger partiledarna betyg",
-      "summary_original": "KD:s Ebba Busch stärker sin position i förtroendeligan. Det visar DN/Ipsos undersökning där väljarna får betygsätta partiledarna. Mätningens förlorare finns på oppositionssidan.",
-      "link": "https://www.dn.se/sverige/ebba-busch-en-vinnare-nar-valjarna-ger-partiledarna-betyg/",
-      "date_display": "2026-05-07",
-      "date_iso": "2026-05-07T09:29:07+00:00",
+      "id": 8,
+      "title": "Putin's speech on Russian Victory Day: \"Defending against aggressive force\"",
+      "summary": "Moscow has held an unusually scaled-down military parade during Russia's Victory Day celebrations. At the same time as Vladimir Putin gave a short speech, mobile networks were switched off in the Russian capital.",
+      "title_original": "Putins tal på ryska segerdagen: ”Försvarar sig mot aggressiv kraft”",
+      "summary_original": "Moskva har hållit en ovanligt nedskalad militärparad under det ryska firandet av segerdagen. Samtidigt som Vladimir Putin höll ett kort tal släcktes mobilnäten i den ryska huvudstaden.",
+      "link": "https://www.dn.se/varlden/putins-tal-pa-ryska-segerdagen-forsvarar-sig-mot-aggressiv-kraft/",
+      "date_display": "2026-05-09",
+      "date_iso": "2026-05-09T08:36:07+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -55,7 +36,51 @@
       "tags": []
     },
     {
-      "id": 72,
+      "id": 9,
+      "title": "The analyst: \"Then it's the beginning of the end for Putin\"",
+      "summary": "Three-day ceasefire before the parade • \"A stain on Putin's image\"",
+      "title_original": "Analytikern: ”Då är det början på slutet för Putin”",
+      "summary_original": "Tre dagars eldupphör inför paraden • ”En skamfläck på Putins image”",
+      "link": "https://www.tv4.se/artikel/0IrRahuk5gKdtrbACoiE7/analytikern-da-aer-det-boerjan-pa-slutet-foer-putin",
+      "date_display": "2026-05-09",
+      "date_iso": "2026-05-09T08:35:47+00:00",
+      "source": "TV4 Nyheterna",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Nyheterna"
+      ]
+    },
+    {
+      "id": 163,
+      "title": "Prime Minister receives President of Germany Frank-Walter Steinmeier",
+      "summary": "Germany is Sweden’s most important trading partner, and the world’s fourth-largest economy. On Wednesday 6 May, Prime Minister Ulf Kristersson received Germany’s Federal President Frank-Walter Steinmeier in Stockholm for a meeting on regional security policy, total defence and cooperation between Sweden and Germany.",
+      "title_original": "Prime Minister receives President of Germany Frank-Walter Steinmeier",
+      "summary_original": "Germany is Sweden’s most important trading partner, and the world’s fourth-largest economy. On Wednesday 6 May, Prime Minister Ulf Kristersson received Germany’s Federal President Frank-Walter Steinmeier in Stockholm for a meeting on regional security policy, total defence and cooperation between Sweden and Germany.",
+      "link": "https://www.government.se/articles/2026/05/prime-minister-receives-president-of-germany-frank-walter-steinmeier/",
+      "date_display": "2026-05-07",
+      "date_iso": "2026-05-07T11:29:26+00:00",
+      "source": "Government.se",
+      "ministry": "Prime Minister's Office",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "EU",
+        "Prime Minister's Office",
+        "Economic policy",
+        "Foreign and security policy",
+        "Article",
+        "Innovation",
+        "Sweden's support to Ukraine",
+        "NATO",
+        "Ulf Kristersson",
+        "Total defence",
+        "Jessica Rosencrantz"
+      ]
+    },
+    {
+      "id": 165,
       "title": "The policy rate remains unchanged at 1.75 percent",
       "summary": "The risk that the war in the Middle East will lead to higher inflation has increased somewhat. At the same time, inflation is currently below the target and the latest outcomes have been clearly lower than in the Riksbank's forecast in March. In addition, the economy is weak. This means that there is room to wait for a clearer picture of the war's effects and the supply disruptions it entails. The executive board has decided to leave the key interest rate unchanged at 1.75 percent. The current level of the key interest rate gives the Riksbank a good starting point to adjust monetary policy if necessary to protect the inflation target.",
       "title_original": "Styrräntan oförändrad på 1,75 procent",
@@ -66,11 +91,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": []
     },
     {
-      "id": 147,
+      "id": 174,
       "title": "Prime Minister receives President of Lithuania",
       "summary": "On Tuesday 5 May, Prime Minister Ulf Kristersson received President of the Republic of Lithuania Gitanas Nausėda for a bilateral meeting in Stockholm. Minister for EU Affairs Jessica Rosencrantz also participated.",
       "title_original": "Prime Minister receives President of Lithuania",
@@ -81,7 +106,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
@@ -95,7 +120,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 181,
       "title": "Joint Statement by the Nordic-Baltic Ministers (NB8) of Foreign Affairs",
       "summary": "We, the Ministers of Foreign Affairs and government representatives of the NB8, met in Kuressaare, Estonia on 29-30 April 2026, at a time of rapid change in the international security environment, with heightened geopolitical tensions, Russia continuing its war of aggression against Ukraine, and an urgent need for Europe to step up and take greater responsibility for shaping its future.",
       "title_original": "Joint Statement by the Nordic-Baltic Ministers (NB8) of Foreign Affairs",
@@ -106,7 +131,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -119,7 +144,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 182,
       "title": "Focus on Ukraine, NATO and Middle East as Maria Malmer Stenergard attends NB8 meeting in Estonia",
       "summary": "Minister for Foreign Affairs Maria Malmer Stenergard is attending a meeting of Nordic-Baltic foreign ministers (NB8) in Kuressaare, Estonia, on 29–30 April. The agenda includes support to Ukraine, constraining Russia’s aggression in the region, boosting European security, current NATO issues and developments in the Middle East.",
       "title_original": "Focus on Ukraine, NATO and Middle East as Maria Malmer Stenergard attends NB8 meeting in Estonia",
@@ -130,7 +155,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Press release",
         "International",
@@ -142,7 +167,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 183,
       "title": "Sweden announces more than SEK 2.7 billion in humanitarian assistance to the world’s most vulnerable",
       "summary": "The world’s humanitarian needs are immense. There are a record number of conflicts, with more than 300 million people in need of urgent humanitarian assistance. And there is a risk of needs further increasing this year. For this reason, Sweden is announcing more than SEK 2.7 billion in humanitarian assistance to the world’s most vulnerable for 2026.",
       "title_original": "Sweden announces more than SEK 2.7 billion in humanitarian assistance to the world’s most vulnerable",
@@ -153,7 +178,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "International",
@@ -163,7 +188,7 @@
       ]
     },
     {
-      "id": 185,
+      "id": 184,
       "title": "Government presents new support package for global health",
       "summary": "The Government has presented a new support package for global health totalling SEK 72 million for 2026. The support includes SEK 50 million in core support to the International Vaccine Institute (IVI) for work with vaccines in low-income countries, and SEK 2 million to the Partnership for International Politics and Diplomacy for Health, a collaboration between Karolinska Institutet and the Stockholm School of Economics. The Government is also giving SEK 20 million in support for donations of medical technical equipment and medical supplies.",
       "title_original": "Government presents new support package for global health",
@@ -174,7 +199,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "International",
@@ -186,7 +211,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 185,
       "title": "Sweden and France held a meeting in the Nuclear Steering Group in Paris",
       "summary": "In his speech on nuclear deterrence doctrine, given on March 2nd at Ile Longue, President of the French Republic Emmanuel Macron announced bilateral strategic dialogues with the European partners involved, to establish the concept of forward deterrence.",
       "title_original": "Sweden and France held a meeting in the Nuclear Steering Group in Paris",
@@ -197,102 +222,13 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "EU",
         "Prime Minister's Office",
         "Ulf Kristersson",
         "Military defence"
-      ]
-    },
-    {
-      "id": 187,
-      "title": "EU adopts 20th sanctions package against Russia",
-      "summary": "The EU’s 20th package of sanctions includes comprehensive measures that hit the Russian economy, including Russia’s energy revenues and the shadow fleet. The package also includes measures against sanctions evasion, crypto services and access to sensitive technology used on the battlefield.",
-      "title_original": "EU adopts 20th sanctions package against Russia",
-      "summary_original": "The EU’s 20th package of sanctions includes comprehensive measures that hit the Russian economy, including Russia’s energy revenues and the shadow fleet. The package also includes measures against sanctions evasion, crypto services and access to sensitive technology used on the battlefield.",
-      "link": "https://www.government.se/press-releases/2026/04/eu-adopts-20th-sanctions-package-against-russia/",
-      "date_display": "2026-04-24",
-      "date_iso": "2026-04-24T10:58:33+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "Press release",
-        "EU",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Sweden's support to Ukraine",
-        "Maria Malmer Stenergard"
-      ]
-    },
-    {
-      "id": 188,
-      "title": "Christina Nilsson wins Government’s Music Export Prize",
-      "summary": "Minister for International Development Cooperation and Foreign Trade Benjamin Dousa has presented the Government’s 2025 Music Export Prize to internationally acclaimed Swedish opera singer Christina Nilsson. The Government’s Special Prize was awarded to rock group The Hives, and the Government’s Honourable Mention went to production company MXM Music for the Taylor Swift Project.",
-      "title_original": "Christina Nilsson wins Government’s Music Export Prize",
-      "summary_original": "Minister for International Development Cooperation and Foreign Trade Benjamin Dousa has presented the Government’s 2025 Music Export Prize to internationally acclaimed Swedish opera singer Christina Nilsson. The Government’s Special Prize was awarded to rock group The Hives, and the Government’s Honourable Mention went to production company MXM Music for the Taylor Swift Project.",
-      "link": "https://www.government.se/press-releases/2026/04/christina-nilsson-wins-governments-music-export-prize/",
-      "date_display": "2026-04-23",
-      "date_iso": "2026-04-23T14:08:08+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "Trade and investment promotion",
-        "Consumer affairs",
-        "Culture",
-        "Benjamin Dousa",
-        "Government's Music Export Prize"
-      ]
-    },
-    {
-      "id": 189,
-      "title": "Statement by Ms Nina Larsson, Minister for Gender Equality",
-      "summary": "Statement at the Conference on ”Abolition in Action, 10th anniversary of French abolitionist law” in the French Parliament, Paris, 13 April 2026. Check against delivery.",
-      "title_original": "Statement by Ms Nina Larsson, Minister for Gender Equality",
-      "summary_original": "Statement at the Conference on ”Abolition in Action, 10th anniversary of French abolitionist law” in the French Parliament, Paris, 13 April 2026. Check against delivery.",
-      "link": "https://www.government.se/speeches/2026/04/statement-by-ms-nina-larsson-minister-for-gender-equality-13-april-2026/",
-      "date_display": "2026-04-23",
-      "date_iso": "2026-04-23T12:37:15+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Employment",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Speech",
-        "International",
-        "Ministry of Employment",
-        "Democracy and human rights",
-        "Gender equality"
-      ]
-    },
-    {
-      "id": 190,
-      "title": "The French and Swedish Ministers for Gender Equality reaffirm partnership to combat human trafficking for sexual exploitation in Europe and globally",
-      "summary": "On 13 April, the French and Swedish Ministers for Gender Equality Aurore Bergé and Nina Larsson met in Paris. They discussed their national experiences in preventing and combating sexual exploitation and reaffirmed their commitment to the French - Swedish joint strategy to combat human trafficking for sexual exploitation in Europe and globally.",
-      "title_original": "The French and Swedish Ministers for Gender Equality reaffirm partnership to combat human trafficking for sexual exploitation in Europe and globally",
-      "summary_original": "On 13 April, the French and Swedish Ministers for Gender Equality Aurore Bergé and Nina Larsson met in Paris. They discussed their national experiences in preventing and combating sexual exploitation and reaffirmed their commitment to the French - Swedish joint strategy to combat human trafficking for sexual exploitation in Europe and globally.",
-      "link": "https://www.government.se/articles/2026/04/the-french-and-swedish-ministers-for-gender-equality-reaffirm-partnership-to-combat-human-trafficking-for-sexual-exploitation-in-europe-and-globally/",
-      "date_display": "2026-04-23",
-      "date_iso": "2026-04-23T12:21:06+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Employment",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "International",
-        "Ministry of Employment",
-        "Democracy and human rights",
-        "Gender equality",
-        "Article",
-        "Nina Larsson"
       ]
     }
   ]
