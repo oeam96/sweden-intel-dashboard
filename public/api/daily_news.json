@@ -1,51 +1,17 @@
 {
-  "generated_at": "2026-05-13T12:07:25.784198+02:00",
-  "date": "2026-05-13",
-  "item_count": 12,
+  "generated_at": "2026-05-15T12:04:39.878337+02:00",
+  "date": "2026-05-15",
+  "item_count": 11,
   "items": [
     {
-      "id": 4,
-      "title": "Easier tickets - so more people will travel by train in the EU",
-      "summary": "One trip, one ticket. That is the slogan when the EU wants to make train travel significantly easier in Europe. - A revolution for the ticket market, the EU Commission believes.",
-      "title_original": "Enklare biljetter – så ska fler åka tåg i EU",
-      "summary_original": "En resa, en biljett. Det är slagordet när EU vill göra tågresandet betydligt enklare i Europa. – En revolution för biljettmarknaden, anser EU-kommissionen.",
-      "link": "https://www.svd.se/a/3pqQ3q/enklare-biljetter-sa-ska-fler-aka-tag-i-eu",
-      "date_display": "2026-05-13",
-      "date_iso": "2026-05-13T09:59:32+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Världen"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Eight dead in attack on motorway",
-      "summary": "At least eight people are said to have been killed in Israeli attacks on a highway south of the Lebanese capital Beirut.",
-      "title_original": "Åtta döda i attack mot motorväg",
-      "summary_original": "Minst åtta människor uppges ha dödats i israeliska attacker mot en motorväg söder om den libanesiska huvudstaden Beirut.",
-      "link": "https://www.svd.se/a/Rj68dr/atta-doda-i-attack-mot-motorvag",
-      "date_display": "2026-05-13",
-      "date_iso": "2026-05-13T09:59:15+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Världen"
-      ]
-    },
-    {
       "id": 6,
-      "title": "Parliament opens – uphill battle for Starmer",
-      "summary": "All eyes are on a pressured Prime Minister Keir Starmer when King Charles reads out the government statement in the British Parliament today. Despite the demands for resignation, no one within Labor has formally challenged Starmer's leadership position.",
-      "title_original": "Parlamentet öppnar – uppförsbacke för Starmer",
-      "summary_original": "Blickarna riktas mot en pressad premiärminister Keir Starmer när Kung Charles läser upp regeringsförklaringen i det brittiska parlamentet i dag. Trots avgångskraven har ingen inom Labour formellt utmanat Starmers ledarposition.",
-      "link": "https://www.svd.se/a/V6Qk31/parlamentet-oppnar-uppforsbacke-for-starmer",
-      "date_display": "2026-05-13",
-      "date_iso": "2026-05-13T09:55:10+00:00",
+      "title": "Should Kristersson give Trump the finger?",
+      "summary": "More and more of Europe's heads of government are falling out with Donald Trump, some to strengthen their chances in upcoming elections. Ulf Kristersson may soon be one of the EU leaders who has the best relationship with Trump - by not having one at all.",
+      "title_original": "Ska Kristersson att ge Trump fingret?",
+      "summary_original": "Allt fler av Europas regeringschefer blir osams med Donald Trump, några för att stärka sina chanser i kommande val. Snart kan Ulf Kristersson vara en av de EU-ledare som har bäst relation till Trump – genom att inte ha någon alls.",
+      "link": "https://www.svd.se/a/wrRmAL/kommer-kristersson-ge-trump-fingret",
+      "date_display": "2026-05-15",
+      "date_iso": "2026-05-15T09:38:19+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -55,7 +21,39 @@
       ]
     },
     {
-      "id": 77,
+      "id": 7,
+      "title": "Queen Margrethe operated on for heart problems",
+      "summary": "",
+      "title_original": "Drottning Margrethe opererad för hjärtproblem",
+      "summary_original": "",
+      "link": "https://www.svd.se/a/JO645X/drottning-margrethe-opererad-for-hjartproblem",
+      "date_display": "2026-05-15",
+      "date_iso": "2026-05-15T09:33:23+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Sverige"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Torbjörn Petersson: China's marking a shameless way to pressure Trump",
+      "summary": "PEKING. China has shamelessly shown the US that the Taiwan issue is the most important in their relationship - in an attempt to undermine US support for the self-governing island. After two days of talks between Donald Trump and Xi Jinping in Beijing, in a meeting that both leaders described as historic, this marking was what China had been waiting for.",
+      "title_original": "Torbjörn Petersson: Kinas markering ett oblygt sätt att pressa Trump",
+      "summary_original": "PEKING. Kina har på ett oblygt sätt visat för USA att Taiwanfrågan är den viktigaste i deras relation – i ett försök att undergräva USA:s stöd till den självstyrande ön. Efter två dagars samtal mellan Donald Trump och Xi Jinping i Peking, i ett möte som båda ledarna beskrev som historiskt, var denna markering vad Kina väntat på att få göra.",
+      "link": "https://www.dn.se/varlden/torbjorn-petersson-kinas-markering-ett-oblygt-satt-att-pressa-trump/",
+      "date_display": "2026-05-15",
+      "date_iso": "2026-05-15T09:31:40+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 165,
       "title": "Minutes from the monetary policy meeting on 6 May 2026",
       "summary": "Minutes from the monetary policy meeting on 6 May 2026",
       "title_original": "Protokoll från det penningpolitiska mötet den 6 maj 2026",
@@ -66,11 +64,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": []
     },
     {
-      "id": 152,
+      "id": 175,
       "title": "Ulf Kristersson to receive Prime Minister of India in Gothenburg",
       "summary": "On 17 May, Prime Minister Ulf Kristersson will receive Prime Minister of India Narendra Modi in Gothenburg. During the visit, the leaders will hold bilateral meetings and participate in discussions with European business leaders on innovation and trade. Mr Kristersson and Mr Modi will also hold joint press statements, together with President of the European Commission Ursula von der Leyen. HRH The Crown Princess will also participate in the programme.",
       "title_original": "Ulf Kristersson to receive Prime Minister of India in Gothenburg",
@@ -81,7 +79,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "Press release",
         "Webcast",
@@ -98,7 +96,7 @@
       ]
     },
     {
-      "id": 159,
+      "id": 181,
       "title": "Sweden organises international youth forum on gender equality and democracy in Belarus",
       "summary": "On 11 May, the Ministry for Foreign Affairs, in cooperation with the Stockholm Centre for Eastern European Studies at the Swedish Institute of International Affairs, is organising a conference in Stockholm on youth and gender equality issues for a future democratic Belarus. The forum gathers youth representative of the Belarusian democratic movement and civil society representatives, decision-makers and experts from the EU and Sweden. The aim is to highlight the importance of young people’s political participation to the democratic development of Belarus.",
       "title_original": "Sweden organises international youth forum on gender equality and democracy in Belarus",
@@ -109,7 +107,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "EU",
@@ -123,7 +121,7 @@
       ]
     },
     {
-      "id": 160,
+      "id": 182,
       "title": "Government moves forward with assignment on international power cables",
       "summary": "The Government is now moving forward with an assignment for Svenska kraftnät, Sweden’s power grid authority, that allows for a planned renewal and upgrade of an electricity cable connection to Denmark to be put on hold. At the EU’s meeting of Energy Ministers in March, Swedish Minister for Energy, Business and Industry Ebba Busch announced that Sweden would halt new or upgraded electricity cable connections to continental Europe unless there was a shift in the focus of the legislation being negotiated in the European Commission’s European Grids Package.",
       "title_original": "Government moves forward with assignment on international power cables",
@@ -134,7 +132,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "EU",
@@ -144,7 +142,7 @@
       ]
     },
     {
-      "id": 161,
+      "id": 183,
       "title": "Pål Jonson to take part in EU Foreign Affairs Council defence minister configuration",
       "summary": "On 12 May, EU defence ministers will meet in Brussels within the framework of the EU Foreign Affairs Council. Continued EU support to Ukraine, the situation in the Middle East and its implications for European defence and security, and strengthening European defence preparedness are on the agenda. Minister for Defence Pål Jonson will represent Sweden at the meeting.",
       "title_original": "Pål Jonson to take part in EU Foreign Affairs Council defence minister configuration",
@@ -155,7 +153,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "EU",
@@ -166,7 +164,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 184,
       "title": "Prime Minister receives President of Germany Frank-Walter Steinmeier",
       "summary": "Germany is Sweden’s most important trading partner, and the world’s fourth-largest economy. On Wednesday 6 May, Prime Minister Ulf Kristersson received Germany’s Federal President Frank-Walter Steinmeier in Stockholm for a meeting on regional security policy, total defence and cooperation between Sweden and Germany.",
       "title_original": "Prime Minister receives President of Germany Frank-Walter Steinmeier",
@@ -177,7 +175,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
@@ -193,7 +191,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 185,
       "title": "The policy rate remains unchanged at 1.75 percent",
       "summary": "The risk that the war in the Middle East will lead to higher inflation has increased somewhat. At the same time, inflation is currently below the target and the latest outcomes have been clearly lower than in the Riksbank's forecast in March. In addition, the economy is weak. This means that there is room to wait for a clearer picture of the war's effects and the supply disruptions it entails. The executive board has decided to leave the key interest rate unchanged at 1.75 percent. The current level of the key interest rate gives the Riksbank a good starting point to adjust monetary policy if necessary to protect the inflation target.",
       "title_original": "Styrräntan oförändrad på 1,75 procent",
@@ -204,11 +202,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": []
     },
     {
-      "id": 184,
+      "id": 186,
       "title": "Prime Minister receives President of Lithuania",
       "summary": "On Tuesday 5 May, Prime Minister Ulf Kristersson received President of the Republic of Lithuania Gitanas Nausėda for a bilateral meeting in Stockholm. Minister for EU Affairs Jessica Rosencrantz also participated.",
       "title_original": "Prime Minister receives President of Lithuania",
@@ -219,7 +217,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
@@ -230,30 +228,6 @@
         "Ulf Kristersson",
         "Military defence",
         "Jessica Rosencrantz"
-      ]
-    },
-    {
-      "id": 185,
-      "title": "Joint Statement by the Nordic-Baltic Ministers (NB8) of Foreign Affairs",
-      "summary": "We, the Ministers of Foreign Affairs and government representatives of the NB8, met in Kuressaare, Estonia on 29-30 April 2026, at a time of rapid change in the international security environment, with heightened geopolitical tensions, Russia continuing its war of aggression against Ukraine, and an urgent need for Europe to step up and take greater responsibility for shaping its future.",
-      "title_original": "Joint Statement by the Nordic-Baltic Ministers (NB8) of Foreign Affairs",
-      "summary_original": "We, the Ministers of Foreign Affairs and government representatives of the NB8, met in Kuressaare, Estonia on 29-30 April 2026, at a time of rapid change in the international security environment, with heightened geopolitical tensions, Russia continuing its war of aggression against Ukraine, and an urgent need for Europe to step up and take greater responsibility for shaping its future.",
-      "link": "https://www.government.se/statements/2026/04/joint-statement-by-the-nordic-baltic-ministers-nb8-of-foreign-affairs/",
-      "date_display": "2026-04-30",
-      "date_iso": "2026-04-30T11:51:54+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "International",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Statement",
-        "Nordic affairs",
-        "Sweden's support to Ukraine",
-        "Maria Malmer Stenergard",
-        "N5/NB8–cooperation on foreign and security policy"
       ]
     }
   ]
