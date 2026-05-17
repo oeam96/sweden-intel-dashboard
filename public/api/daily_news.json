@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-15T12:04:39.878337+02:00",
-  "date": "2026-05-15",
+  "generated_at": "2026-05-17T11:22:10.678942+02:00",
+  "date": "2026-05-17",
   "item_count": 11,
   "items": [
     {
-      "id": 6,
-      "title": "Should Kristersson give Trump the finger?",
-      "summary": "More and more of Europe's heads of government are falling out with Donald Trump, some to strengthen their chances in upcoming elections. Ulf Kristersson may soon be one of the EU leaders who has the best relationship with Trump - by not having one at all.",
-      "title_original": "Ska Kristersson att ge Trump fingret?",
-      "summary_original": "Allt fler av Europas regeringschefer blir osams med Donald Trump, några för att stärka sina chanser i kommande val. Snart kan Ulf Kristersson vara en av de EU-ledare som har bäst relation till Trump – genom att inte ha någon alls.",
-      "link": "https://www.svd.se/a/wrRmAL/kommer-kristersson-ge-trump-fingret",
-      "date_display": "2026-05-15",
-      "date_iso": "2026-05-15T09:38:19+00:00",
+      "id": 29,
+      "title": "Jihadists and separatists challenge Mali's junta",
+      "summary": "Jihadists and separatists recently carried out large-scale and coordinated attacks against the military junta in Mali. The groups have different reasons for attacking the common enemy in the military regime. If they manage to bring down the junta, the question is whether they have a basis to stand on for continued cooperation.",
+      "title_original": "Jihadister och separatister utmanar Malis junta",
+      "summary_original": "Jihadister och separatister genomförde nyligen omfattande och samordnade attacker mot militärjuntan i Mali. Grupperna har olika anledningar att angripa den gemensamma fienden i militärstyret. Om de lyckas få juntan på fall är frågan om de har en grund att stå på för ett fortsatt samarbete.",
+      "link": "https://www.svd.se/a/Gx0934/jihadister-och-separatister-utmanar-malis-junta",
+      "date_display": "2026-05-17",
+      "date_iso": "2026-05-17T09:18:35+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -21,31 +21,14 @@
       ]
     },
     {
-      "id": 7,
-      "title": "Queen Margrethe operated on for heart problems",
-      "summary": "",
-      "title_original": "Drottning Margrethe opererad för hjärtproblem",
-      "summary_original": "",
-      "link": "https://www.svd.se/a/JO645X/drottning-margrethe-opererad-for-hjartproblem",
-      "date_display": "2026-05-15",
-      "date_iso": "2026-05-15T09:33:23+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Sverige"
-      ]
-    },
-    {
-      "id": 8,
-      "title": "Torbjörn Petersson: China's marking a shameless way to pressure Trump",
-      "summary": "PEKING. China has shamelessly shown the US that the Taiwan issue is the most important in their relationship - in an attempt to undermine US support for the self-governing island. After two days of talks between Donald Trump and Xi Jinping in Beijing, in a meeting that both leaders described as historic, this marking was what China had been waiting for.",
-      "title_original": "Torbjörn Petersson: Kinas markering ett oblygt sätt att pressa Trump",
-      "summary_original": "PEKING. Kina har på ett oblygt sätt visat för USA att Taiwanfrågan är den viktigaste i deras relation – i ett försök att undergräva USA:s stöd till den självstyrande ön. Efter två dagars samtal mellan Donald Trump och Xi Jinping i Peking, i ett möte som båda ledarna beskrev som historiskt, var denna markering vad Kina väntat på att få göra.",
-      "link": "https://www.dn.se/varlden/torbjorn-petersson-kinas-markering-ett-oblygt-satt-att-pressa-trump/",
-      "date_display": "2026-05-15",
-      "date_iso": "2026-05-15T09:31:40+00:00",
+      "id": 32,
+      "title": "Experts: The Crimean peninsula may be about to be cut off",
+      "summary": "While Russia is carrying out large-scale attacks on Kiev and the war on the Eastern Front is moving slowly, Ukraine is making progress in Crimea. There is speculation that the annexed peninsula will soon be completely cut off. - I would not be surprised if within a few months there is no food in Crimea, says Lieutenant Colonel Johan Huovinen.",
+      "title_original": "Experter: Krimhalvön kan vara på väg att skäras av",
+      "summary_original": "Medan Ryssland genomför omfattande attacker mot Kiev och kriget på östfronten rör sig sakta gör Ukraina framsteg på Krim. Spekulationer finns om att den annekterade halvön snart är helt avskuren. – Jag skulle inte bli förvånad om det inom några månader inte finns mat på Krim, säger överstelöjtnant Johan Huovinen.",
+      "link": "https://www.dn.se/varlden/experter-krimhalvon-kan-vara-pa-vag-att-skaras-av/",
+      "date_display": "2026-05-17",
+      "date_iso": "2026-05-17T09:18:16+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -53,7 +36,25 @@
       "tags": []
     },
     {
-      "id": 165,
+      "id": 52,
+      "title": "Neighboring countries mock Sweden: \"Deportation of the guilty\"",
+      "summary": "Harsh attacks in the media • \"Only got breadcrumbs\"",
+      "title_original": "Grannländerna hånar Sverige: ”Landsförvisning av de skyldiga”",
+      "summary_original": "Hårda angrepp i medierna • ”Fick bara brödsmulor”",
+      "link": "https://www.tv4.se/artikel/dHYiTV5nA1SX9M4NEYlm9/grannlaenderna-hanar-sverige-landsfoervisning-av-de-skyldiga",
+      "date_display": "2026-05-17",
+      "date_iso": "2026-05-17T09:13:02+00:00",
+      "source": "TV4 Nyheterna",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Inrikes",
+        "/inrikes"
+      ]
+    },
+    {
+      "id": 180,
       "title": "Minutes from the monetary policy meeting on 6 May 2026",
       "summary": "Minutes from the monetary policy meeting on 6 May 2026",
       "title_original": "Protokoll från det penningpolitiska mötet den 6 maj 2026",
@@ -64,11 +65,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": []
     },
     {
-      "id": 175,
+      "id": 181,
       "title": "Ulf Kristersson to receive Prime Minister of India in Gothenburg",
       "summary": "On 17 May, Prime Minister Ulf Kristersson will receive Prime Minister of India Narendra Modi in Gothenburg. During the visit, the leaders will hold bilateral meetings and participate in discussions with European business leaders on innovation and trade. Mr Kristersson and Mr Modi will also hold joint press statements, together with President of the European Commission Ursula von der Leyen. HRH The Crown Princess will also participate in the programme.",
       "title_original": "Ulf Kristersson to receive Prime Minister of India in Gothenburg",
@@ -79,7 +80,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "Webcast",
@@ -96,7 +97,7 @@
       ]
     },
     {
-      "id": 181,
+      "id": 182,
       "title": "Sweden organises international youth forum on gender equality and democracy in Belarus",
       "summary": "On 11 May, the Ministry for Foreign Affairs, in cooperation with the Stockholm Centre for Eastern European Studies at the Swedish Institute of International Affairs, is organising a conference in Stockholm on youth and gender equality issues for a future democratic Belarus. The forum gathers youth representative of the Belarusian democratic movement and civil society representatives, decision-makers and experts from the EU and Sweden. The aim is to highlight the importance of young people’s political participation to the democratic development of Belarus.",
       "title_original": "Sweden organises international youth forum on gender equality and democracy in Belarus",
@@ -107,7 +108,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "EU",
@@ -121,7 +122,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 183,
       "title": "Government moves forward with assignment on international power cables",
       "summary": "The Government is now moving forward with an assignment for Svenska kraftnät, Sweden’s power grid authority, that allows for a planned renewal and upgrade of an electricity cable connection to Denmark to be put on hold. At the EU’s meeting of Energy Ministers in March, Swedish Minister for Energy, Business and Industry Ebba Busch announced that Sweden would halt new or upgraded electricity cable connections to continental Europe unless there was a shift in the focus of the legislation being negotiated in the European Commission’s European Grids Package.",
       "title_original": "Government moves forward with assignment on international power cables",
@@ -132,7 +133,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "EU",
@@ -142,7 +143,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 184,
       "title": "Pål Jonson to take part in EU Foreign Affairs Council defence minister configuration",
       "summary": "On 12 May, EU defence ministers will meet in Brussels within the framework of the EU Foreign Affairs Council. Continued EU support to Ukraine, the situation in the Middle East and its implications for European defence and security, and strengthening European defence preparedness are on the agenda. Minister for Defence Pål Jonson will represent Sweden at the meeting.",
       "title_original": "Pål Jonson to take part in EU Foreign Affairs Council defence minister configuration",
@@ -153,7 +154,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "EU",
@@ -164,7 +165,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 185,
       "title": "Prime Minister receives President of Germany Frank-Walter Steinmeier",
       "summary": "Germany is Sweden’s most important trading partner, and the world’s fourth-largest economy. On Wednesday 6 May, Prime Minister Ulf Kristersson received Germany’s Federal President Frank-Walter Steinmeier in Stockholm for a meeting on regional security policy, total defence and cooperation between Sweden and Germany.",
       "title_original": "Prime Minister receives President of Germany Frank-Walter Steinmeier",
@@ -175,7 +176,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
@@ -191,7 +192,7 @@
       ]
     },
     {
-      "id": 185,
+      "id": 186,
       "title": "The policy rate remains unchanged at 1.75 percent",
       "summary": "The risk that the war in the Middle East will lead to higher inflation has increased somewhat. At the same time, inflation is currently below the target and the latest outcomes have been clearly lower than in the Riksbank's forecast in March. In addition, the economy is weak. This means that there is room to wait for a clearer picture of the war's effects and the supply disruptions it entails. The executive board has decided to leave the key interest rate unchanged at 1.75 percent. The current level of the key interest rate gives the Riksbank a good starting point to adjust monetary policy if necessary to protect the inflation target.",
       "title_original": "Styrräntan oförändrad på 1,75 procent",
@@ -202,11 +203,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": []
     },
     {
-      "id": 186,
+      "id": 187,
       "title": "Prime Minister receives President of Lithuania",
       "summary": "On Tuesday 5 May, Prime Minister Ulf Kristersson received President of the Republic of Lithuania Gitanas Nausėda for a bilateral meeting in Stockholm. Minister for EU Affairs Jessica Rosencrantz also participated.",
       "title_original": "Prime Minister receives President of Lithuania",
@@ -217,7 +218,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
