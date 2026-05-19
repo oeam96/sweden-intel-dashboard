@@ -1,34 +1,17 @@
 {
-  "generated_at": "2026-05-17T11:22:10.678942+02:00",
-  "date": "2026-05-17",
-  "item_count": 11,
+  "generated_at": "2026-05-19T12:49:33.478011+02:00",
+  "date": "2026-05-19",
+  "item_count": 15,
   "items": [
     {
-      "id": 29,
-      "title": "Jihadists and separatists challenge Mali's junta",
-      "summary": "Jihadists and separatists recently carried out large-scale and coordinated attacks against the military junta in Mali. The groups have different reasons for attacking the common enemy in the military regime. If they manage to bring down the junta, the question is whether they have a basis to stand on for continued cooperation.",
-      "title_original": "Jihadister och separatister utmanar Malis junta",
-      "summary_original": "Jihadister och separatister genomförde nyligen omfattande och samordnade attacker mot militärjuntan i Mali. Grupperna har olika anledningar att angripa den gemensamma fienden i militärstyret. Om de lyckas få juntan på fall är frågan om de har en grund att stå på för ett fortsatt samarbete.",
-      "link": "https://www.svd.se/a/Gx0934/jihadister-och-separatister-utmanar-malis-junta",
-      "date_display": "2026-05-17",
-      "date_iso": "2026-05-17T09:18:35+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Världen"
-      ]
-    },
-    {
-      "id": 32,
-      "title": "Experts: The Crimean peninsula may be about to be cut off",
-      "summary": "While Russia is carrying out large-scale attacks on Kiev and the war on the Eastern Front is moving slowly, Ukraine is making progress in Crimea. There is speculation that the annexed peninsula will soon be completely cut off. - I would not be surprised if within a few months there is no food in Crimea, says Lieutenant Colonel Johan Huovinen.",
-      "title_original": "Experter: Krimhalvön kan vara på väg att skäras av",
-      "summary_original": "Medan Ryssland genomför omfattande attacker mot Kiev och kriget på östfronten rör sig sakta gör Ukraina framsteg på Krim. Spekulationer finns om att den annekterade halvön snart är helt avskuren. – Jag skulle inte bli förvånad om det inom några månader inte finns mat på Krim, säger överstelöjtnant Johan Huovinen.",
-      "link": "https://www.dn.se/varlden/experter-krimhalvon-kan-vara-pa-vag-att-skaras-av/",
-      "date_display": "2026-05-17",
-      "date_iso": "2026-05-17T09:18:16+00:00",
+      "id": 9,
+      "title": "Record: People queued for over four decades to rent in Stockholm",
+      "summary": "A man queued for over four decades before he was allocated a rental apartment on Kommendörsgatan in Stockholm. It is the longest queue time measured at Stockholm's city housing agency since 1980, reports the newspaper Mitt i.",
+      "title_original": "Rekord: Man köade i över fyra decennier för hyresrätt i Stockholm",
+      "summary_original": "En man köade i över fyra decennier innan han tilldelades en hyreslägenhet på Kommendörsgatan i Stockholm. Det är den längsta kötiden som uppmätts hos Stockholms stads bostadsförmedling sedan 1980, rapporterar tidningen Mitt i.",
+      "link": "https://www.dn.se/sverige/rekord-man-koade-i-over-fyra-decennier-for-hyresratt-i-stockholm/",
+      "date_display": "2026-05-19",
+      "date_iso": "2026-05-19T10:11:25+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -36,25 +19,144 @@
       "tags": []
     },
     {
-      "id": 52,
-      "title": "Neighboring countries mock Sweden: \"Deportation of the guilty\"",
-      "summary": "Harsh attacks in the media • \"Only got breadcrumbs\"",
-      "title_original": "Grannländerna hånar Sverige: ”Landsförvisning av de skyldiga”",
-      "summary_original": "Hårda angrepp i medierna • ”Fick bara brödsmulor”",
-      "link": "https://www.tv4.se/artikel/dHYiTV5nA1SX9M4NEYlm9/grannlaenderna-hanar-sverige-landsfoervisning-av-de-skyldiga",
-      "date_display": "2026-05-17",
-      "date_iso": "2026-05-17T09:13:02+00:00",
-      "source": "TV4 Nyheterna",
+      "id": 10,
+      "title": "\"The frigates can be a huge investment failure\"",
+      "summary": "Sweden has ordered new naval vessels for SEK 40 billion. But it is enough to look at the Black Sea and the Russian battle fleet to understand the problems, write Rutger Brattström and Martin Boldt-Christmas.",
+      "title_original": "”Fregatterna kan bli en enorm felinvestering”",
+      "summary_original": "Sverige har beställt nya örlogsfartyg för 40 miljarder kronor. Men det räcker att vända blicken mot Svarta havet och den ryska stridsflottan för att förstå problemen, skriver Rutger Brattström och Martin Boldt-Christmas.",
+      "link": "https://www.svd.se/a/V6Qmg3/fregatterna-kan-bli-en-enorm-felinvestering-skriver-debattorer",
+      "date_display": "2026-05-19",
+      "date_iso": "2026-05-19T10:08:36+00:00",
+      "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Inrikes",
-        "/inrikes"
+        "Debatt"
       ]
     },
     {
-      "id": 180,
+      "id": 11,
+      "title": "ÖB: \"Important to dare to make technology changes\"",
+      "summary": "Four new frigates for at least 40 billion will triple the capacity of the Swedish air defense. But according to ÖB, several areas will need to be strengthened in the future. \"You have to dare to make big changes in technology,\" he says.",
+      "title_original": "ÖB: ”Viktigt att våga göra teknikskiften”",
+      "summary_original": "Fyra nya fregatter för minst 40 miljarder ska tredubbla kapaciteten i det svenska luftförsvaret. Men enligt ÖB kommer flera områden behöva stärkas upp framöver. ”Man måste våga göra stora teknikskiften”, säger han.",
+      "link": "https://www.svd.se/a/43b9d6/ob-om-fregatterna-fdi-fran-frankrike-viktigt-att-vaga-gora-teknikskiften",
+      "date_display": "2026-05-19",
+      "date_iso": "2026-05-19T10:07:13+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Sverige"
+      ]
+    },
+    {
+      "id": 161,
+      "title": "Sweden and India broaden and deepen strategic cooperation",
+      "summary": "On 17 May, Prime Minister Ulf Kristersson received Prime Minister of India Narendra Modi in Gothenburg. During the visit, the leaders held bilateral meetings and participated in discussions with European business leaders on innovation, climate and trade. HRH Crown Princess Victoria, Minister for Foreign Affairs Maria Malmer Stenergard, and India’s Minister for External Affairs Subrahmanyam Jaishankar also participated in the programme.",
+      "title_original": "Sweden and India broaden and deepen strategic cooperation",
+      "summary_original": "On 17 May, Prime Minister Ulf Kristersson received Prime Minister of India Narendra Modi in Gothenburg. During the visit, the leaders held bilateral meetings and participated in discussions with European business leaders on innovation, climate and trade. HRH Crown Princess Victoria, Minister for Foreign Affairs Maria Malmer Stenergard, and India’s Minister for External Affairs Subrahmanyam Jaishankar also participated in the programme.",
+      "link": "https://www.government.se/articles/2026/05/sweden-and-india-broaden-and-deepen-strategic-cooperation/",
+      "date_display": "2026-05-17",
+      "date_iso": "2026-05-17T17:55:55+00:00",
+      "source": "Government.se",
+      "ministry": "Prime Minister's Office",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "International",
+        "Prime Minister's Office",
+        "Ministry for Foreign Affairs",
+        "Democracy and human rights",
+        "Economic policy",
+        "Financial markets",
+        "Trade and investment promotion",
+        "Environment and climate",
+        "Foreign and security policy",
+        "Article",
+        "Innovation",
+        "International law",
+        "Maria Malmer Stenergard",
+        "Ulf Kristersson",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": 162,
+      "title": "Strategic partnership between India and Sweden – cutting-edge collaboration with historical ties",
+      "summary": "On 17 May, Prime Minister Ulf Kristersson received Prime Minister of India Narendra Modi in Gothenburg on the occasion of Sweden and India upgrading their bilateral relations to a strategic partnership. Mr Kristersson and Mr Modi also met with the President of the European Commission Ursula von der Leyen.",
+      "title_original": "Strategic partnership between India and Sweden – cutting-edge collaboration with historical ties",
+      "summary_original": "On 17 May, Prime Minister Ulf Kristersson received Prime Minister of India Narendra Modi in Gothenburg on the occasion of Sweden and India upgrading their bilateral relations to a strategic partnership. Mr Kristersson and Mr Modi also met with the President of the European Commission Ursula von der Leyen.",
+      "link": "https://www.government.se/press-releases/2026/05/strategic-partnership-between-india-and-sweden--cutting-edge-collaboration-with-historical-ties/",
+      "date_display": "2026-05-17",
+      "date_iso": "2026-05-17T17:14:54+00:00",
+      "source": "Government.se",
+      "ministry": "Prime Minister's Office",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "Webcast",
+        "International",
+        "Prime Minister's Office",
+        "Ministry for Foreign Affairs",
+        "International development cooperation",
+        "Trade and investment promotion",
+        "Foreign and security policy",
+        "Maria Malmer Stenergard",
+        "Ulf Kristersson"
+      ]
+    },
+    {
+      "id": 163,
+      "title": "Joint Statement on the India–Sweden Summit",
+      "summary": "Joint Statement on the India–Sweden Summit, ‘Establishment of a Strategic Partnership’ \nGothenburg, 17 May 2026",
+      "title_original": "Joint Statement on the India–Sweden Summit",
+      "summary_original": "Joint Statement on the India–Sweden Summit, ‘Establishment of a Strategic Partnership’ \nGothenburg, 17 May 2026",
+      "link": "https://www.government.se/statements/2026/05/joint-statement-on-the-indiasweden-summit/",
+      "date_display": "2026-05-17",
+      "date_iso": "2026-05-17T17:14:47+00:00",
+      "source": "Government.se",
+      "ministry": "Prime Minister's Office",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "International",
+        "Prime Minister's Office",
+        "International development cooperation",
+        "Trade and investment promotion",
+        "Foreign and security policy",
+        "Statement",
+        "Ulf Kristersson"
+      ]
+    },
+    {
+      "id": 164,
+      "title": "The box of Tagore: a symbolic gift representing strong historical bonds",
+      "summary": "At the invitation of the Prime Minister of Sweden, Ulf Kristersson, Shri Narendra Modi, the Honourable Prime Minister of the Republic of India, paid an official visit to Gothenburg, Sweden, on 17 May 2026. During the visit, Mr Modi was presented with a special gift symbolising the historic bonds between the two countries.",
+      "title_original": "The box of Tagore: a symbolic gift representing strong historical bonds",
+      "summary_original": "At the invitation of the Prime Minister of Sweden, Ulf Kristersson, Shri Narendra Modi, the Honourable Prime Minister of the Republic of India, paid an official visit to Gothenburg, Sweden, on 17 May 2026. During the visit, Mr Modi was presented with a special gift symbolising the historic bonds between the two countries.",
+      "link": "https://www.government.se/articles/2026/05/the-box-of-tagore-a-symbolic-gift-representing-strong-historical-bonds/",
+      "date_display": "2026-05-17",
+      "date_iso": "2026-05-17T16:06:22+00:00",
+      "source": "Government.se",
+      "ministry": "Prime Minister's Office",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "International",
+        "Prime Minister's Office",
+        "Ministry for Foreign Affairs",
+        "International development cooperation",
+        "Article",
+        "Maria Malmer Stenergard",
+        "Ulf Kristersson"
+      ]
+    },
+    {
+      "id": 182,
       "title": "Minutes from the monetary policy meeting on 6 May 2026",
       "summary": "Minutes from the monetary policy meeting on 6 May 2026",
       "title_original": "Protokoll från det penningpolitiska mötet den 6 maj 2026",
@@ -65,11 +167,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": []
     },
     {
-      "id": 181,
+      "id": 183,
       "title": "Ulf Kristersson to receive Prime Minister of India in Gothenburg",
       "summary": "On 17 May, Prime Minister Ulf Kristersson will receive Prime Minister of India Narendra Modi in Gothenburg. During the visit, the leaders will hold bilateral meetings and participate in discussions with European business leaders on innovation and trade. Mr Kristersson and Mr Modi will also hold joint press statements, together with President of the European Commission Ursula von der Leyen. HRH The Crown Princess will also participate in the programme.",
       "title_original": "Ulf Kristersson to receive Prime Minister of India in Gothenburg",
@@ -80,7 +182,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Press release",
         "Webcast",
@@ -97,7 +199,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 184,
       "title": "Sweden organises international youth forum on gender equality and democracy in Belarus",
       "summary": "On 11 May, the Ministry for Foreign Affairs, in cooperation with the Stockholm Centre for Eastern European Studies at the Swedish Institute of International Affairs, is organising a conference in Stockholm on youth and gender equality issues for a future democratic Belarus. The forum gathers youth representative of the Belarusian democratic movement and civil society representatives, decision-makers and experts from the EU and Sweden. The aim is to highlight the importance of young people’s political participation to the democratic development of Belarus.",
       "title_original": "Sweden organises international youth forum on gender equality and democracy in Belarus",
@@ -108,7 +210,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Press release",
         "EU",
@@ -122,7 +224,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 185,
       "title": "Government moves forward with assignment on international power cables",
       "summary": "The Government is now moving forward with an assignment for Svenska kraftnät, Sweden’s power grid authority, that allows for a planned renewal and upgrade of an electricity cable connection to Denmark to be put on hold. At the EU’s meeting of Energy Ministers in March, Swedish Minister for Energy, Business and Industry Ebba Busch announced that Sweden would halt new or upgraded electricity cable connections to continental Europe unless there was a shift in the focus of the legislation being negotiated in the European Commission’s European Grids Package.",
       "title_original": "Government moves forward with assignment on international power cables",
@@ -133,7 +235,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Press release",
         "EU",
@@ -143,7 +245,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 186,
       "title": "Pål Jonson to take part in EU Foreign Affairs Council defence minister configuration",
       "summary": "On 12 May, EU defence ministers will meet in Brussels within the framework of the EU Foreign Affairs Council. Continued EU support to Ukraine, the situation in the Middle East and its implications for European defence and security, and strengthening European defence preparedness are on the agenda. Minister for Defence Pål Jonson will represent Sweden at the meeting.",
       "title_original": "Pål Jonson to take part in EU Foreign Affairs Council defence minister configuration",
@@ -154,7 +256,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "EU",
@@ -165,7 +267,7 @@
       ]
     },
     {
-      "id": 185,
+      "id": 187,
       "title": "Prime Minister receives President of Germany Frank-Walter Steinmeier",
       "summary": "Germany is Sweden’s most important trading partner, and the world’s fourth-largest economy. On Wednesday 6 May, Prime Minister Ulf Kristersson received Germany’s Federal President Frank-Walter Steinmeier in Stockholm for a meeting on regional security policy, total defence and cooperation between Sweden and Germany.",
       "title_original": "Prime Minister receives President of Germany Frank-Walter Steinmeier",
@@ -176,7 +278,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
@@ -192,7 +294,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 188,
       "title": "The policy rate remains unchanged at 1.75 percent",
       "summary": "The risk that the war in the Middle East will lead to higher inflation has increased somewhat. At the same time, inflation is currently below the target and the latest outcomes have been clearly lower than in the Riksbank's forecast in March. In addition, the economy is weak. This means that there is room to wait for a clearer picture of the war's effects and the supply disruptions it entails. The executive board has decided to leave the key interest rate unchanged at 1.75 percent. The current level of the key interest rate gives the Riksbank a good starting point to adjust monetary policy if necessary to protect the inflation target.",
       "title_original": "Styrräntan oförändrad på 1,75 procent",
@@ -203,11 +305,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": []
     },
     {
-      "id": 187,
+      "id": 189,
       "title": "Prime Minister receives President of Lithuania",
       "summary": "On Tuesday 5 May, Prime Minister Ulf Kristersson received President of the Republic of Lithuania Gitanas Nausėda for a bilateral meeting in Stockholm. Minister for EU Affairs Jessica Rosencrantz also participated.",
       "title_original": "Prime Minister receives President of Lithuania",
@@ -218,7 +320,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
