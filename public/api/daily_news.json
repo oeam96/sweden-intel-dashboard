@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-23T11:24:23.312347+02:00",
-  "date": "2026-05-23",
-  "item_count": 14,
+  "generated_at": "2026-05-25T13:37:21.524466+02:00",
+  "date": "2026-05-25",
+  "item_count": 13,
   "items": [
     {
-      "id": 0,
-      "title": "New details in the noble feud: Was offered a castle and land worth a billion",
-      "summary": "The noble families' feud over the Trolle Ljungby estate in Skåne escalates. The couple accused of having influenced the count should have received a settlement offer with a castle and land to the value of one billion kroner - but turned it down. The battle is now being pushed on to the district court.",
-      "title_original": "Nya uppgifter i adelsfejden: Erbjöds slott och mark till värde av en miljard",
-      "summary_original": "Adelsfamiljernas fejd om Trolle Ljungby gods i Skåne trappas upp. Paret som anklagats för att ha påverkat greven ska ha fått ett förlikningsbud med slott och mark till ett värde av en miljard kronor – men tackat nej. Nu drivs striden vidare till tingsrätten.",
-      "link": "https://www.dn.se/sverige/nya-uppgifter-i-adelsfejden-erbjods-slott-och-mark-till-varde-av-en-miljard/",
-      "date_display": "2026-05-23",
-      "date_iso": "2026-05-23T09:20:03+00:00",
+      "id": 2,
+      "title": "Airplane crashes into paragliders in the Alps",
+      "summary": "A paraglider narrowly survived when a plane suddenly crashed into the sail during a flight over the Austrian Alps. The woman, who escaped with only a few bruises, captured the moment on film.",
+      "title_original": "Flygplan körde in i skärmflygare i Alperna",
+      "summary_original": "En skärmflygare överlevde med minsta marginal när ett flygplan plötsligt kraschade in i seglet under en flygning över österrikiska Alperna. Kvinnan, som klarade sig med bara några blåmärken, fångade ögonblicket på film.",
+      "link": "https://www.dn.se/varlden/flygplan-korde-in-i-skarmflygare-i-alperna/",
+      "date_display": "2026-05-25",
+      "date_iso": "2026-05-25T11:29:35+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -19,14 +19,31 @@
       "tags": []
     },
     {
-      "id": 3,
-      "title": "They show why Mendelssohn's \"Lobgesang\" still survives",
-      "summary": "Mendelssohn's often underestimated orchestration was allowed to shine, but at times the music flowed a little tight, writes DN's Anna Bjermqvist who saw \"Lobgesang\" at the Berwaldhallen.",
-      "title_original": "De visar varför Mendelssohns ”Lobgesang” fortfarande överlever",
-      "summary_original": "Mendelssohns ofta underskattade orkestrering fick glänsa, men stundtals flödade musiken lite väl stramt, skriver DN:s Anna Bjermqvist som sett ”Lobgesang” på Berwaldhallen.",
-      "link": "https://www.dn.se/kultur/de-visar-varfor-mendelssohns-lobgesang-fortfarande-overlever/",
-      "date_display": "2026-05-23",
-      "date_iso": "2026-05-23T09:04:07+00:00",
+      "id": 8,
+      "title": "They will lead Radio Aftonbladet",
+      "summary": "SVT profiler Alex Letic and crime reporter Linda Hjertén will lead Radio Aftonbladet's morning broadcasts. At the same time, SR's Caroline Kernen is recruited as new radio and podcast manager.",
+      "title_original": "De ska leda Radio Aftonbladet",
+      "summary_original": "SVT-profilen Alex Letic och kriminalreportern Linda Hjertén kommer att leda Radio Aftonbladets morgonsändningar. Samtidigt värvas SR:s Caroline Kernen som ny radio- och poddchef.",
+      "link": "https://www.svd.se/a/n1vG2J/radio-aftonbladet-aschberg-och-letic-bland-profilerna",
+      "date_display": "2026-05-25",
+      "date_iso": "2026-05-25T11:13:31+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Kultur"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Ukraine develops its own glide bomb - will fly further",
+      "summary": "In order to avoid anti-aircraft defenses and reach enemy positions, the glide bombs of the war have been given wings. Now Ukraine has developed a first self-developed model - which will soon be put into use.",
+      "title_original": "Ukraina tar fram egen glidbomb – ska flyga längre",
+      "summary_original": "För att undvika luftvärn och nå fram till fiendens positioner har krigets glidbomber fått vingar. Nu har Ukraina tagit fram en första egenutvecklad modell – som snart tas i bruk.",
+      "link": "https://www.dn.se/varlden/ukraina-tar-fram-egen-glidbomb-ska-flyga-langre/",
+      "date_display": "2026-05-25",
+      "date_iso": "2026-05-25T11:03:26+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -34,22 +51,7 @@
       "tags": []
     },
     {
-      "id": 4,
-      "title": "Torborg Nedreaa's trilogy about Herdis begins with a kaleidoscope of sensory impressions",
-      "summary": "Norway's Torborg Nedreaas is well deserving of the international chorus of praise, notes Samuel Levander after being excited by \"Trollskärvan\".",
-      "title_original": "Torborg Nedreaas trilogi om Herdis inleds med ett kalejdoskop av sinnesintryck",
-      "summary_original": "Norska Torborg Nedreaas är väl värd den internationella hyllningskören, konstaterar Samuel Levander efter att ha begeistrats av ”Trollskärvan”.",
-      "link": "https://www.dn.se/kultur/torborg-nedreaas-trilogi-om-herdis-inleds-med-ett-kalejdoskop-av-sinnesintryck/",
-      "date_display": "2026-05-23",
-      "date_iso": "2026-05-23T09:03:45+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 170,
+      "id": 179,
       "title": "Maria Malmer Stenergard hosts meeting of NATO Ministers of Foreign Affairs",
       "summary": "On 21–22 May, Minister for Foreign Affairs Maria Malmer Stenergard will welcome Allies to a meeting of NATO Ministers of Foreign Affairs in Helsingborg.",
       "title_original": "Maria Malmer Stenergard hosts meeting of NATO Ministers of Foreign Affairs",
@@ -60,7 +62,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "International",
@@ -83,7 +85,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Opinion piece",
         "International",
@@ -105,7 +107,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -136,7 +138,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Press release",
         "Webcast",
@@ -162,7 +164,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -185,7 +187,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -208,7 +210,7 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": []
     },
     {
@@ -223,7 +225,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "13 days old",
       "tags": [
         "Press release",
         "Webcast",
@@ -251,7 +253,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "Press release",
         "EU",
@@ -276,35 +278,13 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "Press release",
         "EU",
         "Ministry of Climate and Enterprise",
         "Energy",
         "Ebba Busch"
-      ]
-    },
-    {
-      "id": 190,
-      "title": "Pål Jonson to take part in EU Foreign Affairs Council defence minister configuration",
-      "summary": "On 12 May, EU defence ministers will meet in Brussels within the framework of the EU Foreign Affairs Council. Continued EU support to Ukraine, the situation in the Middle East and its implications for European defence and security, and strengthening European defence preparedness are on the agenda. Minister for Defence Pål Jonson will represent Sweden at the meeting.",
-      "title_original": "Pål Jonson to take part in EU Foreign Affairs Council defence minister configuration",
-      "summary_original": "On 12 May, EU defence ministers will meet in Brussels within the framework of the EU Foreign Affairs Council. Continued EU support to Ukraine, the situation in the Middle East and its implications for European defence and security, and strengthening European defence preparedness are on the agenda. Minister for Defence Pål Jonson will represent Sweden at the meeting.",
-      "link": "https://www.government.se/press-releases/2026/05/pal-jonson-to-take-part-in-eu-foreign-affairs-council-defence-minister-configuration/",
-      "date_display": "2026-05-11",
-      "date_iso": "2026-05-11T10:04:21+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Defence",
-      "type": "Official Information",
-      "age_tag": "11 days old",
-      "tags": [
-        "Press release",
-        "EU",
-        "Ministry of Defence",
-        "Pål Jonson",
-        "Military defence",
-        "International defence cooperation"
       ]
     }
   ]
