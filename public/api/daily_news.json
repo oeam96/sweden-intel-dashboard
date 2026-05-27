@@ -1,32 +1,17 @@
 {
-  "generated_at": "2026-05-25T13:37:21.524466+02:00",
-  "date": "2026-05-25",
-  "item_count": 13,
+  "generated_at": "2026-05-27T13:06:52.687022+02:00",
+  "date": "2026-05-27",
+  "item_count": 10,
   "items": [
     {
-      "id": 2,
-      "title": "Airplane crashes into paragliders in the Alps",
-      "summary": "A paraglider narrowly survived when a plane suddenly crashed into the sail during a flight over the Austrian Alps. The woman, who escaped with only a few bruises, captured the moment on film.",
-      "title_original": "Flygplan körde in i skärmflygare i Alperna",
-      "summary_original": "En skärmflygare överlevde med minsta marginal när ett flygplan plötsligt kraschade in i seglet under en flygning över österrikiska Alperna. Kvinnan, som klarade sig med bara några blåmärken, fångade ögonblicket på film.",
-      "link": "https://www.dn.se/varlden/flygplan-korde-in-i-skarmflygare-i-alperna/",
-      "date_display": "2026-05-25",
-      "date_iso": "2026-05-25T11:29:35+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 8,
-      "title": "They will lead Radio Aftonbladet",
-      "summary": "SVT profiler Alex Letic and crime reporter Linda Hjertén will lead Radio Aftonbladet's morning broadcasts. At the same time, SR's Caroline Kernen is recruited as new radio and podcast manager.",
-      "title_original": "De ska leda Radio Aftonbladet",
-      "summary_original": "SVT-profilen Alex Letic och kriminalreportern Linda Hjertén kommer att leda Radio Aftonbladets morgonsändningar. Samtidigt värvas SR:s Caroline Kernen som ny radio- och poddchef.",
-      "link": "https://www.svd.se/a/n1vG2J/radio-aftonbladet-aschberg-och-letic-bland-profilerna",
-      "date_display": "2026-05-25",
-      "date_iso": "2026-05-25T11:13:31+00:00",
+      "id": 15,
+      "title": "There is a clear conclusion about Lundsberg",
+      "summary": "There is one thing that is strange about SVT's \"Arvtagarna\". And it is that there has always been a conclusion. A conclusion for who committed the abuses in question.",
+      "title_original": "Finns ett tydligt facit om Lundsberg",
+      "summary_original": "Det finns en sak som är konstig med SVT:s ”Arvtagarna”. Och det är att det hela tiden funnits ett facit. Ett facit för vem som begått de aktuella övergreppen.",
+      "link": "https://www.svd.se/a/wrvV3L/lundsberg-varfor-hymlar-svt-med-facit-om-overgreppen",
+      "date_display": "2026-05-27",
+      "date_iso": "2026-05-27T10:58:49+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -36,14 +21,14 @@
       ]
     },
     {
-      "id": 26,
-      "title": "Ukraine develops its own glide bomb - will fly further",
-      "summary": "In order to avoid anti-aircraft defenses and reach enemy positions, the glide bombs of the war have been given wings. Now Ukraine has developed a first self-developed model - which will soon be put into use.",
-      "title_original": "Ukraina tar fram egen glidbomb – ska flyga längre",
-      "summary_original": "För att undvika luftvärn och nå fram till fiendens positioner har krigets glidbomber fått vingar. Nu har Ukraina tagit fram en första egenutvecklad modell – som snart tas i bruk.",
-      "link": "https://www.dn.se/varlden/ukraina-tar-fram-egen-glidbomb-ska-flyga-langre/",
-      "date_display": "2026-05-25",
-      "date_iso": "2026-05-25T11:03:26+00:00",
+      "id": 16,
+      "title": "The government's own climate investigator is snubbed by the Tidö parties",
+      "summary": "Higher tax on petrol and diesel and a higher reduction obligation. This is what Sweden needs to do to reach the climate goals by 2030, according to an investigation that was submitted to the government on Wednesday. Wrong way to go, believes climate minister Johan Britz (L).",
+      "title_original": "Regeringens egen klimatutredare nobbas av Tidöpartierna",
+      "summary_original": "Högre skatt på bensin och diesel och en höjd reduktionsplikt. Så behöver Sverige göra för att nå klimatmålen till 2030, enligt en utredning som överlämnades till regeringen på onsdagen. Fel väg att gå, anser klimatminister Johan Britz (L).",
+      "link": "https://www.dn.se/sverige/regeringens-egen-klimatutredare-nobbas-av-tidopartierna/",
+      "date_display": "2026-05-27",
+      "date_iso": "2026-05-27T10:58:35+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -51,7 +36,45 @@
       "tags": []
     },
     {
-      "id": 179,
+      "id": 17,
+      "title": "The key question – is Isak ready for the game?",
+      "summary": "The men's national team gathered in Stockholm on Wednesday ahead of this summer's soccer World Cup. One of the key questions is whether Alexander Isak is ready to play for the opener against Tunisia.",
+      "title_original": "Nyckelfrågan – är Isak redo för spel?",
+      "summary_original": "Herrlandslaget samlades i Stockholm på onsdagen inför sommarens fotbolls-VM. En av nyckelfrågorna är om Alexander Isak är spelklar till premiären mot Tunisien.",
+      "link": "https://www.svd.se/a/gkLr8L/sverige-samlas-infor-vm-nyckelfragan-handlar-om-alexander-isak",
+      "date_display": "2026-05-27",
+      "date_iso": "2026-05-27T10:57:55+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Sport"
+      ]
+    },
+    {
+      "id": 160,
+      "title": "Statement of the Ministers of Foreign Affairs of the Nordic- Baltic countries on Russia’s latest disinformation campaign",
+      "summary": "The Ministers of Foreign Affairs of Nordic-Baltic countries firmly reject Russia’s blatant disinformation campaign and false claims, supported by Belarus, following the airspace violations in the Nordic-Baltic region. We strongly condemn Russia’s threats of the use of force directed at Latvia and other countries in the region.",
+      "title_original": "Statement of the Ministers of Foreign Affairs of the Nordic- Baltic countries on Russia’s latest disinformation campaign",
+      "summary_original": "The Ministers of Foreign Affairs of Nordic-Baltic countries firmly reject Russia’s blatant disinformation campaign and false claims, supported by Belarus, following the airspace violations in the Nordic-Baltic region. We strongly condemn Russia’s threats of the use of force directed at Latvia and other countries in the region.",
+      "link": "https://www.government.se/statements/2026/05/statement-of-the-ministers-of-foreign-affairs-of-the-nordic--baltic-countries-on-russias-latest-disinformation-campaign/",
+      "date_display": "2026-05-25",
+      "date_iso": "2026-05-25T16:10:52+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "International",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "Statement",
+        "N5/NB8–cooperation on foreign and security policy"
+      ]
+    },
+    {
+      "id": 177,
       "title": "Maria Malmer Stenergard hosts meeting of NATO Ministers of Foreign Affairs",
       "summary": "On 21–22 May, Minister for Foreign Affairs Maria Malmer Stenergard will welcome Allies to a meeting of NATO Ministers of Foreign Affairs in Helsingborg.",
       "title_original": "Maria Malmer Stenergard hosts meeting of NATO Ministers of Foreign Affairs",
@@ -62,7 +85,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": [
         "Press release",
         "International",
@@ -74,7 +97,7 @@
       ]
     },
     {
-      "id": 180,
+      "id": 178,
       "title": "I'm the Foreign Minister of Sweden. Don't Overestimate Russia.",
       "summary": "Opinion piece by Minister for Foreign Affairs Maria Malmer Stenergard in The New York Times, 20 May 2026.",
       "title_original": "I'm the Foreign Minister of Sweden. Don't Overestimate Russia.",
@@ -85,7 +108,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Opinion piece",
         "International",
@@ -96,7 +119,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 180,
       "title": "Sweden and India broaden and deepen strategic cooperation",
       "summary": "On 17 May, Prime Minister Ulf Kristersson received Prime Minister of India Narendra Modi in Gothenburg. During the visit, the leaders held bilateral meetings and participated in discussions with European business leaders on innovation, climate and trade. HRH Crown Princess Victoria, Minister for Foreign Affairs Maria Malmer Stenergard, and India’s Minister for External Affairs Subrahmanyam Jaishankar also participated in the programme.",
       "title_original": "Sweden and India broaden and deepen strategic cooperation",
@@ -107,7 +130,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -127,7 +150,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 181,
       "title": "Strategic partnership between India and Sweden – cutting-edge collaboration with historical ties",
       "summary": "On 17 May, Prime Minister Ulf Kristersson received Prime Minister of India Narendra Modi in Gothenburg on the occasion of Sweden and India upgrading their bilateral relations to a strategic partnership. Mr Kristersson and Mr Modi also met with the President of the European Commission Ursula von der Leyen.",
       "title_original": "Strategic partnership between India and Sweden – cutting-edge collaboration with historical ties",
@@ -138,7 +161,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Press release",
         "Webcast",
@@ -153,7 +176,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 182,
       "title": "Joint Statement on the India–Sweden Summit",
       "summary": "Joint Statement on the India–Sweden Summit, ‘Establishment of a Strategic Partnership’ \nGothenburg, 17 May 2026",
       "title_original": "Joint Statement on the India–Sweden Summit",
@@ -164,7 +187,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -176,7 +199,7 @@
       ]
     },
     {
-      "id": 185,
+      "id": 183,
       "title": "The box of Tagore: a symbolic gift representing strong historical bonds",
       "summary": "At the invitation of the Prime Minister of Sweden, Ulf Kristersson, Shri Narendra Modi, the Honourable Prime Minister of the Republic of India, paid an official visit to Gothenburg, Sweden, on 17 May 2026. During the visit, Mr Modi was presented with a special gift symbolising the historic bonds between the two countries.",
       "title_original": "The box of Tagore: a symbolic gift representing strong historical bonds",
@@ -187,7 +210,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -196,95 +219,6 @@
         "Article",
         "Maria Malmer Stenergard",
         "Ulf Kristersson"
-      ]
-    },
-    {
-      "id": 186,
-      "title": "Minutes from the monetary policy meeting on 6 May 2026",
-      "summary": "Minutes from the monetary policy meeting on 6 May 2026",
-      "title_original": "Protokoll från det penningpolitiska mötet den 6 maj 2026",
-      "summary_original": "Protokoll från det penningpolitiska mötet den 6 maj 2026",
-      "link": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/protokoll-fran-det-penningpolitiska-motet-den-6-maj-2026/",
-      "date_display": "2026-05-13",
-      "date_iso": "2026-05-13T07:30:44+00:00",
-      "source": "Riksbanken",
-      "ministry": "Central Bank",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": []
-    },
-    {
-      "id": 187,
-      "title": "Ulf Kristersson to receive Prime Minister of India in Gothenburg",
-      "summary": "On 17 May, Prime Minister Ulf Kristersson will receive Prime Minister of India Narendra Modi in Gothenburg. During the visit, the leaders will hold bilateral meetings and participate in discussions with European business leaders on innovation and trade. Mr Kristersson and Mr Modi will also hold joint press statements, together with President of the European Commission Ursula von der Leyen. HRH The Crown Princess will also participate in the programme.",
-      "title_original": "Ulf Kristersson to receive Prime Minister of India in Gothenburg",
-      "summary_original": "On 17 May, Prime Minister Ulf Kristersson will receive Prime Minister of India Narendra Modi in Gothenburg. During the visit, the leaders will hold bilateral meetings and participate in discussions with European business leaders on innovation and trade. Mr Kristersson and Mr Modi will also hold joint press statements, together with President of the European Commission Ursula von der Leyen. HRH The Crown Princess will also participate in the programme.",
-      "link": "https://www.government.se/press-releases/2026/05/ulf-kristersson-to-receive-prime-minister-of-india-in-gothenburg/",
-      "date_display": "2026-05-12",
-      "date_iso": "2026-05-12T10:15:01+00:00",
-      "source": "Government.se",
-      "ministry": "Prime Minister's Office",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "Webcast",
-        "EU",
-        "International",
-        "Prime Minister's Office",
-        "Financial markets",
-        "Trade and investment promotion",
-        "Higher education, research and space.",
-        "Foreign and security policy",
-        "Innovation",
-        "Maria Malmer Stenergard",
-        "Ulf Kristersson"
-      ]
-    },
-    {
-      "id": 188,
-      "title": "Sweden organises international youth forum on gender equality and democracy in Belarus",
-      "summary": "On 11 May, the Ministry for Foreign Affairs, in cooperation with the Stockholm Centre for Eastern European Studies at the Swedish Institute of International Affairs, is organising a conference in Stockholm on youth and gender equality issues for a future democratic Belarus. The forum gathers youth representative of the Belarusian democratic movement and civil society representatives, decision-makers and experts from the EU and Sweden. The aim is to highlight the importance of young people’s political participation to the democratic development of Belarus.",
-      "title_original": "Sweden organises international youth forum on gender equality and democracy in Belarus",
-      "summary_original": "On 11 May, the Ministry for Foreign Affairs, in cooperation with the Stockholm Centre for Eastern European Studies at the Swedish Institute of International Affairs, is organising a conference in Stockholm on youth and gender equality issues for a future democratic Belarus. The forum gathers youth representative of the Belarusian democratic movement and civil society representatives, decision-makers and experts from the EU and Sweden. The aim is to highlight the importance of young people’s political participation to the democratic development of Belarus.",
-      "link": "https://www.government.se/press-releases/2026/05/sweden-organises-international-youth-forum-on-gender-equality-and-democracy-in-belarus/",
-      "date_display": "2026-05-11",
-      "date_iso": "2026-05-11T15:30:49+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "EU",
-        "International",
-        "Ministry for Foreign Affairs",
-        "International development cooperation",
-        "Democracy and human rights",
-        "Foreign and security policy",
-        "Jessica Rosencrantz",
-        "Benjamin Dousa"
-      ]
-    },
-    {
-      "id": 189,
-      "title": "Government moves forward with assignment on international power cables",
-      "summary": "The Government is now moving forward with an assignment for Svenska kraftnät, Sweden’s power grid authority, that allows for a planned renewal and upgrade of an electricity cable connection to Denmark to be put on hold. At the EU’s meeting of Energy Ministers in March, Swedish Minister for Energy, Business and Industry Ebba Busch announced that Sweden would halt new or upgraded electricity cable connections to continental Europe unless there was a shift in the focus of the legislation being negotiated in the European Commission’s European Grids Package.",
-      "title_original": "Government moves forward with assignment on international power cables",
-      "summary_original": "The Government is now moving forward with an assignment for Svenska kraftnät, Sweden’s power grid authority, that allows for a planned renewal and upgrade of an electricity cable connection to Denmark to be put on hold. At the EU’s meeting of Energy Ministers in March, Swedish Minister for Energy, Business and Industry Ebba Busch announced that Sweden would halt new or upgraded electricity cable connections to continental Europe unless there was a shift in the focus of the legislation being negotiated in the European Commission’s European Grids Package.",
-      "link": "https://www.government.se/press-releases/2026/05/government-moves-forward-with-assignment-on-international-power-cables/",
-      "date_display": "2026-05-11",
-      "date_iso": "2026-05-11T13:08:41+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Climate and Enterprise",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "EU",
-        "Ministry of Climate and Enterprise",
-        "Energy",
-        "Ebba Busch"
       ]
     }
   ]
