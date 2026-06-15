@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-13T12:15:16.808880+02:00",
-  "date": "2026-06-13",
-  "item_count": 12,
+  "generated_at": "2026-06-15T15:37:12.091882+02:00",
+  "date": "2026-06-15",
+  "item_count": 13,
   "items": [
     {
-      "id": 4,
-      "title": "The diversity of the Sápmi Triennale gives hope and delight",
-      "summary": "The Sápmi Triennial includes everything from innovative crafts to painting, video, animation, photography, textiles, ceramics and book art. Birgitta Rubin is delighted by the creativity and rich selection at the Kin museum for contemporary art in Kiruna.",
-      "title_original": "Sápmi-triennalens mångfald ger hopp och mersmak",
-      "summary_original": "Sápmi-triennalen innehåller allt från nyskapande hantverk till måleri, video, animation, foto, textil, keramik och bokkonst. Birgitta Rubin gläds åt kreativiteten och det rika utbudet på Kin museum för samtidskonst i Kiruna.",
-      "link": "https://www.dn.se/kultur/sapmi-triennalens-mangfald-ger-hopp-och-mersmak/",
-      "date_display": "2026-06-13",
-      "date_iso": "2026-06-13T09:59:20+00:00",
+      "id": 1,
+      "title": "Erik de la Reguera: Climate change is made invisible - to meet Trump",
+      "summary": "ÉVIAN. The last week of May was the hottest in living memory in France - and a new heat wave awaits next week. But ahead of the G7 meeting in Évian, host Emmanuel Macron has chosen to avoid the word \"climate change\" in all documents. All in order not to disturb Donald Trump.",
+      "title_original": "Erik de la Reguera: Klimatförändringarna osynliggörs – för att gå Trump till mötes",
+      "summary_original": "ÉVIAN. Sista veckan i maj var den hetaste i mannaminne i Frankrike – och i nästa vecka väntar en ny värmebölja. Men inför G7-mötet i Évian har värden Emmanuel Macron valt att undvika ordet ”klimatförändringar” i samtliga dokument. Allt för att inte störa Donald Trump.",
+      "link": "https://www.dn.se/varlden/erik-de-la-reguera-klimatforandringarna-osynliggors-for-att-ga-trump-till-motes/",
+      "date_display": "2026-06-15",
+      "date_iso": "2026-06-15T13:25:17+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -19,42 +19,62 @@
       "tags": []
     },
     {
-      "id": 6,
-      "title": "Trump's name removed",
-      "summary": "Donald Trump's name has been removed from the Kennedy Center. Celebrating people gathered outside the cultural center in Washington to watch as the sign was taken down. As early as May 29, it was announced that President Donald Trump's decision to partially rename the historic cultural center after himself violated the law - only Congress can decide such a thing. The president appealed, but it was rejected by a court on Friday that has also rejected Trump's plans to close the cultural center for renovation. A thunderstorm delayed the work, but early Saturday local time, staff began taking down the letters in Trump's name, all while hundreds of onlookers followed the work in cheers. Some of those gathered repeatedly started the chant \"Take down the sign!\".",
-      "title_original": "Trumps namn borttaget",
-      "summary_original": "Donald Trumps namn har tagits bort från Kennedy Center. Firande människor samlades utanför kulturhuset i Washington för att se på när skylten togs ned. Redan den 29 maj kom beskedet att president Donald Trumps beslut att delvis döpa om det anrika kulturhuset efter sig själv bröt mot lagen – bara kongressen kan bestämma något sådant. Presidenten överklagade, men det avslogs av en domstol under fredagen som också har underkänt Trumps planer på att stänga kulturhuset för renovering. Ett åskväder försenade arbetet men tidigt på lördagen, lokal tid, började personal ta ner bokstäverna i Trumps namn, allt medan ett hundratal åskådare följde arbetet under jubel. Några av dem som samlats drog flera gånger igång ramsan ”Ta ner skylten!”.",
-      "link": "https://www.tv4.se/artikel/7I1dtzntCszcpo9MTZD1SW/trumps-namn-borttaget",
-      "date_display": "2026-06-13",
-      "date_iso": "2026-06-13T09:52:02+00:00",
+      "id": 4,
+      "title": "The message from Norway: Haaland with \"World Cup goal of the year\" - in training",
+      "summary": "Norway opens the World Cup with a match against Iraq at midnight on the night of Wednesday. According to national team captain Ståle Solbakken, Erling Braut Haaland is in great form. - Would have been the goal of the year in the World Cup, if it had been broadcast, he says of the superstar's goal in training.",
+      "title_original": "Beskedet från Norge: Haaland med ”årets VM-mål” – på träning",
+      "summary_original": "Norge inleder VM med match mot Irak vid midnatt natten mot onsdag. Enligt förbundskapten Ståle Solbakken är Erling Braut Haaland i storform. – Hade varit årets mål i VM, om det hade sänts, säger han om superstjärnans fullträff på träning.",
+      "link": "https://www.dn.se/sport/beskedet-fran-norge-haaland-med-arets-vm-mal-pa-traning/",
+      "date_display": "2026-06-15",
+      "date_iso": "2026-06-15T13:01:42+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 5,
+      "title": "The crime expert: \"Serious and severe sentence\"",
+      "summary": "Describes the decision as a middle ground • “A hard blow”",
+      "title_original": "Krimexperten: ”Allvarlig och sträng dom”",
+      "summary_original": "Beskriver beslutet som en medelväg • ”Ett hårt slag”",
+      "link": "https://www.tv4.se/artikel/2ALpJvEV3Fp0Htp9ngKkND/krimexperten-hoiby-blir-hoerd-pa-vaesentliga-punkter",
+      "date_display": "2026-06-15",
+      "date_iso": "2026-06-15T13:00:29+00:00",
       "source": "TV4 Nyheterna",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Nyheterna",
-        "/utrikes",
-        "/donald-trump",
-        "/usa"
+        "Utrikesnyheter",
+        "/utrikes"
       ]
     },
     {
-      "id": 7,
-      "title": "Sweden's challenge: Tunisia conceded zero goals in the World Cup qualifiers",
-      "summary": "Sweden's biggest challenge will be to get holes in Tunisia's defence. The North African team made it to the World Cup without conceding a single goal. Here is everything you need to know about the Swedish premier opponent.",
-      "title_original": "Sveriges utmaning: Tunisien släppte in noll mål i VM-kvalet",
-      "summary_original": "Sveriges största utmaning blir att få hål på Tunisiens försvar. Det nordafrikanska laget tog sig till fotbolls-VM utan att släppa in ett enda mål. Här är allt du behöver veta om den svenska premiärmotståndaren.",
-      "link": "https://www.dn.se/sport/sveriges-utmaning-tunisien-slappte-in-noll-mal-i-vm-kvalet/",
-      "date_display": "2026-06-13",
-      "date_iso": "2026-06-13T09:49:18+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
+      "id": 36,
+      "title": "Pål Jonson to attend meeting of NATO Ministers of Defence",
+      "summary": "On Thursday 18 June, Minister for Defence Pål Jonson will attend the meeting of NATO Ministers of Defence in Brussels.",
+      "title_original": "Pål Jonson to attend meeting of NATO Ministers of Defence",
+      "summary_original": "On Thursday 18 June, Minister for Defence Pål Jonson will attend the meeting of NATO Ministers of Defence in Brussels.",
+      "link": "https://www.government.se/press-releases/2026/06/pal-jonson-to-attend-meeting-of-nato-ministers-of-defence/",
+      "date_display": "2026-06-15",
+      "date_iso": "2026-06-15T11:00:21+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry of Defence",
+      "type": "Official Information",
       "age_tag": "today",
-      "tags": []
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry of Defence",
+        "NATO",
+        "Pål Jonson",
+        "Military defence"
+      ]
     },
     {
-      "id": 143,
+      "id": 169,
       "title": "Maria Malmer Stenergard receives Panama’s Minister of Foreign Affairs Javier Martínez-Acha Vásquez",
       "summary": "On 11 June, Sweden’s Minister for Foreign Affairs Maria Malmer Stenergard received Panama’s Minister of Foreign Affairs Javier Martínez-Acha Vásquez. Topics of discussion for the meeting included current developments in Panama and internationally, digitalisation issues and trade.",
       "title_original": "Maria Malmer Stenergard receives Panama’s Minister of Foreign Affairs Javier Martínez-Acha Vásquez",
@@ -65,7 +85,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "3 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -77,7 +97,7 @@
       ]
     },
     {
-      "id": 176,
+      "id": 179,
       "title": "Joint statement on 10 June 2026",
       "summary": "Albania, Australia, Belgium, Bulgaria, Canada, Czechia, Denmark, Estonia, France, Finland, Germany, Ireland, Latvia, Lithuania, Netherlands, New Zealand, North Macedonia, Norway, Portugal, Sweden, United Kingdom, and the United States of America condemn the lethal plotting and other malign actions in Europe, North America and Australia by Iran’s Islamic Revolutionary Guard Corps-Intelligence Organisation, Quds Force and Ministry of Intelligence and Security, including those against Iranian dissidents, journalists and Jewish and Israeli communities and interests. We stand united in our determination to protect our countries and our people against these threats. The Islamic Republic of Iran must halt these actions now.",
       "title_original": "Joint statement on 10 June 2026",
@@ -88,7 +108,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -98,7 +118,7 @@
       ]
     },
     {
-      "id": 177,
+      "id": 180,
       "title": "State aid application for nuclear power project outside Gävle",
       "summary": "The Government has received another application for state aid to build new nuclear power in Sweden. The application was submitted by Blykalla, a company seeking to establish a new nuclear power plant in Norrsundet, outside Gävle. This is the second application for state aid received by the Government.",
       "title_original": "State aid application for nuclear power project outside Gävle",
@@ -109,7 +129,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Finance",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "EU",
@@ -133,7 +153,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "6 days old",
       "tags": [
         "Press release",
         "International",
@@ -154,7 +174,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "6 days old",
       "tags": [
         "Press release",
         "International",
@@ -176,7 +196,7 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": []
     },
     {
@@ -191,7 +211,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Press release",
         "International",
@@ -204,7 +224,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 187,
       "title": "Maria Malmer Stenergard met with Ukrainian Minister of Foreign Affairs Andrii Sybiha in Kristianstad",
       "summary": "On Wednesday 20 May, Minister for Foreign Affairs Maria Malmer Stenergard travelled to Kristianstad along with Ukrainian Minister of Foreign Affairs Andrii Sybiha for a bilateral meeting, a walkabout and a ceremony. Mr Sybiha then undertook other visits in southern Sweden before attending the meeting of NATO Ministers of Foreign Affairs in Helsingborg.",
       "title_original": "Maria Malmer Stenergard met with Ukrainian Minister of Foreign Affairs Andrii Sybiha in Kristianstad",
@@ -215,7 +235,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -226,7 +246,7 @@
       ]
     },
     {
-      "id": 187,
+      "id": 188,
       "title": "The monetary policy meeting in September takes place in Gothenburg",
       "summary": "The Riksbank's executive board holds its monetary policy meeting in Gothenburg on 23 September. The meeting takes place in the premises of the County Administrative Board of Västra Götaland. The decision is announced the following day, 24 September at 9.30am. On the same day, at 10:30 a.m., a press conference about the decision will be held at the West Swedish Chamber of Commerce at Parkgatan 49 in Gothenburg.",
       "title_original": "Det penningpolitiska mötet i september äger rum i Göteborg",
@@ -237,7 +257,7 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": []
     }
   ]
