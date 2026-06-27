@@ -1,57 +1,125 @@
 {
-  "generated_at": "2026-06-25T12:27:17.530839+02:00",
-  "date": "2026-06-25",
-  "item_count": 20,
+  "generated_at": "2026-06-27T11:40:28.579639+02:00",
+  "date": "2026-06-27",
+  "item_count": 22,
   "items": [
     {
-      "id": 4,
-      "title": "Busch: \"We would never start talking sod!\"",
-      "summary": "The government has now taken a new step on the road towards nuclear power construction. Ulf Kristersson believes that the first physical sod can be taken in 2027 - something Ebba Busch opposes directly: \"We would never start talking about sod!\"",
-      "title_original": "Busch: ”Vi skulle aldrig börjat prata spadtag!”",
-      "summary_original": "Regeringen har nu tagit ett nytt steg på vägen mot kärnkraftsbygget. Ulf Kristersson tror att det första fysiska spadtaget kan tas 2027 – något Ebba Busch vänder sig emot direkt: ”Vi skulle aldrig börjat prata spadtag!”",
-      "link": "https://www.svd.se/a/XMWaOn/regeringen-nytt-steg-pa-vagen-mot-karnkraft",
-      "date_display": "2026-06-25",
-      "date_iso": "2026-06-25T10:18:35+00:00",
+      "id": 6,
+      "title": "The cellist at the Concert Hall wishes the audience a terrible moment",
+      "summary": "One of the great mourning works of romanticism imbues the words of the climate crisis with desperation, sadness and discomfort. DN's Anna Bjermqvist sees a literary and musical performance with Björn Kjellman as narrator.",
+      "title_original": "Cellisten på Konserthuset önskar publiken en fruktansvärd stund",
+      "summary_original": "Ett av romantikens stora sorgeverk tankar klimatkrisens ord med desperation, sorg och obehag. DN:s Anna Bjermqvist ser en litterär och musikalisk föreställning med Björn Kjellman som berättare.",
+      "link": "https://www.dn.se/kultur/cellisten-pa-konserthuset-onskar-publiken-en-fruktansvard-stund/",
+      "date_display": "2026-06-27",
+      "date_iso": "2026-06-27T09:23:05+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 7,
+      "title": "The incendiary speech lifted Sweden after the clapping: \"I was moved\"",
+      "summary": "FRISCO. 5-1 against Tunisia, 1-5 against the Netherlands and 1-1 against Japan - three games with completely different outcomes. Sweden appears to be one of the World Cup's most difficult teams to assess. Where do we really have Graham Potter's national team before the round of 16 against France?",
+      "title_original": "Brandtalet lyfte Sverige efter genomklappningen: ”Jag blev rörd”",
+      "summary_original": "FRISCO. 5–1 mot Tunisien, 1–5 mot Nederländerna och 1–1 mot Japan – tre matcher med totalt skilda utfall. Sverige förefaller vara ett av fotbolls-VM:s mest svårbedömda lag. Var har vi egentligen Graham Potters landslag inför 16-delsfinalen mot Frankrike?",
+      "link": "https://www.dn.se/sport/brandtalet-lyfte-sverige-efter-genomklappningen-jag-blev-rord/",
+      "date_display": "2026-06-27",
+      "date_iso": "2026-06-27T09:01:45+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 15,
+      "title": "Dooms Sweden: \"Vulnerable and slow\"",
+      "summary": "With a vulnerable and slow defense, Sweden is not exactly a \"great power\". That is the verdict of the French media before the round of 16 in the World Cup. But some blue-and-yellow players are still singled out as potential threats - including \"le bon milieu\".",
+      "title_original": "Dömer ut Sverige: ”Sårbart och långsamt”",
+      "summary_original": "Med ett sårbart och långsamt försvar är Sverige inte direkt någon ”stormakt”. Det är franska mediers dom inför sextondelsfinalen i fotbolls-VM. Men några blågula spelare pekas ändå ut som potentiella hot – däribland ”le bon milieu”.",
+      "link": "https://www.svd.se/a/aJ3eyM/sverige-moter-frankrike-i-sextondelsfinalen-i-fotbolls-vm",
+      "date_display": "2026-06-27",
+      "date_iso": "2026-06-27T08:35:10+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Politik"
+        "Sport"
       ]
     },
     {
-      "id": 5,
-      "title": "Fixed situations Sweden's chance against Japan: \"Could be important\"",
-      "summary": "FRISCO. Japan appears to be the clear favorite against Sweden. Something that can, however, speak for Blue Yellow? Fixed situations. - It may very well become an important factor, says Gustaf Lagerbielke.",
-      "title_original": "Fasta situationer Sveriges chans mot Japan: ”Kan bli viktigt”",
-      "summary_original": "FRISCO. Japan framstår som klar favorit mot Sverige. Något som däremot kan tala för Blågult? Fasta situationer. – Det kan mycket väl bli en viktig faktor, säger Gustaf Lagerbielke.",
-      "link": "https://www.dn.se/sport/fasta-situationer-sveriges-chans-mot-japan-kan-bli-viktigt/",
-      "date_display": "2026-06-25",
-      "date_iso": "2026-06-25T10:17:36+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
+      "id": 135,
+      "title": "Joint Statement from the International Contact Group for the Great Lakes (ICG)",
+      "summary": "Belgium, Denmark, Canada, the European Union, France, Germany, the Netherlands, Sweden, Switzerland, the United Kingdom and the United States of America, as members of the International Contact Group for the Great Lakes (ICG), chaired by Sweden, issue the following statement:",
+      "title_original": "Joint Statement from the International Contact Group for the Great Lakes (ICG)",
+      "summary_original": "Belgium, Denmark, Canada, the European Union, France, Germany, the Netherlands, Sweden, Switzerland, the United Kingdom and the United States of America, as members of the International Contact Group for the Great Lakes (ICG), chaired by Sweden, issue the following statement:",
+      "link": "https://www.government.se/statements/2026/06/joint-statement-from-the-international-contact-group-for-the-great-lakes-icg/",
+      "date_display": "2026-06-26",
+      "date_iso": "2026-06-26T13:51:36+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
       "age_tag": "today",
-      "tags": []
+      "tags": [
+        "International",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "Statement"
+      ]
     },
     {
-      "id": 6,
-      "title": "The government has hammered out a secret agreement on new nuclear power",
-      "summary": "The government has signed an agreement with the nuclear power company Videberg Kraft on the support for building new nuclear power. The details are still secret. What the guaranteed electricity price will be has not been fully negotiated, but according to the company, \"a range\" is specified in the agreement.",
-      "title_original": "Regeringen har klubbat hemligt avtal om ny kärnkraft",
-      "summary_original": "Regeringen har skrivit ett avtal med kärnkraftsbolaget Videberg Kraft om stödet för att bygga ny kärnkraft. Detaljerna är än så länge hemliga. Vad det garanterade elpriset blir är inte färdigförhandlat, men enligt bolaget anges ”ett spann” i avtalet.",
-      "link": "https://www.dn.se/sverige/regeringen-har-klubbat-hemligt-avtal-om-ny-karnkraft/",
-      "date_display": "2026-06-25",
-      "date_iso": "2026-06-25T10:15:36+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
+      "id": 143,
+      "title": "Sweden takes next major step towards new nuclear power",
+      "summary": "The Government has decided that the state will become a shareholder in Videberg Kraft AB, which plans to build nuclear reactors at Ringhals. The Swedish state, Vattenfall AB and Industrikraft i Sverige AB have concluded a shareholders’ agreement on the management of the company. The state’s shareholding will be 60 per cent, while Vattenfall and Industrikraft will each hold 20 per cent. The state has also negotiated the principal terms and conditions for state aid to the company.",
+      "title_original": "Sweden takes next major step towards new nuclear power",
+      "summary_original": "The Government has decided that the state will become a shareholder in Videberg Kraft AB, which plans to build nuclear reactors at Ringhals. The Swedish state, Vattenfall AB and Industrikraft i Sverige AB have concluded a shareholders’ agreement on the management of the company. The state’s shareholding will be 60 per cent, while Vattenfall and Industrikraft will each hold 20 per cent. The state has also negotiated the principal terms and conditions for state aid to the company.",
+      "link": "https://www.government.se/press-releases/2026/06/sweden-takes-next-major-step-towards-new-nuclear-power/",
+      "date_display": "2026-06-26",
+      "date_iso": "2026-06-26T08:51:59+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry of Finance",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "EU",
+        "Ministry of Finance",
+        "Energy",
+        "Financial markets",
+        "Central government budget",
+        "Niklas Wykman",
+        "Government’s priorities",
+        "Nuclear financing"
+      ]
     },
     {
-      "id": 23,
+      "id": 162,
+      "title": "Sweden strengthens Ukraine’s energy supply ahead of winter",
+      "summary": "Last winter, Ukraine’s electrical grid and power plants were intensively attacked by Russia. Ukraine must now make extensive efforts to ensure the energy supply for the coming winter. The Swedish Government has therefore approved a new support package for Ukraine worth approximately SEK 1.5 billion to support the country’s energy sector in 2026. It is expected to contribute to preparation through repairs, installation of new energy production, material support and enhanced nuclear safety.",
+      "title_original": "Sweden strengthens Ukraine’s energy supply ahead of winter",
+      "summary_original": "Last winter, Ukraine’s electrical grid and power plants were intensively attacked by Russia. Ukraine must now make extensive efforts to ensure the energy supply for the coming winter. The Swedish Government has therefore approved a new support package for Ukraine worth approximately SEK 1.5 billion to support the country’s energy sector in 2026. It is expected to contribute to preparation through repairs, installation of new energy production, material support and enhanced nuclear safety.",
+      "link": "https://www.government.se/press-releases/2026/06/sweden-strengthens-ukraines-energy-supply-ahead-of-winter/",
+      "date_display": "2026-06-25",
+      "date_iso": "2026-06-25T13:53:26+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry for Foreign Affairs",
+        "International development cooperation",
+        "Foreign and security policy",
+        "Sweden's support to Ukraine",
+        "Benjamin Dousa"
+      ]
+    },
+    {
+      "id": 166,
       "title": "Ulf Kristersson to hold joint press conference with Prime Minister of Poland on bilateral submarine cooperation",
       "summary": "On Monday 29 June, Prime Minister Ulf Kristersson will travel with several ministers to Gdynia, Poland for intergovernmental consultations. The focus will be on strengthened bilateral cooperation between Sweden and Poland, specifically with regard to regional security and defence. Mr Kristersson and Prime Minister of Poland Donald Tusk will hold a joint press conference during which they will announce a new development in the countries’ bilateral submarine cooperation.",
       "title_original": "Ulf Kristersson to hold joint press conference with Prime Minister of Poland on bilateral submarine cooperation",
@@ -62,7 +130,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "1 day old",
       "tags": [
         "Press release",
         "EU",
@@ -83,7 +151,7 @@
       ]
     },
     {
-      "id": 35,
+      "id": 168,
       "title": "A cloud policy for Sweden – for increased security, efficiency and innovation in public administration",
       "summary": "The purpose of this policy for the use of cloud services is to contribute to increased security, efficiency and innovation in public administration.",
       "title_original": "A cloud policy for Sweden – for increased security, efficiency and innovation in public administration",
@@ -94,7 +162,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Finance",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "Information material",
         "EU",
@@ -106,7 +174,7 @@
       ]
     },
     {
-      "id": 140,
+      "id": 177,
       "title": "Focus on Nordic countries’ joint security of supply as representatives meet in Visby",
       "summary": "Together, the Nordic countries have stronger capability to ensure access to essential goods and services in peacetime crises, security-related crisis situations and, ultimately, war. On 24 June, Minister for Civil Defence Carl-Oskar Bohlin met with representatives of several Nordic countries.",
       "title_original": "Focus on Nordic countries’ joint security of supply as representatives meet in Visby",
@@ -117,7 +185,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "Press release",
         "International",
@@ -130,7 +198,7 @@
       ]
     },
     {
-      "id": 145,
+      "id": 178,
       "title": "Sweden’s strategy for a peaceful, secure and sustainable Arctic",
       "summary": "The overarching and long-term objective of Sweden’s Arctic policy is a peaceful and secure Arctic, with sustainable, robust and attractive communities and reduced environmental and climate impact.",
       "title_original": "Sweden’s strategy for a peaceful, secure and sustainable Arctic",
@@ -141,7 +209,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "Legal document",
         "International",
@@ -150,7 +218,7 @@
       ]
     },
     {
-      "id": 154,
+      "id": 181,
       "title": "Minutes from the monetary policy meeting on 16 June 2026",
       "summary": "Minutes from the monetary policy meeting on 16 June 2026",
       "title_original": "Protokoll från det penningpolitiska mötet den 16 juni 2026",
@@ -161,11 +229,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": []
     },
     {
-      "id": 170,
+      "id": 186,
       "title": "Recipients of 2026 Government Award for Voluntary Efforts in Support of Ukraine",
       "summary": "Yesterday, Minister for International Development Cooperation and Foreign Trade Benjamin Dousa has presented the Government’s annual award for Swedish volunteer projects in support of Ukraine. The 2026 recipients are Elly Reinolds and OperationChange.",
       "title_original": "Recipients of 2026 Government Award for Voluntary Efforts in Support of Ukraine",
@@ -176,7 +244,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "International",
@@ -187,7 +255,7 @@
       ]
     },
     {
-      "id": 178,
+      "id": 187,
       "title": "Sweden joins special tribunal and international claims commission for Ukraine",
       "summary": "The Government has decided that Sweden will join the Special Tribunal for the Crime of Aggression against Ukraine and the International Claims Commission for Ukraine. Demanding accountability for Russia’s crimes against Ukraine is an important priority for the Swedish Government. The aim is to ensure redress and justice for Ukraine and its people.",
       "title_original": "Sweden joins special tribunal and international claims commission for Ukraine",
@@ -198,7 +266,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "International",
@@ -209,7 +277,7 @@
       ]
     },
     {
-      "id": 179,
+      "id": 188,
       "title": "Government receives state aid application for nuclear power project outside Malmö",
       "summary": "The Government has received another application for state aid to build new nuclear power reactors in Sweden. The application was submitted by Nordic Baseload Power for a project at Barsebäck in Kävlinge outside Malmö. This is the fourth such application received by the Government.",
       "title_original": "Government receives state aid application for nuclear power project outside Malmö",
@@ -220,7 +288,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Finance",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "EU",
@@ -233,7 +301,7 @@
       ]
     },
     {
-      "id": 185,
+      "id": 189,
       "title": "A Swedish Strategy for Biodiversity and Ecosystem Services",
       "summary": "The report \"A Swedish Strategy for Biodiversity and Ecosystem Services\" aims to halt and reverse the loss of biodiversity in Sweden. It  is Sweden’s contribution to the United Nations Convention on Biological Diversity (CBD) and the Kunming–Montreal Framework for biodiversity.",
       "title_original": "A Swedish Strategy for Biodiversity and Ecosystem Services",
@@ -244,7 +312,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Report",
         "International",
@@ -254,7 +322,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 190,
       "title": "The policy rate remains unchanged at 1.75 percent",
       "summary": "Inflation in Sweden is low and the economic situation is somewhat weaker than normal. At the same time, the supply disruptions linked to the war in the Middle East have led to increased inflationary pressure and the risks of inflation becoming too high have increased. The management assesses that it is well balanced to now leave the key interest rate unchanged at 1.75 percent, but the probability that the interest rate will be raised later this year has increased compared to the assessment in March.",
       "title_original": "Styrräntan oförändrad på 1,75 procent",
@@ -265,11 +333,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": []
     },
     {
-      "id": 187,
+      "id": 191,
       "title": "Government receives new state aid application for nuclear power",
       "summary": "A new application for state aid to build nuclear power reactors has been submitted to the Government. The application was submitted by Studsvik, which is seeking to establish reactors in the municipalities of Nyköping and Valdermarsvik. This is the third application for state aid received by the Government.",
       "title_original": "Government receives new state aid application for nuclear power",
@@ -280,7 +348,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Finance",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "EU",
@@ -293,7 +361,7 @@
       ]
     },
     {
-      "id": 188,
+      "id": 192,
       "title": "US–Sweden Cancer Summit focuses on closer cooperation",
       "summary": "On 9 June, leading researchers, decision-makers, healthcare actors and patient organisations from Sweden and the US gathered in Stockholm for the US–Sweden Cancer Summit 2026: Metastasis – from mechanism to cure.",
       "title_original": "US–Sweden Cancer Summit focuses on closer cooperation",
@@ -304,7 +372,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Health and Social Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "International",
         "Ministry of Health and Social Affairs",
@@ -315,7 +383,7 @@
       ]
     },
     {
-      "id": 189,
+      "id": 193,
       "title": "Inauguration of Ukraine’s Unity Hub in Sweden",
       "summary": "On 15 June, a hub for Ukrainians in Sweden is being inaugurated. The Hub is a new meeting place that will provide support, guidance and information to Ukrainians in Sweden. Minister for Migration Johan Forssell will attend the inauguration together with Deputy Minister of Social Policy, Family and Unity of Ukraine for European Integration Ilona Havronska and representatives of the International Centre for Migration Policy Development (ICMPD), Swedish government agencies, civil society and the Ukrainian diaspora.",
       "title_original": "Inauguration of Ukraine’s Unity Hub in Sweden",
@@ -326,7 +394,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Justice",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "EU",
@@ -339,7 +407,7 @@
       ]
     },
     {
-      "id": 190,
+      "id": 194,
       "title": "New support package for democratic development in Eastern Europe",
       "summary": "The Government has presented a new support package with a focus on democracy and strengthened civil society in Eastern Europe for SEK 30 million for 2026–2028, of which SEK 17 million is earmarked for 2026. The support includes well-established civil society organisations in Europe, with which Sweden has had excellent cooperation over a long time.",
       "title_original": "New support package for democratic development in Eastern Europe",
@@ -350,7 +418,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "International",
@@ -361,7 +429,7 @@
       ]
     },
     {
-      "id": 191,
+      "id": 195,
       "title": "Sweden provides SEK 120 million to WHO with focus on Ebola outbreak in Democratic Republic of the Congo",
       "summary": "Sweden is providing SEK 120 million to support the World Health Organization’s work to achieve better global health, which is of great importance to global health security and people in crisis-affected areas. The WHO’s role is of vital importance and central to how the ongoing Ebola outbreak in the Democratic Republic of the Congo (DRC) is handled.",
       "title_original": "Sweden provides SEK 120 million to WHO with focus on Ebola outbreak in Democratic Republic of the Congo",
@@ -372,7 +440,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "International",
@@ -384,7 +452,7 @@
       ]
     },
     {
-      "id": 192,
+      "id": 196,
       "title": "Pål Jonson to attend meeting of NATO Ministers of Defence",
       "summary": "On Thursday 18 June, Minister for Defence Pål Jonson will attend the meeting of NATO Ministers of Defence in Brussels.",
       "title_original": "Pål Jonson to attend meeting of NATO Ministers of Defence",
@@ -395,7 +463,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "International",
@@ -403,29 +471,6 @@
         "NATO",
         "Pål Jonson",
         "Military defence"
-      ]
-    },
-    {
-      "id": 193,
-      "title": "Maria Malmer Stenergard receives Panama’s Minister of Foreign Affairs Javier Martínez-Acha Vásquez",
-      "summary": "On 11 June, Sweden’s Minister for Foreign Affairs Maria Malmer Stenergard received Panama’s Minister of Foreign Affairs Javier Martínez-Acha Vásquez. Topics of discussion for the meeting included current developments in Panama and internationally, digitalisation issues and trade.",
-      "title_original": "Maria Malmer Stenergard receives Panama’s Minister of Foreign Affairs Javier Martínez-Acha Vásquez",
-      "summary_original": "On 11 June, Sweden’s Minister for Foreign Affairs Maria Malmer Stenergard received Panama’s Minister of Foreign Affairs Javier Martínez-Acha Vásquez. Topics of discussion for the meeting included current developments in Panama and internationally, digitalisation issues and trade.",
-      "link": "https://www.government.se/articles/2026/06/maria-malmer-stenergard-receives-panamas-minister-of-foreign-affairs-javier-martinez-acha-vasquez/",
-      "date_display": "2026-06-12",
-      "date_iso": "2026-06-12T11:45:56+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "International",
-        "Ministry for Foreign Affairs",
-        "Trade and investment promotion",
-        "Digital policy",
-        "Article",
-        "Innovation",
-        "Maria Malmer Stenergard"
       ]
     }
   ]
