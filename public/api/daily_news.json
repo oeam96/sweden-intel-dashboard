@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-09T12:40:33.820846+02:00",
-  "date": "2026-07-09",
-  "item_count": 21,
+  "generated_at": "2026-07-11T11:10:44.764152+02:00",
+  "date": "2026-07-11",
+  "item_count": 20,
   "items": [
     {
       "id": 1,
-      "title": "Government opens toll roads: \"Call it system change\"",
-      "summary": "Some new motorways may in the future be paid for directly by those who use them. With two new decisions, the government opens up more ways to plan for infrastructure where a state company is allowed to compete with the Swedish Transport Administration. - Feel free to call it a system change, much like both Denmark and Norway did a long time ago, says Minister Andreas Carlson (KD).",
-      "title_original": "Regeringen öppnar för betalvägar: ”Kalla det gärna systemskifte”",
-      "summary_original": "Vissa nya bilvägar kan i framtiden betalas direkt av dem som använder dem. Med två nya beslut öppnar regeringen för fler sätt att planera för infrastruktur där ett statligt bolag får konkurrera med Trafikverket. – Kalla det gärna ett systemskifte, ungefär som både Danmark och Norge gjort för länge sedan, säger ministern Andreas Carlson (KD).",
-      "link": "https://www.dn.se/ekonomi/regeringen-oppnar-for-betalvagar-kalla-det-garna-systemskifte/",
-      "date_display": "2026-07-09",
-      "date_iso": "2026-07-09T10:35:31+00:00",
+      "title": "Milly, 8 years old, managed the tough summit tour: \"Body hurts afterwards\"",
+      "summary": "Milly Gudding, age 8, from Molkom took the toughest route up Kebnekaise. Her alpine-trained uncle led the expedition, which will be a summer holiday memory for life. - It feels cool, she says.",
+      "title_original": "Milly, 8 år, klarade tuffa toppturen: ”Ont i kroppen efteråt”",
+      "summary_original": "Milly Gudding, 8 år, från Molkom tog den tuffaste vägen upp på Kebnekaise. Hennes alpinutbildade farbror ledde expeditionen som blir ett sommarlovsminne för livet. – Det känns coolt, säger hon.",
+      "link": "https://www.dn.se/sverige/milly-8-ar-klarade-tuffa-toppturen-ont-i-kroppen-efterat/",
+      "date_display": "2026-07-11",
+      "date_iso": "2026-07-11T09:03:15+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -19,41 +19,81 @@
       "tags": []
     },
     {
-      "id": 2,
-      "title": "The state can take over responsibility for forensic psychiatry",
-      "summary": "Forensic psychiatry has long been overcrowded, which has led, among other things, to convicts being released while waiting for a place. An investigation is now being added into how the state can fully or partially take over responsibility for care. - We are preparing for the biggest reform ever in forensic psychiatry, says Minister of Social Affairs Jakob Forssmed (KD).",
-      "title_original": "Staten kan ta över ansvar för rättspsykiatrin",
-      "summary_original": "Rättspsykiatrin har länge varit överfull, vilket bland annat lett till att dömda släppts ut i väntan på en plats. Nu tillsätts en utredning om hur staten helt eller delvis kan ta över ansvaret för vården. – Vi förbereder för den största reformen någonsin i rättspsykiatrin, säger socialminister Jakob Forssmed (KD).",
-      "link": "https://www.svd.se/a/e7OdGQ/staten-kan-ta-over-ansvar-for-rattspsykiatrin",
-      "date_display": "2026-07-09",
-      "date_iso": "2026-07-09T10:33:25+00:00",
-      "source": "Svenska Dagbladet (SvD)",
+      "id": 4,
+      "title": "Several mountain rescues on Kebnekaise: \"Prepare the hike properly\"",
+      "summary": "Kebnekaise attracts many hikers this summer. In the past week, several people in need have needed help. The mountain rescue warns of a lack of preparation. - I have seen people who are going to climb Kebnekaise with sneakers, gym shoes and a t-shirt, says Stefan Källström, business developer for the mountain rescue in Norrbotten.",
+      "title_original": "Flera fjällräddningar på Kebnekaise: ”Förbered vandringen ordentligt”",
+      "summary_original": "Kebnekaise lockar många vandrare i sommar. Den senaste veckan har flera nödställda behövt hjälp. Fjällräddningen varnar för bristande förberedelser. – Jag har varit med om människor som ska bestiga Kebnekaise med sneakers, gympabrallor och t-shirt, säger Stefan Källström, verksamhetsutvecklare för fjällräddningen i Norrbotten.",
+      "link": "https://www.dn.se/sverige/flera-fjallraddningar-pa-kebnekaise-forbered-vandringen-ordentligt/",
+      "date_display": "2026-07-11",
+      "date_iso": "2026-07-11T09:01:20+00:00",
+      "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
-      "tags": [
-        "Sverige"
-      ]
+      "tags": []
     },
     {
-      "id": 7,
-      "title": "Record heat in Western Europe in June",
-      "summary": "Last month's heatwave produced the hottest June on record in Western Europe, according to Copernicus, the EU's environmental monitoring satellite system.",
-      "title_original": "Rekordvärme i Västeuropa i juni",
-      "summary_original": "Värmeböljan förra månaden gav den varmaste junimånaden hittills i Västeuropa, enligt Copernicus, EU:s satellitsystem för miljöövervakning.",
-      "link": "https://www.svd.se/a/oEw7nB/rekordvarme-i-vasteuropa-i-juni",
-      "date_display": "2026-07-09",
-      "date_iso": "2026-07-09T10:16:25+00:00",
-      "source": "Svenska Dagbladet (SvD)",
+      "id": 10,
+      "title": "Trump after the death threats: \"1000 robots are loaded\"",
+      "summary": "Information about an Iranian plot to assassinate Trump has abounded in the media in recent days. Now the president is responding to the threat - with a plan for what happens if they succeed. \"1000 robots are loaded and ready,\" he writes on Truth Social.",
+      "title_original": "Trump efter dödshoten: ”1 000 robotar är laddade”",
+      "summary_original": "Uppgifter om en iransk plan att mörda Trump har florerat i medier de senaste dagarna. Nu svarar presidenten på hotet – med en plan för vad som händer om de lyckas. ”1 000 robotar är laddade och klara”, skriver han på Truth Social.",
+      "link": "https://www.dn.se/varlden/trump-efter-dodshoten-1-000-robotar-ar-laddade/",
+      "date_display": "2026-07-11",
+      "date_iso": "2026-07-11T08:41:32+00:00",
+      "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 145,
+      "title": "Government puts pressure on EU ahead of Commission’s review of EU Emissions Trading System",
+      "summary": "Next week, the European Commission will present its review of the European Union Emissions Trading System (EU ETS). Sweden’s Minister for EU Affairs Jessica Rosencrantz has sent a letter to the Irish Presidency of the Council of the European Union, with Sweden’s priorities and standpoints ahead of the upcoming negotiations.",
+      "title_original": "Government puts pressure on EU ahead of Commission’s review of EU Emissions Trading System",
+      "summary_original": "Next week, the European Commission will present its review of the European Union Emissions Trading System (EU ETS). Sweden’s Minister for EU Affairs Jessica Rosencrantz has sent a letter to the Irish Presidency of the Council of the European Union, with Sweden’s priorities and standpoints ahead of the upcoming negotiations.",
+      "link": "https://www.government.se/press-releases/2026/07/press-release-government-puts-pressure-on-eu-ahead-of-commissions-review-of-eu-emissions-trading-system/",
+      "date_display": "2026-07-10",
+      "date_iso": "2026-07-10T08:14:23+00:00",
+      "source": "Government.se",
+      "ministry": "Prime Minister's Office",
+      "type": "Official Information",
+      "age_tag": "1 day old",
       "tags": [
-        "Sverige"
+        "Press release",
+        "EU",
+        "Prime Minister's Office",
+        "Environment and climate",
+        "Jessica Rosencrantz",
+        "Sweden's climate aid"
       ]
     },
     {
-      "id": 144,
+      "id": 146,
+      "title": "Letter to the President of the Council on regarding the ETS",
+      "summary": "A statement from Minister for EU Affairs Jessica Rosencrantz, on 9 July 2026.",
+      "title_original": "Letter to the President of the Council on regarding the ETS",
+      "summary_original": "A statement from Minister for EU Affairs Jessica Rosencrantz, on 9 July 2026.",
+      "link": "https://www.government.se/statements/2026/07/letter-to-the-president-of-the-council-on-regarding-the-ets/",
+      "date_display": "2026-07-10",
+      "date_iso": "2026-07-10T08:03:49+00:00",
+      "source": "Government.se",
+      "ministry": "Prime Minister's Office",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "EU",
+        "Prime Minister's Office",
+        "Environment and climate",
+        "Statement",
+        "Jessica Rosencrantz",
+        "Sweden's climate aid"
+      ]
+    },
+    {
+      "id": 182,
       "title": "EU adopts sanctions over poisoning of Russian opposition politician Alexei Navalny",
       "summary": "In light of the poisoning of Alexei Navalny, the EU has adopted sanctions against six Russian individuals under the chemical weapons sanctions regime. In June, listings of seven individuals and one entity were also adopted under the EU Global Human Rights Sanctions Regime, which was established because of the internal oppression in Russia.",
       "title_original": "EU adopts sanctions over poisoning of Russian opposition politician Alexei Navalny",
@@ -64,7 +104,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "EU",
@@ -74,7 +114,7 @@
       ]
     },
     {
-      "id": 145,
+      "id": 183,
       "title": "Government invests SEK 250 million in global health",
       "summary": "The Government has adopted a new support package for global health, including sexual and reproductive health and rights (SRHR), totalling SEK 250 million for 2026. The health package consolidates Sweden’s commitment to improving the health of the most vulnerable through vaccines in low- and middle-income countries and increased access to maternal and newborn care where the needs are greatest.",
       "title_original": "Government invests SEK 250 million in global health",
@@ -85,7 +125,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "International",
@@ -99,7 +139,7 @@
       ]
     },
     {
-      "id": 147,
+      "id": 184,
       "title": "Charlotte Kugelberg appointed new Head of the Permanent Mission of Sweden to the United Nations",
       "summary": "On 2 July, the Government appointed Charlotte Kugelberg as Head of the Permanent Mission of Sweden to the United Nations.",
       "title_original": "Charlotte Kugelberg appointed new Head of the Permanent Mission of Sweden to the United Nations",
@@ -110,7 +150,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "International",
@@ -120,7 +160,7 @@
       ]
     },
     {
-      "id": 150,
+      "id": 185,
       "title": "The ESRB warns of vulnerabilities in the financial system linked to advanced AI models",
       "summary": "The European Systemic Risk Board (ESRB), the EU's macro-supervisory body, issues a formal warning about vulnerabilities in the financial system linked to advanced AI models. The ESRB's warning calls on relevant authorities to take such risks into account in supervision and monitoring.",
       "title_original": "ESRB varnar för sårbarheter i det finansiella systemet kopplade till avancerade AI-modeller",
@@ -131,11 +171,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "3 days old",
       "tags": []
     },
     {
-      "id": 153,
+      "id": 186,
       "title": "NATO selects Saab GlobalEye Airborne Warning and Control System",
       "summary": "Today, 7 July, in connection with the NATO Summit in Ankara, NATO Secretary General Mark Rutte announced that NATO has chosen Saab’s GlobalEye as its new Airborne Early Warning & Control (AEW&C). This means that NATO will open negotiations with Saab to purchase up to 10 GlobalEye aircraft.",
       "title_original": "NATO selects Saab GlobalEye Airborne Warning and Control System",
@@ -146,7 +186,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "Webcast",
@@ -164,7 +204,7 @@
       ]
     },
     {
-      "id": 154,
+      "id": 187,
       "title": "From Kiev to Kyjiv – Sweden changes Embassy name",
       "summary": "On 2 July 2026, Minister for Foreign Affairs Maria Malmer Stenergard announced that the Swedish names of the Embassy of Sweden in Kyiv and the Honorary Consulate of Sweden in Odesa will be changed to reflect the Ukrainian names for Kyiv and Odesa, respectively.",
       "title_original": "From Kiev to Kyjiv – Sweden changes Embassy name",
@@ -175,7 +215,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "International",
@@ -186,7 +226,7 @@
       ]
     },
     {
-      "id": 156,
+      "id": 188,
       "title": "Maria Malmer Stenergard to receive China’s Minister of Foreign Affairs Wang Yi",
       "summary": "On Saturday 4 July, Minister for Foreign Affairs Maria Malmer Stenergard will receive China’s Minister of Foreign Affairs Wang Yi for a bilateral meeting. Prime Minister Ulf Kristersson will also receive Mr Wang for a courtesy visit.",
       "title_original": "Maria Malmer Stenergard to receive China’s Minister of Foreign Affairs Wang Yi",
@@ -197,7 +237,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Press release",
         "International",
@@ -209,7 +249,7 @@
       ]
     },
     {
-      "id": 157,
+      "id": 189,
       "title": "Poland procures three A26 submarines from Saab following talks with Swedish Government",
       "summary": "On 29 June, Swedish Prime Minister Ulf Kristersson visited Gdynia, Poland for government-level talks. The meeting focused on strengthened bilateral cooperation between Sweden and Poland in the areas of regional security and defence. Minister for Defence Pål Jonson, Minister for Foreign Affairs Maria Malmer Stenergard, Minister for Culture Parisa Liljestrand, Minister for Infrastructure and Housing Andreas Carlson and Minister for EU Affairs Jessica Rosencrantz also took part on the trip.",
       "title_original": "Poland procures three A26 submarines from Saab following talks with Swedish Government",
@@ -220,7 +260,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
@@ -240,7 +280,7 @@
       ]
     },
     {
-      "id": 159,
+      "id": 191,
       "title": "Sweden provides SEK 25 million to earthquake-stricken Venezuela",
       "summary": "The two earthquakes in Venezuela on 24 June have had a profound impact on the Venezuelan people and exacerbated an already difficult humanitarian situation. Sweden is now providing SEK 25 million in humanitarian assistance to Venezuela to support initiatives such as the distribution of food packages, access to clean water, temporary emergency shelter, protection of vulnerable groups and reunification of children and families who have been separated.",
       "title_original": "Sweden provides SEK 25 million to earthquake-stricken Venezuela",
@@ -251,7 +291,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "International",
@@ -264,7 +304,7 @@
       ]
     },
     {
-      "id": 160,
+      "id": 192,
       "title": "Joint statement of the Nordic-Baltic Prime Ministers",
       "summary": "Joint statement of the Heads of Government of Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, Norway and Sweden, Tallinn, 9 June 2026.",
       "title_original": "Joint statement of the Nordic-Baltic Prime Ministers",
@@ -275,7 +315,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -290,7 +330,7 @@
       ]
     },
     {
-      "id": 161,
+      "id": 193,
       "title": "Government overhauls development assistance to Africa, Latin America and Asia",
       "summary": "The Government has adopted nine new development assistance strategies which will provide a total of around SEK 6 billion for development cooperation in Africa, Latin America and Asia. The new development assistance will be based on evidence of what works and produces concrete results.",
       "title_original": "Government overhauls development assistance to Africa, Latin America and Asia",
@@ -301,7 +341,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Press release",
         "International",
@@ -313,7 +353,7 @@
       ]
     },
     {
-      "id": 162,
+      "id": 194,
       "title": "Offline card payments - now the possibilities are expanding",
       "summary": "As of today, July 1, 2026, expanded opportunities to pay by card offline will be introduced when purchasing essential goods. The measure strengthens the resilience of the payment system and is based on an agreement between the Riksbank and market participants.",
       "title_original": "Offlinebetalningar med kort - nu utökas möjligheterna",
@@ -324,11 +364,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": []
     },
     {
-      "id": 163,
+      "id": 195,
       "title": "Poland signs agreement to procure submarines from Saab and deepen strategic cooperation with Sweden",
       "summary": "Sweden and Poland have successfully finalised negotiations on Poland’s procurement of three A26 submarines from Saab. This agreement is a significant step in strengthening Poland’s maritime capability, while also helping the countries deepen their collaboration on security and industrial policy.",
       "title_original": "Poland signs agreement to procure submarines from Saab and deepen strategic cooperation with Sweden",
@@ -339,7 +379,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "EU",
@@ -354,7 +394,7 @@
       ]
     },
     {
-      "id": 164,
+      "id": 196,
       "title": "Joint statement of the Republic of Poland and the Kingdom of Sweden on the Baltic Sea Pact",
       "summary": "Concluding the first Polish-Swedish Intergovernmental Consultations on 29 June 2026, in Gdynia, Poland and Sweden agreed to deepen their bilateral security and defence cooperation in the Baltic Sea region by launching the Baltic Sea Pact.",
       "title_original": "Joint statement of the Republic of Poland and the Kingdom of Sweden on the Baltic Sea Pact",
@@ -365,7 +405,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
@@ -375,7 +415,7 @@
       ]
     },
     {
-      "id": 165,
+      "id": 197,
       "title": "Joint Declaration from the Polish-Swedish Intergovernmental Consultations Gdynia",
       "summary": "The Republic of Poland and the Kingdom of Sweden are close Baltic Sea neighbours, Allies and partners, tied together by shared history, geography and responsibility for their strategically important region. Our Governments meet on 29 June 2026 for the first time in the format of Intergovernmental Consultations, a year and a half after the signing of the renewed Strategic Partnership between Poland and Sweden (Harpsund, 28 November 2024).",
       "title_original": "Joint Declaration from the Polish-Swedish Intergovernmental Consultations Gdynia",
@@ -386,81 +426,13 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
         "Statement",
         "Ulf Kristersson",
         "Military defence"
-      ]
-    },
-    {
-      "id": 166,
-      "title": "Joint Statement from the International Contact Group for the Great Lakes (ICG)",
-      "summary": "Belgium, Denmark, Canada, the European Union, France, Germany, the Netherlands, Sweden, Switzerland, the United Kingdom and the United States of America, as members of the International Contact Group for the Great Lakes (ICG), chaired by Sweden, issue the following statement:",
-      "title_original": "Joint Statement from the International Contact Group for the Great Lakes (ICG)",
-      "summary_original": "Belgium, Denmark, Canada, the European Union, France, Germany, the Netherlands, Sweden, Switzerland, the United Kingdom and the United States of America, as members of the International Contact Group for the Great Lakes (ICG), chaired by Sweden, issue the following statement:",
-      "link": "https://www.government.se/statements/2026/06/joint-statement-from-the-international-contact-group-for-the-great-lakes-icg/",
-      "date_display": "2026-06-26",
-      "date_iso": "2026-06-26T13:51:36+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "International",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Statement"
-      ]
-    },
-    {
-      "id": 167,
-      "title": "Sweden takes next major step towards new nuclear power",
-      "summary": "The Government has decided that the state will become a shareholder in Videberg Kraft AB, which plans to build nuclear reactors at Ringhals. The Swedish state, Vattenfall AB and Industrikraft i Sverige AB have concluded a shareholders’ agreement on the management of the company. The state’s shareholding will be 60 per cent, while Vattenfall and Industrikraft will each hold 20 per cent. The state has also negotiated the principal terms and conditions for state aid to the company.",
-      "title_original": "Sweden takes next major step towards new nuclear power",
-      "summary_original": "The Government has decided that the state will become a shareholder in Videberg Kraft AB, which plans to build nuclear reactors at Ringhals. The Swedish state, Vattenfall AB and Industrikraft i Sverige AB have concluded a shareholders’ agreement on the management of the company. The state’s shareholding will be 60 per cent, while Vattenfall and Industrikraft will each hold 20 per cent. The state has also negotiated the principal terms and conditions for state aid to the company.",
-      "link": "https://www.government.se/press-releases/2026/06/sweden-takes-next-major-step-towards-new-nuclear-power/",
-      "date_display": "2026-06-26",
-      "date_iso": "2026-06-26T08:51:59+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Finance",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "EU",
-        "Ministry of Finance",
-        "Energy",
-        "Financial markets",
-        "Central government budget",
-        "Niklas Wykman",
-        "Government’s priorities",
-        "Nuclear financing"
-      ]
-    },
-    {
-      "id": 168,
-      "title": "Sweden strengthens Ukraine’s energy supply ahead of winter",
-      "summary": "Last winter, Ukraine’s electrical grid and power plants were intensively attacked by Russia. Ukraine must now make extensive efforts to ensure the energy supply for the coming winter. The Swedish Government has therefore approved a new support package for Ukraine worth approximately SEK 1.5 billion to support the country’s energy sector in 2026. It is expected to contribute to preparation through repairs, installation of new energy production, material support and enhanced nuclear safety.",
-      "title_original": "Sweden strengthens Ukraine’s energy supply ahead of winter",
-      "summary_original": "Last winter, Ukraine’s electrical grid and power plants were intensively attacked by Russia. Ukraine must now make extensive efforts to ensure the energy supply for the coming winter. The Swedish Government has therefore approved a new support package for Ukraine worth approximately SEK 1.5 billion to support the country’s energy sector in 2026. It is expected to contribute to preparation through repairs, installation of new energy production, material support and enhanced nuclear safety.",
-      "link": "https://www.government.se/press-releases/2026/06/sweden-strengthens-ukraines-energy-supply-ahead-of-winter/",
-      "date_display": "2026-06-25",
-      "date_iso": "2026-06-25T13:53:26+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "International development cooperation",
-        "Foreign and security policy",
-        "Sweden's support to Ukraine",
-        "Benjamin Dousa"
       ]
     }
   ]
