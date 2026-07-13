@@ -1,17 +1,34 @@
 {
-  "generated_at": "2026-07-11T11:10:44.764152+02:00",
-  "date": "2026-07-11",
+  "generated_at": "2026-07-13T12:41:20.199540+02:00",
+  "date": "2026-07-13",
   "item_count": 20,
   "items": [
     {
-      "id": 1,
-      "title": "Milly, 8 years old, managed the tough summit tour: \"Body hurts afterwards\"",
-      "summary": "Milly Gudding, age 8, from Molkom took the toughest route up Kebnekaise. Her alpine-trained uncle led the expedition, which will be a summer holiday memory for life. - It feels cool, she says.",
-      "title_original": "Milly, 8 år, klarade tuffa toppturen: ”Ont i kroppen efteråt”",
-      "summary_original": "Milly Gudding, 8 år, från Molkom tog den tuffaste vägen upp på Kebnekaise. Hennes alpinutbildade farbror ledde expeditionen som blir ett sommarlovsminne för livet. – Det känns coolt, säger hon.",
-      "link": "https://www.dn.se/sverige/milly-8-ar-klarade-tuffa-toppturen-ont-i-kroppen-efterat/",
-      "date_display": "2026-07-11",
-      "date_iso": "2026-07-11T09:03:15+00:00",
+      "id": 6,
+      "title": "Joel Kinnaman's summer talk is postponed",
+      "summary": "Sveriges Radio is forced to replace two of its summer speakers. Joel Kinnaman has landed a new TV role and is missing his filming deadline.",
+      "title_original": "Joel Kinnamans sommarprat skjuts upp",
+      "summary_original": "Sveriges Radio tvingas byta plats på två av sina sommarpratare. Joel Kinnaman har fått en ny tv-roll och missar sin deadline för inspelningen.",
+      "link": "https://www.svd.se/a/GxO8x9/ewa-frolings-sommarprat-tidigarelaggs",
+      "date_display": "2026-07-13",
+      "date_iso": "2026-07-13T10:10:33+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Kultur"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Henry Ascher: Jews are not a homogeneous gray mass",
+      "summary": "Criticism of Israel among Jews has always existed and is now rapidly increasing. We have to keep several thoughts in our heads when we discuss anti-Semitism, writes Henry Ascher in a reply. He receives an answer directly from Christer Mattsson, director of the Segerstedt Institute.",
+      "title_original": "Henry Ascher: Judar är inte en homogen grå massa",
+      "summary_original": "Kritiken mot Israel bland judar har alltid funnits och ökar nu snabbt. Vi måste hålla flera tankar i huvudet när vi diskuterar antisemitism, skriver i Henry Ascher i en replik. Han får svar direkt av Christer Mattsson, föreståndare för Segerstedtinstitutet.",
+      "link": "https://www.dn.se/kultur/henry-ascher-judar-ar-inte-en-homogen-gra-massa/",
+      "date_display": "2026-07-13",
+      "date_iso": "2026-07-13T09:36:41+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -19,14 +36,14 @@
       "tags": []
     },
     {
-      "id": 4,
-      "title": "Several mountain rescues on Kebnekaise: \"Prepare the hike properly\"",
-      "summary": "Kebnekaise attracts many hikers this summer. In the past week, several people in need have needed help. The mountain rescue warns of a lack of preparation. - I have seen people who are going to climb Kebnekaise with sneakers, gym shoes and a t-shirt, says Stefan Källström, business developer for the mountain rescue in Norrbotten.",
-      "title_original": "Flera fjällräddningar på Kebnekaise: ”Förbered vandringen ordentligt”",
-      "summary_original": "Kebnekaise lockar många vandrare i sommar. Den senaste veckan har flera nödställda behövt hjälp. Fjällräddningen varnar för bristande förberedelser. – Jag har varit med om människor som ska bestiga Kebnekaise med sneakers, gympabrallor och t-shirt, säger Stefan Källström, verksamhetsutvecklare för fjällräddningen i Norrbotten.",
-      "link": "https://www.dn.se/sverige/flera-fjallraddningar-pa-kebnekaise-forbered-vandringen-ordentligt/",
-      "date_display": "2026-07-11",
-      "date_iso": "2026-07-11T09:01:20+00:00",
+      "id": 18,
+      "title": "The citizenship test is now being introduced - this is what the questions may look like",
+      "summary": "What is the title of Sweden's head of state and how does freedom of speech work? In August, 1,000 people write the first citizenship exam in social studies - part of the stricter requirements for Swedish citizenship. The University and Higher Education Council (UHR) has come up with examples of how the questions might look. DN asked some of them to Swedes in Gothenburg.",
+      "title_original": "Nu införs medborgarskapsprovet – så kan frågorna se ut",
+      "summary_original": "Vilken titel har Sveriges statschef och hur fungerar yttrandefriheten? I augusti skriver 1 000 personer det första medborgarskapsprovet i samhällskunskap – en del av de skärpta kraven för svenskt medborgarskap. Universitets- och högskolerådet (UHR) har kommit med exempel på hur frågorna kan se ut. DN ställde några av dem till svenskar i Göteborg.",
+      "link": "https://www.dn.se/sverige/nu-infors-medborgarskapsprovet-sa-kan-fragorna-se-ut/",
+      "date_display": "2026-07-13",
+      "date_iso": "2026-07-13T09:32:00+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -34,22 +51,7 @@
       "tags": []
     },
     {
-      "id": 10,
-      "title": "Trump after the death threats: \"1000 robots are loaded\"",
-      "summary": "Information about an Iranian plot to assassinate Trump has abounded in the media in recent days. Now the president is responding to the threat - with a plan for what happens if they succeed. \"1000 robots are loaded and ready,\" he writes on Truth Social.",
-      "title_original": "Trump efter dödshoten: ”1 000 robotar är laddade”",
-      "summary_original": "Uppgifter om en iransk plan att mörda Trump har florerat i medier de senaste dagarna. Nu svarar presidenten på hotet – med en plan för vad som händer om de lyckas. ”1 000 robotar är laddade och klara”, skriver han på Truth Social.",
-      "link": "https://www.dn.se/varlden/trump-efter-dodshoten-1-000-robotar-ar-laddade/",
-      "date_display": "2026-07-11",
-      "date_iso": "2026-07-11T08:41:32+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 145,
+      "id": 149,
       "title": "Government puts pressure on EU ahead of Commission’s review of EU Emissions Trading System",
       "summary": "Next week, the European Commission will present its review of the European Union Emissions Trading System (EU ETS). Sweden’s Minister for EU Affairs Jessica Rosencrantz has sent a letter to the Irish Presidency of the Council of the European Union, with Sweden’s priorities and standpoints ahead of the upcoming negotiations.",
       "title_original": "Government puts pressure on EU ahead of Commission’s review of EU Emissions Trading System",
@@ -60,7 +62,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "EU",
@@ -71,7 +73,7 @@
       ]
     },
     {
-      "id": 146,
+      "id": 150,
       "title": "Letter to the President of the Council on regarding the ETS",
       "summary": "A statement from Minister for EU Affairs Jessica Rosencrantz, on 9 July 2026.",
       "title_original": "Letter to the President of the Council on regarding the ETS",
@@ -82,7 +84,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
@@ -93,7 +95,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 151,
       "title": "EU adopts sanctions over poisoning of Russian opposition politician Alexei Navalny",
       "summary": "In light of the poisoning of Alexei Navalny, the EU has adopted sanctions against six Russian individuals under the chemical weapons sanctions regime. In June, listings of seven individuals and one entity were also adopted under the EU Global Human Rights Sanctions Regime, which was established because of the internal oppression in Russia.",
       "title_original": "EU adopts sanctions over poisoning of Russian opposition politician Alexei Navalny",
@@ -104,7 +106,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "EU",
@@ -114,7 +116,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 152,
       "title": "Government invests SEK 250 million in global health",
       "summary": "The Government has adopted a new support package for global health, including sexual and reproductive health and rights (SRHR), totalling SEK 250 million for 2026. The health package consolidates Sweden’s commitment to improving the health of the most vulnerable through vaccines in low- and middle-income countries and increased access to maternal and newborn care where the needs are greatest.",
       "title_original": "Government invests SEK 250 million in global health",
@@ -125,7 +127,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "International",
@@ -139,7 +141,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 153,
       "title": "Charlotte Kugelberg appointed new Head of the Permanent Mission of Sweden to the United Nations",
       "summary": "On 2 July, the Government appointed Charlotte Kugelberg as Head of the Permanent Mission of Sweden to the United Nations.",
       "title_original": "Charlotte Kugelberg appointed new Head of the Permanent Mission of Sweden to the United Nations",
@@ -150,7 +152,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "International",
@@ -160,7 +162,7 @@
       ]
     },
     {
-      "id": 185,
+      "id": 154,
       "title": "The ESRB warns of vulnerabilities in the financial system linked to advanced AI models",
       "summary": "The European Systemic Risk Board (ESRB), the EU's macro-supervisory body, issues a formal warning about vulnerabilities in the financial system linked to advanced AI models. The ESRB's warning calls on relevant authorities to take such risks into account in supervision and monitoring.",
       "title_original": "ESRB varnar för sårbarheter i det finansiella systemet kopplade till avancerade AI-modeller",
@@ -171,11 +173,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "6 days old",
       "tags": []
     },
     {
-      "id": 186,
+      "id": 155,
       "title": "NATO selects Saab GlobalEye Airborne Warning and Control System",
       "summary": "Today, 7 July, in connection with the NATO Summit in Ankara, NATO Secretary General Mark Rutte announced that NATO has chosen Saab’s GlobalEye as its new Airborne Early Warning & Control (AEW&C). This means that NATO will open negotiations with Saab to purchase up to 10 GlobalEye aircraft.",
       "title_original": "NATO selects Saab GlobalEye Airborne Warning and Control System",
@@ -186,7 +188,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": [
         "Press release",
         "Webcast",
@@ -204,7 +206,7 @@
       ]
     },
     {
-      "id": 187,
+      "id": 156,
       "title": "From Kiev to Kyjiv – Sweden changes Embassy name",
       "summary": "On 2 July 2026, Minister for Foreign Affairs Maria Malmer Stenergard announced that the Swedish names of the Embassy of Sweden in Kyiv and the Honorary Consulate of Sweden in Odesa will be changed to reflect the Ukrainian names for Kyiv and Odesa, respectively.",
       "title_original": "From Kiev to Kyjiv – Sweden changes Embassy name",
@@ -215,7 +217,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": [
         "Press release",
         "International",
@@ -226,7 +228,7 @@
       ]
     },
     {
-      "id": 188,
+      "id": 157,
       "title": "Maria Malmer Stenergard to receive China’s Minister of Foreign Affairs Wang Yi",
       "summary": "On Saturday 4 July, Minister for Foreign Affairs Maria Malmer Stenergard will receive China’s Minister of Foreign Affairs Wang Yi for a bilateral meeting. Prime Minister Ulf Kristersson will also receive Mr Wang for a courtesy visit.",
       "title_original": "Maria Malmer Stenergard to receive China’s Minister of Foreign Affairs Wang Yi",
@@ -237,7 +239,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Press release",
         "International",
@@ -249,7 +251,7 @@
       ]
     },
     {
-      "id": 189,
+      "id": 158,
       "title": "Poland procures three A26 submarines from Saab following talks with Swedish Government",
       "summary": "On 29 June, Swedish Prime Minister Ulf Kristersson visited Gdynia, Poland for government-level talks. The meeting focused on strengthened bilateral cooperation between Sweden and Poland in the areas of regional security and defence. Minister for Defence Pål Jonson, Minister for Foreign Affairs Maria Malmer Stenergard, Minister for Culture Parisa Liljestrand, Minister for Infrastructure and Housing Andreas Carlson and Minister for EU Affairs Jessica Rosencrantz also took part on the trip.",
       "title_original": "Poland procures three A26 submarines from Saab following talks with Swedish Government",
@@ -260,7 +262,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
@@ -280,7 +282,7 @@
       ]
     },
     {
-      "id": 191,
+      "id": 160,
       "title": "Sweden provides SEK 25 million to earthquake-stricken Venezuela",
       "summary": "The two earthquakes in Venezuela on 24 June have had a profound impact on the Venezuelan people and exacerbated an already difficult humanitarian situation. Sweden is now providing SEK 25 million in humanitarian assistance to Venezuela to support initiatives such as the distribution of food packages, access to clean water, temporary emergency shelter, protection of vulnerable groups and reunification of children and families who have been separated.",
       "title_original": "Sweden provides SEK 25 million to earthquake-stricken Venezuela",
@@ -291,7 +293,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "International",
@@ -304,7 +306,7 @@
       ]
     },
     {
-      "id": 192,
+      "id": 161,
       "title": "Joint statement of the Nordic-Baltic Prime Ministers",
       "summary": "Joint statement of the Heads of Government of Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, Norway and Sweden, Tallinn, 9 June 2026.",
       "title_original": "Joint statement of the Nordic-Baltic Prime Ministers",
@@ -315,7 +317,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -330,7 +332,7 @@
       ]
     },
     {
-      "id": 193,
+      "id": 162,
       "title": "Government overhauls development assistance to Africa, Latin America and Asia",
       "summary": "The Government has adopted nine new development assistance strategies which will provide a total of around SEK 6 billion for development cooperation in Africa, Latin America and Asia. The new development assistance will be based on evidence of what works and produces concrete results.",
       "title_original": "Government overhauls development assistance to Africa, Latin America and Asia",
@@ -341,7 +343,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "International",
@@ -353,7 +355,7 @@
       ]
     },
     {
-      "id": 194,
+      "id": 163,
       "title": "Offline card payments - now the possibilities are expanding",
       "summary": "As of today, July 1, 2026, expanded opportunities to pay by card offline will be introduced when purchasing essential goods. The measure strengthens the resilience of the payment system and is based on an agreement between the Riksbank and market participants.",
       "title_original": "Offlinebetalningar med kort - nu utökas möjligheterna",
@@ -364,11 +366,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": []
     },
     {
-      "id": 195,
+      "id": 164,
       "title": "Poland signs agreement to procure submarines from Saab and deepen strategic cooperation with Sweden",
       "summary": "Sweden and Poland have successfully finalised negotiations on Poland’s procurement of three A26 submarines from Saab. This agreement is a significant step in strengthening Poland’s maritime capability, while also helping the countries deepen their collaboration on security and industrial policy.",
       "title_original": "Poland signs agreement to procure submarines from Saab and deepen strategic cooperation with Sweden",
@@ -379,7 +381,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "Press release",
         "EU",
@@ -394,7 +396,7 @@
       ]
     },
     {
-      "id": 196,
+      "id": 165,
       "title": "Joint statement of the Republic of Poland and the Kingdom of Sweden on the Baltic Sea Pact",
       "summary": "Concluding the first Polish-Swedish Intergovernmental Consultations on 29 June 2026, in Gdynia, Poland and Sweden agreed to deepen their bilateral security and defence cooperation in the Baltic Sea region by launching the Baltic Sea Pact.",
       "title_original": "Joint statement of the Republic of Poland and the Kingdom of Sweden on the Baltic Sea Pact",
@@ -405,7 +407,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
@@ -415,7 +417,7 @@
       ]
     },
     {
-      "id": 197,
+      "id": 166,
       "title": "Joint Declaration from the Polish-Swedish Intergovernmental Consultations Gdynia",
       "summary": "The Republic of Poland and the Kingdom of Sweden are close Baltic Sea neighbours, Allies and partners, tied together by shared history, geography and responsibility for their strategically important region. Our Governments meet on 29 June 2026 for the first time in the format of Intergovernmental Consultations, a year and a half after the signing of the renewed Strategic Partnership between Poland and Sweden (Harpsund, 28 November 2024).",
       "title_original": "Joint Declaration from the Polish-Swedish Intergovernmental Consultations Gdynia",
@@ -426,7 +428,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
