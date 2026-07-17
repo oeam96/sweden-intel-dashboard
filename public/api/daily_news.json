@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-15T11:32:57.559550+02:00",
-  "date": "2026-07-15",
-  "item_count": 16,
+  "generated_at": "2026-07-17T11:31:08.869595+02:00",
+  "date": "2026-07-17",
+  "item_count": 13,
   "items": [
     {
-      "id": 4,
-      "title": "British meteorologists: 20th century climate is gone",
-      "summary": "The hottest day of the year is now 4.5 degrees hotter than just a few decades ago in south-east England, states the British Met Office. \"These data show that the climate of the 20th century is now gone\".",
-      "title_original": "Brittiska meteorologer: 1900-talets klimat är borta",
-      "summary_original": "Årets varmaste dag är numera 4,5 grader hetare än för bara några decennier sedan i sydöstra England, konstaterar brittiska Met Office. ”Dessa data visar att 1900-talets klimat nu är borta”.",
-      "link": "https://www.dn.se/varlden/brittiska-meteorologer-1900-talets-klimat-ar-borta/",
-      "date_display": "2026-07-15",
-      "date_iso": "2026-07-15T09:22:48+00:00",
+      "id": 6,
+      "title": "Fredrik Sahlin: Dopey \"Pusher\" put messy Danish gangster action on the movie map",
+      "summary": "Mads Mikkelsen and Kim Bodnia stunned the film world in a high-intensity, low-budget drama set in Copenhagen's underworld. A street race and a frantic struggle for survival that still convinces, writes Fredrik Sahlin about \"Pusher\" in the summer series about the film year 1996.",
+      "title_original": "Fredrik Sahlin: Knarkiga ”Pusher” satte stökig dansk gangsteraction på filmkartan",
+      "summary_original": "Mads Mikkelsen och Kim Bodnia slog filmvärlden med häpnad i ett högintensivt lågbudgetdrama som utspelar sig i Köpenhamns undre värld. Ett gatlopp och en flåsig överlevnadskamp som fortfarande övertygar, skriver Fredrik Sahlin om ”Pusher” i sommarserien om filmåret 1996.",
+      "link": "https://www.dn.se/kultur/fredrik-sahlin-knarkiga-pusher-satte-stokig-dansk-gangsteraction-pa-filmkartan/",
+      "date_display": "2026-07-17",
+      "date_iso": "2026-07-17T09:16:46+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -19,31 +19,14 @@
       "tags": []
     },
     {
-      "id": 10,
-      "title": "Attacked girl has been allowed to leave the hospital",
-      "summary": "The five-year-old girl who was attacked and seriously injured in a playground in Helsingborg no longer needs medical care, the Public Prosecutor's Office states in a press release.",
-      "title_original": "Attackerad flicka har fått lämna sjukhuset",
-      "summary_original": "Den femåriga flickan som attackerades och skadades allvarligt i en lekpark i Helsingborg behöver inte längre sjukvård, uppger Åklagarmyndigheten i ett pressmeddelande.",
-      "link": "https://www.svd.se/a/QJwA9x/skadad-flicka-behover-inte-langre-sjukvard",
-      "date_display": "2026-07-15",
-      "date_iso": "2026-07-15T09:18:57+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Sverige"
-      ]
-    },
-    {
-      "id": 21,
-      "title": "Eight suspects after murder at bathing area in Stenungsund",
+      "id": 12,
+      "title": "Man dies in drowning accident in Höganäs",
       "summary": "",
-      "title_original": "Åtta misstänkta efter mord vid badplats i Stenungsund",
+      "title_original": "Man död i drunkningsolycka i Höganäs",
       "summary_original": "",
-      "link": "https://www.svd.se/a/M7dbjo/atta-misstankta-efter-mord-vid-badplats-i-stenungsund",
-      "date_display": "2026-07-15",
-      "date_iso": "2026-07-15T09:15:05+00:00",
+      "link": "https://www.svd.se/a/0pWaXB/man-dod-i-drunkningsolycka-i-hoganas",
+      "date_display": "2026-07-17",
+      "date_iso": "2026-07-17T08:58:48+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -53,7 +36,49 @@
       ]
     },
     {
-      "id": 178,
+      "id": 13,
+      "title": "After the heat wave – the weather changes: \"A completely different five\"",
+      "summary": "After a long period of sun, many have become accustomed to high temperatures and clear blue skies. But according to meteorologist Johan Wiksten, it is now time to prepare for change. Already during Friday afternoon, showers can appear in western Sweden. - There will be a real change of weather here, says Johan Wiksten. Rain and cooler air on the way in During Saturday, the low pressure deepens more and more and the whole of southern Sweden is affected by rain and clouds. The northern parts continue to receive sun but significantly cooler temperatures. At the very top of the northern mountains, where many are for hiking, there may even be snow on the highest peaks. - Nature loves this. We have been dry for a long time and lacked water and everything possible here. So this is really long-awaited rain we are getting, says Johan Wiksten. SMHI has also issued a yellow warning for torrential rain in Northwest Götaland and southwesternmost Svealand on Saturday. Travelers are advised to allow extra time for their journeys as there is a risk of poor visibility and hydroplaning. Roads and viaducts may also be flooded.  Cooler summer ahead Continued on Sunday, the weather will be characterized by low pressure and showers. At the beginning of next week, cumulus clouds, cooler days and temperatures between 15 and 20 degrees are expected. The forecast is valid for many days ahead and no new heat wave is expected within the next ten days. But even though the temperature is now dropping, the coming week will also offer several sunny mornings and evenings - The fact that the temperatures are cooler does not mean that the weather is bad, says Johan Wiksten.",
+      "title_original": "Efter värmeböljan – vädret kovänder: ”En helt annan femma”",
+      "summary_original": "Efter en lång period av sol har många vant sig vid höga temperaturer och klarblå himmel. Men enligt meteorologen Johan Wiksten är det nu dags att förbereda sig på förändring. Redan under fredagseftermiddagen kan skurar dyka upp i västra Sverige. – Det kommer bli ett rejält väderomslag här, säger Johan Wiksten. Regn och svalare luft på väg in Under lördagen fördjupas lågtrycket all mer och hela södra Sverige berörs av regn och moln. Norra delarna får fortsatt sol men betydligt svalare temperaturer. Allra uppe i norra fjällen, där många befinner sig för vandring, kan det till och med bli snö på de högsta topparna. – Naturen älskar ju det här. Vi har ju haft torrt länge och vattenbrist och allt möjligt här. Så det här är verkligen efterlängtat regn vi får, säger Johan Wiksten. SMHI har också gått ut med en gul varning för skyfallsliknande regn i Nordvästra Götaland och sydvästligaste Svealand på lördagen. Resenärer uppmanas avsätta extra tid för sina resor då det finns risk för dålig sikt och vattenplaning. Vägar och viadukter kan även komma att översvämmas.  Kyligare sommar framöver Fortsatt under söndagen präglas vädret av lågtryck och skurar. I början av nästa vecka väntas stackmoln, kyligare dagar och temperaturer mellan 15 och 20 grader. Prognosen gäller för många dagar framöver och någon ny värmebölja syns inte till inom de närmaste tio dagarna. Men trots att temperaturen nu sjunker bjuder även kommande vecka på flera soliga morgnar och kvällar – Att temperaturerna är svalare betyder ju inte att det är dåligt väder, säger Johan Wiksten.",
+      "link": "https://www.tv4.se/artikel/4Yy7KbBWIk2FKJrFAldsDK/efter-vaermeboeljan-vaedret-kovaender-blir-en-helt-annan-femma",
+      "date_display": "2026-07-17",
+      "date_iso": "2026-07-17T08:58:21+00:00",
+      "source": "TV4 Nyheterna",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Vädret",
+        "/vadret"
+      ]
+    },
+    {
+      "id": 144,
+      "title": "Sweden to contribute additional SEK 1.4 billion to World Bank operations in Ukraine",
+      "summary": "The Government has today decided to provide SEK 1.4 billion in support to a new World Bank crisis facility that benefits Ukraine. This support enables new loans totalling approximately SEK 4.2 billion for the country’s reconstruction and recovery. The World Bank is a key actor for Ukraine’s reform efforts and economic resilience during Russia’s ongoing aggression. Sweden’s actions have been vital for the establishment of the new crisis facility.",
+      "title_original": "Sweden to contribute additional SEK 1.4 billion to World Bank operations in Ukraine",
+      "summary_original": "The Government has today decided to provide SEK 1.4 billion in support to a new World Bank crisis facility that benefits Ukraine. This support enables new loans totalling approximately SEK 4.2 billion for the country’s reconstruction and recovery. The World Bank is a key actor for Ukraine’s reform efforts and economic resilience during Russia’s ongoing aggression. Sweden’s actions have been vital for the establishment of the new crisis facility.",
+      "link": "https://www.government.se/press-releases/2026/07/sweden-to-contribute-additional-sek-1.4-billion-to-world-bank-operations-in-ukraine",
+      "date_display": "2026-07-16",
+      "date_iso": "2026-07-16T08:30:09+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry of Education and Research",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry of Education and Research",
+        "Ministry for Foreign Affairs",
+        "International development cooperation",
+        "Sweden's support to Ukraine",
+        "Lotta Edholm",
+        "Benjamin Dousa"
+      ]
+    },
+    {
+      "id": 181,
       "title": "Government puts pressure on EU ahead of Commission’s review of EU Emissions Trading System",
       "summary": "Next week, the European Commission will present its review of the European Union Emissions Trading System (EU ETS). Sweden’s Minister for EU Affairs Jessica Rosencrantz has sent a letter to the Irish Presidency of the Council of the European Union, with Sweden’s priorities and standpoints ahead of the upcoming negotiations.",
       "title_original": "Government puts pressure on EU ahead of Commission’s review of EU Emissions Trading System",
@@ -64,7 +89,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Press release",
         "EU",
@@ -75,7 +100,7 @@
       ]
     },
     {
-      "id": 179,
+      "id": 182,
       "title": "Letter to the President of the Council on regarding the ETS",
       "summary": "A statement from Minister for EU Affairs Jessica Rosencrantz, on 9 July 2026.",
       "title_original": "Letter to the President of the Council on regarding the ETS",
@@ -86,7 +111,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
@@ -97,7 +122,7 @@
       ]
     },
     {
-      "id": 180,
+      "id": 183,
       "title": "EU adopts sanctions over poisoning of Russian opposition politician Alexei Navalny",
       "summary": "In light of the poisoning of Alexei Navalny, the EU has adopted sanctions against six Russian individuals under the chemical weapons sanctions regime. In June, listings of seven individuals and one entity were also adopted under the EU Global Human Rights Sanctions Regime, which was established because of the internal oppression in Russia.",
       "title_original": "EU adopts sanctions over poisoning of Russian opposition politician Alexei Navalny",
@@ -108,7 +133,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Press release",
         "EU",
@@ -118,7 +143,7 @@
       ]
     },
     {
-      "id": 181,
+      "id": 184,
       "title": "Government invests SEK 250 million in global health",
       "summary": "The Government has adopted a new support package for global health, including sexual and reproductive health and rights (SRHR), totalling SEK 250 million for 2026. The health package consolidates Sweden’s commitment to improving the health of the most vulnerable through vaccines in low- and middle-income countries and increased access to maternal and newborn care where the needs are greatest.",
       "title_original": "Government invests SEK 250 million in global health",
@@ -129,7 +154,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Press release",
         "International",
@@ -143,7 +168,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 185,
       "title": "Charlotte Kugelberg appointed new Head of the Permanent Mission of Sweden to the United Nations",
       "summary": "On 2 July, the Government appointed Charlotte Kugelberg as Head of the Permanent Mission of Sweden to the United Nations.",
       "title_original": "Charlotte Kugelberg appointed new Head of the Permanent Mission of Sweden to the United Nations",
@@ -154,7 +179,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Press release",
         "International",
@@ -164,7 +189,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 186,
       "title": "The ESRB warns of vulnerabilities in the financial system linked to advanced AI models",
       "summary": "The European Systemic Risk Board (ESRB), the EU's macro-supervisory body, issues a formal warning about vulnerabilities in the financial system linked to advanced AI models. The ESRB's warning calls on relevant authorities to take such risks into account in supervision and monitoring.",
       "title_original": "ESRB varnar för sårbarheter i det finansiella systemet kopplade till avancerade AI-modeller",
@@ -175,11 +200,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": []
     },
     {
-      "id": 184,
+      "id": 187,
       "title": "NATO selects Saab GlobalEye Airborne Warning and Control System",
       "summary": "Today, 7 July, in connection with the NATO Summit in Ankara, NATO Secretary General Mark Rutte announced that NATO has chosen Saab’s GlobalEye as its new Airborne Early Warning & Control (AEW&C). This means that NATO will open negotiations with Saab to purchase up to 10 GlobalEye aircraft.",
       "title_original": "NATO selects Saab GlobalEye Airborne Warning and Control System",
@@ -190,7 +215,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "Webcast",
@@ -208,7 +233,7 @@
       ]
     },
     {
-      "id": 185,
+      "id": 188,
       "title": "From Kiev to Kyjiv – Sweden changes Embassy name",
       "summary": "On 2 July 2026, Minister for Foreign Affairs Maria Malmer Stenergard announced that the Swedish names of the Embassy of Sweden in Kyiv and the Honorary Consulate of Sweden in Odesa will be changed to reflect the Ukrainian names for Kyiv and Odesa, respectively.",
       "title_original": "From Kiev to Kyjiv – Sweden changes Embassy name",
@@ -219,7 +244,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "International",
@@ -230,7 +255,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 189,
       "title": "Maria Malmer Stenergard to receive China’s Minister of Foreign Affairs Wang Yi",
       "summary": "On Saturday 4 July, Minister for Foreign Affairs Maria Malmer Stenergard will receive China’s Minister of Foreign Affairs Wang Yi for a bilateral meeting. Prime Minister Ulf Kristersson will also receive Mr Wang for a courtesy visit.",
       "title_original": "Maria Malmer Stenergard to receive China’s Minister of Foreign Affairs Wang Yi",
@@ -241,7 +266,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "Press release",
         "International",
@@ -250,110 +275,6 @@
         "Foreign and security policy",
         "Maria Malmer Stenergard",
         "Ulf Kristersson"
-      ]
-    },
-    {
-      "id": 187,
-      "title": "Poland procures three A26 submarines from Saab following talks with Swedish Government",
-      "summary": "On 29 June, Swedish Prime Minister Ulf Kristersson visited Gdynia, Poland for government-level talks. The meeting focused on strengthened bilateral cooperation between Sweden and Poland in the areas of regional security and defence. Minister for Defence Pål Jonson, Minister for Foreign Affairs Maria Malmer Stenergard, Minister for Culture Parisa Liljestrand, Minister for Infrastructure and Housing Andreas Carlson and Minister for EU Affairs Jessica Rosencrantz also took part on the trip.",
-      "title_original": "Poland procures three A26 submarines from Saab following talks with Swedish Government",
-      "summary_original": "On 29 June, Swedish Prime Minister Ulf Kristersson visited Gdynia, Poland for government-level talks. The meeting focused on strengthened bilateral cooperation between Sweden and Poland in the areas of regional security and defence. Minister for Defence Pål Jonson, Minister for Foreign Affairs Maria Malmer Stenergard, Minister for Culture Parisa Liljestrand, Minister for Infrastructure and Housing Andreas Carlson and Minister for EU Affairs Jessica Rosencrantz also took part on the trip.",
-      "link": "https://www.government.se/articles/2026/07/poland-procures-three-a26-submarines-from-saab-following-talks-with-swedish-government/",
-      "date_display": "2026-07-02",
-      "date_iso": "2026-07-02T13:55:45+00:00",
-      "source": "Government.se",
-      "ministry": "Prime Minister's Office",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "EU",
-        "Prime Minister's Office",
-        "Ministry of Culture",
-        "Ministry of Defence",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Article",
-        "Ministry of Rural Affairs and Infrastructure",
-        "Andreas Carlson",
-        "Maria Malmer Stenergard",
-        "Parisa Liljestrand",
-        "Pål Jonson",
-        "Ulf Kristersson",
-        "Military defence",
-        "Jessica Rosencrantz"
-      ]
-    },
-    {
-      "id": 189,
-      "title": "Sweden provides SEK 25 million to earthquake-stricken Venezuela",
-      "summary": "The two earthquakes in Venezuela on 24 June have had a profound impact on the Venezuelan people and exacerbated an already difficult humanitarian situation. Sweden is now providing SEK 25 million in humanitarian assistance to Venezuela to support initiatives such as the distribution of food packages, access to clean water, temporary emergency shelter, protection of vulnerable groups and reunification of children and families who have been separated.",
-      "title_original": "Sweden provides SEK 25 million to earthquake-stricken Venezuela",
-      "summary_original": "The two earthquakes in Venezuela on 24 June have had a profound impact on the Venezuelan people and exacerbated an already difficult humanitarian situation. Sweden is now providing SEK 25 million in humanitarian assistance to Venezuela to support initiatives such as the distribution of food packages, access to clean water, temporary emergency shelter, protection of vulnerable groups and reunification of children and families who have been separated.",
-      "link": "https://www.government.se/press-releases/2026/07/sweden-provides-sek-25-million-to-earthquake-stricken-venezuela/",
-      "date_display": "2026-07-02",
-      "date_iso": "2026-07-02T09:14:12+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "Ministry of Health and Social Affairs",
-        "International development cooperation",
-        "Foreign and security policy",
-        "Jakob Forssmed",
-        "Benjamin Dousa"
-      ]
-    },
-    {
-      "id": 190,
-      "title": "Joint statement of the Nordic-Baltic Prime Ministers",
-      "summary": "Joint statement of the Heads of Government of Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, Norway and Sweden, Tallinn, 9 June 2026.",
-      "title_original": "Joint statement of the Nordic-Baltic Prime Ministers",
-      "summary_original": "Joint statement of the Heads of Government of Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, Norway and Sweden, Tallinn, 9 June 2026.",
-      "link": "https://www.government.se/statements/2026/07/joint-statement-of-the-nordic-baltic-prime-ministers/",
-      "date_display": "2026-07-01",
-      "date_iso": "2026-07-01T11:58:31+00:00",
-      "source": "Government.se",
-      "ministry": "Prime Minister's Office",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "International",
-        "Prime Minister's Office",
-        "Trade and investment promotion",
-        "Foreign and security policy",
-        "Statement",
-        "Sweden's support to Ukraine",
-        "NATO",
-        "Civil defence",
-        "Military defence",
-        "N5/NB8–cooperation on foreign and security policy"
-      ]
-    },
-    {
-      "id": 191,
-      "title": "Government overhauls development assistance to Africa, Latin America and Asia",
-      "summary": "The Government has adopted nine new development assistance strategies which will provide a total of around SEK 6 billion for development cooperation in Africa, Latin America and Asia. The new development assistance will be based on evidence of what works and produces concrete results.",
-      "title_original": "Government overhauls development assistance to Africa, Latin America and Asia",
-      "summary_original": "The Government has adopted nine new development assistance strategies which will provide a total of around SEK 6 billion for development cooperation in Africa, Latin America and Asia. The new development assistance will be based on evidence of what works and produces concrete results.",
-      "link": "https://www.government.se/press-releases/2026/07/government-overhauls-development-assistance-to-africa-latin-america-and-asia/",
-      "date_display": "2026-07-01",
-      "date_iso": "2026-07-01T11:50:02+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "International development cooperation",
-        "Foreign and security policy",
-        "Benjamin Dousa",
-        "The reform agenda - Development assistance for a n"
       ]
     }
   ]
