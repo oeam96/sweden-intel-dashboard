@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-21T12:05:41.284309+02:00",
-  "date": "2026-07-21",
-  "item_count": 10,
+  "generated_at": "2026-07-23T12:04:43.138844+02:00",
+  "date": "2026-07-23",
+  "item_count": 7,
   "items": [
     {
-      "id": 9,
-      "title": "Björn af Kleen: Musk's quasi-ministry goes to the grave after hundreds of thousands of poor people die",
-      "summary": "The deadly consequences of Doge's intervention in the state apparatus are about to become visible while the protagonists Elon Musk and Donald Trump capitalize on the state like never before.",
-      "title_original": "Björn af Kleen: Musks kvasidepartement går i graven efter att hundratusentals fattiga dött",
-      "summary_original": "De dödliga konsekvenserna av Doges ingrepp i statsapparaten är på väg att bli synliga samtidigt som huvudpersonerna Elon Musk och Donald Trump kapitaliserar på staten som aldrig förr.",
-      "link": "https://www.dn.se/varlden/bjorn-af-kleen-musks-kvasidepartement-gar-i-graven-efter-att-hundratusentals-fattiga-dott/",
-      "date_display": "2026-07-21",
-      "date_iso": "2026-07-21T09:41:57+00:00",
+      "id": 10,
+      "title": "Ida Östenberg: That's how many cyclops I give out for the epic \"The Odyssey\"",
+      "summary": "The photography and music are clearly the best in \"The Odyssey\". World class! But Matt Damon has no charisma in the lead role and the portrayal of Helena is too short and measly. DN Kultur's antiquarian Ida Östenberg has seen Christopher Nolan's current film adaptation of \"The Odyssey\".",
+      "title_original": "Ida Östenberg: Så många cykloper delar jag ut till den episka ”The Odyssey”",
+      "summary_original": "Fotot och musiken är klart bäst i ”The Odyssey”. Världsklass! Men Matt Damon har ingen karisma i huvudrollen och skildringen av Helena är för kort och mesig. DN Kulturs antikvetare Ida Östenberg har sett Christopher Nolans aktuella filmatisering av ”Odysséen”.",
+      "link": "https://www.dn.se/kultur/ida-ostenberg-sa-manga-cykloper-delar-jag-ut-till-den-episka-the-odyssey/",
+      "date_display": "2026-07-23",
+      "date_iso": "2026-07-23T09:26:41+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -19,53 +19,50 @@
       "tags": []
     },
     {
-      "id": 11,
-      "title": "\"You don't have to comment on everything\"",
-      "summary": "The only thing Torbjörn Elensky knew about U2 was that they were big and popular. He himself preferred to listen to Stravinsky - but that was no obstacle to reviewing the rock giants from Dublin, was it?",
-      "title_original": "”Man måste inte yttra sig om allt”",
-      "summary_original": "Det enda Torbjörn Elensky visste om U2 var att de var stora och populära. Själv lyssnade han helst på Stravinsky – men det var väl inget hinder för att recensera rockgiganterna från Dublin?",
-      "link": "https://www.svd.se/a/k0p8mB/man-maste-inte-yttra-sig-om-allt",
-      "date_display": "2026-07-21",
-      "date_iso": "2026-07-21T09:30:00+00:00",
+      "id": 36,
+      "title": "India's young \"cockroaches\" have had enough - Modi shaken",
+      "summary": "The grassroots movement \"the cockroaches\" has in a short time gone from being a viral joke, to the biggest threat to date against India's authoritarian leader Narendra Modi. Generation Z seethes with anger against corruption and politicians who do not take responsibility.",
+      "title_original": "Indiens unga ”kackerlackor” har fått nog – Modi skakad",
+      "summary_original": "Gräsrotsrörelsen ”kackerlackorna” har på kort tid gått från att vara ett viralt skämt, till det hittills största hotet mot Indiens auktoritäre ledare Narendra Modi. Generation Z kokar av ilska mot korruption och politiker som inte tar ansvar.",
+      "link": "https://www.dn.se/varlden/indiens-unga-kackerlackor-har-fatt-nog-modi-skakad/",
+      "date_display": "2026-07-23",
+      "date_iso": "2026-07-23T09:15:24+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 42,
+      "title": "Several are sentenced after contract murder in Eskilstuna",
+      "summary": "A 35-year-old man was shot to death with several shots in Årby in Eskilstuna in August 2024. Now two 49-year-old men are sentenced to long prison terms for the murder.",
+      "title_original": "Flera döms efter kontraktsmord i Eskilstuna",
+      "summary_original": "En 35-årig man sköts till döds med flera skott i Årby i Eskilstuna i augusti 2024. Nu döms två 49-åriga män till långa fängelsestraff för mordet.",
+      "link": "https://www.svd.se/a/k0K34a/en-far-livstid-efter-skjutning-i-eskilstuna",
+      "date_display": "2026-07-23",
+      "date_iso": "2026-07-23T09:09:34+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Litteratur",
-        "Kultur"
+        "Sverige"
       ]
     },
     {
-      "id": 12,
-      "title": "\"Young people need to build their lives before children and family\"",
-      "summary": "Young adults don't give up children because of a few hundred Swedish kroner for low child support if basic security is lacking. Politicians must stop considering young people as a cost and see them as a strategic investment, writes Rasmus Elfström (C).",
-      "title_original": "”Unga behöver bygga sina liv före barn och familj”",
-      "summary_original": "Unga vuxna avstår inte från barn på grund av några hundralappar för lågt barnbidrag om grundtryggheten saknas. Politiker måste sluta betrakta unga som en kostnad och se dem som en strategisk investering, skriver Rasmus Elfström (C).",
-      "link": "https://www.svd.se/a/oEwdq7/unga-behover-bygga-sina-liv-fore-barn-och-familj",
-      "date_display": "2026-07-21",
-      "date_iso": "2026-07-21T09:30:00+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Debatt"
-      ]
-    },
-    {
-      "id": 150,
-      "title": "Statement by Romina Pourmokthari",
-      "summary": "Statement by Romina Pourmokthari, Minister for Climate and the Environment.",
-      "title_original": "Statement by Romina Pourmokthari",
-      "summary_original": "Statement by Romina Pourmokthari, Minister for Climate and the Environment.",
+      "id": 178,
+      "title": "Statement by Romina Pourmokhtari",
+      "summary": "Statement by Romina Pourmokhtari, Minister for Climate and the Environment.",
+      "title_original": "Statement by Romina Pourmokhtari",
+      "summary_original": "Statement by Romina Pourmokhtari, Minister for Climate and the Environment.",
       "link": "https://www.government.se/statements/2026/07/statement-by-romina-pourmokthari/",
       "date_display": "2026-07-17",
       "date_iso": "2026-07-17T17:46:17+00:00",
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "EU",
         "Ministry of Climate and Enterprise",
@@ -75,7 +72,7 @@
       ]
     },
     {
-      "id": 151,
+      "id": 179,
       "title": "Sweden to contribute additional SEK 1.4 billion to World Bank operations in Ukraine",
       "summary": "The Government has today decided to provide SEK 1.4 billion in support to a new World Bank crisis facility that benefits Ukraine. This support enables new loans totalling approximately SEK 4.2 billion for the country’s reconstruction and recovery. The World Bank is a key actor for Ukraine’s reform efforts and economic resilience during Russia’s ongoing aggression. Sweden’s actions have been vital for the establishment of the new crisis facility.",
       "title_original": "Sweden to contribute additional SEK 1.4 billion to World Bank operations in Ukraine",
@@ -86,7 +83,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Education and Research",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Press release",
         "International",
@@ -99,7 +96,7 @@
       ]
     },
     {
-      "id": 152,
+      "id": 180,
       "title": "Government puts pressure on EU ahead of Commission’s review of EU Emissions Trading System",
       "summary": "Next week, the European Commission will present its review of the European Union Emissions Trading System (EU ETS). Sweden’s Minister for EU Affairs Jessica Rosencrantz has sent a letter to the Irish Presidency of the Council of the European Union, with Sweden’s priorities and standpoints ahead of the upcoming negotiations.",
       "title_original": "Government puts pressure on EU ahead of Commission’s review of EU Emissions Trading System",
@@ -110,7 +107,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "Press release",
         "EU",
@@ -121,7 +118,7 @@
       ]
     },
     {
-      "id": 153,
+      "id": 181,
       "title": "Letter to the President of the Council on regarding the ETS",
       "summary": "A statement from Minister for EU Affairs Jessica Rosencrantz, on 9 July 2026.",
       "title_original": "Letter to the President of the Council on regarding the ETS",
@@ -132,7 +129,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
@@ -140,73 +137,6 @@
         "Statement",
         "Jessica Rosencrantz",
         "Sweden's climate aid"
-      ]
-    },
-    {
-      "id": 154,
-      "title": "EU adopts sanctions over poisoning of Russian opposition politician Alexei Navalny",
-      "summary": "In light of the poisoning of Alexei Navalny, the EU has adopted sanctions against six Russian individuals under the chemical weapons sanctions regime. In June, listings of seven individuals and one entity were also adopted under the EU Global Human Rights Sanctions Regime, which was established because of the internal oppression in Russia.",
-      "title_original": "EU adopts sanctions over poisoning of Russian opposition politician Alexei Navalny",
-      "summary_original": "In light of the poisoning of Alexei Navalny, the EU has adopted sanctions against six Russian individuals under the chemical weapons sanctions regime. In June, listings of seven individuals and one entity were also adopted under the EU Global Human Rights Sanctions Regime, which was established because of the internal oppression in Russia.",
-      "link": "https://www.government.se/press-releases/2026/07/eu-adopts-sanctions-over-poisoning-of-russian-opposition-politician-alexei-navalny/",
-      "date_display": "2026-07-07",
-      "date_iso": "2026-07-07T14:57:25+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "EU",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Maria Malmer Stenergard"
-      ]
-    },
-    {
-      "id": 155,
-      "title": "Government invests SEK 250 million in global health",
-      "summary": "The Government has adopted a new support package for global health, including sexual and reproductive health and rights (SRHR), totalling SEK 250 million for 2026. The health package consolidates Sweden’s commitment to improving the health of the most vulnerable through vaccines in low- and middle-income countries and increased access to maternal and newborn care where the needs are greatest.",
-      "title_original": "Government invests SEK 250 million in global health",
-      "summary_original": "The Government has adopted a new support package for global health, including sexual and reproductive health and rights (SRHR), totalling SEK 250 million for 2026. The health package consolidates Sweden’s commitment to improving the health of the most vulnerable through vaccines in low- and middle-income countries and increased access to maternal and newborn care where the needs are greatest.",
-      "link": "https://www.government.se/press-releases/2026/07/government-invests-sek-250-million-in-global-health/",
-      "date_display": "2026-07-07",
-      "date_iso": "2026-07-07T12:17:56+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "Ministry of Health and Social Affairs",
-        "International development cooperation",
-        "Foreign and security policy",
-        "Jakob Forssmed",
-        "Public health",
-        "Benjamin Dousa"
-      ]
-    },
-    {
-      "id": 156,
-      "title": "Charlotte Kugelberg appointed new Head of the Permanent Mission of Sweden to the United Nations",
-      "summary": "On 2 July, the Government appointed Charlotte Kugelberg as Head of the Permanent Mission of Sweden to the United Nations.",
-      "title_original": "Charlotte Kugelberg appointed new Head of the Permanent Mission of Sweden to the United Nations",
-      "summary_original": "On 2 July, the Government appointed Charlotte Kugelberg as Head of the Permanent Mission of Sweden to the United Nations.",
-      "link": "https://www.government.se/press-releases/2026/07/charlotte-kugelberg-appointed-new-head-of-the-permanent-mission-of-sweden-to-the-united-nations/",
-      "date_display": "2026-07-07",
-      "date_iso": "2026-07-07T11:52:04+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Sweden in the UN"
       ]
     }
   ]
