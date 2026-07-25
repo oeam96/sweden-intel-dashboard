@@ -1,47 +1,17 @@
 {
-  "generated_at": "2026-07-23T12:04:43.138844+02:00",
-  "date": "2026-07-23",
-  "item_count": 7,
+  "generated_at": "2026-07-25T11:20:34.526799+02:00",
+  "date": "2026-07-25",
+  "item_count": 5,
   "items": [
     {
-      "id": 10,
-      "title": "Ida Östenberg: That's how many cyclops I give out for the epic \"The Odyssey\"",
-      "summary": "The photography and music are clearly the best in \"The Odyssey\". World class! But Matt Damon has no charisma in the lead role and the portrayal of Helena is too short and measly. DN Kultur's antiquarian Ida Östenberg has seen Christopher Nolan's current film adaptation of \"The Odyssey\".",
-      "title_original": "Ida Östenberg: Så många cykloper delar jag ut till den episka ”The Odyssey”",
-      "summary_original": "Fotot och musiken är klart bäst i ”The Odyssey”. Världsklass! Men Matt Damon har ingen karisma i huvudrollen och skildringen av Helena är för kort och mesig. DN Kulturs antikvetare Ida Östenberg har sett Christopher Nolans aktuella filmatisering av ”Odysséen”.",
-      "link": "https://www.dn.se/kultur/ida-ostenberg-sa-manga-cykloper-delar-jag-ut-till-den-episka-the-odyssey/",
-      "date_display": "2026-07-23",
-      "date_iso": "2026-07-23T09:26:41+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 36,
-      "title": "India's young \"cockroaches\" have had enough - Modi shaken",
-      "summary": "The grassroots movement \"the cockroaches\" has in a short time gone from being a viral joke, to the biggest threat to date against India's authoritarian leader Narendra Modi. Generation Z seethes with anger against corruption and politicians who do not take responsibility.",
-      "title_original": "Indiens unga ”kackerlackor” har fått nog – Modi skakad",
-      "summary_original": "Gräsrotsrörelsen ”kackerlackorna” har på kort tid gått från att vara ett viralt skämt, till det hittills största hotet mot Indiens auktoritäre ledare Narendra Modi. Generation Z kokar av ilska mot korruption och politiker som inte tar ansvar.",
-      "link": "https://www.dn.se/varlden/indiens-unga-kackerlackor-har-fatt-nog-modi-skakad/",
-      "date_display": "2026-07-23",
-      "date_iso": "2026-07-23T09:15:24+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 42,
-      "title": "Several are sentenced after contract murder in Eskilstuna",
-      "summary": "A 35-year-old man was shot to death with several shots in Årby in Eskilstuna in August 2024. Now two 49-year-old men are sentenced to long prison terms for the murder.",
-      "title_original": "Flera döms efter kontraktsmord i Eskilstuna",
-      "summary_original": "En 35-årig man sköts till döds med flera skott i Årby i Eskilstuna i augusti 2024. Nu döms två 49-åriga män till långa fängelsestraff för mordet.",
-      "link": "https://www.svd.se/a/k0K34a/en-far-livstid-efter-skjutning-i-eskilstuna",
-      "date_display": "2026-07-23",
-      "date_iso": "2026-07-23T09:09:34+00:00",
+      "id": 5,
+      "title": "Indian minister resigns after student protests",
+      "summary": "",
+      "title_original": "Indisk minister avgår efter studentprotester",
+      "summary_original": "",
+      "link": "https://www.svd.se/a/9prkg5/indisk-minister-avgar-efter-studentprotester",
+      "date_display": "2026-07-25",
+      "date_iso": "2026-07-25T09:09:01+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -51,7 +21,39 @@
       ]
     },
     {
-      "id": 178,
+      "id": 7,
+      "title": "Rebecka Kärde: What is Hello Kitty if not deformed?",
+      "summary": "It is not for nothing that \"kawaii\" is one of the most famous words in Japanese. There, both the police and the big banks have small, cute animal mascots. Rebecka Kärde is in East Asia and lets her defenses fall before the ambiguous culture of cuteness.",
+      "title_original": "Rebecka Kärde: Vad är Hello Kitty om inte vanskapt?",
+      "summary_original": "Det är inte för inte som ”kawaii” är ett av japanskans kändaste ord. Där har såväl polisen som storbankerna små, söta djurmaskotar. Rebecka Kärde är i Östasien och låter försvaren falla inför den tvetydiga gullighetskulturen.",
+      "link": "https://www.dn.se/kultur/rebecka-karde-vad-ar-hello-kitty-om-inte-vanskapt/",
+      "date_display": "2026-07-25",
+      "date_iso": "2026-07-25T09:07:04+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 8,
+      "title": "After the protests: India's education minister resigns",
+      "summary": "India's Education Minister Dharmendra Pradhan resigns, AP reports.",
+      "title_original": "Efter protesterna: Indiens utbildningsminister avgår",
+      "summary_original": "Indiens utbildningsminister Dharmendra Pradhan avgår, rapporterar AP.",
+      "link": "https://www.svd.se/a/zO9lRw/efter-protesterna-indiens-utbildningsminister-avgar",
+      "date_display": "2026-07-25",
+      "date_iso": "2026-07-25T09:02:06+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Världen"
+      ]
+    },
+    {
+      "id": 180,
       "title": "Statement by Romina Pourmokhtari",
       "summary": "Statement by Romina Pourmokhtari, Minister for Climate and the Environment.",
       "title_original": "Statement by Romina Pourmokhtari",
@@ -62,7 +64,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "EU",
         "Ministry of Climate and Enterprise",
@@ -72,7 +74,7 @@
       ]
     },
     {
-      "id": 179,
+      "id": 181,
       "title": "Sweden to contribute additional SEK 1.4 billion to World Bank operations in Ukraine",
       "summary": "The Government has today decided to provide SEK 1.4 billion in support to a new World Bank crisis facility that benefits Ukraine. This support enables new loans totalling approximately SEK 4.2 billion for the country’s reconstruction and recovery. The World Bank is a key actor for Ukraine’s reform efforts and economic resilience during Russia’s ongoing aggression. Sweden’s actions have been vital for the establishment of the new crisis facility.",
       "title_original": "Sweden to contribute additional SEK 1.4 billion to World Bank operations in Ukraine",
@@ -83,7 +85,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Education and Research",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Press release",
         "International",
@@ -93,50 +95,6 @@
         "Sweden's support to Ukraine",
         "Lotta Edholm",
         "Benjamin Dousa"
-      ]
-    },
-    {
-      "id": 180,
-      "title": "Government puts pressure on EU ahead of Commission’s review of EU Emissions Trading System",
-      "summary": "Next week, the European Commission will present its review of the European Union Emissions Trading System (EU ETS). Sweden’s Minister for EU Affairs Jessica Rosencrantz has sent a letter to the Irish Presidency of the Council of the European Union, with Sweden’s priorities and standpoints ahead of the upcoming negotiations.",
-      "title_original": "Government puts pressure on EU ahead of Commission’s review of EU Emissions Trading System",
-      "summary_original": "Next week, the European Commission will present its review of the European Union Emissions Trading System (EU ETS). Sweden’s Minister for EU Affairs Jessica Rosencrantz has sent a letter to the Irish Presidency of the Council of the European Union, with Sweden’s priorities and standpoints ahead of the upcoming negotiations.",
-      "link": "https://www.government.se/press-releases/2026/07/press-release-government-puts-pressure-on-eu-ahead-of-commissions-review-of-eu-emissions-trading-system/",
-      "date_display": "2026-07-10",
-      "date_iso": "2026-07-10T08:14:23+00:00",
-      "source": "Government.se",
-      "ministry": "Prime Minister's Office",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "EU",
-        "Prime Minister's Office",
-        "Environment and climate",
-        "Jessica Rosencrantz",
-        "Sweden's climate aid"
-      ]
-    },
-    {
-      "id": 181,
-      "title": "Letter to the President of the Council on regarding the ETS",
-      "summary": "A statement from Minister for EU Affairs Jessica Rosencrantz, on 9 July 2026.",
-      "title_original": "Letter to the President of the Council on regarding the ETS",
-      "summary_original": "A statement from Minister for EU Affairs Jessica Rosencrantz, on 9 July 2026.",
-      "link": "https://www.government.se/statements/2026/07/letter-to-the-president-of-the-council-on-regarding-the-ets/",
-      "date_display": "2026-07-10",
-      "date_iso": "2026-07-10T08:03:49+00:00",
-      "source": "Government.se",
-      "ministry": "Prime Minister's Office",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "EU",
-        "Prime Minister's Office",
-        "Environment and climate",
-        "Statement",
-        "Jessica Rosencrantz",
-        "Sweden's climate aid"
       ]
     }
   ]
