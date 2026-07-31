@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-29T12:13:17.734970+02:00",
-  "date": "2026-07-29",
-  "item_count": 6,
+  "generated_at": "2026-07-31T12:10:03.184986+02:00",
+  "date": "2026-07-31",
+  "item_count": 5,
   "items": [
     {
-      "id": 8,
-      "title": "DJ Kavinsky dead - turned 50",
-      "summary": "French DJ Kavinsky is dead at the age of 50, Le Parisien reports. He is above all known for the hit song \"Nightcall\".",
-      "title_original": "Dj:n Kavinsky död – blev 50 år",
-      "summary_original": "Den franske dj:n Kavinsky är död vid 50 års ålder, vilket Le Parisien rapporterar. Han är framför allt känd för hitlåten ”Nightcall”.",
-      "link": "https://www.dn.se/kultur/djn-kavinsky-dod-blev-50-ar/",
-      "date_display": "2026-07-29",
-      "date_iso": "2026-07-29T09:52:30+00:00",
+      "id": 2,
+      "title": "Spain is accused of creating the chaos in Ceuta",
+      "summary": "After tens of thousands of migrants made their way to the Spanish enclave of Ceuta, sharp criticism was directed at the country's government. Madrid's comparatively liberal migration policy puts the whole of Europe in danger, the European right believes. Now Italy demands that Spain be thrown out of the Schengen cooperation.",
+      "title_original": "Spanien anklagas för att ha skapat kaoset i Ceuta",
+      "summary_original": "Efter att tiotusentals migranter tagit sig till den spanska enklaven Ceuta riktas skarp kritik mot landets regering. Madrids jämförelsevis liberala migrationspolitik utsätter hela Europa för fara, anser den europeiska högern. Nu kräver Italien att Spanien ska kastas ut från Schengensamarbetet.",
+      "link": "https://www.dn.se/varlden/spanien-anklagas-for-att-ha-skapat-kaoset-i-ceuta/",
+      "date_display": "2026-07-31",
+      "date_iso": "2026-07-31T10:04:27+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -20,13 +20,13 @@
     },
     {
       "id": 9,
-      "title": "Filmed herself when she was driving too fast - sentenced for fatal crash",
-      "summary": "The then 18-year-old woman filmed herself driving at 154 kilometers per hour. The dangerous journey ended with a crash where two people died and the woman was sentenced to six years in prison. Now the punishment is getting tougher.",
-      "title_original": "Filmade sig själv när hon körde för fort – döms för dödskrasch",
-      "summary_original": "Den då 18-åriga kvinnan filmade sig själv när hon körde i 154 kilometer i timmen. Den vådliga färden slutade med en krasch där två personer dog och kvinnan dömdes till sex års fängelse. Nu skärps straffet.",
-      "link": "https://www.dn.se/varlden/filmade-sig-sjalv-nar-hon-korde-for-fort-doms-for-dodskrasch/",
-      "date_display": "2026-07-29",
-      "date_iso": "2026-07-29T09:49:12+00:00",
+      "title": "Nathan Shachar: Morocco fears neither the EU nor Spain",
+      "summary": "The acute migrant crisis in the Spanish African exclave of Ceuta is the latest development in a chronically bitter relationship. Spain's history and Morocco's are intertwined like few other countries' for nearly two centuries. They need each other in a thousand ways, and distrust each other in just as many ways.",
+      "title_original": "Nathan Shachar: Marocko fruktar varken EU eller Spanien",
+      "summary_original": "Den akuta migrantkrisen i den spanska Afrika-exklaven Ceuta är det senaste tillbudet i en kroniskt bitter relation. Spaniens historia och Marockos är sammanflätade som få andra länders sedan snart två sekler. De behöver varandra på tusen vis, och misstror varandra på lika många vis.",
+      "link": "https://www.dn.se/varlden/nathan-shachar-marocko-fruktar-varken-eu-eller-spanien/",
+      "date_display": "2026-07-31",
+      "date_iso": "2026-07-31T09:58:29+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -34,24 +34,22 @@
       "tags": []
     },
     {
-      "id": 12,
-      "title": "Clas lives near the accident site: \"Terrible\"",
-      "summary": "Clas Darvik lives on Lövön near the place where a recreational boat sank after a supposed collision with a merchant ship on Tuesday evening. A child and a woman are still missing. - It is terrible, he says.",
-      "title_original": "Clas bor nära olycksplatsen: ”Fruktansvärt”",
-      "summary_original": "Clas Darvik bor på Lövön i närheten av platsen där en fritidsbåt förliste efter en förmodad krock med ett handelsfartyg under tisdagskvällen. Ett barn och en kvinna saknas fortfarande. – Det är fruktansvärt, säger han.",
-      "link": "https://www.svd.se/a/8pXjn1/clas-bor-nara-olycksplatsen-fruktansvart",
-      "date_display": "2026-07-29",
-      "date_iso": "2026-07-29T09:38:11+00:00",
-      "source": "Svenska Dagbladet (SvD)",
+      "id": 17,
+      "title": "Father of school shooter sentenced to 15 years in prison",
+      "summary": "The father gave his then 13-year-old son a semi-automatic carbine as a Christmas present. The boy then used the weapon in the deadliest school shooting in Georgia state history. Now the father has been sentenced to 15 years in prison.",
+      "title_original": "Pappa till skolskjutare döms till 15 års fängelse",
+      "summary_original": "Pappan gav sin då 13-årige son en semiautomatisk karbin i julklapp. Pojken använde sedan vapnet när han utförde den dödligaste skolskjutningen i delstaten Georgias historia. Nu har pappan dömts till 15 års fängelse.",
+      "link": "https://www.dn.se/varlden/pappa-till-skolskjutare-doms-till-15-ars-fangelse/",
+      "date_display": "2026-07-31",
+      "date_iso": "2026-07-31T09:41:30+00:00",
+      "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
-      "tags": [
-        "Sverige"
-      ]
+      "tags": []
     },
     {
-      "id": 167,
+      "id": 179,
       "title": "Nicaragua: Statement by the High Representative on behalf of the EU",
       "summary": "The European Union continues to monitor closely the evolution of the political situation and severe deterioration of fundamental rights in Nicaragua.",
       "title_original": "Nicaragua: Statement by the High Representative on behalf of the EU",
@@ -62,7 +60,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "EU",
         "Ministry for Foreign Affairs",
@@ -82,37 +80,13 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "EU",
         "Ministry of Climate and Enterprise",
         "Environment and climate",
         "Statement",
         "Romina Pourmokhtari"
-      ]
-    },
-    {
-      "id": 181,
-      "title": "Sweden to contribute additional SEK 1.4 billion to World Bank operations in Ukraine",
-      "summary": "The Government has today decided to provide SEK 1.4 billion in support to a new World Bank crisis facility that benefits Ukraine. This support enables new loans totalling approximately SEK 4.2 billion for the country’s reconstruction and recovery. The World Bank is a key actor for Ukraine’s reform efforts and economic resilience during Russia’s ongoing aggression. Sweden’s actions have been vital for the establishment of the new crisis facility.",
-      "title_original": "Sweden to contribute additional SEK 1.4 billion to World Bank operations in Ukraine",
-      "summary_original": "The Government has today decided to provide SEK 1.4 billion in support to a new World Bank crisis facility that benefits Ukraine. This support enables new loans totalling approximately SEK 4.2 billion for the country’s reconstruction and recovery. The World Bank is a key actor for Ukraine’s reform efforts and economic resilience during Russia’s ongoing aggression. Sweden’s actions have been vital for the establishment of the new crisis facility.",
-      "link": "https://www.government.se/press-releases/2026/07/sweden-to-contribute-additional-sek-1.4-billion-to-world-bank-operations-in-ukraine",
-      "date_display": "2026-07-16",
-      "date_iso": "2026-07-16T08:30:09+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Education and Research",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry of Education and Research",
-        "Ministry for Foreign Affairs",
-        "International development cooperation",
-        "Sweden's support to Ukraine",
-        "Lotta Edholm",
-        "Benjamin Dousa"
       ]
     }
   ]
