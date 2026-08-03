@@ -1,66 +1,55 @@
 {
-  "generated_at": "2026-08-01T11:34:10.252260+02:00",
-  "date": "2026-08-01",
+  "generated_at": "2026-08-03T12:57:00.915929+02:00",
+  "date": "2026-08-03",
   "item_count": 4,
   "items": [
     {
+      "id": 0,
+      "title": "After 40 years – classical musical theater school is forced to close",
+      "summary": "After 40 years, the musical theater school in Bjärnum is closed. The reason is financial pressure since the principal, Markaryd Folkhögskola, went bankrupt last year. At the same time, the number of participants at all folk high schools in Sweden has decreased by 10 percent since 2022, according to new statistics.",
+      "title_original": "Efter 40 år – klassisk musikteaterskola tvingas stänga",
+      "summary_original": "Efter 40 år läggs musikteaterskolan i Bjärnum ner. Orsaken är pressad ekonomi sedan huvudmannen Markaryds folkhögskola gick i konkurs i fjol. Samtidigt har antalet deltagare på samtliga folkhögskolor i Sverige minskat med 10 procent sedan 2022, enligt ny statistik.",
+      "link": "https://www.dn.se/kultur/efter-40-ar-klassisk-musikteaterskola-tvingas-stanga/",
+      "date_display": "2026-08-03",
+      "date_iso": "2026-08-03T10:54:54+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 1,
+      "title": "Finsk expert om svensk bensinrea: \"Hasardspel\"",
+      "summary": "Sweden's petrol is among the cheapest in Europe after the Swedish government's tax sale on fuel. The motorist-friendly policy is exceptional in the Nordics - and an economic risk-taking, says expert Hanna Kalenoja at the Central Chamber of Commerce.",
+      "title_original": "Finsk expert om svensk bensinrea: ”Hasardspel”",
+      "summary_original": "Sveriges bensin är bland den billigaste i Europa efter den svenska regeringens skatterea på bränsle. Den bilistvänliga politiken är exceptionell i Norden – och en ekonomisk risktagning, säger experten Hanna Kalenoja på Centralhandelskammaren.",
+      "link": "https://www.dn.se/sverige/finsk-expert-om-svensk-bensinrea-hasardspel/",
+      "date_display": "2026-08-03",
+      "date_iso": "2026-08-03T10:54:50+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
       "id": 3,
-      "title": "The boat salvaged - to be examined",
-      "summary": "Low at a depth of 20-30 meters • To be investigated further",
-      "title_original": "Båten bärgad – ska undersökas",
-      "summary_original": "Låg på 20-30 meters djup • Ska undersökas vidare",
-      "link": "https://www.tv4.se/artikel/3Jv5CZtZf1w2iA9c78rnww/baten-baergad-ska-undersoekas",
-      "date_display": "2026-08-01",
-      "date_iso": "2026-08-01T09:25:52+00:00",
-      "source": "TV4 Nyheterna",
+      "title": "Ola Larsmo: There is talk of God like never before in Trump's USA",
+      "summary": "The über-pious Republican Speaker has made it clear that the November election is between God and the devil. Trump speaks of the country now having to be \"reunited under God\". But they don't have much of a grasp of the nation's religious history, writes Ola Larsmo.",
+      "title_original": "Ola Larsmo: Det tjatas om Gud som aldrig förr i Trumps USA",
+      "summary_original": "Republikanernas überfromme talman har gjort klart att novembervalet står mellan Gud och djävulen. Trump talar om att landet nu måste ”återsamlas under Gud”. Men någon större koll på nationens religiösa historia har de inte, skriver Ola Larsmo.",
+      "link": "https://www.dn.se/kultur/ola-larsmo-det-tjatas-om-gud-som-aldrig-forr-i-trumps-usa/",
+      "date_display": "2026-08-03",
+      "date_iso": "2026-08-03T10:53:06+00:00",
+      "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
-      "tags": [
-        "Nyheterna"
-      ]
+      "tags": []
     },
     {
-      "id": 4,
-      "title": "\"They have been deceived - and have been met with chaos\"",
-      "summary": "Once again Spain's limits are tested. Tens of thousands of migrants have in the past 24 hours swam into Europe in a new major political conflict. And residents of Ceuta testify to chaos.",
-      "title_original": "”De har blivit lurade – och har mötts av kaos”",
-      "summary_original": "Ännu en gång testas Spaniens gränser. Tiotusentals migranter har under de senaste dygnen simmat in Europa i en ny storpolitisk konflikt. Och boende i Ceuta vittnar om kaos.",
-      "link": "https://www.svd.se/a/Gx6JnV/migranter-simmar-in-i-eu-skapar-kaos",
-      "date_display": "2026-08-01",
-      "date_iso": "2026-08-01T09:25:21+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Världen"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Kristersson wants an EU crisis meeting about Spain",
-      "summary": "In addition to Kristersson, the signatories include Italy's Prime Minister Giorgia Meloni and Denmark's Prime Minister Mette Frederiksen. They express their \"serious concern\" about the situation and write that they are \"determined to prevent smugglers from challenging the integrity of the EU's external borders\". The letter is addressed to the President of the European Council, António Costa, the President of the European Commission, Ursula von der Leyen, and Micheál Martin, Prime Minister of the EU Presidency of Ireland. About 50,000 people have crossed from Morocco to the small Spanish exclave of Ceuta on the North African Mediterranean coast in recent days, according to the Spanish Interior Ministry. By late Friday, approximately 48,000 of them had returned to Morocco. In the letter, the heads of state and government link the events to an interpretation of a decision by Spain's Supreme Court, which states that people who reach Spain by swimming may not be sent back. They ask in the letter for a video meeting between EU interior ministers to assess the situation and agree a \"coordinated European response\" to support Spain to \"restore effective control of the Union's external border and prevent further uncontrolled border crossings\".",
-      "title_original": "Kristersson vill ha EU-krismöte om Spanien",
-      "summary_original": "Bland undertecknarna finns utöver Kristersson bland andra Italiens premiärminister Giorgia Meloni och Danmarks statsminister Mette Frederiksen. De uttrycka sin ”allvarliga oro” över situationen och skriver att de är ”fast beslutna att hindra att smugglare utmanar EU:s yttre gränsers integritet”. Brevet är riktat till Europeiska rådets ordförande António Costa, EU-kommissionens ordförande Ursula von der Leyen och Micheál Martin, premiärminister i EU:s ordförandeland Irland. Cirka 50 000 människor har tagit sig över från Marocko till den lilla spanska exklaven Ceuta vid den nordafrikanska Medelhavskusten de senaste dagarna, enligt det spanska inrikesdepartementet. Sent på fredagen hade ungefär 48 000 av dem återvänt till Marocko. Stats- och regeringscheferna kopplar i brevet händelserna till en tolkning av ett beslut från Spaniens högsta domstol, som går ut på att personer som når Spanien simmande inte får skickas tillbaka. De ber i brevet om ett videomöte mellan EU:s inrikesministrar för att bedöma situationen och komma överens om ett “samordnat europeiskt svar” om stöd till Spanien för att “återställa en effektiv kontroll över unionens yttre gräns och förhindra ytterligare okontrollerade gränspassager”.",
-      "link": "https://www.tv4.se/artikel/6jkurd4du3uXEUfR0fwhvz/kristersson-vill-ha-eu-krismoete-om-spanien",
-      "date_display": "2026-08-01",
-      "date_iso": "2026-08-01T09:13:08+00:00",
-      "source": "TV4 Nyheterna",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Nyheterna",
-        "/inrikes",
-        "/ulf-kristersson",
-        "/migrantkrisen-i-spanien",
-        "/migrant",
-        "/spanien"
-      ]
-    },
-    {
-      "id": 177,
+      "id": 179,
       "title": "Nicaragua: Statement by the High Representative on behalf of the EU",
       "summary": "The European Union continues to monitor closely the evolution of the political situation and severe deterioration of fundamental rights in Nicaragua.",
       "title_original": "Nicaragua: Statement by the High Representative on behalf of the EU",
@@ -71,7 +60,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "EU",
         "Ministry for Foreign Affairs",
