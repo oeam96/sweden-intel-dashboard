@@ -1,62 +1,78 @@
 {
-  "generated_at": "2026-08-05T12:12:18.493866+02:00",
-  "date": "2026-08-05",
-  "item_count": 5,
+  "generated_at": "2026-08-07T10:37:13.789749+02:00",
+  "date": "2026-08-07",
+  "item_count": 6,
   "items": [
     {
       "id": 1,
-      "title": "Kristersson: \"Time to sharpen up\"",
-      "summary": "Have spoken to the SD leader about the quisling statement",
-      "title_original": "Kristersson: ”Dags att skärpa till sig”",
-      "summary_original": "Har pratat med SD-ledaren om quislinguttalandet",
-      "link": "https://www.tv4.se/artikel/tt-260805-quisling1-2203e85a/kristersson-om-quislingdebatt-bor-skarpa-sig",
-      "date_display": "2026-08-05",
-      "date_iso": "2026-08-05T10:07:55+00:00",
-      "source": "TV4 Nyheterna",
+      "title": "New York Times: Grafström approved the plan",
+      "summary": "The day before the World Cup final, five Fifa leaders got to see chairman Gianni Infantino's controversial business plan. Swedish Secretary General Mattias Grafström is said to have approved the proposal, but two other officials voted no, The New York Times reports.",
+      "title_original": "New York Times: Grafström godkände planen",
+      "summary_original": "Dagen före VM-finalen fick fem Fifa-toppar se ordförande Gianni Infantinos kontroversiella affärsplan. Den svenske generalsekreteraren Mattias Grafström ska ha godkänt förslaget, men två andra tjänstemän röstade nej, rapporterar The New York Times.",
+      "link": "https://www.dn.se/sport/new-york-times-grafstrom-godkande-planen/",
+      "date_display": "2026-08-07",
+      "date_iso": "2026-08-07T08:31:16+00:00",
+      "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
-      "tags": [
-        "Moderaterna",
-        "/valet-2022/moderaterna"
-      ]
+      "tags": []
     },
     {
-      "id": 4,
-      "title": "Jomshof follows in the footsteps of Trump and Putin",
-      "summary": "CULTURE DEBATE | Richard Jomshof's quisling behavior increases the disrespect for journalists, writes Anders Teglund, chairman of Swedish PEN.",
-      "title_original": "Jomshof går i Trumps och Putins fotspår",
-      "summary_original": "KULTURDEBATT | Richard Jomshofs quisling-utspel ökar missaktningen mot journalister, skriver Anders Teglund, ordförande för Svenska PEN.",
-      "link": "https://www.svd.se/a/ArxObA/anders-teglund-darfor-kallar-richard-jomshof-journalisten-for-quisling",
-      "date_display": "2026-08-05",
-      "date_iso": "2026-08-05T10:00:14+00:00",
+      "id": 2,
+      "title": "Here are the banks with the lowest variable interest rates",
+      "summary": "Skandiabanken gave the lowest variable interest rate to its mortgage customers in July. Among the major banks, Nordea's variable average interest rate was the highest.",
+      "title_original": "Här är bankerna med lägst rörlig ränta",
+      "summary_original": "Skandiabanken gav lägst rörlig ränta till sina bolånekunder i juli. Bland storbankerna var Nordeas rörliga snittränta högst.",
+      "link": "https://www.svd.se/a/5poJ1K/har-ar-bankerna-med-lagst-rorlig-ranta",
+      "date_display": "2026-08-07",
+      "date_iso": "2026-08-07T08:18:50+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Kultur"
+        "Näringsliv"
       ]
     },
     {
-      "id": 8,
-      "title": "The arrest of a Kurdish priest in Syria raises concerns",
-      "summary": "In Syria, the government continues to arrest people for posts on the internet that are considered critical of the state. Now a Kurdish Christian priest has also been arrested after postings deemed offensive to Islam.",
-      "title_original": "Gripandet av kurdisk präst i Syrien väcker oro",
-      "summary_original": "I Syrien fortsätter regeringen att gripa personer för inlägg på internet som anses kritiska mot staten. Nu har även en kurdisk kristen präst gripits efter inlägg som bedömts kränka islam.",
-      "link": "https://www.svd.se/a/9prWAr/kurdisk-kristen-prast-greps-i-syrien-for-inlagg-pa-internet-anklagas-for-att-hana-islam",
-      "date_display": "2026-08-05",
-      "date_iso": "2026-08-05T09:58:00+00:00",
-      "source": "Svenska Dagbladet (SvD)",
+      "id": 13,
+      "title": "Tenant's storage room flooded after construction failure",
+      "summary": "When Stockholm Water and Waste was renovating the water pipes in central Stockholm, a leak occurred in Vasastaden. Almost 40 basement storage rooms were flooded - a nightmare for many residents. - It is we who have been affected who will lose the most, says tenant Jenni Särlefalk.",
+      "title_original": "Hyresgästers förråd översvämmade efter byggmiss",
+      "summary_original": "När Stockholm vatten och avfall renoverade vattenledningarna i centrala Stockholm uppstod en läcka i Vasastaden. Nästan 40 källarförråd blev översvämmade – en mardröm för många boende. – Det är vi som har drabbats som kommer att förlora mest, säger hyresgästen Jenni Särlefalk.",
+      "link": "https://www.dn.se/sverige/hyresgasters-forrad-oversvammade-efter-byggmiss/",
+      "date_display": "2026-08-07",
+      "date_iso": "2026-08-07T07:57:31+00:00",
+      "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 141,
+      "title": "Minister for Foreign Affairs visits Latin America",
+      "summary": "On 5–7 August, Minister for Foreign Affairs Maria Malmer Stenergard is visiting Brazil and Colombia. During the visit, Ms Malmer Stenergard is meeting with government representatives in the region and attending the presidential inauguration in Colombia.",
+      "title_original": "Minister for Foreign Affairs visits Latin America",
+      "summary_original": "On 5–7 August, Minister for Foreign Affairs Maria Malmer Stenergard is visiting Brazil and Colombia. During the visit, Ms Malmer Stenergard is meeting with government representatives in the region and attending the presidential inauguration in Colombia.",
+      "link": "https://www.government.se/press-releases/2026/08/minister-for-foreign-affairs-visits-latin-america/",
+      "date_display": "2026-08-06",
+      "date_iso": "2026-08-06T07:22:02+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "1 day old",
       "tags": [
-        "Världen"
+        "Press release",
+        "International",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "Maria Malmer Stenergard"
       ]
     },
     {
-      "id": 160,
+      "id": 177,
       "title": "Sweden strengthens Ukraine’s health and medical care through partnership and Swedish expertise",
       "summary": "Russia’s full-scale invasion has put Ukraine’s health and medical system under severe pressure at the same time as care needs have increased sharply. The Government is therefore allocating SEK 6.9 million to the Swecare Foundation for 2026 to strengthen Ukraine’s health care. This is being done through training initiatives, knowledge exchange and partnerships between Swedish and Ukrainian actors, including in the business sector.",
       "title_original": "Sweden strengthens Ukraine’s health and medical care through partnership and Swedish expertise",
@@ -67,7 +83,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Education and Research",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "International",
@@ -83,7 +99,7 @@
       ]
     },
     {
-      "id": 180,
+      "id": 181,
       "title": "Nicaragua: Statement by the High Representative on behalf of the EU",
       "summary": "The European Union continues to monitor closely the evolution of the political situation and severe deterioration of fundamental rights in Nicaragua.",
       "title_original": "Nicaragua: Statement by the High Representative on behalf of the EU",
@@ -94,7 +110,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "EU",
         "Ministry for Foreign Affairs",
