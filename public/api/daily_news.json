@@ -1,57 +1,89 @@
 {
-  "generated_at": "2026-08-07T10:37:13.789749+02:00",
-  "date": "2026-08-07",
-  "item_count": 6,
+  "generated_at": "2026-08-09T10:11:15.448133+02:00",
+  "date": "2026-08-09",
+  "item_count": 7,
   "items": [
     {
-      "id": 1,
-      "title": "New York Times: Grafström approved the plan",
-      "summary": "The day before the World Cup final, five Fifa leaders got to see chairman Gianni Infantino's controversial business plan. Swedish Secretary General Mattias Grafström is said to have approved the proposal, but two other officials voted no, The New York Times reports.",
-      "title_original": "New York Times: Grafström godkände planen",
-      "summary_original": "Dagen före VM-finalen fick fem Fifa-toppar se ordförande Gianni Infantinos kontroversiella affärsplan. Den svenske generalsekreteraren Mattias Grafström ska ha godkänt förslaget, men två andra tjänstemän röstade nej, rapporterar The New York Times.",
-      "link": "https://www.dn.se/sport/new-york-times-grafstrom-godkande-planen/",
-      "date_display": "2026-08-07",
-      "date_iso": "2026-08-07T08:31:16+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 2,
-      "title": "Here are the banks with the lowest variable interest rates",
-      "summary": "Skandiabanken gave the lowest variable interest rate to its mortgage customers in July. Among the major banks, Nordea's variable average interest rate was the highest.",
-      "title_original": "Här är bankerna med lägst rörlig ränta",
-      "summary_original": "Skandiabanken gav lägst rörlig ränta till sina bolånekunder i juli. Bland storbankerna var Nordeas rörliga snittränta högst.",
-      "link": "https://www.svd.se/a/5poJ1K/har-ar-bankerna-med-lagst-rorlig-ranta",
-      "date_display": "2026-08-07",
-      "date_iso": "2026-08-07T08:18:50+00:00",
+      "id": 0,
+      "title": "\"Unthinkable\" autumn trip increasingly popular",
+      "summary": "Do you want to switch holidays in June, July or August to May, September or October? The summer's extreme heat seems to make Swedes consider it. A trend that can be very positive, according to associate professor Maria Thulemark.",
+      "title_original": "”Otänkbara” höstresan allt mer populär",
+      "summary_original": "Vill du byta semester i juni, juli eller augusti mot maj, september eller oktober? Sommarens extremhettor verkar få svenskar att överväga det. En trend som kan vara mycket positiv, enligt docenten Maria Thulemark.",
+      "link": "https://www.svd.se/a/k0K5jv/manga-svenskar-vill-undvika-medelhavet-under-sommaren-hostresor-mer-populara",
+      "date_display": "2026-08-09",
+      "date_iso": "2026-08-09T08:07:01+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Näringsliv"
+        "Resor"
       ]
     },
     {
-      "id": 13,
-      "title": "Tenant's storage room flooded after construction failure",
-      "summary": "When Stockholm Water and Waste was renovating the water pipes in central Stockholm, a leak occurred in Vasastaden. Almost 40 basement storage rooms were flooded - a nightmare for many residents. - It is we who have been affected who will lose the most, says tenant Jenni Särlefalk.",
-      "title_original": "Hyresgästers förråd översvämmade efter byggmiss",
-      "summary_original": "När Stockholm vatten och avfall renoverade vattenledningarna i centrala Stockholm uppstod en läcka i Vasastaden. Nästan 40 källarförråd blev översvämmade – en mardröm för många boende. – Det är vi som har drabbats som kommer att förlora mest, säger hyresgästen Jenni Särlefalk.",
-      "link": "https://www.dn.se/sverige/hyresgasters-forrad-oversvammade-efter-byggmiss/",
-      "date_display": "2026-08-07",
-      "date_iso": "2026-08-07T07:57:31+00:00",
-      "source": "Dagens Nyheter (DN)",
+      "id": 1,
+      "title": "Per Svensson left life victorious",
+      "summary": "In the posthumously published \"When I died\", Per Svensson describes the illness that took his life. Fredrik Sixtensson reads a book about loneliness - but refuses to be bitter.",
+      "title_original": "Per Svensson gick segrande ur livet",
+      "summary_original": "I den postumt utgivna ”När jag dog” skildrar Per Svensson sjukdomen som tog hans liv. Fredrik Sixtensson läser en bok om ensamhet – men som vägrar vara bitter.",
+      "link": "https://www.svd.se/a/q6Vpaw/recension-nar-jag-dog-av-per-svensson",
+      "date_display": "2026-08-09",
+      "date_iso": "2026-08-09T08:06:18+00:00",
+      "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
-      "tags": []
+      "tags": [
+        "Litteratur",
+        "Kultur"
+      ]
     },
     {
-      "id": 141,
+      "id": 2,
+      "title": "Rain moves in over Sweden: \"Everyone will notice it\"",
+      "summary": "Rain is expected to move in over Sweden during the night to Monday and is expected to affect large parts of the country during the day. In southern Sweden, it is mainly about single showers that pass quickly, while the rain is expected to be more persistent in the north. - There won't be any large amounts of rain, but everyone will notice it, says TV4 meteorologist Toni Fuentes. Worst weather in the north It is in Norrland that the weather is expected to be most difficult on Monday. There, the rain can become both more intense and longer-lasting, while strong winds are expected. There is also a risk of thunder. - All Monday it will be a bit difficult in the north, says Fuentes. Later, another round of unsettled weather will move in over northern Sweden, with more rain, wind and thunder. In the south, however, the rain area is expected to pass much faster. Warmer for the weekend Despite the wet weather, summer is not over. Temperatures remain at summery levels and later in the week warmer air may move in over southern Sweden. - It's not over - it's still summer. It can be around 25 degrees in some places, says Fuentes. The weekend is expected to be the warmest in Götaland and Svealand. At the same time, the weather in Norrland may continue to be more rainy and unstable.\n\n- During Thursday, Friday and the weekend there will be some warm air in southern Sweden, says Toni Fuentes.",
+      "title_original": "Regn drar in över Sverige: ”Alla kommer att märka det”",
+      "summary_original": "Regn väntas dra in över Sverige under natten till måndagen och väntas beröra och stora delar av landet under dagen. I södra Sverige handlar det främst om enstaka skurar som passerar snabbt, medan regnet väntas bli mer ihållande i norr. – Det blir inte några stora regnmängder, men alla kommer att märka det, säger TV4:s meteorolog Toni Fuentes. Värst väder i norr Det är i Norrland som vädret väntas bli mest besvärligt under måndagen. Där kan regnet bli både intensivare och mer långvarigt, samtidigt som det väntas blåsa kraftigt. Det finns även risk för åska. – Hela måndagen kommer det bli lite besvärligt i norr, säger Fuentes. Senare kommer ytterligare en omgång med ostadigt väder in över norra Sverige, med mer regn, blåst och åska. I söder väntas regnområdet däremot passera betydligt snabbare. Varmare till helgen Trots det blöta vädret är sommaren inte över. Temperaturerna håller sig på somriga nivåer och längre fram i veckan kan varmare luft dra in över södra Sverige. – Det är inte över – det är fortfarande sommar. Det kan bli omkring 25 grader på sina håll, säger Fuentes. Till helgen väntas det bli varmast i Götaland och Svealand. I Norrland kan vädret samtidigt fortsätta vara mer regnigt och ostadigt.\n\n– Under torsdag, fredag och helgen det blir lite varm luft i södra Sverige, säger Toni Fuentes.",
+      "link": "https://www.tv4.se/artikel/369YiA8ghzxpgjq13EiYJM/regn-drar-in-oever-sverige-alla-kommer-att-maerka-det",
+      "date_display": "2026-08-09",
+      "date_iso": "2026-08-09T08:01:41+00:00",
+      "source": "TV4 Nyheterna",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Väder",
+        "/vader",
+        "/vadret",
+        "/inrikes",
+        "/vaderprognoser",
+        "/sommar"
+      ]
+    },
+    {
+      "id": 144,
+      "title": "Sweden opens Consulate-General in Munich",
+      "summary": "The Government has decided to open a consulate-general in southern Germany’s largest city, Munich. The aim is to help create higher growth in Sweden, strengthen Swedish competitiveness and increase interest in Sweden as an investment destination. Germany is Sweden’s most important trading partner and the world’s third-largest economy. Southern Germany is the country’s economic and political centre after the capital Berlin.",
+      "title_original": "Sweden opens Consulate-General in Munich",
+      "summary_original": "The Government has decided to open a consulate-general in southern Germany’s largest city, Munich. The aim is to help create higher growth in Sweden, strengthen Swedish competitiveness and increase interest in Sweden as an investment destination. Germany is Sweden’s most important trading partner and the world’s third-largest economy. Southern Germany is the country’s economic and political centre after the capital Berlin.",
+      "link": "https://www.government.se/press-releases/2026/08/sweden-opens-consulate-general-in-munich/",
+      "date_display": "2026-08-07",
+      "date_iso": "2026-08-07T14:03:45+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry for Foreign Affairs",
+        "Trade and investment promotion",
+        "Foreign and security policy",
+        "Maria Malmer Stenergard"
+      ]
+    },
+    {
+      "id": 149,
       "title": "Minister for Foreign Affairs visits Latin America",
       "summary": "On 5–7 August, Minister for Foreign Affairs Maria Malmer Stenergard is visiting Brazil and Colombia. During the visit, Ms Malmer Stenergard is meeting with government representatives in the region and attending the presidential inauguration in Colombia.",
       "title_original": "Minister for Foreign Affairs visits Latin America",
@@ -62,7 +94,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "International",
@@ -72,7 +104,7 @@
       ]
     },
     {
-      "id": 177,
+      "id": 151,
       "title": "Sweden strengthens Ukraine’s health and medical care through partnership and Swedish expertise",
       "summary": "Russia’s full-scale invasion has put Ukraine’s health and medical system under severe pressure at the same time as care needs have increased sharply. The Government is therefore allocating SEK 6.9 million to the Swecare Foundation for 2026 to strengthen Ukraine’s health care. This is being done through training initiatives, knowledge exchange and partnerships between Swedish and Ukrainian actors, including in the business sector.",
       "title_original": "Sweden strengthens Ukraine’s health and medical care through partnership and Swedish expertise",
@@ -83,7 +115,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Education and Research",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "International",
@@ -99,7 +131,7 @@
       ]
     },
     {
-      "id": 181,
+      "id": 152,
       "title": "Nicaragua: Statement by the High Representative on behalf of the EU",
       "summary": "The European Union continues to monitor closely the evolution of the political situation and severe deterioration of fundamental rights in Nicaragua.",
       "title_original": "Nicaragua: Statement by the High Representative on behalf of the EU",
@@ -110,7 +142,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "12 days old",
       "tags": [
         "EU",
         "Ministry for Foreign Affairs",
