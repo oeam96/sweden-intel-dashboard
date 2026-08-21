@@ -1,17 +1,32 @@
 {
-  "generated_at": "2026-08-19T10:06:53.787207+02:00",
-  "date": "2026-08-19",
+  "generated_at": "2026-08-21T10:09:37.736095+02:00",
+  "date": "2026-08-21",
   "item_count": 10,
   "items": [
     {
-      "id": 2,
-      "title": "The Center Party holds a press conference",
+      "id": 1,
+      "title": "\"Many people say that I am particularly keen to write about sex because I am a young man\"",
+      "summary": "He is only 23 years old and has written a novel that is read all over the world. In \"Lázár\" he partly depicts the life of his own Hungarian family in wealth, in war and Stalinism. DN's Mats Almegård talks to the \"prodigy\" Nelio Biedermann about daring to invent and rewrite until it turns out well.",
+      "title_original": "”Många säger att jag är extra sugen på att skriva om sex för att jag är en ung man”",
+      "summary_original": "Han är bara 23 år gammal och har skrivit en roman som blir läst över hela världen. I ”Lázár” skildrar han delvis sin egen ungerska släkts liv i rikedom, i krig och stalinism. DN:s Mats Almegård pratar med ”underbarnet” Nelio Biedermann om att våga hitta på och skriva om tills det blir bra.",
+      "link": "https://www.dn.se/kultur/manga-sager-att-jag-ar-extra-sugen-pa-att-skriva-om-sex-for-att-jag-ar-en-ung-man/",
+      "date_display": "2026-08-21",
+      "date_iso": "2026-08-21T08:04:21+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 4,
+      "title": "Strömmer holds a press conference",
       "summary": "",
-      "title_original": "Centerpartiet håller pressträff",
+      "title_original": "Strömmer håller pressträff",
       "summary_original": "",
-      "link": "https://www.svd.se/a/K8axR7/centerpartiet-haller-presstraff",
-      "date_display": "2026-08-19",
-      "date_iso": "2026-08-19T08:00:21+00:00",
+      "link": "https://www.svd.se/a/ArXx15/strommer-haller-presstraff",
+      "date_display": "2026-08-21",
+      "date_iso": "2026-08-21T08:03:10+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -21,41 +36,39 @@
       ]
     },
     {
-      "id": 14,
-      "title": "At least four dead after Russian attack on Kherson",
-      "summary": "At least four people have been killed and another four injured after a Russian drone attack in Kherson in southern Ukraine, the local prosecutor's office said in a statement.",
-      "title_original": "Minst fyra döda efter rysk attack mot Cherson",
-      "summary_original": "Minst fyra personer har dödats och ytterligare fyra skadats efter en rysk drönarattack i Cherson i södra Ukraina, uppger den lokala åklagarmyndigheten i ett uttalande.",
-      "link": "https://www.svd.se/a/lnrxmo/minst-fyra-doda-efter-rysk-attack-mot-cherson",
-      "date_display": "2026-08-19",
-      "date_iso": "2026-08-19T07:48:18+00:00",
+      "id": 5,
+      "title": "Kristersson: Not taking Jomshof's ministerial dream seriously",
+      "summary": "SD leader Richard Jomshof wants to become minister of democracy in the next government. But Prime Minister Ulf Kristersson (M) does not take him seriously: \"A sales campaign for his new book.\"",
+      "title_original": "Kristersson: Tar inte Jomshofs ministerdröm på allvar",
+      "summary_original": "SD-toppen Richard Jomshof vill bli demokratiminister i nästa regering. Men statsminister Ulf Kristersson (M) tar honom inte på allvar: ”En försäljningskampanj för hans nya bok.”",
+      "link": "https://www.svd.se/a/Gxe6L6/kristersson-tar-inte-jomshofs-ministerdrom-pa-allvar",
+      "date_display": "2026-08-21",
+      "date_iso": "2026-08-21T08:03:07+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Världen"
+        "Politik"
       ]
     },
     {
-      "id": 18,
-      "title": "MP misses the hate in broad daylight",
-      "summary": "Daniel Helldén does not seem to know the spread of Islam in Sweden. His statements also come against the backdrop of his political bloc being rocked by the biggest extremism scandal in modern times.",
-      "title_original": "MP missar hatet i öppen dager",
-      "summary_original": "Daniel Helldén tycks inte känna till islamismens utbredning i Sverige. Hans uttalanden sker dessutom mot bakgrund av att hans politiska block skakas av den största extremismskandalen i modern tid.",
-      "link": "https://www.svd.se/a/d4reLJ/daniel-hellden-okunnig-om-extremism",
-      "date_display": "2026-08-19",
-      "date_iso": "2026-08-19T07:30:00+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Ledare"
-      ]
+      "id": 143,
+      "title": "The policy rate remains unchanged at 1.75 percent",
+      "summary": "During the summer, both growth and inflation have been higher than in the forecast from June, and the risk of underlying inflation becoming too high in the wake of supply disruptions in the Middle East remains. However, the picture is not clear-cut, for example the companies' price plans have been moderated, disruptions in global value chains have subsided and the labor market has developed somewhat weaker than expected. All in all, the outlook is broadly positive. The executive board has decided to leave the key interest rate unchanged at 1.75 percent and assesses that the probability of an interest rate increase later this year remains. Should the unexpectedly high inflation during the summer be the start of a larger and more permanent rise in inflation, the Riksbank will adapt monetary policy in a tighter direction.",
+      "title_original": "Styrräntan oförändrad på 1,75 procent",
+      "summary_original": "Under sommaren har såväl tillväxten som inflationen varit högre än i prognosen från juni och risken för att den underliggande inflationen ska bli för hög i spåren av utbudsstörningarna i Mellanöstern kvarstår. Bilden är dock inte entydig, exempelvis har företagens prisplaner dämpats, störningarna i globala värdekedjor avtagit och arbetsmarknaden utvecklats något svagare än väntat. Sammantaget står sig utsikterna i stora drag. Direktionen har beslutat att lämna styrräntan oförändrad på 1,75 procent och bedömer att sannolikheten för en räntehöjning senare i år kvarstår. Skulle den oväntat höga inflationen under sommaren vara inledningen på en större och mer bestående inflationsuppgång kommer Riksbanken att anpassa penningpolitiken i en stramare riktning.",
+      "link": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/styrrantan-oforandrad-pa-175-procent5/",
+      "date_display": "2026-08-20",
+      "date_iso": "2026-08-20T07:30:34+00:00",
+      "source": "Riksbanken",
+      "ministry": "Central Bank",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": []
     },
     {
-      "id": 176,
+      "id": 178,
       "title": "Joint Statement from the International Contact Group for the Great Lakes region (ICG)",
       "summary": "The United States, Belgium, Canada, Denmark, the European Union, France, Germany, the Netherlands, Sweden, Switzerland, and the United Kingdom, as members of the International Contact Group (ICG) for the Great Lakes region, chaired by France, issue the following statement regarding the disarmament, demobilization, and cantonment protocol signed between the Congolese authorities and the Democratic Forces for the Liberation of Rwanda-FOCA (FDLR).",
       "title_original": "Joint Statement from the International Contact Group for the Great Lakes region (ICG)",
@@ -66,7 +79,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -75,7 +88,7 @@
       ]
     },
     {
-      "id": 178,
+      "id": 179,
       "title": "Sweden provides SEK 5 million in humanitarian assistance to Colombia following earthquake",
       "summary": "Sweden has announced SEK 5 million in humanitarian support to Colombia through the UN Refugee Agency (UNHCR) following the earthquake that recently hit the country. This will help address urgent humanitarian needs, strengthen support for people who have been forced to leave their homes and provide assistance to the most vulnerable groups in affected areas. Through the Swedish International Development Cooperation Agency (Sida), Sweden has long been a key donor of humanitarian assistance to Colombia.",
       "title_original": "Sweden provides SEK 5 million in humanitarian assistance to Colombia following earthquake",
@@ -86,7 +99,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Press release",
         "International",
@@ -98,7 +111,7 @@
       ]
     },
     {
-      "id": 179,
+      "id": 180,
       "title": "Joint statement on executions in Iran",
       "summary": "Canada, Albania, Austria, Australia, Belgium, Croatia, Cyprus, Czech Republic, Denmark, Estonia, the High Representative of the European Union, Finland, France, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Luxembourg, Montenegro, the Netherlands, New Zealand, North Macedonia, Norway, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom condemn in the strongest terms the ongoing executions of protesters and use of the death penalty by the Islamic Republic of Iran.",
       "title_original": "Joint statement on executions in Iran",
@@ -109,7 +122,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -119,7 +132,7 @@
       ]
     },
     {
-      "id": 180,
+      "id": 181,
       "title": "Maria Malmer Stenergard visits Latin America",
       "summary": "In turbulent times, Sweden’s ties with the countries of Latin America become all the more important. Sweden has extensive interests in the region and is engaged in several forms of close cooperation that the Government intends to further solidify, not least with Brazil and Colombia. The visit also gave Minister of Foreign Affairs Maria Malmer Stenergard the opportunity to emphasise the importance of continued support to Ukraine during talks with her Latin American counterparts.",
       "title_original": "Maria Malmer Stenergard visits Latin America",
@@ -130,7 +143,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -142,7 +155,7 @@
       ]
     },
     {
-      "id": 181,
+      "id": 182,
       "title": "Sweden deepens cooperation with Brazil",
       "summary": "On Wednesday, in connection with Minister for Foreign Affairs Maria Malmer Stenergard’s visit to Brazil, the two countries signed a bilateral action plan for expanded cooperation. This signing took place against the backdrop of Sweden and Brazil celebrating 200 years of diplomatic relations this year.",
       "title_original": "Sweden deepens cooperation with Brazil",
@@ -150,28 +163,6 @@
       "link": "https://www.government.se/press-releases/2026/08/sweden-deepens-cooperation-with-brazil/",
       "date_display": "2026-08-10",
       "date_iso": "2026-08-10T07:31:07+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "9 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "Trade and investment promotion",
-        "Foreign and security policy",
-        "Maria Malmer Stenergard"
-      ]
-    },
-    {
-      "id": 182,
-      "title": "Sweden opens Consulate-General in Munich",
-      "summary": "The Government has decided to open a consulate-general in southern Germany’s largest city, Munich. The aim is to help create higher growth in Sweden, strengthen Swedish competitiveness and increase interest in Sweden as an investment destination. Germany is Sweden’s most important trading partner and the world’s third-largest economy. Southern Germany is the country’s economic and political centre after the capital Berlin.",
-      "title_original": "Sweden opens Consulate-General in Munich",
-      "summary_original": "The Government has decided to open a consulate-general in southern Germany’s largest city, Munich. The aim is to help create higher growth in Sweden, strengthen Swedish competitiveness and increase interest in Sweden as an investment destination. Germany is Sweden’s most important trading partner and the world’s third-largest economy. Southern Germany is the country’s economic and political centre after the capital Berlin.",
-      "link": "https://www.government.se/press-releases/2026/08/sweden-opens-consulate-general-in-munich/",
-      "date_display": "2026-08-07",
-      "date_iso": "2026-08-07T14:03:45+00:00",
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
@@ -187,13 +178,13 @@
     },
     {
       "id": 183,
-      "title": "Minister for Foreign Affairs to visit Latin America",
-      "summary": "On 5–7 August, Minister for Foreign Affairs Maria Malmer Stenergard is visiting Brazil and Colombia. During the visit, Ms Malmer Stenergard is meeting with government representatives in the region and attending the presidential inauguration in Colombia.",
-      "title_original": "Minister for Foreign Affairs to visit Latin America",
-      "summary_original": "On 5–7 August, Minister for Foreign Affairs Maria Malmer Stenergard is visiting Brazil and Colombia. During the visit, Ms Malmer Stenergard is meeting with government representatives in the region and attending the presidential inauguration in Colombia.",
-      "link": "https://www.government.se/press-releases/2026/08/minister-for-foreign-affairs-visits-latin-america/",
-      "date_display": "2026-08-06",
-      "date_iso": "2026-08-06T07:22:02+00:00",
+      "title": "Sweden opens Consulate-General in Munich",
+      "summary": "The Government has decided to open a consulate-general in southern Germany’s largest city, Munich. The aim is to help create higher growth in Sweden, strengthen Swedish competitiveness and increase interest in Sweden as an investment destination. Germany is Sweden’s most important trading partner and the world’s third-largest economy. Southern Germany is the country’s economic and political centre after the capital Berlin.",
+      "title_original": "Sweden opens Consulate-General in Munich",
+      "summary_original": "The Government has decided to open a consulate-general in southern Germany’s largest city, Munich. The aim is to help create higher growth in Sweden, strengthen Swedish competitiveness and increase interest in Sweden as an investment destination. Germany is Sweden’s most important trading partner and the world’s third-largest economy. Southern Germany is the country’s economic and political centre after the capital Berlin.",
+      "link": "https://www.government.se/press-releases/2026/08/sweden-opens-consulate-general-in-munich/",
+      "date_display": "2026-08-07",
+      "date_iso": "2026-08-07T14:03:45+00:00",
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
@@ -202,6 +193,7 @@
         "Press release",
         "International",
         "Ministry for Foreign Affairs",
+        "Trade and investment promotion",
         "Foreign and security policy",
         "Maria Malmer Stenergard"
       ]
