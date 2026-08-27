@@ -1,66 +1,84 @@
 {
-  "generated_at": "2026-08-25T10:10:17.124818+02:00",
-  "date": "2026-08-25",
-  "item_count": 12,
+  "generated_at": "2026-08-27T20:25:31.850894+02:00",
+  "date": "2026-08-27",
+  "item_count": 10,
   "items": [
     {
       "id": 0,
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "”Kan innebära betydligt större räntehöjningar”",
-      "summary_original": "En enig direktion lämnade Riksbankens styrränta oförändrad förra veckan. Men mötesprotokollet pekar mot att en höjning närmar sig.",
-      "link": "https://www.svd.se/a/5pOX16/kan-innebara-betydligt-storre-rantehojningar",
-      "date_display": "2026-08-25",
-      "date_iso": "2026-08-25T08:06:17+00:00",
+      "title": "They comfort the Norwegians: \"Mourning is ongoing now\"",
+      "summary": "OSLO. Line Bakke and Annkristin Grønbakken walk back and forth outside the castle in Oslo. They are sent to comfort a Norwegian people who have gone into \"waiting grief\". - Yes, mourning is a suitable expression for what we feel is going on now, says Line Bakke.",
+      "title_original": "De tröstar norrmännen: ”Väntsorg pågår nu”",
+      "summary_original": "OSLO. Fram och tillbaka utanför slottet i Oslo går Line Bakke och Annkristin Grønbakken. De är utsända för att trösta ett norskt folk som gått in i ”väntsorg”. – Ja, väntsorg är ett passande uttryck för det som vi känner pågår nu, säger Line Bakke.",
+      "link": "https://www.dn.se/varlden/de-trostar-norrmannen-vantsorg-pagar-nu/",
+      "date_display": "2026-08-27",
+      "date_iso": "2026-08-27T18:21:04+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 2,
+      "title": "Nádas wrote out what memory forgets",
+      "summary": "Péter Nádas, who died this week aged 83, was one of the great memorial artists of European literature. Yet over the years he seems to have become less and less interested in what he remembered - and more and more in what memory did to the truth.",
+      "title_original": "Nádas skrev fram vad minnet glömmer",
+      "summary_original": "Péter Nádas, som avled i veckan 83 år gammal, var en av den europeiska litteraturens stora minneskonstnärer. Ändå tycks han med åren ha blivit allt mindre intresserad av vad han mindes – och alltmer av vad minnet gjorde med sanningen.",
+      "link": "https://www.svd.se/a/l33JM9/peter-nadas-skrev-fram-vad-minnet-glomt",
+      "date_display": "2026-08-27",
+      "date_iso": "2026-08-27T18:15:00+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Näringsliv"
+        "Under strecket",
+        "Kultur"
       ]
     },
     {
       "id": 3,
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "Ny kärnkraftsansökan – här ska reaktorparken byggas",
-      "summary_original": "Idag lämnades ytterligare en ansökan in till regeringen om att få bygga ny kärnkraft. Företaget Blykalla vill bygga en kärnkraftspark i Untra utanför Tierp, där upp till åtta mindre så kallade SMR-reaktorer ska byggas. Blykalla har tidigare lämnat in en ansökan om att få bygga reaktorer i Norrsundet utanför Gävle. – Våra fabrikstillverkade reaktorer gör det möjligt att bygga kärnkraft där behovet är som störst: närmare industrin, i mindre kommuner, i inlandet där traditionell kärnkraft historiskt inte kunnats byggas, säger Blykallas vd Jacob Stedman. Kritiserad teknik Blykalla vill bygga egendesignade blykylda reaktorer som är avsevärt mindre än traditionella kärnkraftverk. Kärnkraftsmotståndare har kritiserat projektet för att baseras på oprövad teknik, och att liknande projekt i andra länder med SMR-reaktorer blivit både försenade och fördyrade. – All elutveckling tar tid. Och jag ser som svensk inte något alternativ i att tacka nej till industriutveckling. Så det här är nödvändigt för Sveriges framtida tillväxt, säger Jacob Stedman, vd på Blykalla. ”Skjutit till extra pengar” En handfull företag har kommit in med en ansökan om att få bygga ny kärnkraft i Sverige. Ansökan är det första steget i en flerårig process, där även Stålsäkerhetsmyndigheten och de berörda kommunerna får tycka till. Ansökan idag mottogs av miljö- och klimatminister Romina Poumokhtari (L). – Det pågår parallellt en hel del processer, men den här regeringen har skjutit till extra pengar i budgeten för att det här ska hanteras så snabbt och rättssäkert som möjligt, säger Pourmokhtari.",
-      "link": "https://www.tv4.se/artikel/77pN0TfH8jVuC6HrSVjFCj/ny-kaernkraftsansoekan-haer-ska-reaktorparken-byggas",
-      "date_display": "2026-08-25",
-      "date_iso": "2026-08-25T08:00:47+00:00",
-      "source": "TV4 Nyheterna",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": [
-        "Nyheterna",
-        "/valet-2026",
-        "/ekonomi",
-        "/karnkraft",
-        "/karnkraftverk",
-        "/svensk-politik"
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "Här vill Blykalla bygga ny kärnkraft",
-      "summary_original": "Kärnteknikbolaget Blykalla lämnar i dag in sin andra ansökan till regeringen om att bygga ny kärnkraft. Ansökan gäller upp till åtta blykylda reaktorer i Tierps kommun.",
-      "link": "https://www.svd.se/a/5pOX2X/har-vill-blykalla-bygga-ny-karnkraft",
-      "date_display": "2026-08-25",
-      "date_iso": "2026-08-25T08:00:24+00:00",
+      "title": "The Tidö collaboration falls apart",
+      "summary": "The Tidö collaboration falls apart before the open curtain. But what the four parties have created together will not disappear anytime soon.",
+      "title_original": "Tidösamarbetet faller samman",
+      "summary_original": "Tidösamarbetet faller samman inför öppen ridå. Men vad de fyra partierna skapat tillsammans kommer inte att försvinna så fort.",
+      "link": "https://www.svd.se/a/Pdqry7/tidosamarbetet-faller-samman-men-en-lang-host-kan-gynna-ulf-kristersson",
+      "date_display": "2026-08-27",
+      "date_iso": "2026-08-27T18:13:51+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": [
-        "Näringsliv"
+        "Politik"
       ]
     },
     {
-      "id": 12,
+      "id": 123,
+      "title": "Prime Minister to receive French President Emmanuel Macron",
+      "summary": "On Monday 31 August, Swedish Prime Minister Ulf Kristersson will receive French President Emmanuel Macron for a bilateral meeting. The focus will be on deepened defence cooperation between Sweden and France. During the visit, the two leaders will take part in a signing ceremony and make joint press statements.",
+      "title_original": "Prime Minister to receive French President Emmanuel Macron",
+      "summary_original": "On Monday 31 August, Swedish Prime Minister Ulf Kristersson will receive French President Emmanuel Macron for a bilateral meeting. The focus will be on deepened defence cooperation between Sweden and France. During the visit, the two leaders will take part in a signing ceremony and make joint press statements.",
+      "link": "https://www.government.se/press-releases/2026/08/prime-minister-to-receive-french-president-emmanuel-macron/",
+      "date_display": "2026-08-27",
+      "date_iso": "2026-08-27T10:25:30+00:00",
+      "source": "Government.se",
+      "ministry": "Prime Minister's Office",
+      "type": "Official Information",
+      "age_tag": "today",
+      "tags": [
+        "Press release",
+        "EU",
+        "Prime Minister's Office",
+        "Ministry of Defence",
+        "Foreign and security policy",
+        "Pål Jonson",
+        "Ulf Kristersson",
+        "Military defence"
+      ]
+    },
+    {
+      "id": 171,
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_original": "Protokoll från det penningpolitiska mötet den 19 augusti 2026",
@@ -71,11 +89,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": []
     },
     {
-      "id": 143,
+      "id": 179,
       "title": "UNHCR clarifies its guidelines on expulsion of individuals convicted of rape",
       "summary": "Following a Swedish initiative, the United Nations High Commissioner for Refugees (UNHCR) has updated its guidelines on expulsion for serious crimes. The UNHCR has thus made a significant clarification that rape now constitutes a particularly serious crime within the application of the Refugee Convention.",
       "title_original": "UNHCR clarifies its guidelines on expulsion of individuals convicted of rape",
@@ -86,7 +104,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Justice",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "International",
@@ -96,20 +114,21 @@
       ]
     },
     {
-      "id": 144,
+      "id": 180,
       "title": "Press invitation: Focus on security issues in the Nordic-Baltic region as Minister for Foreign Affairs receives Latvian counterpart",
-      "summary": "",
+      "summary": "On Wednesday 26 August, Minister for Foreign Affairs Maria Malmer Stenergard will receive Latvian Minister of Foreign Affairs Baiba Braže for a bilateral meeting.",
       "title_original": "Press invitation: Focus on security issues in the Nordic-Baltic region as Minister for Foreign Affairs receives Latvian counterpart",
-      "summary_original": "",
+      "summary_original": "On Wednesday 26 August, Minister for Foreign Affairs Maria Malmer Stenergard will receive Latvian Minister of Foreign Affairs Baiba Braže for a bilateral meeting.",
       "link": "https://www.government.se/press-releases/2026/08/press-invitation-focus-on-security-issues-in-the-nordic-baltic-region-as-minister-for-foreign-affairs-receives-latvian-counterpart/",
       "date_display": "2026-08-24",
       "date_iso": "2026-08-24T13:58:17+00:00",
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
+        "Webcast",
         "EU",
         "Ministry for Foreign Affairs",
         "Foreign and security policy",
@@ -117,7 +136,7 @@
       ]
     },
     {
-      "id": 152,
+      "id": 182,
       "title": "Minister for Foreign Affairs to visit Ukraine",
       "summary": "On 24 August, Minister for Foreign Affairs Maria Malmer Stenergard will visit Kyiv to mark the Independence Day of Ukraine.",
       "title_original": "Minister for Foreign Affairs to visit Ukraine",
@@ -128,7 +147,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "International",
@@ -139,7 +158,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 185,
       "title": "The policy rate remains unchanged at 1.75 percent",
       "summary": "During the summer, both growth and inflation have been higher than in the forecast from June, and the risk of underlying inflation becoming too high in the wake of supply disruptions in the Middle East remains. However, the picture is not clear-cut, for example the companies' price plans have been moderated, disruptions in global value chains have subsided and the labor market has developed somewhat weaker than expected. All in all, the outlook is broadly positive. The executive board has decided to leave the key interest rate unchanged at 1.75 percent and assesses that the probability of an interest rate increase later this year remains. Should the unexpectedly high inflation during the summer be the start of a larger and more permanent rise in inflation, the Riksbank will adapt monetary policy in a tighter direction.",
       "title_original": "Styrräntan oförändrad på 1,75 procent",
@@ -150,11 +169,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": []
     },
     {
-      "id": 183,
+      "id": 186,
       "title": "Joint Statement from the International Contact Group for the Great Lakes region (ICG)",
       "summary": "The United States, Belgium, Canada, Denmark, the European Union, France, Germany, the Netherlands, Sweden, Switzerland, and the United Kingdom, as members of the International Contact Group (ICG) for the Great Lakes region, chaired by France, issue the following statement regarding the disarmament, demobilization, and cantonment protocol signed between the Congolese authorities and the Democratic Forces for the Liberation of Rwanda-FOCA (FDLR).",
       "title_original": "Joint Statement from the International Contact Group for the Great Lakes region (ICG)",
@@ -165,79 +184,12 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "13 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
         "Foreign and security policy",
         "Statement"
-      ]
-    },
-    {
-      "id": 184,
-      "title": "Sweden provides SEK 5 million in humanitarian assistance to Colombia following earthquake",
-      "summary": "Sweden has announced SEK 5 million in humanitarian support to Colombia through the UN Refugee Agency (UNHCR) following the earthquake that recently hit the country. This will help address urgent humanitarian needs, strengthen support for people who have been forced to leave their homes and provide assistance to the most vulnerable groups in affected areas. Through the Swedish International Development Cooperation Agency (Sida), Sweden has long been a key donor of humanitarian assistance to Colombia.",
-      "title_original": "Sweden provides SEK 5 million in humanitarian assistance to Colombia following earthquake",
-      "summary_original": "Sweden has announced SEK 5 million in humanitarian support to Colombia through the UN Refugee Agency (UNHCR) following the earthquake that recently hit the country. This will help address urgent humanitarian needs, strengthen support for people who have been forced to leave their homes and provide assistance to the most vulnerable groups in affected areas. Through the Swedish International Development Cooperation Agency (Sida), Sweden has long been a key donor of humanitarian assistance to Colombia.",
-      "link": "https://www.government.se/press-releases/2026/08/sweden-provides-sek-5-million-in-humanitarian-assistance-to-colombia-following-earthquake/",
-      "date_display": "2026-08-13",
-      "date_iso": "2026-08-13T15:40:30+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "11 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "International development cooperation",
-        "Foreign and security policy",
-        "Maria Malmer Stenergard",
-        "Benjamin Dousa"
-      ]
-    },
-    {
-      "id": 185,
-      "title": "Joint statement on executions in Iran",
-      "summary": "Canada, Albania, Austria, Australia, Belgium, Croatia, Cyprus, Czech Republic, Denmark, Estonia, the High Representative of the European Union, Finland, France, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Luxembourg, Montenegro, the Netherlands, New Zealand, North Macedonia, Norway, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom condemn in the strongest terms the ongoing executions of protesters and use of the death penalty by the Islamic Republic of Iran.",
-      "title_original": "Joint statement on executions in Iran",
-      "summary_original": "Canada, Albania, Austria, Australia, Belgium, Croatia, Cyprus, Czech Republic, Denmark, Estonia, the High Representative of the European Union, Finland, France, Germany, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Luxembourg, Montenegro, the Netherlands, New Zealand, North Macedonia, Norway, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and the United Kingdom condemn in the strongest terms the ongoing executions of protesters and use of the death penalty by the Islamic Republic of Iran.",
-      "link": "https://www.government.se/statements/2026/08/joint-statement-on-executions-in-iran/",
-      "date_display": "2026-08-13",
-      "date_iso": "2026-08-13T09:18:58+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "11 days old",
-      "tags": [
-        "International",
-        "Ministry for Foreign Affairs",
-        "Democracy and human rights",
-        "Foreign and security policy",
-        "Statement"
-      ]
-    },
-    {
-      "id": 186,
-      "title": "Maria Malmer Stenergard visits Latin America",
-      "summary": "In turbulent times, Sweden’s ties with the countries of Latin America become all the more important. Sweden has extensive interests in the region and is engaged in several forms of close cooperation that the Government intends to further solidify, not least with Brazil and Colombia. The visit also gave Minister of Foreign Affairs Maria Malmer Stenergard the opportunity to emphasise the importance of continued support to Ukraine during talks with her Latin American counterparts.",
-      "title_original": "Maria Malmer Stenergard visits Latin America",
-      "summary_original": "In turbulent times, Sweden’s ties with the countries of Latin America become all the more important. Sweden has extensive interests in the region and is engaged in several forms of close cooperation that the Government intends to further solidify, not least with Brazil and Colombia. The visit also gave Minister of Foreign Affairs Maria Malmer Stenergard the opportunity to emphasise the importance of continued support to Ukraine during talks with her Latin American counterparts.",
-      "link": "https://www.government.se/press-releases/2026/08/maria-malmer-stenergard-visits-latin-america/",
-      "date_display": "2026-08-12",
-      "date_iso": "2026-08-12T11:49:33+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "International",
-        "Ministry for Foreign Affairs",
-        "International development cooperation",
-        "Trade and investment promotion",
-        "Foreign and security policy",
-        "Article",
-        "Maria Malmer Stenergard"
       ]
     }
   ]
