@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-03T14:15:05.669838+02:00",
-  "date": "2026-09-03",
-  "item_count": 11,
+  "generated_at": "2026-09-05T13:24:37.374325+02:00",
+  "date": "2026-09-05",
+  "item_count": 13,
   "items": [
     {
-      "id": 0,
+      "id": 14,
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "Insändare. Victoria bör utnyttja sin rösträtt i valet",
-      "summary_original": "INSÄNDARE. Av tradition avstår kungen och övriga kungafamiljen från att rösta i våra demokratiska val. Vår enkla uppmaning till alla som värnar Sverige och demokratin är att gå och rösta den 13 september, skriver Malin Michaelson, vice ordförande i Republikanska föreningen.",
-      "link": "https://www.dn.se/insandare/victoria-bor-utnyttja-sin-rostratt-i-valet/",
-      "date_display": "2026-09-03",
-      "date_iso": "2026-09-03T12:11:09+00:00",
+      "title_original": "Christian Daun: ”Jag har ätit knäckebröd från 60-talet, det var inte vidrigt”",
+      "summary_original": "Journalisten Christian Daun har skrivit boken ”Älskade knäcke” om det hårda svenska brödet. I DN Kulturs serie Specialisten slår han fast vilken sida som är den rätta att smöra och varför knäcket är gastronomins svar på Forrest Gump.",
+      "link": "https://www.dn.se/kultur/christian-daun-jag-har-atit-knackebrod-fran-60-talet-det-var-inte-vidrigt/",
+      "date_display": "2026-09-05",
+      "date_iso": "2026-09-05T10:29:10+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -19,37 +19,90 @@
       "tags": []
     },
     {
-      "id": 1,
+      "id": 15,
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "Ny sajt ska göra det lättare hitta östrogenläkemedel",
-      "summary_original": "I ett försök att minska bristen på läkemedel vid klimakteriebesvär ska det bli enklare för vården…",
-      "link": "https://www.svd.se/a/Rj8EjJ/ny-sajt-ska-gora-det-lattare-hitta-ostrogenlakemedel?utm_medium=rss",
-      "date_display": "2026-09-03",
-      "date_iso": "2026-09-03T12:07:34+00:00",
-      "source": "Svenska Dagbladet (SvD)",
+      "title_original": "Berit, 73, har sprungit Tjejmilen sedan starten 1984",
+      "summary_original": "Många är kanske nervösa när de ställer upp för start på Tjejmilen, men en med mycket erfarenhet är Berit Käck, 73. Hon har nämligen sprungit alla Tjejmilen – utom ett. – Det var så roligt att det började ett lopp med bara tjejer. Jag tror att det var det första i Sverige med bara tjejer. Det blev på ett helt annat sätt. Man puttades inte och man bara hade roligt – och då kan man ju inte sluta. Då måste man ju fortsätta, säger hon i Nyhetsmorgon. Hejarklacken på plats Maken Bosse Käck har varit med som hejarklack alla år. Hur viktigt är det med en bra hejarklack? – Det är väldigt viktigt. Då har man ju vissa mål. Den första hejar och sen brukar han flytta sig till nästa. Då vet man att det händer något. Bosse Käck försöker alltid peppa sin fru och han är imponerad att hon sprungit loppet så många gånger. – Det är galet. Det är helt otroligt. Vi har ju varit här så många gånger. Det är bra, säger han. Tjejmilen en morot Förra året sprang Berit tillsammans med dottern och två barnbarn. Det har blivit en familjetradition att vara på Tjejmilen varje år. – Vi är ju hela familjen – eller killarna får ju inte springa, de får stå och heja, sa Berit Käck i Nyhetsmorgon redan förra året. Både Berit och Bosse tränar och springer en del. – Jag har sprungit många lopp själv under åren, Lidingöloppet och sådant där. Men det är på ett annat sätt, säger Bosse. – Det är bra att hålla i gång och träna, att ha en morot, sa Berit i Nyhetsmorgon 2025. Se intervjun från förra året nedan.",
+      "link": "https://www.tv4.se/artikel/4PSvQvrhKdIeW8byI7fdt7/berit-73-har-sprungit-tjejmilen-sedan-starten-1984",
+      "date_display": "2026-09-05",
+      "date_iso": "2026-09-05T10:14:13+00:00",
+      "source": "TV4 Nyheterna",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "Nyhetsmorgon",
+        "/nyhetsmorgon",
+        "/tjejmilen",
+        "/lopning",
+        "/trana",
+        "/traning"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_original": "Brännande ”Upploppet” briljerar på Stadsteatern i Husby",
+      "summary_original": "När ”Upploppet” sätts upp på Kulturhuset Stadsteatern är ämnet brännande men komiken närvarande. Här blir Husbykravallerna en tryckkokare, eller kanske snarare ett lackmustest på problemen som finns i Sverige, skriver DN:s Valerie Kyeyune Backström.",
+      "link": "https://www.dn.se/kultur/brannande-upploppet-briljerar-pa-stadsteatern-i-husby/",
+      "date_display": "2026-09-05",
+      "date_iso": "2026-09-05T10:11:38+00:00",
+      "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
       "tags": []
     },
     {
-      "id": 6,
-      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "title_original": "”Tävlan om eleverna skadar skolan”",
-      "summary_original": "Dagens debatt om skolan handlar om vilka skolor som ska få konkurrera om eleverna.",
-      "link": "https://www.svd.se/a/K81rbo/tavlan-om-eleverna-skadar-skolan-oavsett-vem-som-ager-den-skriver-professorer?utm_medium=rss",
+      "id": 168,
+      "title": "Government receives new application for financial support for nuclear power project",
+      "summary": "The Government has received another application for state aid to build new nuclear reactors in Sweden. The application was submitted by Blykalla, a company that intends to establish a nuclear power plant in Tierp Municipality, in Uppsala County. This is the sixth such application received by the Government.",
+      "title_original": "Government receives new application for financial support for nuclear power project",
+      "summary_original": "The Government has received another application for state aid to build new nuclear reactors in Sweden. The application was submitted by Blykalla, a company that intends to establish a nuclear power plant in Tierp Municipality, in Uppsala County. This is the sixth such application received by the Government.",
+      "link": "https://www.government.se/press-releases/2026/09/government-receives-new-application-for-financial-support-for-nuclear-power-project/",
       "date_display": "2026-09-03",
-      "date_iso": "2026-09-03T12:00:00+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
+      "date_iso": "2026-09-03T13:36:49+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry of Finance",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "EU",
+        "Ministry of Finance",
+        "Energy",
+        "Financial markets",
+        "Niklas Wykman",
+        "Nuclear financing"
+      ]
     },
     {
-      "id": 169,
+      "id": 171,
+      "title": "Government receives application for state aid for new nuclear power project",
+      "summary": "The Government has received another application for financial support to build nuclear reactors. The application was submitted by a newly established project company owned by Fortum. This is the fifth state aid application that the Government has received since the state aid programme was launched.",
+      "title_original": "Government receives application for state aid for new nuclear power project",
+      "summary_original": "The Government has received another application for financial support to build nuclear reactors. The application was submitted by a newly established project company owned by Fortum. This is the fifth state aid application that the Government has received since the state aid programme was launched.",
+      "link": "https://www.government.se/press-releases/2026/09/government-receives-application-for-state-aid-for-new-nuclear-power-project/",
+      "date_display": "2026-09-03",
+      "date_iso": "2026-09-03T12:51:46+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry of Finance",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "EU",
+        "Ministry of Finance",
+        "Energy",
+        "Financial markets",
+        "Niklas Wykman",
+        "Nuclear financing"
+      ]
+    },
+    {
+      "id": 181,
       "title": "Maria Malmer Stenergard takes part in the informal meeting of EU foreign ministers",
       "summary": "Minister for Foreign Affairs Maria Malmer Stenergard is taking part in the informal EU foreign ministers meeting (Gymnich) in Ireland on 1–2 September 2026.",
       "title_original": "Maria Malmer Stenergard takes part in informal meeting of EU foreign ministers",
@@ -60,7 +113,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "EU",
@@ -72,7 +125,7 @@
       ]
     },
     {
-      "id": 179,
+      "id": 182,
       "title": "Sweden and France intensify defence cooperation",
       "summary": "On 31 August, Prime Minister Ulf Kristersson received French President Emmanuel Macron in Stockholm. Mr Kristersson and Mr Macron took part in a signing ceremony to mark Sweden’s procurement of four frigates. A framework agreement on strengthening Swedish-French defence cooperation was also signed.",
       "title_original": "Sweden and France intensify defence cooperation",
@@ -83,7 +136,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "Webcast",
@@ -100,7 +153,7 @@
       ]
     },
     {
-      "id": 181,
+      "id": 183,
       "title": "Sweden and Finland are deepening cooperation on territorial surveillance and protection of territorial integrity",
       "summary": "Building on an exceptionally close partnership and a longstanding defence cooperation, Sweden and Finland will together strengthen territorial surveillance and protection of Finland’s territorial integrity, in support of NATO’s deterrence and defence.",
       "title_original": "Sweden and Finland are deepening cooperation on territorial surveillance and protection of territorial integrity",
@@ -111,7 +164,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "International",
@@ -124,7 +177,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 184,
       "title": "Prime Minister to receive French President Emmanuel Macron",
       "summary": "On Monday 31 August, Swedish Prime Minister Ulf Kristersson will receive French President Emmanuel Macron for a bilateral meeting. The focus will be on deepened defence cooperation between Sweden and France. During the visit, the two leaders will take part in a signing ceremony and make joint press statements.",
       "title_original": "Prime Minister to receive French President Emmanuel Macron",
@@ -135,7 +188,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Press release",
         "Webcast",
@@ -149,7 +202,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 186,
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "title_original": "Protokoll från det penningpolitiska mötet den 19 augusti 2026",
@@ -160,11 +213,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": []
     },
     {
-      "id": 185,
+      "id": 187,
       "title": "UNHCR clarifies its guidelines on expulsion of individuals convicted of rape",
       "summary": "Following a Swedish initiative, the United Nations High Commissioner for Refugees (UNHCR) has updated its guidelines on expulsion for serious crimes. The UNHCR has thus made a significant clarification that rape now constitutes a particularly serious crime within the application of the Refugee Convention.",
       "title_original": "UNHCR clarifies its guidelines on expulsion of individuals convicted of rape",
@@ -175,7 +228,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Justice",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "International",
@@ -185,7 +238,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 188,
       "title": "Press invitation: Focus on security issues in the Nordic-Baltic region as Minister for Foreign Affairs receives Latvian counterpart",
       "summary": "On Wednesday 26 August, Minister for Foreign Affairs Maria Malmer Stenergard will receive Latvian Minister of Foreign Affairs Baiba Braže for a bilateral meeting.",
       "title_original": "Press invitation: Focus on security issues in the Nordic-Baltic region as Minister for Foreign Affairs receives Latvian counterpart",
@@ -196,7 +249,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "Webcast",
@@ -207,7 +260,7 @@
       ]
     },
     {
-      "id": 187,
+      "id": 189,
       "title": "Minister for Foreign Affairs to visit Ukraine",
       "summary": "On 24 August, Minister for Foreign Affairs Maria Malmer Stenergard will visit Kyiv to mark the Independence Day of Ukraine.",
       "title_original": "Minister for Foreign Affairs to visit Ukraine",
@@ -218,7 +271,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": [
         "Press release",
         "International",
