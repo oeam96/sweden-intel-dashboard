@@ -1,30 +1,1654 @@
 # Sweden Intelligence Report
-Generated: 2026-09-05T13:24:37.374325+02:00
+Generated: 2026-09-07T15:39:28.334730+02:00
 Window: last 14 days
 
-## Kristersson about C voters: Then L is an option
+## The new alarm was tested - did not reach everyone
 **Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
+**Category:** General News | **Date:** 2026-09-07 (today)
 
-The moderates are on an election tour in southern Sweden, and Prime Minister Ulf Kristersson has four heavy-hitting ministers with him. They will talk about the economy, security and Swedish interests in the world during this weekend's election tour, which goes from Malmö to Stockholm.
+Today at 3 p.m., mobile phones rang in the counties of Stockholm and Gotland. It was the first test of the new warning system SE-Alert. However, the message did not reach all Telia's customers, according to SOS Alarm.
 
-[Read Full Article](https://www.hd.se/sverige/kristersson-om-c-valjare-da-ar-l-ett-alternativ/)
+[Read Full Article](https://www.hd.se/sverige/snart-tjuter-telefonerna-vid-fara-i-dag-testas-larmet/)
 
 ---
 
-## Kristersson about C voters: Then L is an option
+## The MFF talent chooses Bosnia - can debut against Sweden
 **Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
+**Category:** General News | **Date:** 2026-09-07 (today)
 
-The moderates are on an election tour in southern Sweden, and Prime Minister Ulf Kristersson has four heavy-hitting ministers with him. They will talk about the economy, security and Swedish interests in the world during this weekend's election tour, which goes from Malmö to Stockholm.
+Kenan Busuladzic has made his choice. The MFF midfielder will represent Bosnia-Herzegovina's national team in the future.
 
-[Read Full Article](https://www.sydsvenskan.se/sverige/kristersson-om-c-valjare-da-ar-l-ett-alternativ/)
+[Read Full Article](https://www.sydsvenskan.se/sport/mff-talangen-valjer-bosnien-kan-debutera-mot-sverige/)
+
+---
+
+## Ängelholm woman took the neighbor's parking space - risks 23,000 in fines
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.hd.se/angelholm/angelholmskvinna-tog-grannens-p-plats-riskerar-23-000-i-boter/)
+
+---
+
+## SD promise: Lowest migration and cheapest petrol in the EU
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The Sweden Democrats are going to the polls on Sweden to have the lowest migration and the lowest fuel prices in the EU. The price of petrol and diesel will be "the highest priority in all budget negotiations", the party writes in its election manifesto. - We are the guarantor of that, says SD leader Jimmie Åkesson.
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/sd-lofte-lagst-migration-och-billigast-bensin-i-eu/)
+
+---
+
+## Far-right electoral victory in Germany worries the churches and the Jewish population
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Alliance for Germany succeeded in mobilizing those who did not vote in the last election.
+
+[Read Full Article](https://www.dagen.se/nyheter/hoegerextrem-valseger-i-tyskland-oroar-kyrkorna-och-den-judiska-befolkningen/10517192)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+On Sunday, a 62-year-old man was kicked off his bike when he passed a woman who was out walking her two donkeys. That is what the Danish newspaper Berlingske tells us.
+
+[Read Full Article](https://www.hd.se/danmark/man-avsparkad-fran-cykel-av-asna/)
+
+---
+
+## Welfare must be reliable in Höganäs
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Emma Wennerholm (V) likes the elderly care in Höganäs.
+
+[Read Full Article](https://www.hd.se/hoganas/valfarden-maste-ga-att-lita-pa-i-hoganas/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.svd.se/a/pBxExX/nytt-arbetssatt-kan-ge-80-fler-organdonatorer-per-ar?utm_medium=rss)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.sydsvenskan.se/lund/goran-82-de-ar-stressade-och-har-manga-att-besoka/)
+
+---
+
+## The Finnish sister duo suddenly became world famous - now they are coming to Malmö
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+When the Maustetyöt sisters appeared in legendary director Aki Kaurismäki's latest film, everything changed in an instant. Sydsvenskan spoke to Finland's most celebrated indie duo about bullying, sadness and gaining international fans - who don't understand what the band's songs are about. - To be honest, people don't sing along in Finland either, says Kaisa Karjalainen.
+
+[Read Full Article](https://www.sydsvenskan.se/kultur/finska-systerduon-blev-plotsligt-varldskanda-nu-kommer-de-till-malmo/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Emmanuel Moungam.
+
+[Read Full Article](https://www.hd.se/sport/bois-back-till-landslaget-ska-spela-med-united-stjarnan/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+At 15:00, the authority for civil defense tested the new warning system SE-alert in Stockholm and Gotland County. 26 municipalities and approximately 2.6 million people were affected by the test.  However, many phones did not receive a signal, including those with Telia as an operator. Tobbe Lundell, press manager at SOS Alarm, confirms that it was a problem for many Telia customers.
+
+"It is true that their delivery was not complete, but I must refer to them and the Norwegian Post and Telecommunications Agency for details," he writes in an email to TV4 Nyheterna.  The Norwegian Post and Telecommunications Board also confirms that Telia had problems. Anna Rosman, press officer at Telia Sweden, says that the company does not have much information about why it did not work for everyone.
+
+- We know that the test did not reach all mobile phones as expected - but that is also why the test is being carried out. Now the result must be analyzed so that we can ensure that it works going forward.  The latest updates are required It can also be because you have to have the latest updates and allow notifications in settings. If you have an iPhone, iOS version 26.5 or later and updated operator settings are required to receive the signal, the authority writes on its website. You don't have to have "test" clicked, but it should look like the picture below. You as an Android phone need "Android version 12 or later, alternatively Android GO, version 13 or later, with Google Play system update from June 2026 or later in order for you to receive SE-Alert." Even those who are in neighboring areas such as Uppsala, Södermanland or Västmanland can be affected. First comes a sharp signal and vibration. After a few minutes, a message will appear that the danger is over. Then the test is over for this time.  Women's emergency services warn: Turn off your mobile The national organization for women's emergency services and girls' emergency services in Sweden, Roks, has previously warned women living in a violent relationship to turn off their phones. According to the organization's chairman Adine Samadi, k
+
+[Read Full Article](https://www.tv4.se/artikel/1nu0p5OhNDuVJHRXkco7mS/varningssystem-testas)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/7z1v0pmhudhsBH1EPtzUg1/statsministern-om-v-s-kandidatskandal-en-roeta-som-gar-djupt)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.hd.se/helsingborg/trycket-okar-pa-helsingborgs-vardboenden-storsta-utmaningen-ar-personalen/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.sydsvenskan.se/lund/fran-stenoken-till-porlande-oas-resan-ar-inte-over-for-lunds-nya-torg/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.svd.se/a/XM32MB/merz-tyskland-forblir-en-stabil-demokrati?utm_medium=rss)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/34RJWM9jhDvA8lLapoajkY/sverige-koeper-amerikanska-vapensystem-foer-sju-miljarder)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.sydsvenskan.se/varlden/merz-efter-afd-segern-djupt-chockad/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/min-mening/stodet-behover-inte-alltid-synas-offentligt/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+What is justice after the Holocaust? That question is asked in "The Trials", the new exhibition...
+
+[Read Full Article](https://www.svd.se/a/m0ay5p/forintelsens-efterspel-skakar-annu-om?utm_medium=rss)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/sverige-ska-kopa-amerikanskt-raketartilleri/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.hd.se/sverige/sverige-ska-kopa-amerikanskt-raketartilleri/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.svd.se/a/JOXwXR/kommer-liberalernas-slutspurt-for-sent?utm_medium=rss)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dn.se/sverige/akesson-lovar-skarpa-migrationspolitiken-ytterligare/)
+
+---
+
+## New owners of villa
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-villa-0T0Z-/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.svd.se/a/lnaWJ9/m-och-l-fortsatter-varna-for-c-rost?utm_medium=rss)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.svd.se/a/8pVz3Q/se-alert-nya-larmsystemet-testas-i-stockholm-och-goteborg?utm_medium=rss)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/helsingborg/246-kvadratmeter-stor-villa-i-ramlosa-sald/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.hd.se/sport/efter-tunga-trenden-hif-kan-byta-formation/)
+
+---
+
+## Letter to the editor. Vote blank as a protest against the politicians
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dn.se/insandare/rosta-blankt-som-protest-mot-politikerna/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dn.se/varlden/nya-bron-mellan-ryssland-och-nordkorea-kan-anvandas-militart/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+We need to reform how freedom of choice works - but not limit students' ability to choose...
+
+[Read Full Article](https://www.svd.se/a/zOze2v/academedia-svarar-konkurrens-kan-innebara-battre-kvalitet-i-skolan?utm_medium=rss)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.svd.se/a/GxX20q/merz-efter-afd-segern-djupt-chockad?utm_medium=rss)
+
+---
+
+## Some of Telia's customers did not receive the alarm message
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+At 3 p.m. today, mobile phones rang in Stockholm and Gotland counties. But the test of the new warning system SE-Alert did not reach everyone. Some of Telia's customers did not receive the message, TT reports with reference to SOS Alarm.
+
+[Read Full Article](https://www.dn.se/sverige/i-dag-testas-nya-varningssystemet-se-alert/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+An election victory and a new direction for Sweden are "within reach", predicts the leader of the Social Democrats, Magdalena Andersson, and promises a workers' pension during the next term. She believes that the business community should worry more about a government dominated by SD than a red-green change of government on Sunday.
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/s-ledaren-ny-riktning-for-sverige-inom-rackhall/)
+
+---
+
+## Åkesson confident: "L will climb over that barrier"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/tUxwVPwLTRKOjr629vfxC/akesson-saeker-l-kommer-att-kravla-sig-oever-den-daer-spaerren)
+
+---
+
+## Paludan is prosecuted in Denmark
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The far-right politician and provocateur Rasmus Paludan is charged with desecrating the Koran, reports the news agency Ritzau.
+
+[Read Full Article](https://www.hd.se/varlden/paludan-atalas-i-danmark/)
+
+---
+
+## The Spotify founder: Then I'll leave Sweden
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.hd.se/ekonomi/spotifygrundaren-da-lamnar-jag-sverige/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+An election victory and a new direction for Sweden are "within reach", predicts the leader of the Social Democrats, Magdalena Andersson, and promises a workers' pension during the next term. She believes that the business community should worry more about a government dominated by SD than a red-green change of government on Sunday.
+
+[Read Full Article](https://www.hd.se/sverige/s-ledaren-ny-riktning-for-sverige-inom-rackhall/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.svd.se/a/PdX2d5/s-ledaren-ny-riktning-for-sverige-inom-rackhall?utm_medium=rss)
+
+---
+
+## Several drunk drivers in Höganäs
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.hd.se/hoganas/flera-rattfyllerier-i-hoganas/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.sydsvenskan.se/dygnet-runt/vandningen-styret-utlovar-fyra-ar-till-med-ngbg-fest/)
+
+---
+
+## The Spotify founder: Then I'll leave Sweden
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.sydsvenskan.se/ekonomi/spotifygrundaren-da-lamnar-jag-sverige/)
+
+---
+
+## Paludan is prosecuted in Denmark
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The far-right politician and provocateur Rasmus Paludan is charged with desecrating the Koran, reports the news agency Ritzau.
+
+[Read Full Article](https://www.sydsvenskan.se/danmark/paludan-atalas-i-danmark/)
+
+---
+
+## New owners of villa
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-villa-KOkEa/)
+
+---
+
+## Sweden buys rocket artillery for seven billion
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=77089&utm_medium=rss)
+
+---
+
+## Letter to the editor. Time to poke holes in KD's fake vote fishing
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dn.se/insandare/dags-att-sticka-hal-pa-kds-falska-rostfiske/)
+
+---
+
+## Sweden buys the Himars rocket artillery from the USA
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The armed forces will be equipped with the Himars rocket artillery from the United States. The deal includes the most advanced missiles with a range of more than 50 miles.
+
+[Read Full Article](https://www.dn.se/sverige/sverige-koper-raketartilleriet-himars-fran-usa/)
+
+---
+
+## Sweden buys the Himars rocket artillery
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The armed forces are to be equipped with the American Himars rocket artillery system.
+
+[Read Full Article](https://www.svd.se/a/k0xLEA/sverige-ska-kopa-amerikanskt-raketartilleri?utm_medium=rss)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/min-mening/flera-uppdrag-kan-bygga-broar-mellan-kommun-och-region/)
+
+---
+
+## From California to Laröd - how John, 32, became "the lost chef in Sweden"
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Forget books. To understand Sweden, the American chef John Klopson in Laröd outside Helsingborg addresses his thousands of Swedish followers directly. Now he is learning everything about Swedish food culture - one dish at a time. - It is only by talking to people that you can really understand something, he says.
+
+[Read Full Article](https://www.sydsvenskan.se/skane/fran-kalifornien-till-larod-sa-blev-john-32-den-vilsna-kocken-i-sverige/)
+
+---
+
+## The world is weighing the autumn elections
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+It is not only Sweden's near future that will be decided this autumn. Warring world leaders are pressured and…
+
+[Read Full Article](https://www.svd.se/a/GxX2G6/varlden-star-och-vager-med-hostens-val?utm_medium=rss)
+
+---
+
+## Malmö's top names are being tossed around before the election – four out of ten politicians are new
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Ahead of the 2026 election, several of Malmö's parties have made major changes among their top ten candidates.  In five out of seven parties, the average age has increased since 2022. The Liberals are going against the tide and have rejuvenated their top considerably, while the Green Party has become considerably older.  On several lists, women have taken a bigger place.
+
+[Read Full Article](https://www.sydsvenskan.se/malmo/malmos-toppnamn-mobleras-om-infor-valet-fyra-av-tio-politiker-nya/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+SD leader Gustav Gellerbrant's partner is singled out for having spread pro-Russian propaganda for several years. According to several central SD sources, the party is receiving reassuring signals from Säpo. SD is now criticizing the Moderates' crisis management. - We think they have handled this poorly, says an SD source.
+
+[Read Full Article](https://www.dn.se/sverige/sd-kallor-om-gellerbrant-inga-signaler-fran-sapo-om-sakerhetshot/)
+
+---
+
+## Linnea Axelsson's new epic opens the gaps towards the spiritual
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Two teenagers separated by a ground fight. Linnea Axelsson's new novel takes place a few days before the summer holidays in 1987. Magnus Bremmer is also torn.
+
+[Read Full Article](https://www.dn.se/kultur/linnea-axelssons-nya-epos-oppnar-gliporna-mot-det-andliga/)
+
+---
+
+## Expert: AFD success has great significance for German politics
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The far-right AFD's electoral victory in Saxony-Anhalt shows East Germans' dissatisfaction with the country's leadership. It can also pose a danger to democracy, according to political scientist Ann-Kristin Kölln. - It has great significance for German politics and its norms.
+
+[Read Full Article](https://www.dn.se/varlden/expert-afd-framgang-far-stor-betydelse-for-tysk-politik/)
+
+---
+
+## Another car manufacturer is cutting back heavily
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+British Jaguar Land Rover is to cut the workforce by 4,000 employees.
+
+[Read Full Article](https://www.sydsvenskan.se/ekonomi/annu-en-biltillverkare-skar-ned-kraftigt/)
+
+---
+
+## The human rights chief: AI is an existential threat
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+AI is an "existential threat" to humanity. That's what UN human rights chief Volker Türk says. He is now urging the tech industry to agree on "security limits".
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/manniskorattschefen-ai-ar-ett-existentiellt-hot/)
+
+---
+
+## Traffic insecurity in Glumslöv after rush hour to Maryhill: "Dangerous to life"
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Heavy traffic and the rush to the spa hotel Maryhill has created a dangerous traffic situation on Vikingaleden. That's what Glumslövs resident Ronny Sandberg thinks - who wants to see the municipality speed up the work on a pedestrian and cycle path.  - It is dangerous to walk there.
+
+[Read Full Article](https://www.hd.se/landskrona/trafikosakerhet-i-glumslov-efter-sparusning-till-maryhill-livsfarligt/)
+
+---
+
+## Houses of 200 square meters were sold for 9.5 million
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.sydsvenskan.se/fastighetsaffarer/hus-pa-200-kvm-saldes-for-95-miljoner/)
+
+---
+
+## New owners of land in Vellinge
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-tomt-i-vellinge/)
+
+---
+
+## Johanna grew up as a shadow sibling: "Lost myself"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+There is no clear definition of the term "shadow sibling", but Johanna describes it as growing up in the shadow of another sibling's needs. This can apply to many different needs such as mental illness or addiction.  In Johanna's case, it is about her little brother having autism and intellectual disability. Because of this, she has always felt like she has to cover up for her sibling. - We went to the same school and had assistance, but still the assistants often asked: "What does he want now?" and "Why is he feeling like this?", she says. Johanna also says that it was a burden from a very early age. - The preschool had no fence against the forest and my little brother escaped. I was out looking and was worried even then, as a four or five-year-old. Supportive parents When Johanna was younger, she didn't talk much with her parents about the worries she felt. However, she points out that she did not feel deprioritized. - I have received other bits that my little brother did not receive, such as conversations and dialogues. I have had very supportive parents, says Johanna. Today Johanna talks much more with her parents and they have also had to help write her new book: "Shadow sister" - It has been a wonderful process that I wish all shadow siblings have with their parents, she says. Invitations to other shadow siblings As a 12-13-year-old, Johanna was offered to meet other shadow siblings, which she declined. She says that it contributed to the fact that no one else got in touch and that she therefore did not receive any support from elsewhere. Her call is to dare to ask. - Seek more support such as LSS and care. You can also extend a hand and ask if more people can support by babysitting and so on, says Johanna. Johanna also points out that it is important to be clear that it is the parents' responsibility to take care of the child with extra needs. - Don't let them say to you: "How good you are to take care of your brother". It becomes a vicious spiral of having to live up to it. General
+
+[Read Full Article](https://www.tv4.se/artikel/2EXSrt7ae0EUMWob2pRkDi/vaexte-upp-som-skuggsyskon-nu-ger-hon-tips)
+
+---
+
+## They left the macho culture – opening a tattoo studio in Höganäs
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+After the move from Helsingborg, Queenstreet tattoo has now opened at Salthallarna in Höganäs. Behind the studio are Nathalie Dreilick and Ronja Lehtonen, who want to create a more welcoming place in an industry they describe as male-dominated.
+
+[Read Full Article](https://www.hd.se/hoganas/de-lamnade-machokulturen-oppnar-tatueringsstudio-i-hoganas/)
+
+---
+
+## Roks warns before alarm test: "Turn off the phone"
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The women's emergency rooms warn of the alarm test this afternoon. Women living in violent relationships can have a hidden phone cleared.
+
+[Read Full Article](https://www.hd.se/sverige/roks-varnar-infor-larmtest-stang-av-telefonen/)
+
+---
+
+## UN: 23 dead in ICE migrant detention
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+So far in 2026, 23 people have died in custody of the US immigration agency ICE, according to the UN.
+
+[Read Full Article](https://www.svd.se/a/OkX14k/fn-23-doda-i-usa-s-migrantforvar-under-aret?utm_medium=rss)
+
+---
+
+## SD promise: Lowest migration and cheapest petrol in the EU
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The Sweden Democrats are going to the polls on Sweden to have the lowest migration and the lowest fuel prices...
+
+[Read Full Article](https://www.svd.se/a/aJe0VA/sd-lagst-migration-och-billigast-bensin-i-eu?utm_medium=rss)
+
+---
+
+## Good schools are measured in knowledge - but where is the evidence?
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/min-mening/bra-skolor-mats-i-kunskap-men-var-finns-bevisen/)
+
+---
+
+## Sports legends at King Harald's funeral
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+King Harald was loved in Norwegian sports - and it shows in the guest list at his funeral.
+
+[Read Full Article](https://www.sydsvenskan.se/sport/idrottslegendarer-pa-kung-haralds-begravning/)
+
+---
+
+## The venerable music association closes the circle – opens in the city
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+On September 11, Fylkingen will inaugurate its new premises in the ABF building with a two-day festival. It will be a homecoming for the music association, which in the 1960s started an electroacoustic training studio in the same building. - Here is a golden opportunity to lower the thresholds, says Fylkingen chairman Malte Dahlberg.
+
+[Read Full Article](https://www.dn.se/kultur/anrika-musikforeningen-sluter-cirkeln-oppnar-i-city/)
+
+---
+
+## Sida reports the Medical Mission to the police
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The organization has not received any information about the police report, Global Bar states.
+
+[Read Full Article](https://www.dagen.se/nyheter/sida-polisanmaeler-laekarmissionen/10517621)
+
+---
+
+## The danger is far from over for L
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.tv4.se/artikel/5M4Ubxenooe4LmWjqZoMee/faran-aer-langt-ifran-oever-foer-l)
+
+---
+
+## "Don't take opinion polls seriously"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.tv4.se/artikel/162ABmSFwzCsag5gkfHy3L/damberg-tar-inga-opinionsundersoekningar-pa-allvar)
+
+---
+
+## Måns Zelmerlöw is cleared of contribution offences
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+On Monday, the verdict came against the artist against Måns Zelmerlöw. Lund District Court sees no reason to doubt Måns Zelmerlöw's information.
+
+[Read Full Article](https://www.sydsvenskan.se/staffanstorp/mans-zelmerlow-frias-for-bidragsbrott/)
+
+---
+
+## Over 20 explosive devices found near power grids in Saxony
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+A further nine explosive devices have been found by the police in the German federal state of Saxony. In total, 21 homemade charges have been found in connection with investigations into suspected attacks against the country's electricity grid.
+
+[Read Full Article](https://www.sydsvenskan.se/varlden/over-20-sprangladdningar-hittade-vid-elnat-i-sachsen/)
+
+---
+
+## So the electric car can give you SEK 6,000 a year
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Electric cars can take on a completely new role. In addition to driving with them, the electric car owners can also rent them out...
+
+[Read Full Article](https://www.svd.se/a/0pXPVM/elbilar-som-batterilager-kan-spara-pengar?utm_medium=rss)
+
+---
+
+## Writing investment in the custody of the Swedish Migration Agency
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Young adults who are in the Swedish Migration Agency's detention center in Märsta will this autumn have the opportunity to try their own writing. The initiator is Författarcentrum Öst.
+
+[Read Full Article](https://www.sydsvenskan.se/noje/skrivsatsning-pa-migrationsverkets-forvar/)
+
+---
+
+## The robot that just wants to be taken seriously
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+A robot drama oozing with Strindberg's peppery aftershave? A love robot with a fine-tuned penis?
+
+[Read Full Article](https://www.svd.se/a/lnaLdM/roboten-som-bara-vill-bli-tagen-pa-allvar?utm_medium=rss)
+
+---
+
+## 160 square meter house in Genarp sold
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.sydsvenskan.se/fastighetsaffarer/160-kvadratmeter-stort-hus-i-genarp-salt/)
+
+---
+
+## "Daniel Ek was looking for someone with a screw loose"
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+He dropped out of high school and vowed never to work in healthcare. Today, Hjalmar Nilsonne builds what…
+
+[Read Full Article](https://www.svd.se/a/2p4gja/neko-health-hjalmar-nilsonne-bygger-framtidens-halsoklinik?utm_medium=rss)
+
+---
+
+## Bill: Police should be allowed to provoke evidence
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The government is proposing a law that will make it clear that the police may use provocative measures. Police should, for example, be allowed to pretend to be a child selling sex online.
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/lagforslag-polis-ska-fa-provocera-fram-bevis/)
+
+---
+
+## Bill: Police should be allowed to provoke evidence
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The government is proposing a law that will make it clear that the police may use provocative measures. Police should, for example, be allowed to pretend to be a child selling sex online.
+
+[Read Full Article](https://www.hd.se/sverige/lagforslag-polis-ska-fa-provocera-fram-bevis/)
+
+---
+
+## Letter to the editor. Answer: Mohamsson is a "liberal party" - but not a liberal
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+RESPONSE TO POSTERS. The real liberals can be found on the "right" side of the blue-brown line in this election. Therefore let the final figure for the Liberals on Sunday be no more than 3.9 percent, writes Håkan Norén.
+
+[Read Full Article](https://www.dn.se/insandare/svar-mohamsson-ar-liberalpartist-men-inte-liberal/)
+
+---
+
+## The scandal with the Putin-friendly SD official could sink Jimmie Åkesson
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Vladimir Putin - shares values ​​with Swedish right-wing nationalists.
+
+[Read Full Article](https://www.hd.se/sverige/skandalen-med-den-putin-vanlige-sd-tjanstemannen-kan-sanka-jimmie-akesson/)
+
+---
+
+## The scandal with the Putin-friendly SD official could sink Jimmie Åkesson
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Vladimir Putin - shares values ​​with Swedish right-wing nationalists.
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/skandalen-med-den-putin-vanlige-sd-tjanstemannen-kan-sanka-jimmie-akesson/)
+
+---
+
+## National day of mourning in Nepal - death toll rises
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Nepal stands still for a day of mourning on Monday, 13 days after the devastating mudslide.
+
+[Read Full Article](https://www.sydsvenskan.se/varlden/nationell-sorgedag-i-nepal-dodstalet-stiger/)
+
+---
+
+## Ten dead in saint's celebration and two priests injured in powerful explosion
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The accident was caused by fireworks that were to be used in the celebration
+
+[Read Full Article](https://www.dagen.se/nyheter/tio-doeda-i-helgonfirande-och-tva-praester-skadade-i-kraftig-explosion/10517631)
+
+---
+
+## Over 20 explosive charges at power grids in Saxony
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+A further nine explosive devices have been found by the police in the German federal state of Saxony.
+
+[Read Full Article](https://www.svd.se/a/Bxe4B9/over-20-sprangladdningar-vid-elnat-i-sachsen?utm_medium=rss)
+
+---
+
+## Letter to the editor. Account for the costs of lack of integration
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+LETTER TO THE EDITOR. Sweden should follow the Danish example of annual reporting of taxpayers' costs for immigration. Before the election, the government should report what the lack of integration of hundreds of thousands of immigrants costs, writes Malmö resident Thomas Ekvall.
+
+[Read Full Article](https://www.dn.se/insandare/redovisa-kostnaderna-for-bristande-integration/)
+
+---
+
+## A German explanation for why workers vote on the right and white-collar workers on the left
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+In Saxony-Anhalt, the AFD more than doubled its voter support – and attracted almost two-thirds of the workers. The election result gives new force to the question of why the working class is moving to the right at the same time as the voters of the left are becoming increasingly well-educated. Rebecka Kärde has read "Spaltungslinien".
+
+[Read Full Article](https://www.dn.se/kultur/en-tysk-forklaring-till-varfor-arbetare-rostar-pa-hogern-och-tjansteman-pa-vanstern/)
+
+---
+
+## New owners of villa
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.sydsvenskan.se/fastighetsaffarer/nya-agare-till-villa-s9nNe/)
+
+---
+
+## From California to Laröd - how John, 32, became "the lost chef in Sweden"
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Forget books. To understand Sweden, the American chef John Klopson in Laröd addresses his thousands of Swedish followers directly. Now he is learning everything about Swedish food culture - one dish at a time. - It is only by talking to people that you can really understand something, he says.
+
+[Read Full Article](https://www.hd.se/noje/fran-kalifornien-till-larod-sa-blev-john-32-den-vilsna-kocken-i-sverige/)
+
+---
+
+## One person died outside Staffanstorp in a collision with a truck
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+A man in his 60s has died after a collision on county road 108 south of Staffanstorp.
+
+[Read Full Article](https://www.hd.se/skane/man-omkom-utanfor-staffanstorp-i-kollision-med-lastbil/)
+
+---
+
+## "Understand that they are ashamed to stand with them"
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The Liberals increase sharply and climb over the Riksdag barrier in TV4/Novus.
+
+[Read Full Article](https://www.svd.se/a/43lGno/liberalerna-over-riksdagssparren-simona-mohamsson-om-opinionssiffrorna?utm_medium=rss)
+
+---
+
+## Experts: Sharply increased fuel prices await - regardless of government
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The price of petrol and diesel will rise sharply during the next term, regardless of who wins the election. This is the opinion of several experts that DN spoke to. - That Sweden has almost the lowest petrol prices in the EU is not sustainable, says the government's climate investigator Svante Mandell.
+
+[Read Full Article](https://www.dn.se/sverige/experter-kraftigt-hojda-branslepriser-vantar-oavsett-regering/)
+
+---
+
+## New owners of villa
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/helsingborg/nya-agare-till-villa-Kdv1a/)
+
+---
+
+## Unexpectedly low inflation – the Riksbank is believed to be waiting
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Inflation in August came in lower than expected. This now completely closes the door to a possible interest rate increase in September, according to SEB's senior economist Robert Bergqvist.
+
+[Read Full Article](https://www.hd.se/ekonomi/oforandrad-inflation-i-augusti/)
+
+---
+
+## Together we build welfare in Landskrona
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/min-mening/tillsammans-bygger-vi-valfarden-i-landskrona/)
+
+---
+
+## Bill: Police should be allowed to provoke evidence
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The government is proposing a law that will make it clear that the police may use provocative measures.
+
+[Read Full Article](https://www.svd.se/a/2pgg0v/lagforslag-polis-ska-fa-provocera-fram-bevis?utm_medium=rss)
+
+---
+
+## The Tidö parties propose a new law on criminal provocation
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The police should be allowed to pretend to be children selling sex or share fictional child porn to expose criminals. It is proposed by the Tidö parties within the framework of a new law on criminal provocation.
+
+[Read Full Article](https://www.dn.se/sverige/tidopartierna-foreslar-ny-lag-om-brottsprovokation/)
+
+---
+
+## Max 500 early votes incorrectly registered: "Very serious"
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Will release list of affected polling stations
+
+[Read Full Article](https://www.tv4.se/artikel/azjC7Ndw5w49nDPOILpjs/max-500-foertidsroester-felregistrerade-mycket-allvarligt)
+
+---
+
+## The Electoral Authority: Max 500 votes affected by technical glitch
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The electoral authority has revised down the number of people who had early votes declared invalid from 4,000 to fewer than 500. Anyone worried about whether their vote has been counted can vote again on election day - but should not cast another early vote. - You can always vote regret, that is, go to your polling station on election day, says Mikael Östlund at the Swedish Electoral Authority.
+
+[Read Full Article](https://www.dn.se/sverige/valmyndigheten-max-500-roster-drabbade-i-teknikstrul/)
+
+---
+
+## KD: This is how elderly care in Malmö gets better quality
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.sydsvenskan.se/malmo/kd-sa-far-aldreomsorgen-i-malmo-battre-kvalitet/)
+
+---
+
+## Judgments are deleted after threats of lawsuits
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Serious crimes have disappeared from legal databases such as Lexbase, Krimfup and Mr Koll. The judgments have been secretly deleted after the companies were sued by the perpetrators, reports SVT.
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/domar-raderas-efter-hot-om-stamning/)
+
+---
+
+## "I don't even know if the state knows I exist"
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Ernst Billgren has still not decided which party he will vote for.
+
+[Read Full Article](https://www.svd.se/a/wr55W4/svd-valakuten-ernst-billgren-sakra-manniskor-ar-det-farligaste-som-finns?utm_medium=rss)
+
+---
+
+## Who wants to build Jonstorp's new centre?
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Höganäs municipality is looking for interested parties for the creation of Jonstorp's new center at the old bank building. A land designation competition will be announced shortly.
+
+[Read Full Article](https://www.hd.se/hoganas/vem-vill-bygga-i-jonstorps-nya-centrum/)
+
+---
+
+## The chaos in Hormuz is redefining Swedish business
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The Iran war has made freight more expensive and hit aviation and tourism in the Gulf region.
+
+[Read Full Article](https://www.svd.se/a/XMJo37/irankriget-har-ritat-om-gulflandernas-handelsvagar-ett-land-har-sarskild-fordel?utm_medium=rss)
+
+---
+
+## Letter to the editor. Answer: Liberal voters resemble communists
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+RESPONSE TO POSTERS. The misleading platitude that "you cannot exclude 20 percent of the voters" was coined by the Sweden Democrats. Bourgeois-minded voters who, after the last four years, can imagine voting for a party that cooperates with SD are just as locked in their political beliefs as former communists, writes Willi Reichhold.
+
+[Read Full Article](https://www.dn.se/insandare/svar-liberalernas-valjare-paminner-om-kommunister/)
+
+---
+
+## The number that keeps higher mortgage rates at bay for a while longer
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Inflation rose less than expected in August. DN's economic reporter Hasse Eriksson answers questions about the significance of this for households and the interest rate.
+
+[Read Full Article](https://www.dn.se/ekonomi/siffran-som-haller-hogre-borantor-borta-ett-tag-till/)
+
+---
+
+## L must be insanely happy
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.svd.se/a/0p33lG?pinnedEntry=77056&utm_medium=rss)
+
+---
+
+## The Öresund Bridge is open again after a traffic accident
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.hd.se/trafik/oresundsbron-stangd-efter-trafikolycka/)
+
+---
+
+## New season of "Best in test" - here are the participants
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The viewing success "Best in test" is back. Among the new participants are Vanna Rosenberg and Jesper Rönndahl.
+
+[Read Full Article](https://www.hd.se/noje/ny-sasong-av-bast-i-test-har-ar-deltagarna/)
+
+---
+
+## Tuscan vegetable soup
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Today's dinner tip offers a rich and warming vegetable soup with cannellini beans, black cabbage and tomato. Serve with garlic bread, parmesan and generously with good olive oil to drizzle over. See Jennie Walldén's recipe
+
+[Read Full Article](https://www.tv4.se/artikel/5KN7FOr31nmhSAykyU9JSQ/toskansk-groensakssoppa)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+When the Gilel Storch prize is awarded in Stockholm today, the prize winner Osman Kavala cannot be present for…
+
+[Read Full Article](https://www.svd.se/a/xrXXrj/tre-rattsskandaler-i-turkiet-infor-att-osman-kavala-far-gilel-storch-priset?utm_medium=rss)
+
+---
+
+## Researchers: Digitization has a dark side
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+The rapid digitization has a dark side and many older people become insecure when the requirement to have a bank ID increases in society. These are conclusions that researchers draw. - One would like to see a little more humility from the banks, says researcher Mia-Marie Hammarlin.
+
+[Read Full Article](https://www.dn.se/ekonomi/forskare-digitaliseringen-har-en-mork-baksida/)
+
+---
+
+## Anna-Lena Laurén: Saxony-Anhalt can be governed by two populist parties
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+MAGDEBURG. Saxony-Anhalt could become the first German state since World War II to get a far-right government. In that case, it will probably be with the help of left-wing populists.
+
+[Read Full Article](https://www.dn.se/varlden/anna-lena-lauren-sachsen-anhalt-kan-regeras-av-tva-populistpartier/)
+
+---
+
+## "Question marks about how ADHD is described"
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+That everything lies on a spectrum is the new expression of psychiatry. But portraying the diagnosis of ADHD…
+
+[Read Full Article](https://www.svd.se/a/j0xX7q/adhd-psykiatrins-nya-uttryck-kan-ifragasattas-skriver-johan-bengtsson?utm_medium=rss)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/7GoGaGb9eczIS2cXt5Ayot/haer-aer-nya-deltagarna-i-baest-i-test)
+
+---
+
+## Inflation unchanged in August
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=77052&utm_medium=rss)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Russia is a colonial power, but refuses to perceive itself as such. The Soviet Union made the Russians believe that their colonialism was different from everyone else's, says Michail Zygar, the current Russian writer in Sweden, to DN's Anna-Lena Laurén.
+
+[Read Full Article](https://www.dn.se/kultur/michail-zygar-manga-liberala-ryssar-blir-djupt-sarade-nar-man-kallar-ryssland-en-kolonialmakt/)
+
+---
+
+## Unexpectedly low inflation – the Riksbank is believed to be waiting
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.svd.se/a/e7R0r4/oforandrad-inflation-i-augusti?utm_medium=rss)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/tt-260907-inflation1-73f7eb59/lagre-inflation-an-vantat-i-augusti)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.svd.se/a/Bxen4Q/liberalerna-over-sparren-i-novus-matning-far-4-3-procent?utm_medium=rss)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.svd.se/a/bO6dJl/anthropics-nota-for-berakningskraft-5000-miljarder?utm_medium=rss)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.svd.se/a/k0x1jk/tvekamp-i-eu-toppen-om-utrikespolitiken?utm_medium=rss)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dn.se/kultur/n-jonas-rakningarna-gommer-sig-men-avgifterna-hittar-mig/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.hd.se/sverige/mer-plats-for-klimakteriet-och-mens-pa-jobbet/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/7cdfCVfbvCUgElUgACPGaX/afd-blir-stoersta-parti-vi-har-tagit-tillbaka-vart-land)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dn.se/ledare/max-hjelm-det-gunnar-strommer-sa-i-migrationsdebatten-ar-helt-enkelt-inte-sant/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dn.se/ledare/annika-strom-melin-varfor-latsas-politikerna-att-valjarna-ar-dummare-an-de-ar/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dn.se/sverige/i-dag-far-miljoner-svenskar-en-varning-mobilen/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dn.se/sport/gangkriminalitet-dar-unga-idrottar-i-var-femte-kommun/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/1niNSHEfUMdHYO8LUzOFAe/liberalerna-oever-riksdagsspaerren-foer-foersta-gangen-sedan-2022)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dn.se/sverige/alex-schulman-ar-det-nagon-som-begriper-vad-carl-oskar-bohlin-sager/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dagen.se/kultur/faengslande-om-flygplatspraest-med-foetterna-pa-jorden/10510122)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dagen.se/nyheter/filosofen-om-sin-omvaendelse-manga-vaenner-laer-ta-avstand/10510538)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dagen.se/debatt/olika-betoningar-goer-att-vi-talar-foerbi-varandra/10506179)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dagen.se/nyheter/amerikansk-pastor-i-blasvaeder-efter-avsloejande-netflixdokumentaer/10513153)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dagen.se/nyheter/praest-kritiseras-foer-att-ha-tagit-betalt-foer-begravningar-dop-och-vigslar/10516569)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dagen.se/nyheter/juridisk-expert-skolinspektionen-borde-ha-utrett-aerendet-vidare/10516635)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-07 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dagen.se/nyheter/laerare-pa-kommunal-skola-uppmanade-lagstadieelever-att-be-islamisk-boen/10508912)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-06 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dn.se/podd/spotlight/vill-rena-nationen-kan-ta-bakvag-in-i-riksdagen/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-06 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dn.se/ekonomi/wallenberg-varnar-for-vansterseger-djupt-oroad/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-09-06 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dn.se/varlden/flygplatsen-i-miami-avstangd-efter-krasch-flera-skadade/)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-06 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/5rKMqdyn3aubIOeUuR8yGH/trodde-det-var-bedraegeri-var-tv3-s-pantbanksprogram-olyckligt)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-06 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/1pF3BbT58bFNI82oYwUfh6/tidigare-foersvarsministern-irankriget-kan-paga-sex-manader-till)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-06 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/6K2NJwqLIOiKx5OsZFW3dC/elektriska-impulser-ger-nytt-hopp-till-smaertpatienter)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-06 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.tv4.se/artikel/49KSG2C1RQWF92yGjavEuJ/skraell-foer-afd-men-allt-haenger-pa-vaensterpopulisterna)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-06 (today)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/1gZwlML7Q8a4KDMCFbLSKu/politiska-vaenstern-har-upptaeckt-maennen-tio-ar-foer-sent)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-06 (1 day old)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dagen.se/familj/till-minne-av-arvid-ellgren/10492964)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-06 (1 day old)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/4jbUKsAcNLegiezG0sInXo/den-haer-historien-kommer-inte-ga-pa-foeraeldraledighet)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-06 (1 day old)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/Cwqm0E6BLpUZ7NqU3N7P9/sa-kan-sveriges-klimat-foeraendras-pa-bara-fyra-ar)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-06 (1 day old)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/pFMqheky8jj4EfxB5N5KN/sa-blir-kung-haralds-begravning-och-dessa-kommer)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-06 (1 day old)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dagen.se/nyheter/pappa-far-raett-att-stoppa-dottern-fran-att-besoeka-mammans-kyrka/10516409)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-06 (1 day old)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dagen.se/nyheter/pro-life-manifestation-fyllde-norra-bantorget-i-centrala-stockholm/10516436)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-06 (1 day old)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/4IpCdgZLX9umiJCPs2bSAj/sd-toppen-om-avsloejandet-uppenbar-sarkasm-och-ironi)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-06 (1 day old)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dagen.se/kultur/foeraktfulla-karikatyrer-av-andra-kristna-i-jersaks-bok-om-bibeln/10508669)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-06 (1 day old)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dagen.se/nyheter/roedgroena-klart-stoerst-bland-praester-och-diakoner-i-svenska-kyrkan/10511602)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-06 (1 day old)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dagen.se/kultur/kent-wisti-jag-har-svart-foer-den-upphoejda-guden/10509897)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-06 (1 day old)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dagen.se/nyheter/svenska-kyrkans-eget-lagrad-vill-pausa-vigselmotionen-man-ska-inte-slarva/10510297)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-06 (1 day old)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dagen.se/familj/100-aringen-som-inte-vill-halla-sig-pa-en-plats/10499520)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-09-06 (1 day old)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.dagen.se/nyheter/undersoekning-riksdagspartier-vill-ha-tuffare-politik-gentemot-israel/10516163)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-05 (1 day old)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/4gl2psxPjXU7OeUcGe1dMX/1-200-ai-botar-gjorde-uppror-hackade-foeretag-och-bildade-kollektiv)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-05 (1 day old)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/1MmQ4FT3EuqPWhOoJLGvNj/hyllas-av-juryn-baest-hittills)
+
+---
+
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-09-05 (1 day old)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/S7MDmXMN2ptaw1wbFl8wt/morfarns-otippade-jobb-ger-juryn-presenter-det-sjukaste)
 
 ---
 
 ## In memory of Birger Thureson
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-05 (today)
+**Category:** General News | **Date:** 2026-09-05 (2 days old)
 
 Gunilla and Ivar Lundgren have written this memorial about him
 
@@ -32,299 +1656,9 @@ Gunilla and Ivar Lundgren have written this memorial about him
 
 ---
 
-## Helsingborg Marathon directly - from the start to the finish cheer
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-On Saturday, folk festivals, drama and many strong performances await when the Helsingborg Marathon is decided. Follow HD's live reporting here throughout the day.
-
-[Read Full Article](https://www.hd.se/helsingborg/helsingborg-marathon-live-fran-startskott-till-maljubel/)
-
----
-
-## Thousands of runners take over Helsingborg - see all pictures here
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-During Saturday, the twelfth edition of the Helsingborg Marathon is arranged. Over 10,000 runners take on the relay, full or half marathon. Follow HD's picture special here.
-
-[Read Full Article](https://www.hd.se/sport/tusentals-lopare-intar-helsingborg-se-alla-bilder-har/)
-
----
-
-## Deadly attacks in Ukraine ahead of US visit to Moscow
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-US negotiators Jared Kushner and Steve Witkoff are in Moscow to discuss a possible end to the war in Ukraine. Before this, Russia has carried out several deadly attacks against Ukraine.
-
-[Read Full Article](https://www.hd.se/varlden/dodliga-anfall-i-ukraina-infor-usa-besok-i-moskva/)
-
----
-
-## Deadly attacks in Ukraine ahead of US visit to Moscow
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-US negotiators Jared Kushner and Steve Witkoff are in Moscow to discuss a possible end to the war in Ukraine. Before this, Russia has carried out several deadly attacks against Ukraine.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/dodliga-anfall-i-ukraina-infor-usa-besok-i-moskva/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-The first match without fired manager Stevie Grieve ended 1–1 against second-placed Örebro. On Saturday there is a home match against Sandviken and it is the first time new coach Mikael Stahres leads HIF. Follow and comment on the match here.
-
-[Read Full Article](https://www.hd.se/sport/hif-direkt-vad-tror-du-om-nye-managern/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/sport/rogle-direkt-back-tillbaka-i-laguppstallningen-mot-timra/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/varlden/sju-timmar-ko-till-kung-haralds-kista/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/sju-timmar-ko-till-kung-haralds-kista/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/sport/bois-rasade-ihop-och-foll-mot-brage-passerades-av-hif-i-tabellen/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/mycket-fortkorning-vid-skolor-sa-sanks-farten/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/sverige/mycket-fortkorning-vid-skolor-sa-sanks-farten/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/kultur/christian-daun-jag-har-atit-knackebrod-fran-60-talet-det-var-inte-vidrigt/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/4PSvQvrhKdIeW8byI7fdt7/berit-73-har-sprungit-tjejmilen-sedan-starten-1984)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/sverige/varsta-varen-pa-50-ar-for-stormdrabbade-husagare/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/sverige/varsta-varen-pa-50-ar-for-stormdrabbade-husagare/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/kultur/brannande-upploppet-briljerar-pa-stadsteatern-i-husby/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/sverige/v-noll-vinster-i-stockholms-valfard-2034/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/trafik/bil-korde-i-diket-utanfor-ljungbyhed/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/skane/kraftig-turbulens-rapporteras-allt-oftare-sa-paverkas-flygsakerheten/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/min-mening/varfor-maste-man-ta-omvagen-over-internet-for-att-kopa-en-luftmadrass-i-hoganas/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/skane/kraftig-turbulens-rapporteras-allt-oftare-sa-paverkas-flygsakerheten/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/kultur/peter-nadas-verk-ar-ett-fullkomligt-panorama-over-1900-talet/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/skane/sa-foljer-du-valet-med-helsingborgs-dagblad/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/gkxR00/s-ledaren-kristersson-satter-sd-framfor-sverige?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/L4qKzJ/recension-flesh-chariots-chariots-of-flesh-med-cullberg-pa-kulturhuset-stadsteatern?utm_medium=rss)
-
----
-
-## Kristersson about C voters: Then L is an option
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/wrkVqn/kristersson-centerpartister-borde-rosta-l?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/landskrona/angela-40-satsade-allt-tog-silver-i-bikini-fitness/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/angelholm/eleverna-tvekar-in-i-det-sista-behover-gora-nagon-valkompass-till/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/skane/angela-40-satsade-allt-tog-silver-i-bikini-fitness-gor-aldrig-om-detta/)
-
----
-
 ## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-05 (today)
+**Category:** General News | **Date:** 2026-09-05 (2 days old)
 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
@@ -334,277 +1668,7 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 **Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/40s53mW3qGgVbXZgJNNuFB/brasiliansk-morotskaka)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/skane/sa-gjordes-hds-opinionsundersokning/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/min-mening/1-500-roster-kan-forandra-landskronas-politiska-riktning/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/kultur/svensk-dansare-far-pris-i-italien-haftigt-for-mig-som-balettnord/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/varlden/en-raddad-fran-tunnel-i-nepal-efter-tio-dygn/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/en-raddad-fran-tunnel-i-nepal-efter-tio-dygn/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/perstorp/sa-vill-partierna-lyfta-perstorp-ur-krisen/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/5pkW7X/datan-som-kan-forklara-valet?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/min-mening/sex-stycken-bowlingbanor-i-orkelljunga-tyvarr/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/malmo/valet-i-veckan-mindre-hat-mot-miljopartiet-opinionslyft-och-slutdebatt/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/vellinge/nya-partiet-siktar-mot-fullmaktige-vi-ar-inget-missnojesparti/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/sverige/30-barn-opererades-privat-fick-allvarliga-blodningar/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/zOX705/s-valjare-vill-inte-att-ebba-busch-ska-bli-minister-visar-svd-demoskop?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/varlden/witkoff-och-kushner-vantas-i-kiev/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/sverige/skolval-ska-vacka-ungas-intresse-for-politik-men-nar-inte-alla/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/sport/han-sprang-25-maraton-dygnet-runt-i-en-vecka/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/7c3QrVOX9nXy8DuTl0WvIF/paret-huovinen-om-anklagelserna-slutar-som-pannk)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/sverige/infor-valet-har-ar-de-senaste-nyheterna/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/lund/ta-tillbaka-kontrollen-over-kollektivtrafiken/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=76994&utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/0pq3OJ/snart-tjuter-telefonerna-vid-fara-test-pa-mandag?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/insandare/det-ar-ett-odesval-inte-ett-planboksval/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/sverige/sa-fortidsrostar-stockholmarna-hade-svart-att-valja/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.sydsvenskan.se/malmo/gronska-och-bilar-kan-visst-finnas-till-samtidigt/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/kultur/brita-87-jag-langtar-efter-att-han-ska-komma-med-bokpaketet/)
-
----
-
-## Live report on the war in Ukraine and the security situation in Europe
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Follow our live reporting on the war in Ukraine and the security situation in Europe.
-
-[Read Full Article](https://www.hd.se/varlden/direktrapport-om-kriget-i-ukraina-och-sakerhetslaget-i-europa/)
-
----
-
-## Live report on the war in Ukraine and the security situation in Europe
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Follow our live reporting on the war in Ukraine and the security situation in Europe.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/direktrapport-om-kriget-i-ukraina-och-sakerhetslaget-i-europa/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-05 (today)
+**Category:** General News | **Date:** 2026-09-05 (2 days old)
 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
@@ -613,458 +1677,8 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 ---
 
 ## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/hoganas/hoganasare-atalas-for-penningtvatt/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/varlden/trump-upptagen-vid-kung-haralds-begravning/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/trump-upptagen-vid-kung-haralds-begravning/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/varlden/barrikaderad-norrman-skot-mot-poliser/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/barrikaderad-norrman-skot-mot-poliser/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/varlden/hjalteforklarad-ex-ministers-stjarna-dalar-efter-nya-uppgifter/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/OkXEAV/varsta-varen-pa-50-ar-for-stormdrabbade-husagare?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/lund/har-ar-husen-som-ar-mest-svarsalda-i-lund/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/varlden/flera-doda-i-explosion-pa-militarforlaggning/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/flera-doda-i-explosion-pa-militarforlaggning/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/kultur/helsingborgs-kulturliv-det-ar-markligt-tyst-om-kulturen-i-politiken/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/kultur/nu-far-malmo-en-judisk-kultursalong-om-vi-vill-ha-en-framtid-har-som-judar-kan-vi-inte-gomma-oss/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/sport/systrarna-williams-utslagna-i-comebacken/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/sport/systrarna-williams-utslagna-i-comebacken/)
-
----
-
-## Valet Direkt: Everything you need to know about the 2026 election
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Now the election movement is gearing up! Here you can find out about the latest local events and the major national political battles. In Valet Direkt, you can also ask our political reporters your own questions. Keep up with the latest here!
-
-[Read Full Article](https://www.sydsvenskan.se/sverige/valet-direkt-vagen-till-valurnorna-2026/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.hd.se/varlden/tre-dodade-i-attacker-i-libanon/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/tre-dodade-i-attacker-i-libanon/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/kultur/stahlis-idel-adel-taxar-ska-vi-smita-in-pa-svenskt-tenn-i-stallet/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/Jl4cW25JY7At71W89DHws/nu-blir-det-dyrare-att-binda-bolanet-langa-raentor-pa-hoega-nivaer)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/sport/fixa-backpoangen-redhawks-annars-ekar-det-tomt/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/OkXy0l/mycket-fortkorning-vid-skolor-sa-sanks-farten?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/2pgv4v/enorm-discokula-foll-pa-firmafest-man-traffad?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/6qeP5o/sa-kan-afghanska-flickor-ga-i-skola-via-rwanda?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/6lm54Pq86GLxpPIdRQ3zpF/uppgifter-vapenvila-infoer-amerikanska-besoeket-i-kiev)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/sport/mastaren-en-rebell-som-satter-sporten-framfor-pengarna/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/kultur/120-konstnarer-oppnar-ateljen-under-open-studios-i-malmo-i-helgen-det-har-ska-du-inte-missa/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/skane/kvinnan-bakom-konstkraschen-infor-ratta-jag-ber-om-forlatelse/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/kultur/catia-hultquist-hjalp-min-son-har-forvandlats-till-en-italiensk-farmor/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/ledare/svenska-folket-har-trottnat-pa-generaliseringen-om-invandrare-och-integration/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/pBVWqV/slaget-om-norrland-jimmie-akesson-sd-kan-bryta-s-hegemonin?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/OkqLz1/vad-ska-sverige-gora-med-pedofilerna-100-000-vill-ha-hjalp?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=76991&utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.svd.se/a/k0Xpka/emma-frans-tragiskt-racker-inte-for-att-beskriva-masslingsdoden?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/5C98yNJgSXfFym6XMtzfhX/ukrainare-far-hjaelp-i-sverige-med-att-aterstaella-vattendrag)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/opinion/heidi-avellan/men-det-ar-inte-fler-kramkalas-sverige-behover/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/sverige/jimmie-akesson-da-ar-jag-nasta-statsminister/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/opinion/overlat-inte-tjejers-trygghet-till-oreglerade-kommersiella-krafter/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/mat-dryck/goda-matlador-som-alla-kan-klara/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/0pOon2/artificiell-intelligens-vem-lar-sig-att-tanka-nar-ai-ger-svaren-skriver-herman-lundh?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/kultur/rakt-in-pa-boktoppen-hans-bok-om-att-misslyckas-ar-hostens-roligaste/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/insandare/paverka-klimatet-med-din-livsstil-och-din-rost/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/sverige/hjalper-lymftraning-mot-svullnad/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/ledare/amanda-sokolnicki-ska-vi-verkligen-ge-ryssvannerna-i-sd-nycklarna-till-rikets-hemligheter/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/kultur/icona-pop-vi-blev-aldrig-sexsymboler-pa-gott-och-ont/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/j0Mr3L/ge-gunnar-strommer-fyra-ar-till?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-05 (today)
+**Category:** General News | **Date:** 2026-09-05 (2 days old)
 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
@@ -1074,7 +1688,7 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-05 (today)
+**Category:** General News | **Date:** 2026-09-05 (2 days old)
 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
@@ -1084,7 +1698,7 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-05 (today)
+**Category:** General News | **Date:** 2026-09-05 (2 days old)
 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
@@ -1094,7 +1708,7 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-05 (today)
+**Category:** General News | **Date:** 2026-09-05 (2 days old)
 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
@@ -1104,7 +1718,7 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-05 (today)
+**Category:** General News | **Date:** 2026-09-05 (2 days old)
 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
@@ -1114,7 +1728,7 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-05 (today)
+**Category:** General News | **Date:** 2026-09-05 (2 days old)
 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
@@ -1124,7 +1738,7 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-05 (today)
+**Category:** General News | **Date:** 2026-09-05 (2 days old)
 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
@@ -1133,386 +1747,8 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 ---
 
 ## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-05 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/K8Xpgy/tva-doda-i-explosion-i-bolivia?utm_medium=rss)
-
----
-
-## Deadly attacks in Ukraine ahead of US visit to Moscow
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/16ekXQ/rysk-attack-mot-kiev?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/n1Xlp5/rojda-sekersoz-tjafs-ar-inte-sa-dumt-anda?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/OkPXP3/resa-till-kap-verde-ogruppen-mitt-i-atlanten?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/M7J4b0/tre-dodade-i-attacker-i-libanon?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/varlden/tavla-stulen-av-nazister-aterlamnas-fran-argentina/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Researchers at the Karolinska Institute have succeeded in digitizing scents - and sending them to a screen, according to P4 Stockholm.
-
-[Read Full Article](https://www.sydsvenskan.se/sverige/forskare-har-lyckats-skicka-doft-digitalt/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.sydsvenskan.se/noje/en-kandis-mindre-i-lets-dance/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/xrw6OV/pengaregn-over-filmstaden-gar-mot-rekordar?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/ArkQQ5/trump-hotar-storbritannien-med-falklandsoarna?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-"It's been fantastic" • Eight to go
-
-[Read Full Article](https://www.tv4.se/artikel/10NsgldpDECrV4klRnTcAY/naesta-kaendis-att-laemna-taevlingen)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/varlden/fn-godtar-ny-varldskarta-europa-blir-mindre/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/RlyfWABePeCjvOUq9MbWq/haer-far-dansaren-problem-med-kaeken-tvingas-till-vard-backstage)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/varlden/4-september-missa-inte-dagens-nyheter/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/sport/larkanning-stoppar-duplantis-det-ar-hemskt/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=76987&utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/lnLPvk/afrika-storre-och-usa-mindre-fn-godtar-ny-karta?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/3f62DmI9gQ2UFtD4wMBvIX/frost-och-halka-goer-entre-bra-att-vara-lite-extra-uppmaerksam)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/varlden/anna-lena-lauren-i-ostra-tyskland-vaxer-ilskan-och-afd-med-den/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/sverige/poliskalla-tidigare-sd-ledamot-smygfotade-kvinnors-rumpor-i-riksdagen/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/kultur/oskar-friberg-bruksortsbiografen-i-bromolla-rymde-alla-vara-behov/)
-
----
-
-## Expert: Risk of information leaks - could affect sensitive issues
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dn.se/sverige/expert-risk-for-att-information-lacker-kan-paverka-kansliga-fragor/)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/V6aPxJ/det-finns-inga-oskyldiga-bananer?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/2swPGOQtbqyRtIyybWwlkE/daerfoer-reste-northug-och-jasmine-utomlands)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/BkP8dsRUPlGto7R1cmRCj/valmyndigheten-varnar-efter-problemen-det-far-du-absolut-inte-goera)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/tt-260904-dlduplantis1-54f39f53/larkanning-stoppar-duplantis-det-ar-hemskt)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=76986&utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/Wvd6jk/en-rantehojning-rycker-allt-narmare?utm_medium=rss)
-
----
-
-## Isabella Löwengrip: Wrong pronunciation can kill the date
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/149J22XKmsAcgM5TT018SQ/isabella-loewengrip-fel-uttal-kan-doeda-dejten)
-
----
-
-## They are the key to winning the election: "Clever"
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.svd.se/a/QJOg3q/manga-osakra-valjare-kvar-infor-valet?utm_medium=rss)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-It was on Wednesday that a Norwegian court decided that a Russian ship at Svalbard should be seized, at the request of the Ukrainian gas company Naftogaz. The gas company has been pursuing legal proceedings against Russia for ten years in order to receive compensation for property confiscated by Russia. Norway's Ministry of Justice claims that they are not a party to the conflict surrounding the seized vessel, but that it is a case between Naftogaz and Russia.
-
-Russia still demands that Norway release the ship and calls the action both "state terrorism" and "piracy". 
-
-- It is a very high tone from the Russian side, but we have not seen any measures yet and this may have its explanation in the fact that Svalbard is so extremely important to Russia, says Russia expert Malcolm Dixelius in TV4's Efter fem. Strategically important for Russia Svalbard has long been identified as a strategic target for Russia due to its geopolitical location. In recent years, Russia has reactivated air bases north of Murmansk and stepped up its military exercises in the Arctic. Spy ships have also been observed in the area. Starting a conflict with Norway that threatens Russian interests in Svalbard is a risk, Dixelius believes.
-
-- It will be very interesting to see if Russia really takes any measures that risk closing this small window that Russia has on Svalbard. It would cost a lot for Russia, says Dixelius. Concern among residents There are around 3,000 residents on Svalbard and many of them are Russian citizens.  Since Russia's invasion of Ukraine, there has been a tense situation on the archipelago, says TV2 Norway's reporter Snorre Schjönberg, who is currently at Svalbard.
-
-- People on Svalbard are used to storms on the island. Big politics is close at hand, with many Russian residents. But what is being said now from the Russian side makes people here on Svalbard a little worried, says Schjönberg. Russia's loophole to the world No visa is required for Russian citizens to travel from Murmansk to Svalbard by ship,
-
-[Read Full Article](https://www.tv4.se/artikel/7dS41wJL1JkLgCOrFtK9Na/spaenningarna-mellan-norge-och-ryssland-oekar-efter-beslagtagna-fartyget)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/46xWlEgFiWwvkaol3cyoTb/80-aringarnas-shm-dans-goer-succe)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/7k9plzAM1Lg1euIVUyR62T/nya-bilderna-haer-ger-haval-fingret-till-kameran-och-pussar-mot-askadare)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-The climate issue came up in the debate • The SD leader: "She handles it very well"
-
-[Read Full Article](https://www.tv4.se/artikel/3XfrlCkeBIDZbsmxQGWxS2/akessons-tvaervaendning-roesta-pa-simona)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/tt-260904-usabarndod1-97eb2dfb/rattegangen-mot-clancy-ogiltigforklaras)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/3loSqJo5OjW4TDDYKK8Ybp/reaktionen-pa-oestrogensajten-raecker-inte)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (today)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/5qyvaSb8TnOKVpaO1gn7i5/i-klartext-djupt-olaempligt)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-04 (today)
+**Category:** General News | **Date:** 2026-09-04 (3 days old)
 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
@@ -1522,7 +1758,7 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ## In memory of Birger Thureson
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-04 (1 day old)
+**Category:** General News | **Date:** 2026-09-04 (3 days old)
 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
@@ -1532,7 +1768,7 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 **Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (1 day old)
+**Category:** General News | **Date:** 2026-09-04 (3 days old)
 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
@@ -1540,19 +1776,9 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ---
 
-## Åkesson: "It is very serious information"
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (1 day old)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.tv4.se/artikel/5ZfOxyf5rDK1tNsljuGk9r/akesson-det-aer-vaeldigt-allvarliga-uppgifter)
-
----
-
 ## Hultqvist on the SD official: "Crisis in Swedish security"
 **Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (1 day old)
+**Category:** General News | **Date:** 2026-09-04 (3 days old)
 
 _No summary text available from RSS._
 
@@ -1560,139 +1786,9 @@ _No summary text available from RSS._
 
 ---
 
-## The moderates' plan B to retain power
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-04 (1 day old)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/6paxkvcTagTXm0cNPEHcWF/moderaternas-plan-b-foer-att-behalla-makten-gar-att-utnyttja)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-04 (1 day old)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dagen.se/familj/botvids-gamla-kyrka-fyller-850-ar-och-ska-fa-nytt-liv/10502042)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-04 (1 day old)
-
-"5 minutes with God" is an easily accessible devotional podcast based on prayer and the Bible.
-
-[Read Full Article](https://www.dagen.se/podd/jesus-famn-aer-oeppen-och-inbjudande/10511665)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-04 (1 day old)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dagen.se/nyheter/uppdrag-avgoera-om-konvertiternas-kristna-tro-aer-aekta/10507849)
-
----
-
-## Priest who collected abuse images pleads guilty to crime
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-04 (1 day old)
-
-Said in the district court that he felt an urge to collect pictures and videos of children being abused
-
-[Read Full Article](https://www.dagen.se/nyheter/praest-som-samlade-oevergreppsbilder-erkaenner-sig-skyldig-till-brott/10510054)
-
----
-
-## Why do Muslim voters vote so heavily for the left-wing bloc?
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-04 (1 day old)
-
-The state and political parties should be careful about treating religious organizations as representatives of entire population groups, writes Sameh Egyptson, KD.
-
-[Read Full Article](https://www.dagen.se/debatt/varfoer-roestar-muslimska-vaeljare-i-sa-hoeg-grad-pa-vaensterblocket/10496500)
-
----
-
-## Charlie Cramer: "You could say I collect people"
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-04 (1 day old)
-
-She is the youth leader who loves Christmas and scouting
-
-[Read Full Article](https://www.dagen.se/familj/charlie-cramer-man-kan-saega-att-jag-samlar-pa-maenniskor/10501712)
-
----
-
-## Avoid selective vision when assessing KD's policies
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-04 (1 day old)
-
-For me, a Christian ethic and view of humanity, concern for fellow human beings, stewardship and solidarity are an obvious basis in the political work of the Christian Democrats, writes Kjell O. Lejon in a concluding remark.
-
-[Read Full Article](https://www.dagen.se/debatt/undvik-selektivt-seende-naer-kds-politik-bedoems/10507201)
-
----
-
-## Jimmie Åkesson on demolishing free churches: "Yes, you can do that"
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-04 (1 day old)
-
-The party has previously hinted at being able to demolish mosques that spread unswedish and hateful messages - was asked if this also applies to churches.
-
-[Read Full Article](https://www.dagen.se/nyheter/jimmie-akesson-om-att-riva-frikyrkor-ja-det-kan-man-vael-goera/10512399)
-
----
-
-## Felicia Ferreira: You should vote for this as a Christian
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-04 (1 day old)
-
-Faith does not provide a ballot – but it should challenge your choice.
-
-[Read Full Article](https://www.dagen.se/ledare/felicia-ferreira-detta-ska-du-roesta-pa-som-kristen/10497538)
-
----
-
-## Here the police strike against Haval - after three years in Romania
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-03 (1 day old)
-
-See pictures from the operation • Suspect for three murders in Sweden
-
-[Read Full Article](https://www.tv4.se/artikel/2GQ1YNmVttEz8gUxeE9UE4/haer-slar-polisen-till-mot-haval-efter-tre-ar-i-rumaenien)
-
----
-
-## Kristersson: Then the SD official should be fired
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-03 (1 day old)
-
-Supposed to have spread pro-Russian information
-
-[Read Full Article](https://www.tv4.se/artikel/tt-260903-sdtjansteman1-6c968ca8/kristersson-da-bor-sd-tjanstemannen-sparkas)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-03 (1 day old)
-
-According to SVT/Verian
-
-[Read Full Article](https://www.tv4.se/artikel/7FfiX7QWa4gUhsAM7GfIep/l-oekar-i-aennu-en-maetning-tio-dagar-innan-valet)
-
----
-
 ## Government receives new application for financial support for nuclear power project
 **Outlet:** Government.se
-**Category:** Ministry of Finance | **Date:** 2026-09-03 (1 day old)
+**Category:** Ministry of Finance | **Date:** 2026-09-03 (4 days old)
 
 The Government has received another application for state aid to build new nuclear reactors in Sweden. The application was submitted by Blykalla, a company that intends to establish a nuclear power plant in Tierp Municipality, in Uppsala County. This is the sixth such application received by the Government.
 
@@ -1700,29 +1796,9 @@ The Government has received another application for state aid to build new nucle
 
 ---
 
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-03 (1 day old)
-
-Sweden is already based on several obligations: compulsory schooling, compulsory military service, mandatory conscription, tax liability and the duty to testify, writes Sudhagar Raghupaty in a closing remark.
-
-[Read Full Article](https://www.dagen.se/debatt/roestplikt-boer-vara-en-demokratisk-skyldighet/10510255)
-
----
-
-## Gang leader Haval Khalil, 31, arrested in Romania
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-09-03 (1 day old)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.tv4.se/artikel/5ix04EVwtqta2u2OOcD8l8/gaengtoppen-haval-khalil-31-gripen-i-rumaenien)
-
----
-
 ## Government receives application for state aid for new nuclear power project
 **Outlet:** Government.se
-**Category:** Ministry of Finance | **Date:** 2026-09-03 (1 day old)
+**Category:** Ministry of Finance | **Date:** 2026-09-03 (4 days old)
 
 The Government has received another application for financial support to build nuclear reactors. The application was submitted by a newly established project company owned by Fortum. This is the fifth state aid application that the Government has received since the state aid programme was launched.
 
@@ -1730,99 +1806,9 @@ The Government has received another application for financial support to build n
 
 ---
 
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-03 (2 days old)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dagen.se/nyheter/hembakade-bullar-i-kyrkan-haer-gar-graensen-foer-vad-som-aer-lagligt/10510149)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-03 (2 days old)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dagen.se/debatt/vi-aer-inte-skapelsens-aegare-utan-dess-foervaltare/10507003)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-03 (2 days old)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dagen.se/nyheter/ulf-kristersson-m-om-tvivel-girighet-och-kristna-vaerderingar/10498084)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-03 (2 days old)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dagen.se/ledare/maste-vi-verkligen-vaelja-mellan-aenkan-och-fraemlingen-ulf-kristersson/10510186)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-03 (2 days old)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dagen.se/nyheter/abortmotstand-aer-vaeldigt-vaeldigt-upproerande-foer-manga-maenniskor/10489231)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-03 (2 days old)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dagen.se/ledare/steven-crosson-goer-inte-din-politik-till-min-tro/10506635)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-03 (2 days old)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dagen.se/nyheter/ulf-kristersson-m-det-aer-alldeles-uppenbart-att-sverige-aer-ett-kristet-land/10498731)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-03 (2 days old)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dagen.se/podd/fredrik-strage-daerfoer-blir-mina-texter-baettre-naer-jag-citerar-bibeln/10511608)
-
----
-
-## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-09-03 (2 days old)
-
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-
-[Read Full Article](https://www.dagen.se/nyheter/frimodig-kyrka-kritiserar-biskoparna-sviker-sitt-uppdrag/10507124)
-
----
-
 ## Maria Malmer Stenergard takes part in the informal meeting of EU foreign ministers
 **Outlet:** Government.se
-**Category:** Ministry for Foreign Affairs | **Date:** 2026-09-01 (3 days old)
+**Category:** Ministry for Foreign Affairs | **Date:** 2026-09-01 (6 days old)
 
 Minister for Foreign Affairs Maria Malmer Stenergard is taking part in the informal EU foreign ministers meeting (Gymnich) in Ireland on 1–2 September 2026.
 
@@ -1832,7 +1818,7 @@ Minister for Foreign Affairs Maria Malmer Stenergard is taking part in the infor
 
 ## Sweden and France intensify defence cooperation
 **Outlet:** Government.se
-**Category:** Prime Minister's Office | **Date:** 2026-08-31 (4 days old)
+**Category:** Prime Minister's Office | **Date:** 2026-08-31 (6 days old)
 
 On 31 August, Prime Minister Ulf Kristersson received French President Emmanuel Macron in Stockholm. Mr Kristersson and Mr Macron took part in a signing ceremony to mark Sweden’s procurement of four frigates. A framework agreement on strengthening Swedish-French defence cooperation was also signed.
 
@@ -1840,9 +1826,19 @@ On 31 August, Prime Minister Ulf Kristersson received French President Emmanuel 
 
 ---
 
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-08-29 (8 days old)
+
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+[Read Full Article](https://www.tv4.se/artikel/W1tSx8NCltVvzrPREBHBM/artistens-dotter-golvar-juryn-med-egenskriven-lat)
+
+---
+
 ## Sweden and Finland are deepening cooperation on territorial surveillance and protection of territorial integrity
 **Outlet:** Government.se
-**Category:** Ministry of Defence | **Date:** 2026-08-28 (8 days old)
+**Category:** Ministry of Defence | **Date:** 2026-08-28 (10 days old)
 
 Building on an exceptionally close partnership and a longstanding defence cooperation, Sweden and Finland will together strengthen territorial surveillance and protection of Finland’s territorial integrity, in support of NATO’s deterrence and defence.
 
@@ -1852,7 +1848,7 @@ Building on an exceptionally close partnership and a longstanding defence cooper
 
 ## Prime Minister to receive French President Emmanuel Macron
 **Outlet:** Government.se
-**Category:** Prime Minister's Office | **Date:** 2026-08-27 (9 days old)
+**Category:** Prime Minister's Office | **Date:** 2026-08-27 (11 days old)
 
 On Monday 31 August, Swedish Prime Minister Ulf Kristersson will receive French President Emmanuel Macron for a bilateral meeting. The focus will be on deepened defence cooperation between Sweden and France. During the visit, the two leaders will take part in a signing ceremony and make joint press statements.
 
@@ -1860,9 +1856,9 @@ On Monday 31 August, Swedish Prime Minister Ulf Kristersson will receive French 
 
 ---
 
-## Kristersson: They will vote for L
+## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 **Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-08-27 (9 days old)
+**Category:** General News | **Date:** 2026-08-27 (11 days old)
 
 _No summary text available from RSS._
 
@@ -1872,7 +1868,7 @@ _No summary text available from RSS._
 
 ## Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 **Outlet:** Riksbanken
-**Category:** Central Bank | **Date:** 2026-08-25 (11 days old)
+**Category:** Central Bank | **Date:** 2026-08-25 (13 days old)
 
 Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
@@ -1882,7 +1878,7 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 
 ## UNHCR clarifies its guidelines on expulsion of individuals convicted of rape
 **Outlet:** Government.se
-**Category:** Ministry of Justice | **Date:** 2026-08-24 (11 days old)
+**Category:** Ministry of Justice | **Date:** 2026-08-24 (13 days old)
 
 Following a Swedish initiative, the United Nations High Commissioner for Refugees (UNHCR) has updated its guidelines on expulsion for serious crimes. The UNHCR has thus made a significant clarification that rape now constitutes a particularly serious crime within the application of the Refugee Convention.
 
@@ -1892,20 +1888,10 @@ Following a Swedish initiative, the United Nations High Commissioner for Refugee
 
 ## Press invitation: Focus on security issues in the Nordic-Baltic region as Minister for Foreign Affairs receives Latvian counterpart
 **Outlet:** Government.se
-**Category:** Ministry for Foreign Affairs | **Date:** 2026-08-24 (11 days old)
+**Category:** Ministry for Foreign Affairs | **Date:** 2026-08-24 (13 days old)
 
 On Wednesday 26 August, Minister for Foreign Affairs Maria Malmer Stenergard will receive Latvian Minister of Foreign Affairs Baiba Braže for a bilateral meeting.
 
 [Read Full Article](https://www.government.se/press-releases/2026/08/press-invitation-focus-on-security-issues-in-the-nordic-baltic-region-as-minister-for-foreign-affairs-receives-latvian-counterpart/)
-
----
-
-## Minister for Foreign Affairs to visit Ukraine
-**Outlet:** Government.se
-**Category:** Ministry for Foreign Affairs | **Date:** 2026-08-24 (12 days old)
-
-On 24 August, Minister for Foreign Affairs Maria Malmer Stenergard will visit Kyiv to mark the Independence Day of Ukraine.
-
-[Read Full Article](https://www.government.se/press-releases/2026/08/minister-for-foreign-affairs-to-visit-ukraine/)
 
 ---
