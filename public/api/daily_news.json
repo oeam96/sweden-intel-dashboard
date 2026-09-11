@@ -1,32 +1,40 @@
 {
-  "generated_at": "2026-09-09T14:30:00.500830+02:00",
-  "date": "2026-09-09",
+  "generated_at": "2026-09-11T14:20:05.031882+02:00",
+  "date": "2026-09-11",
   "item_count": 10,
   "items": [
     {
-      "id": 9,
-      "title": "Mother orangutan with cub rescued from forest fire",
-      "summary": "A mother orangutan and her baby have been rescued from one of the many forest fires raging in Indonesia.",
-      "title_original": "Orangutangmamma med unge räddade från skogsbrand",
-      "summary_original": "En orangutangmamma och hennes bebis har räddats från en av många skogsbränder som rasar i Indonesien.",
-      "link": "https://www.dn.se/varlden/orangutangmamma-med-unge-raddade-fran-skogsbrand/",
-      "date_display": "2026-09-09",
-      "date_iso": "2026-09-09T12:08:38+00:00",
-      "source": "Dagens Nyheter (DN)",
+      "id": 1,
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_original": "Takacs om efterlängtade tiden med Northug: ”Känns fantastiskt”",
+      "summary_original": "Petter Northug har haft ett par intensiva veckor bakom sig.\n\nEfter premiären av ”Let's dance” tävlade han i rullskidor under Toppidrottsveckan. Helgen därpå skulle han ha kört Alliansloppet i Trollhättan men missade tävlingen på grund av flygstrul.\n\nInför det tredje programmet hade han jobb i Spanien och fick därför träna där. Nu, inför program fyra, är det första gången han kan vara i replokalen en hel vecka.\n\n– Nu ska jag träna här och försöka hålla mig lite i ro i Stockholm tills jag är färdig. Det känns bra, säger han till TV4 Nyheterna under onsdagens repetitioner. ”Petter vill ju” Det är särskilt välkommet för hans danspartner Jasmine Takacs. – Det känns fantastiskt att han inte längre är ute och far, säger hon. Inför premiären hann Takacs bara få sju lektioner med Northug, jämfört med de andra parens 21. – Jag har en sådan mentalitet att om det är det här jag får, då är det det jag får jobba med. Det är ingen idé att stressa. Men det är klart att man ibland undrar hur det ens ska gå. Petter vill ju, men han har bara inte haft tid. Men jag är lugn nu när du är här, säger hon. När Northug jobbade i Spanien följde Takacs med för att de skulle kunna träna. – Men nu på fredag blir det säsongsbästa, säger hon. – Nu förväntar sig folk i Sverige och Norge, och juryn, att jag ska prestera på topp. Då får jag börja ge dem det. Vi har legat lite bakom i fältet och lurat, men nu ska vi ta kommando i Let's dance, säger han. Paret med bästa kemi Samtidigt som de haft ont om träningstid har paret omgetts av romansrykten. Under sändningen i fredags skämtades det friskt om deras resa till Spanien. – Jag tror att det stärker oss. Folk ser att vi har bra kemi nu, särskilt eftersom Jasmine har varit så nära mig och följt med på träning. Hon har fått se hur min hektiska vardag ser ut. Vi pressar in träningspassen, har humor, har kul och äter middag tillsammans. Det tror jag är vår styrka, både nu och längre fram i tävlingen, säger Northug. Är ni paret med bäst kemi? – Alla par har nog sin egen kemi, men jag tror att vi har byggt upp en ganska stark kemi hittills. Sedan får vi se hur långt den räcker, säger han.",
+      "link": "https://www.tv4.se/artikel/1mJeoYzGqoUhJ2NM7sqz4l/takacs-om-efterlaengtade-tiden-med-northug-kaenns-fantastiskt",
+      "date_display": "2026-09-11",
+      "date_iso": "2026-09-11T12:10:36+00:00",
+      "source": "TV4 Nyheterna",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
-      "tags": []
+      "tags": [
+        "Nöje",
+        "/noje",
+        "/tv",
+        "/tv4",
+        "/tv4-play",
+        "/lets-dance",
+        "/let-s-dance"
+      ]
     },
     {
-      "id": 15,
-      "title": "KD's election promise: Maximum twelve children in toddler groups",
-      "summary": "The Christian Democrats propose a maximum limit of twelve children in preschool toddler groups and that the number of children...",
-      "title_original": "KD:s vallöfte: Max tolv barn i småbarnsgrupper",
-      "summary_original": "Kristdemokraterna föreslår ett maxtak på tolv barn i förskolans småbarnsgrupper och att antalet barn…",
-      "link": "https://www.svd.se/a/V6rlO6/kd-s-vallofte-max-tolv-barn-i-smabarnsgrupper?utm_medium=rss",
-      "date_display": "2026-09-09",
-      "date_iso": "2026-09-09T11:50:12+00:00",
+      "id": 2,
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "",
+      "title_original": "Misstänkt grov våldtäkt mot barn i Järfälla",
+      "summary_original": "",
+      "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=77283&utm_medium=rss",
+      "date_display": "2026-09-11",
+      "date_iso": "2026-09-11T12:08:18+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -34,22 +42,76 @@
       "tags": []
     },
     {
-      "id": 16,
-      "title": "Kristina Lindquist: When immigrants vote \"wrong\", democracy suddenly becomes a problem",
-      "summary": "That voters with a foreign background often vote left raises concerns and conspiracy theories about political manipulation. But when residential areas are painted dark blue, nobody seems to wonder about the state of democracy, writes Kristina Lindquist.",
-      "title_original": "Kristina Lindquist: När invandrare röstar ”fel” blir demokratin plötsligt ett problem",
-      "summary_original": "Att väljare med utländsk bakgrund ofta röstar vänster väcker oro och konspirationsteorier om politisk manipulation. Men när villaområden färgas mörkblå tycks ingen undra över demokratins tillstånd, skriver Kristina Lindquist.",
-      "link": "https://www.dn.se/kultur/kristina-lindquist-nar-invandrare-rostar-fel-blir-demokratin-plotsligt-ett-problem/",
-      "date_display": "2026-09-09",
-      "date_iso": "2026-09-09T11:47:33+00:00",
-      "source": "Dagens Nyheter (DN)",
+      "id": 3,
+      "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "title_original": "Utländska medborgare luras till Ryssland – för att strida vid frontlinjen",
+      "summary_original": "Rysslands fullskaliga invasion av Ukraina inleddes i februari 2022. Kriget har dragit ut på tiden och det har återkommande rapporterats om akut soldatbrist på den ryska sidan. För att få bukt med problemet har Ryssland rekryterat soldater från utlandet. Men en ny kartläggning av Amnesty International visar hur landet lurat utländska medborgare till fronten. I rapporten har organisationen pratat med medborgare från Brasilien, Colombia, Kuba, Egypten, Sierra Leone, Sri Lanka, Somalia och Sydafrika, som befunnit sig i två ukrainska läger för krigsfångar mellan 2024 och 2026. I många av fallen handlar det om redan utsatta människor, däribland migranter och flyktingar som redan befunnit sig i Ryssland, och som kommer från låginkomstländer i globala syd.  Utnyttjar migranter Rekryterarna har utnyttjat personernas irreguljära migrationsstatus och den osäkra situationen för utlänningar som anklagas för brott, genom att framställa väpnad tjänst som ett alternativ till frihetsberövande och utvisning. – Genom tvång, bedrägeri och vilseledande utnyttjar de ryska myndigheterna utsatta människors hopp om ett bättre liv. Detta har inkluderat falska löften om civila eller icke-stridande anställningar i armén. Men när offren väl undertecknat dokumenten, ofta på ett språk de inte förstår, begränsar de militära befälhavarna deras rörelsefrihet, sänder ut dem till frontlinjen med minimal förberedelse och hotar dem som försöker ta sig därifrån, säger Anna Johansson, generalsekreterare för Amnesty International Sverige, i ett pressmeddelande. Lovas välbetalda jobb Även vilseledande jobbannonser på nätet har spelat en avgörande roll för att lura utländska medborgare till Ryssland, enligt vittnesmål i rapporten. Många av de drabbade uppger att de felaktigt lovats civila jobb inom säkerhet, logistik, byggbranschen och IT, med löften om höga löner och snabbare väg till ryskt medborgarskap. I många av fallen fick de aldrig någon ersättning, samtidigt som deras tillhörigheter och ID-handlingar togs ifrån dem. Rörelsefriheten och möjligheterna att avvika begränsades också kraftigt.  En Sydafrikansk man sökte ett jobb som chaufför i Polen och fick instruktioner på WhatsApp att flyga till Moskva för att hämta en lastbil och köra den till Polen. Vid ankomsten till Moskva fick han reda på att han inte skulle till Polen utan att han skulle bli soldat, uppger hans fru för Amnesty. Pedro, en brasiliansk IT-specialist reste till Ryssland för att börja ett välbetalt teknikjobb. Istället hamnade han i armén. När han bad sin befälhavare om frisedel fick han till svar att alternativen i så fall var fängelse eller döden. Allvarliga brott mot internationell rätt Efter bara två veckors utbildning skickades rekryterna ut i strid, något som enligt Amnesty tyder på att brist på militär erfarenhet inte verkar vara något hinder för Rysslands rekrytering av soldater. Landets mål var att snabbt öka det totala antalet soldater vid frontlinjen, utan någon hänsyn till stridsberedskap och med likgiltighet inför människoliv, uppger Amnesty. Mönstren som framträder i rapporten pekar på allvarliga brott mot de skyldigheter som Ryssland har enligt internationell rätt, däribland uppenbar inblandning i människohandel samt underlåtenhet i att kriminalisera och bekämpa människohandel.",
+      "link": "https://www.tv4.se/artikel/1xeEl4fIk8nULUO4DSlFIo/utlaendska-medborgare-luras-till-ryssland-foer-att-strida-vid-frontlinjen",
+      "date_display": "2026-09-11",
+      "date_iso": "2026-09-11T12:04:29+00:00",
+      "source": "TV4 Nyheterna",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
-      "tags": []
+      "tags": [
+        "Nyheterna",
+        "/utrikes",
+        "/amnesty",
+        "/ryssland",
+        "/ukrainakonflikten"
+      ]
     },
     {
-      "id": 155,
+      "id": 157,
+      "title": "France and Sweden to develop a roadmap for enhanced bilateral space cooperation",
+      "summary": "On the occasion of the International Space Summit held in Paris, France and Sweden have agreed to develop a roadmap that will provide a political framework for enhanced bilateral space cooperation.",
+      "title_original": "France and Sweden to develop a roadmap for enhanced bilateral space cooperation",
+      "summary_original": "On the occasion of the International Space Summit held in Paris, France and Sweden have agreed to develop a roadmap that will provide a political framework for enhanced bilateral space cooperation.",
+      "link": "https://www.government.se/press-releases/2026/09/france-and-sweden-to-develop-a-roadmap-for-enhanced-bilateral-space-cooperation/",
+      "date_display": "2026-09-10",
+      "date_iso": "2026-09-10T12:00:18+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry of Defence",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry of Defence",
+        "Ministry of Education and Research",
+        "Higher education, research and space.",
+        "Foreign and security policy",
+        "Lotta Edholm",
+        "Pål Jonson"
+      ]
+    },
+    {
+      "id": 159,
+      "title": "Sweden and the Netherlands agree on GlobalEye deal",
+      "summary": "Sweden and the Netherlands have signed a Letter of Intent on long-term cooperation regarding airborne warning and control capabilities through the GlobalEye system. The Netherlands intends to acquire one GlobalEye system.",
+      "title_original": "Sweden and the Netherlands agree on GlobalEye deal",
+      "summary_original": "Sweden and the Netherlands have signed a Letter of Intent on long-term cooperation regarding airborne warning and control capabilities through the GlobalEye system. The Netherlands intends to acquire one GlobalEye system.",
+      "link": "https://www.government.se/press-releases/2026/09/sweden-and-the-netherlands-agree-on-globaleye-deal/",
+      "date_display": "2026-09-10",
+      "date_iso": "2026-09-10T11:30:42+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry of Defence",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry of Defence",
+        "NATO",
+        "Pål Jonson",
+        "Military defence",
+        "International defence cooperation",
+        "Total defence"
+      ]
+    },
+    {
+      "id": 181,
       "title": "Joint Foreign Ministers' Statement on the Two-State Solution",
       "summary": "Statement of the Foreign Ministers of Canada, Denmark, Finland, France, Iceland, Ireland, Norway, Poland, Portugal, Spain, Sweden and the UK on the Two-State Solution.",
       "title_original": "Joint Foreign Ministers' Statement on the Two-State Solution",
@@ -60,7 +122,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -69,7 +131,7 @@
       ]
     },
     {
-      "id": 180,
+      "id": 182,
       "title": "Government receives new application for financial support for nuclear power project",
       "summary": "The Government has received another application for state aid to build new nuclear reactors in Sweden. The application was submitted by Blykalla, a company that intends to establish a nuclear power plant in Tierp Municipality, in Uppsala County. This is the sixth such application received by the Government.",
       "title_original": "Government receives new application for financial support for nuclear power project",
@@ -80,7 +142,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Finance",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Press release",
         "EU",
@@ -92,7 +154,7 @@
       ]
     },
     {
-      "id": 181,
+      "id": 183,
       "title": "Government receives application for state aid for new nuclear power project",
       "summary": "The Government has received another application for financial support to build nuclear reactors. The application was submitted by a newly established project company owned by Fortum. This is the fifth state aid application that the Government has received since the state aid programme was launched.",
       "title_original": "Government receives application for state aid for new nuclear power project",
@@ -103,7 +165,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Finance",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Press release",
         "EU",
@@ -115,7 +177,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 184,
       "title": "Maria Malmer Stenergard takes part in the informal meeting of EU foreign ministers",
       "summary": "Minister for Foreign Affairs Maria Malmer Stenergard is taking part in the informal EU foreign ministers meeting (Gymnich) in Ireland on 1–2 September 2026.",
       "title_original": "Maria Malmer Stenergard takes part in informal meeting of EU foreign ministers",
@@ -126,7 +188,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "EU",
@@ -138,7 +200,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 185,
       "title": "Sweden and France intensify defence cooperation",
       "summary": "On 31 August, Prime Minister Ulf Kristersson received French President Emmanuel Macron in Stockholm. Mr Kristersson and Mr Macron took part in a signing ceremony to mark Sweden’s procurement of four frigates. A framework agreement on strengthening Swedish-French defence cooperation was also signed.",
       "title_original": "Sweden and France intensify defence cooperation",
@@ -149,7 +211,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "Webcast",
@@ -163,55 +225,6 @@
         "Strengthen Sweden’s security",
         "Total defence",
         "Defence Resolution 2025-2030"
-      ]
-    },
-    {
-      "id": 184,
-      "title": "Sweden and Finland are deepening cooperation on territorial surveillance and protection of territorial integrity",
-      "summary": "Building on an exceptionally close partnership and a longstanding defence cooperation, Sweden and Finland will together strengthen territorial surveillance and protection of Finland’s territorial integrity, in support of NATO’s deterrence and defence.",
-      "title_original": "Sweden and Finland are deepening cooperation on territorial surveillance and protection of territorial integrity",
-      "summary_original": "Building on an exceptionally close partnership and a longstanding defence cooperation, Sweden and Finland will together strengthen territorial surveillance and protection of Finland’s territorial integrity, in support of NATO’s deterrence and defence.",
-      "link": "https://www.government.se/press-releases/2026/08/sweden-and-finland-are-deepening-cooperation-on-territorial-surveillance-and-protection-of-territorial-integrity/",
-      "date_display": "2026-08-28",
-      "date_iso": "2026-08-28T08:00:18+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Defence",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry of Defence",
-        "Pål Jonson",
-        "Military defence",
-        "Defence cooperation between Sweden and Finland",
-        "International defence cooperation",
-        "Total defence"
-      ]
-    },
-    {
-      "id": 185,
-      "title": "Prime Minister to receive French President Emmanuel Macron",
-      "summary": "On Monday 31 August, Swedish Prime Minister Ulf Kristersson will receive French President Emmanuel Macron for a bilateral meeting. The focus will be on deepened defence cooperation between Sweden and France. During the visit, the two leaders will take part in a signing ceremony and make joint press statements.",
-      "title_original": "Prime Minister to receive French President Emmanuel Macron",
-      "summary_original": "On Monday 31 August, Swedish Prime Minister Ulf Kristersson will receive French President Emmanuel Macron for a bilateral meeting. The focus will be on deepened defence cooperation between Sweden and France. During the visit, the two leaders will take part in a signing ceremony and make joint press statements.",
-      "link": "https://www.government.se/press-releases/2026/08/prime-minister-to-receive-french-president-emmanuel-macron/",
-      "date_display": "2026-08-27",
-      "date_iso": "2026-08-27T10:25:30+00:00",
-      "source": "Government.se",
-      "ministry": "Prime Minister's Office",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "Webcast",
-        "EU",
-        "Prime Minister's Office",
-        "Ministry of Defence",
-        "Foreign and security policy",
-        "Pål Jonson",
-        "Ulf Kristersson",
-        "Military defence"
       ]
     }
   ]
