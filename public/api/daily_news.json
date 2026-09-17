@@ -1,17 +1,38 @@
 {
-  "generated_at": "2026-09-15T14:52:58.706906+02:00",
-  "date": "2026-09-15",
-  "item_count": 9,
+  "generated_at": "2026-09-17T14:47:03.700787+02:00",
+  "date": "2026-09-17",
+  "item_count": 10,
   "items": [
     {
-      "id": 3,
-      "title": "Hotar med storstrejk på jätten: ”Nödvändigt”",
-      "summary": "Candy Crush-skaparen King vägrar kollektivavtal, enligt facken. Nu hotar de att ta ut över 80…",
-      "title_original": "Hotar med storstrejk på jätten: ”Nödvändigt”",
-      "summary_original": "Candy Crush-skaparen King vägrar kollektivavtal, enligt facken. Nu hotar de att ta ut över 80…",
-      "link": "https://www.svd.se/a/8pM8kx/hotar-med-storstrejk-pa-king-nodvandigt-enligt-unionen?utm_medium=rss",
-      "date_display": "2026-09-15",
-      "date_iso": "2026-09-15T12:44:59+00:00",
+      "id": 0,
+      "title": "Anderssons segertal – ”Vårt land ska komma samman”",
+      "summary": "Bara minuter efter att statsminister Ulf Kristersson avgått, skickade Socialdemokraterna ut ett drygt tre minuter långt segertal från partiledaren Magdalena Andersson. Hon inleder med orden ”Hej Sverige” och hävdar att Sverige nu inleder en ny era i svensk politik.  – Svenska folket har röstat för att ta Sverige framåt. Och jag vill förverkliga den nya riktning som ni har röstat för, säger Magdalena Andersson. Rödgröna hjärtefrågor I sina politiska prioriteringar tar hon bland annat upp ökad tillväxt, sänkt arbetslöshet, lägre utsläpp och att tonårsutvisningarna ska stoppas. Hon tar även upp en del av de andra rödgröna partiernas hjärtefrågor, som Centerpartiets önskan om en levande landbygd, Miljöpartiets fokus på klimatomställningen och Vänsterpartiets fokus på en förbättrad omsorg. Däremot gavs inga nya besked om eventuella förhandlingar: – Jag förstår att många undrar över vad som kommer hända den närmaste tiden. Och nu ska ett parlamentariskt arbete ta vid, precis som det är reglerat i vår grundlag, säger Magdalena Andersson (S). ”Även är er statsminister” I talet passade Socialdemokraternas ledare på att vända sig till de väljare som röstat på Tidöpartierna, och säger att de har hennes fulla respekt. Och där talar Andersson redan om sig själv som statsminister. – Jag kommer arbeta hårt för att förtjäna också ert förtroende. Att ni ska känna att jag även är er statsminister och att jag står på er sida, säger Magdalena Andersson (S).",
+      "title_original": "Anderssons segertal – ”Vårt land ska komma samman”",
+      "summary_original": "Bara minuter efter att statsminister Ulf Kristersson avgått, skickade Socialdemokraterna ut ett drygt tre minuter långt segertal från partiledaren Magdalena Andersson. Hon inleder med orden ”Hej Sverige” och hävdar att Sverige nu inleder en ny era i svensk politik.  – Svenska folket har röstat för att ta Sverige framåt. Och jag vill förverkliga den nya riktning som ni har röstat för, säger Magdalena Andersson. Rödgröna hjärtefrågor I sina politiska prioriteringar tar hon bland annat upp ökad tillväxt, sänkt arbetslöshet, lägre utsläpp och att tonårsutvisningarna ska stoppas. Hon tar även upp en del av de andra rödgröna partiernas hjärtefrågor, som Centerpartiets önskan om en levande landbygd, Miljöpartiets fokus på klimatomställningen och Vänsterpartiets fokus på en förbättrad omsorg. Däremot gavs inga nya besked om eventuella förhandlingar: – Jag förstår att många undrar över vad som kommer hända den närmaste tiden. Och nu ska ett parlamentariskt arbete ta vid, precis som det är reglerat i vår grundlag, säger Magdalena Andersson (S). ”Även är er statsminister” I talet passade Socialdemokraternas ledare på att vända sig till de väljare som röstat på Tidöpartierna, och säger att de har hennes fulla respekt. Och där talar Andersson redan om sig själv som statsminister. – Jag kommer arbeta hårt för att förtjäna också ert förtroende. Att ni ska känna att jag även är er statsminister och att jag står på er sida, säger Magdalena Andersson (S).",
+      "link": "https://www.tv4.se/artikel/1uMvbAsGUNwzma8NW6K3Gu/anderssons-segertal-vart-land-ska-komma-samman",
+      "date_display": "2026-09-17",
+      "date_iso": "2026-09-17T12:43:07+00:00",
+      "source": "TV4 Nyheterna",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": [
+        "/",
+        "/valet-2026",
+        "/politik",
+        "/valet-2022/socialdemokraterna",
+        "/regeringsbildningen"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Almodóvar är det bästa du kan se på bio just nu",
+      "summary": "I ”Autofiktion” prövas tanken att skapandet av fiktioner i grunden är en parasitär syssla.",
+      "title_original": "Almodóvar är det bästa du kan se på bio just nu",
+      "summary_original": "I ”Autofiktion” prövas tanken att skapandet av fiktioner i grunden är en parasitär syssla.",
+      "link": "https://www.svd.se/a/bOxVJ5/autofiktion-biofilm-recension-av-jan-soderqvist?utm_medium=rss",
+      "date_display": "2026-09-17",
+      "date_iso": "2026-09-17T12:30:00+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -19,14 +40,14 @@
       "tags": []
     },
     {
-      "id": 4,
-      "title": "Kinas spionchef varnar för att AI kan hota kommunistpartiet",
-      "summary": "AI kan hota kommunistpartiets styre och landets säkerhet, varnar chefen för Kinas underrättelsetjänst och efterlyser skarpare regler för att kontrollera tekniken. Samtidigt anklagar Kina de amerikanska teknikchefer som vill dra ned på takten i AI-utvecklingen för skräckpropaganda.",
-      "title_original": "Kinas spionchef varnar för att AI kan hota kommunistpartiet",
-      "summary_original": "AI kan hota kommunistpartiets styre och landets säkerhet, varnar chefen för Kinas underrättelsetjänst och efterlyser skarpare regler för att kontrollera tekniken. Samtidigt anklagar Kina de amerikanska teknikchefer som vill dra ned på takten i AI-utvecklingen för skräckpropaganda.",
-      "link": "https://www.dn.se/varlden/kinas-spionchef-varnar-for-att-ai-kan-hota-kommunistpartiet/",
-      "date_display": "2026-09-15",
-      "date_iso": "2026-09-15T12:38:55+00:00",
+      "id": 5,
+      "title": "Insändare. S kör i diket med sin högersväng",
+      "summary": "INSÄNDARE. Det behövs tydliga alternativ i politiken, är nästan alla politiska kommentatorer eniga om. När nu Socialdemokraterna sakta rör sig närmare och närmare de borgerliga partierna upphör gradvis stommen i det som länge varit den vänstra sidan, skriver Oskar Palm.",
+      "title_original": "Insändare. S kör i diket med sin högersväng",
+      "summary_original": "INSÄNDARE. Det behövs tydliga alternativ i politiken, är nästan alla politiska kommentatorer eniga om. När nu Socialdemokraterna sakta rör sig närmare och närmare de borgerliga partierna upphör gradvis stommen i det som länge varit den vänstra sidan, skriver Oskar Palm.",
+      "link": "https://www.dn.se/insandare/s-kor-i-diket-med-sin-hogersvang/",
+      "date_display": "2026-09-17",
+      "date_iso": "2026-09-17T12:25:04+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -34,22 +55,22 @@
       "tags": []
     },
     {
-      "id": 6,
-      "title": "Kraven på Kristersson: Erkänn förlust och avgå",
-      "summary": "Socialdemokraterna kräver att Ulf Kristersson (M) erkänner sig besegrad och lämnar in sin…",
-      "title_original": "Kraven på Kristersson: Erkänn förlust och avgå",
-      "summary_original": "Socialdemokraterna kräver att Ulf Kristersson (M) erkänner sig besegrad och lämnar in sin…",
-      "link": "https://www.svd.se/a/PdJxBX/socialdemokraternas-krav-pa-ulf-kristersson-erkann-forlust-och-avga?utm_medium=rss",
-      "date_display": "2026-09-15",
-      "date_iso": "2026-09-15T12:32:57+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
+      "id": 154,
+      "title": "Riksbankens företagsundersökning:  ”Det fanns en oro inför sommaren men så vände det”",
+      "summary": "Konjunkturläget har förbättrats sedan i våras och för första gången sedan september 2022 är de svenska storföretagens bedömning av läget nu över sitt historiska snitt. Före sommaren befarade man att kriget i Mellanöstern skulle försena återhämtningen, men den oron har inte infriats. Efterfrågan har stärkts och kostnadsökningarna från kriget anses vara hanterbara. Det gör att företagen ser ljusare på utvecklingen framåt. Det visar Riksbankens företagsundersökning i augusti.",
+      "title_original": "Riksbankens företagsundersökning:  ”Det fanns en oro inför sommaren men så vände det”",
+      "summary_original": "Konjunkturläget har förbättrats sedan i våras och för första gången sedan september 2022 är de svenska storföretagens bedömning av läget nu över sitt historiska snitt. Före sommaren befarade man att kriget i Mellanöstern skulle försena återhämtningen, men den oron har inte infriats. Efterfrågan har stärkts och kostnadsökningarna från kriget anses vara hanterbara. Det gör att företagen ser ljusare på utvecklingen framåt. Det visar Riksbankens företagsundersökning i augusti.",
+      "link": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/riksbankens-foretagsundersokning--det-fanns-en-oro-infor-sommaren-men-sa-vande-det/",
+      "date_display": "2026-09-16",
+      "date_iso": "2026-09-16T07:30:55+00:00",
+      "source": "Riksbanken",
+      "ministry": "Central Bank",
+      "type": "Official Information",
+      "age_tag": "1 day old",
       "tags": []
     },
     {
-      "id": 120,
+      "id": 177,
       "title": "Speech by Minister for Defence Pål Jonson at the International Space Summit in Paris",
       "summary": "Speech at the International Space Summit in Paris, 10 September 2026. Check against delivery.",
       "title_original": "Speech by Minister for Defence Pål Jonson at the International Space Summit in Paris",
@@ -60,7 +81,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Speech",
         "International",
@@ -71,7 +92,7 @@
       ]
     },
     {
-      "id": 156,
+      "id": 181,
       "title": "France and Sweden to develop a roadmap for enhanced bilateral space cooperation",
       "summary": "On the occasion of the International Space Summit held in Paris, France and Sweden have agreed to develop a roadmap that will provide a political framework for enhanced bilateral space cooperation.",
       "title_original": "France and Sweden to develop a roadmap for enhanced bilateral space cooperation",
@@ -82,7 +103,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Press release",
         "International",
@@ -95,7 +116,7 @@
       ]
     },
     {
-      "id": 157,
+      "id": 182,
       "title": "Sweden and the Netherlands agree on GlobalEye deal",
       "summary": "Sweden and the Netherlands have signed a Letter of Intent on long-term cooperation regarding airborne warning and control capabilities through the GlobalEye system. The Netherlands intends to acquire one GlobalEye system.",
       "title_original": "Sweden and the Netherlands agree on GlobalEye deal",
@@ -106,7 +127,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Press release",
         "International",
@@ -119,7 +140,7 @@
       ]
     },
     {
-      "id": 158,
+      "id": 183,
       "title": "Joint Foreign Ministers' Statement on the Two-State Solution",
       "summary": "Statement of the Foreign Ministers of Canada, Denmark, Finland, France, Iceland, Ireland, Norway, Poland, Portugal, Spain, Sweden and the UK on the Two-State Solution.",
       "title_original": "Joint Foreign Ministers' Statement on the Two-State Solution",
@@ -130,7 +151,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -139,7 +160,7 @@
       ]
     },
     {
-      "id": 159,
+      "id": 184,
       "title": "Government receives new application for financial support for nuclear power project",
       "summary": "The Government has received another application for state aid to build new nuclear reactors in Sweden. The application was submitted by Blykalla, a company that intends to establish a nuclear power plant in Tierp Municipality, in Uppsala County. This is the sixth such application received by the Government.",
       "title_original": "Government receives new application for financial support for nuclear power project",
@@ -150,7 +171,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Finance",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "Press release",
         "EU",
@@ -162,7 +183,7 @@
       ]
     },
     {
-      "id": 160,
+      "id": 185,
       "title": "Government receives application for state aid for new nuclear power project",
       "summary": "The Government has received another application for financial support to build nuclear reactors. The application was submitted by a newly established project company owned by Fortum. This is the fifth state aid application that the Government has received since the state aid programme was launched.",
       "title_original": "Government receives application for state aid for new nuclear power project",
@@ -173,7 +194,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Finance",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "Press release",
         "EU",
