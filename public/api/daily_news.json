@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-29T16:21:47.379560+02:00",
-  "date": "2026-09-29",
-  "item_count": 16,
+  "generated_at": "2026-10-01T16:45:22.883943+02:00",
+  "date": "2026-10-01",
+  "item_count": 17,
   "items": [
     {
-      "id": 0,
-      "title": "Storbråk mellan Sydkorea och Ukraina: ”Förtroendet allvarligt skadat”",
-      "summary": "Ett storbråk mellan Ukraina och Sydkorea har blossat upp och riskerar att minska det sydkoreanska stödet till det krigsdrabbade landet. Förtroendet mellan länderna är allvarligt skadat, hävdar den sydkoreanske presidenten Lee Jae-Myung.",
-      "title_original": "Storbråk mellan Sydkorea och Ukraina: ”Förtroendet allvarligt skadat”",
-      "summary_original": "Ett storbråk mellan Ukraina och Sydkorea har blossat upp och riskerar att minska det sydkoreanska stödet till det krigsdrabbade landet. Förtroendet mellan länderna är allvarligt skadat, hävdar den sydkoreanske presidenten Lee Jae-Myung.",
-      "link": "https://www.dn.se/varlden/storbrak-mellan-sydkorea-och-ukraina-fortroendet-allvarligt-skadat/",
-      "date_display": "2026-09-29",
-      "date_iso": "2026-09-29T14:11:26+00:00",
+      "id": 1,
+      "title": "Rödgrön offensiv i riksdagen mot utvisningarna",
+      "summary": "I skuggan av den tröga regeringsbildningen försöker de rödgröna partierna enas i riksdagen om ett nytt migrationspolitiskt förslag. Målsättningen är att stoppa utvisningar av unga människor. – Det viktigaste för att lösa det här är att få en ny regering på plats, säger Ida Karkiainen (S).",
+      "title_original": "Rödgrön offensiv i riksdagen mot utvisningarna",
+      "summary_original": "I skuggan av den tröga regeringsbildningen försöker de rödgröna partierna enas i riksdagen om ett nytt migrationspolitiskt förslag. Målsättningen är att stoppa utvisningar av unga människor. – Det viktigaste för att lösa det här är att få en ny regering på plats, säger Ida Karkiainen (S).",
+      "link": "https://www.dn.se/sverige/rodgron-offensiv-i-riksdagen-mot-utvisningarna/",
+      "date_display": "2026-10-01",
+      "date_iso": "2026-10-01T14:34:14+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -19,14 +19,29 @@
       "tags": []
     },
     {
-      "id": 1,
-      "title": "Ny regering långt borta – detta har hänt",
-      "summary": "Drygt två veckor har gått sedan valet men samtidigt tycks en ny regering vara långt borta.",
-      "title_original": "Ny regering långt borta – detta har hänt",
-      "summary_original": "Drygt två veckor har gått sedan valet men samtidigt tycks en ny regering vara långt borta.",
-      "link": "https://www.svd.se/a/2pL50y/ny-regering-langt-borta-detta-har-hant?utm_medium=rss",
-      "date_display": "2026-09-29",
-      "date_iso": "2026-09-29T14:10:46+00:00",
+      "id": 3,
+      "title": "Ny utredning föreslår att Östasiatiska och Medelhavsmuseet ska stängas",
+      "summary": "Fyra museer ska bli två. Det föreslår Världskulturmuseerna i en utredning om myndighetens lokaler som i dag överlämnades till regeringen. Det skulle innebära att Östasiatiska museet och Medelhavsmuseet i Stockholm stängs. – Vi bedömer att det är den mest långsiktigt hållbara lösningen, säger Britta Söderqvist, överintendent för Världskulturmuseerna.",
+      "title_original": "Ny utredning föreslår att Östasiatiska och Medelhavsmuseet ska stängas",
+      "summary_original": "Fyra museer ska bli två. Det föreslår Världskulturmuseerna i en utredning om myndighetens lokaler som i dag överlämnades till regeringen. Det skulle innebära att Östasiatiska museet och Medelhavsmuseet i Stockholm stängs. – Vi bedömer att det är den mest långsiktigt hållbara lösningen, säger Britta Söderqvist, överintendent för Världskulturmuseerna.",
+      "link": "https://www.dn.se/kultur/ny-utredning-foreslar-att-ostasiatiska-och-medelhavsmuseet-ska-stangas/",
+      "date_display": "2026-10-01",
+      "date_iso": "2026-10-01T14:31:10+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 4,
+      "title": "Sjukstuga i landslaget – kan Potter trolla med knäna?",
+      "summary": "Kan Potter trolla med knäna?",
+      "title_original": "Sjukstuga i landslaget – kan Potter trolla med knäna?",
+      "summary_original": "Kan Potter trolla med knäna?",
+      "link": "https://www.svd.se/a/VglaLW/sjukstuga-i-landslaget-kan-potter-trolla-med-knana-mot-bosnien-och-hercegovina?utm_medium=rss",
+      "date_display": "2026-10-01",
+      "date_iso": "2026-10-01T14:28:53+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -34,22 +49,50 @@
       "tags": []
     },
     {
-      "id": 2,
-      "title": "”Är detta strandkorgen som sänker CDU?”",
-      "summary": "Friedrich Merz kämpar sitt livs strid efter historiska valförluster. Nu kokar det av kritik mot hans…",
-      "title_original": "”Är detta strandkorgen som sänker CDU?”",
-      "summary_original": "Friedrich Merz kämpar sitt livs strid efter historiska valförluster. Nu kokar det av kritik mot hans…",
-      "link": "https://www.svd.se/a/d4yr2w/ar-detta-strandkorgen-som-sanker-cdu?utm_medium=rss",
-      "date_display": "2026-09-29",
-      "date_iso": "2026-09-29T14:06:19+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
+      "id": 162,
+      "title": "Sweden to provide Gripen fighter jets for NATO operation in Poland",
+      "summary": "As of October, Sweden will support the defence of NATO’s eastern flank in Poland with fighter jets. As part of the NATO operation, the fighter jets will contribute to NATO’s Integrated Air and Missile Defence and provide protection and security for military and civil support to Ukraine.",
+      "title_original": "Sweden to provide Gripen fighter jets for NATO operation in Poland",
+      "summary_original": "As of October, Sweden will support the defence of NATO’s eastern flank in Poland with fighter jets. As part of the NATO operation, the fighter jets will contribute to NATO’s Integrated Air and Missile Defence and provide protection and security for military and civil support to Ukraine.",
+      "link": "https://www.government.se/press-releases/2026/09/sweden-to-provide-combat-aircraft-for-nato-operation-in-poland/",
+      "date_display": "2026-09-30",
+      "date_iso": "2026-09-30T12:16:50+00:00",
+      "source": "Government.se",
+      "ministry": "Prime Minister's Office",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "International",
+        "Prime Minister's Office",
+        "Ministry of Defence",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "Sweden's support to Ukraine",
+        "NATO",
+        "Maria Malmer Stenergard",
+        "Pål Jonson",
+        "Ulf Kristersson",
+        "Military defence"
+      ]
+    },
+    {
+      "id": 167,
+      "title": "Protokoll från det penningpolitiska mötet den 23 september 2026",
+      "summary": "Protokoll från det penningpolitiska mötet den 23 september 2026",
+      "title_original": "Protokoll från det penningpolitiska mötet den 23 september 2026",
+      "summary_original": "Protokoll från det penningpolitiska mötet den 23 september 2026",
+      "link": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/protokoll-fran-det-penningpolitiska-motet-den-23-september-2026/",
+      "date_display": "2026-09-30",
+      "date_iso": "2026-09-30T07:30:28+00:00",
+      "source": "Riksbanken",
+      "ministry": "Central Bank",
+      "type": "Official Information",
+      "age_tag": "1 day old",
       "tags": []
     },
     {
-      "id": 151,
+      "id": 182,
       "title": "Speech by Minister for Foreign Affairs Maria Malmer Stenergard at UNGA81",
       "summary": "Speech by Swedish Minister for Foreign Affairs Maria Malmer Stenergard at the 81st Session of the UN General Assembly. 25 September 2026, New York. \nCheck against delivery.",
       "title_original": "Speech by Minister for Foreign Affairs Maria Malmer Stenergard at UNGA81",
@@ -60,7 +103,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Speech",
         "International",
@@ -71,7 +114,7 @@
       ]
     },
     {
-      "id": 180,
+      "id": 183,
       "title": "Minister for Migration Johan Forssell attends Munich Migration Meeting",
       "summary": "European migration ministers are gathering at the Munich Migration Meeting to discuss continued measures to reduce irregular migration to Europe, as well as the implementation of the EU’s Pact on Migration and Asylum.",
       "title_original": "Minister for Migration Johan Forssell attends Munich Migration Meeting",
@@ -82,7 +125,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Justice",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "EU",
@@ -93,7 +136,7 @@
       ]
     },
     {
-      "id": 181,
+      "id": 184,
       "title": "Sweden’s strategy for a peaceful, secure and sustainable Arctic",
       "summary": "The overarching and long-term objective of Sweden’s Arctic policy is a peaceful and secure Arctic, with sustainable, robust and attractive communities and reduced environmental and climate impact.",
       "title_original": "Sweden’s strategy for a peaceful, secure and sustainable Arctic",
@@ -104,7 +147,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Information material",
         "International",
@@ -114,7 +157,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 185,
       "title": "Speech by Minister for Foreign Affairs Maria Malmer Stenergard",
       "summary": "Speech by Minister for Foreign Affairs Maria Malmer Stenergard at an event hosted by Sweden and UN Women: Women's Economic Empowerment – Partnering for Progress. \n\n24 September, New York.\n\nCheck against delivery.",
       "title_original": "Speech by Minister for Foreign Affairs Maria Malmer Stenergard",
@@ -125,7 +168,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "6 days old",
       "tags": [
         "Speech",
         "International",
@@ -137,7 +180,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 186,
       "title": "The policy rate remains unchanged at 1.75 percent",
       "summary": "Direktionen har beslutat att lämna styrräntan oförändrad på 1,75 procent. Men konjunkturen är starkare och utbudsstörningarna fortsätter. Därför bedömer direktionen att styrräntan bör höjas mer framöver än i juniprognosen för att inflationen ska stabiliseras kring 2 procent. Om inflations- och konjunkturutsikterna står sig väntas höjningarna av räntan inledas i år.",
       "title_original": "Styrräntan oförändrad på 1,75 procent",
@@ -148,11 +191,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": []
     },
     {
-      "id": 184,
+      "id": 187,
       "title": "Strategy for Sweden’s development cooperation with Cuba 2026–2031",
       "summary": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
       "title_original": "Strategy for Sweden’s development cooperation with Cuba 2026–2031",
@@ -163,70 +206,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "6 days old",
-      "tags": [
-        "International",
-        "Ministry for Foreign Affairs",
-        "International development cooperation",
-        "International development cooperation strategies",
-        "The reform agenda - Development assistance for a n"
-      ]
-    },
-    {
-      "id": 185,
-      "title": "Strategy for Sweden’s regional development cooperation with Latin America and the Caribbean 2026–2031",
-      "summary": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
-      "title_original": "Strategy for Sweden’s regional development cooperation with Latin America and the Caribbean 2026–2031",
-      "summary_original": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
-      "link": "https://www.government.se/international-development-cooperation-strategies/2026/09/strategy-for-swedens-regional-development-cooperation-with-latin-america-and-the-caribbean-2026-2031/",
-      "date_display": "2026-09-23",
-      "date_iso": "2026-09-23T08:16:37+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "6 days old",
-      "tags": [
-        "International",
-        "Ministry for Foreign Affairs",
-        "International development cooperation",
-        "International development cooperation strategies",
-        "The reform agenda - Development assistance for a n"
-      ]
-    },
-    {
-      "id": 186,
-      "title": "Strategy for Sweden’s development cooperation with Guatemala 2026–2031",
-      "summary": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
-      "title_original": "Strategy for Sweden’s development cooperation with Guatemala 2026–2031",
-      "summary_original": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
-      "link": "https://www.government.se/international-development-cooperation-strategies/2026/09/strategy-for-swedens-development-cooperation-with-guatemala-20262031/",
-      "date_display": "2026-09-23",
-      "date_iso": "2026-09-23T08:10:26+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "6 days old",
-      "tags": [
-        "International",
-        "Ministry for Foreign Affairs",
-        "International development cooperation",
-        "International development cooperation strategies",
-        "The reform agenda - Development assistance for a n"
-      ]
-    },
-    {
-      "id": 187,
-      "title": "Strategy for Sweden’s development cooperation with Colombia 2026–2031",
-      "summary": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
-      "title_original": "Strategy for Sweden’s development cooperation with Colombia 2026–2031",
-      "summary_original": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
-      "link": "https://www.government.se/international-development-cooperation-strategies/2026/09/strategy-for-swedens-development-cooperation-with-colombia-20262031/",
-      "date_display": "2026-09-23",
-      "date_iso": "2026-09-23T08:07:25+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -237,17 +217,17 @@
     },
     {
       "id": 188,
-      "title": "Strategy for Sweden’s development cooperation with Bangladesh 2026–2031",
+      "title": "Strategy for Sweden’s regional development cooperation with Latin America and the Caribbean 2026–2031",
       "summary": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
-      "title_original": "Strategy for Sweden’s development cooperation with Bangladesh 2026–2031",
+      "title_original": "Strategy for Sweden’s regional development cooperation with Latin America and the Caribbean 2026–2031",
       "summary_original": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
-      "link": "https://www.government.se/international-development-cooperation-strategies/2026/09/strategy-for-swedens-development-cooperation-with-bangladesh-20262031/",
+      "link": "https://www.government.se/international-development-cooperation-strategies/2026/09/strategy-for-swedens-regional-development-cooperation-with-latin-america-and-the-caribbean-2026-2031/",
       "date_display": "2026-09-23",
-      "date_iso": "2026-09-23T08:02:36+00:00",
+      "date_iso": "2026-09-23T08:16:37+00:00",
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -258,6 +238,69 @@
     },
     {
       "id": 189,
+      "title": "Strategy for Sweden’s development cooperation with Guatemala 2026–2031",
+      "summary": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
+      "title_original": "Strategy for Sweden’s development cooperation with Guatemala 2026–2031",
+      "summary_original": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
+      "link": "https://www.government.se/international-development-cooperation-strategies/2026/09/strategy-for-swedens-development-cooperation-with-guatemala-20262031/",
+      "date_display": "2026-09-23",
+      "date_iso": "2026-09-23T08:10:26+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "8 days old",
+      "tags": [
+        "International",
+        "Ministry for Foreign Affairs",
+        "International development cooperation",
+        "International development cooperation strategies",
+        "The reform agenda - Development assistance for a n"
+      ]
+    },
+    {
+      "id": 190,
+      "title": "Strategy for Sweden’s development cooperation with Colombia 2026–2031",
+      "summary": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
+      "title_original": "Strategy for Sweden’s development cooperation with Colombia 2026–2031",
+      "summary_original": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
+      "link": "https://www.government.se/international-development-cooperation-strategies/2026/09/strategy-for-swedens-development-cooperation-with-colombia-20262031/",
+      "date_display": "2026-09-23",
+      "date_iso": "2026-09-23T08:07:25+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "8 days old",
+      "tags": [
+        "International",
+        "Ministry for Foreign Affairs",
+        "International development cooperation",
+        "International development cooperation strategies",
+        "The reform agenda - Development assistance for a n"
+      ]
+    },
+    {
+      "id": 191,
+      "title": "Strategy for Sweden’s development cooperation with Bangladesh 2026–2031",
+      "summary": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
+      "title_original": "Strategy for Sweden’s development cooperation with Bangladesh 2026–2031",
+      "summary_original": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
+      "link": "https://www.government.se/international-development-cooperation-strategies/2026/09/strategy-for-swedens-development-cooperation-with-bangladesh-20262031/",
+      "date_display": "2026-09-23",
+      "date_iso": "2026-09-23T08:02:36+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "8 days old",
+      "tags": [
+        "International",
+        "Ministry for Foreign Affairs",
+        "International development cooperation",
+        "International development cooperation strategies",
+        "The reform agenda - Development assistance for a n"
+      ]
+    },
+    {
+      "id": 192,
       "title": "Government to attend opening session of UN General Assembly in New York",
       "summary": "On 22–28 September, the opening of the 81st Session of the UN General Assembly will be marked at the UN Headquarters in New York. The high-level General Debate and several high-level meetings will be held in conjunction with the opening session. The Government will be represented by Minister for Foreign Affairs Maria Malmer Stenergard and Minister for Social Affairs and Public Health Jakob Forssmed. Ms Malmer Stenergard is leading Sweden’s delegation.",
       "title_original": "Government to attend opening session of UN General Assembly in New York",
@@ -268,7 +311,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "International",
@@ -287,7 +330,7 @@
       ]
     },
     {
-      "id": 190,
+      "id": 193,
       "title": "State Visit from Singapore",
       "summary": "On 19–21 October 2026, President Tharman Shanmugaratnam of the Republic of Singapore will pay a State Visit to Sweden at the invitation of His Majesty The King. President Tharman will be accompanied by his wife, Mrs Jane Ittogi Shanmugaratnam, and representatives of the Singaporean Government and business sector.",
       "title_original": "State Visit from Singapore",
@@ -298,7 +341,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "Press release",
         "International",
@@ -306,21 +349,6 @@
         "Foreign and security policy",
         "State visits"
       ]
-    },
-    {
-      "id": 191,
-      "title": "Riksbankens företagsundersökning: ”Det fanns en oro inför sommaren men så vände det”",
-      "summary": "Konjunkturläget har förbättrats sedan i våras och för första gången sedan september 2022 är de svenska storföretagens bedömning av läget nu över sitt historiska snitt. Före sommaren befarade man att kriget i Mellanöstern skulle försena återhämtningen, men den oron har inte infriats. Efterfrågan har stärkts och kostnadsökningarna från kriget anses vara hanterbara. Det gör att företagen ser ljusare på utvecklingen framåt. Det visar Riksbankens företagsundersökning i augusti.",
-      "title_original": "Riksbankens företagsundersökning: ”Det fanns en oro inför sommaren men så vände det”",
-      "summary_original": "Konjunkturläget har förbättrats sedan i våras och för första gången sedan september 2022 är de svenska storföretagens bedömning av läget nu över sitt historiska snitt. Före sommaren befarade man att kriget i Mellanöstern skulle försena återhämtningen, men den oron har inte infriats. Efterfrågan har stärkts och kostnadsökningarna från kriget anses vara hanterbara. Det gör att företagen ser ljusare på utvecklingen framåt. Det visar Riksbankens företagsundersökning i augusti.",
-      "link": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/riksbankens-foretagsundersokning--det-fanns-en-oro-infor-sommaren-men-sa-vande-det/",
-      "date_display": "2026-09-16",
-      "date_iso": "2026-09-16T07:30:55+00:00",
-      "source": "Riksbanken",
-      "ministry": "Central Bank",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": []
     }
   ]
 }
