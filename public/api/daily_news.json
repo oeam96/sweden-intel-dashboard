@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-09T16:36:33.270805+02:00",
-  "date": "2026-10-09",
-  "item_count": 12,
+  "generated_at": "2026-10-11T16:21:43.084059+02:00",
+  "date": "2026-10-11",
+  "item_count": 9,
   "items": [
     {
-      "id": 1,
-      "title": "”Stora brister i prognos från Kriminalvården”",
-      "summary": "Svenskarnas trygghet kan inte bygga på gissningar. Varken myndigheterna eller akademin har tagit…",
-      "title_original": "”Stora brister i prognos från Kriminalvården”",
-      "summary_original": "Svenskarnas trygghet kan inte bygga på gissningar. Varken myndigheterna eller akademin har tagit…",
-      "link": "https://www.svd.se/a/p11L8R/kriminaliteten-stora-brister-i-prognos-fran-kriminalvarden-skriver-adam-danieli?utm_medium=rss",
-      "date_display": "2026-10-09",
-      "date_iso": "2026-10-09T14:30:00+00:00",
+      "id": 2,
+      "title": "Nya smällar i Riyad",
+      "summary": "",
+      "title_original": "Nya smällar i Riyad",
+      "summary_original": "",
+      "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=78637&utm_medium=rss",
+      "date_display": "2026-10-11",
+      "date_iso": "2026-10-11T14:16:10+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -20,13 +20,13 @@
     },
     {
       "id": 5,
-      "title": "Israelisk general: Netanyahus stab försökte förfalska krigsprotokollet",
-      "summary": "Benjamin Netanyahus medarbetare försökte ändra och redigera i protokoll och källmaterial efter Hamas terrorattack den 7 oktober 2023. Detta för att ställa premiärministerns insats den ödesdigra morgonen i mer fördelaktigt ljus.",
-      "title_original": "Israelisk general: Netanyahus stab försökte förfalska krigsprotokollet",
-      "summary_original": "Benjamin Netanyahus medarbetare försökte ändra och redigera i protokoll och källmaterial efter Hamas terrorattack den 7 oktober 2023. Detta för att ställa premiärministerns insats den ödesdigra morgonen i mer fördelaktigt ljus.",
-      "link": "https://www.dn.se/varlden/israelisk-general-netanyahus-stab-forsokte-forfalska-krigsprotokollet/",
-      "date_display": "2026-10-09",
-      "date_iso": "2026-10-09T14:24:34+00:00",
+      "title": "Djurgården segrare i derbyt – Hegland matchhjälte mot Hammarby",
+      "summary": "Det har varit år av besvikelser och kryss. Men nu bröt Djurgården till slut den långa derbyförbannelsen och vann över Hammarby med 1–0. Ett resultat som också nog också gillas i Uppsala – då Sirius serieledning blir allt mer ointaglig.",
+      "title_original": "Djurgården segrare i derbyt – Hegland matchhjälte mot Hammarby",
+      "summary_original": "Det har varit år av besvikelser och kryss. Men nu bröt Djurgården till slut den långa derbyförbannelsen och vann över Hammarby med 1–0. Ett resultat som också nog också gillas i Uppsala – då Sirius serieledning blir allt mer ointaglig.",
+      "link": "https://www.dn.se/sport/djurgarden-segrare-i-derbyt-hegland-matchhjalte-mot-hammarby/",
+      "date_display": "2026-10-11",
+      "date_iso": "2026-10-11T14:10:32+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -34,14 +34,14 @@
       "tags": []
     },
     {
-      "id": 6,
-      "title": "Uppgift: USA inför nya sanktioner mot ICC",
-      "summary": "USA kommer att införa nya sanktioner mot Internationella brottmålsdomstolen (ICC), rapporterar…",
-      "title_original": "Uppgift: USA inför nya sanktioner mot ICC",
-      "summary_original": "USA kommer att införa nya sanktioner mot Internationella brottmålsdomstolen (ICC), rapporterar…",
-      "link": "https://www.svd.se/a/n99KEx/uppgift-usa-infor-nya-sanktioner-mot-icc?utm_medium=rss",
-      "date_display": "2026-10-09",
-      "date_iso": "2026-10-09T14:23:09+00:00",
+      "id": 8,
+      "title": "V: Missförstånd om Alis närvaro",
+      "summary": "",
+      "title_original": "V: Missförstånd om Alis närvaro",
+      "summary_original": "",
+      "link": "https://www.svd.se/a/0p33lG?pinnedEntry=78636&utm_medium=rss",
+      "date_display": "2026-10-11",
+      "date_iso": "2026-10-11T14:05:23+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -49,7 +49,7 @@
       "tags": []
     },
     {
-      "id": 117,
+      "id": 168,
       "title": "Sweden participates in Steadfast Noon",
       "summary": "NATO’s annual exercise Steadfast Noon begins on October 13. Sweden is participating in the exercise with fighter aircraft (JAS 39 Gripen) and personnel from the Swedish Armed Forces.",
       "title_original": "Sweden participates in Steadfast Noon",
@@ -60,7 +60,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "Press release",
         "International",
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "id": 160,
+      "id": 179,
       "title": "Möjligheten att lösa in ogiltiga sedlar upphör 1 juli 2027",
       "summary": "Har du gamla ogiltiga sedlar hemma? Från och med den 1 juli 2027 kommer Riksbanken inte längre att lösa in sedlar som har varit ogiltiga i mer än tio år.",
       "title_original": "Möjligheten att lösa in ogiltiga sedlar upphör 1 juli 2027",
@@ -86,11 +86,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": []
     },
     {
-      "id": 180,
+      "id": 182,
       "title": "Swedish air defence unit to NATO operations in Poland",
       "summary": "From December, Sweden intends to provide an air defence unit for the protection of NATO’s logistics hub in Poland used for military and civilian support to Ukraine.",
       "title_original": "Swedish air defence unit to NATO operations in Poland",
@@ -101,7 +101,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "International",
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 183,
       "title": "Sweden to provide Gripen fighter jets for NATO operation in Poland",
       "summary": "As of October, Sweden will support the defence of NATO’s eastern flank in Poland with fighter jets. As part of the NATO operation, the fighter jets will contribute to NATO’s Integrated Air and Missile Defence and provide protection and security for military and civil support to Ukraine.",
       "title_original": "Sweden to provide Gripen fighter jets for NATO operation in Poland",
@@ -130,7 +130,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "International",
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 184,
       "title": "Protokoll från det penningpolitiska mötet den 23 september 2026",
       "summary": "Protokoll från det penningpolitiska mötet den 23 september 2026",
       "title_original": "Protokoll från det penningpolitiska mötet den 23 september 2026",
@@ -158,11 +158,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": []
     },
     {
-      "id": 184,
+      "id": 185,
       "title": "Speech by Minister for Foreign Affairs Maria Malmer Stenergard at UNGA81",
       "summary": "Speech by Swedish Minister for Foreign Affairs Maria Malmer Stenergard at the 81st Session of the UN General Assembly. 25 September 2026, New York. \nCheck against delivery.",
       "title_original": "Speech by Minister for Foreign Affairs Maria Malmer Stenergard at UNGA81",
@@ -173,77 +173,11 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "11 days old",
-      "tags": [
-        "Speech",
-        "International",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Maria Malmer Stenergard",
-        "Sweden in the UN"
-      ]
-    },
-    {
-      "id": 185,
-      "title": "Minister for Migration Johan Forssell attends Munich Migration Meeting",
-      "summary": "European migration ministers are gathering at the Munich Migration Meeting to discuss continued measures to reduce irregular migration to Europe, as well as the implementation of the EU’s Pact on Migration and Asylum.",
-      "title_original": "Minister for Migration Johan Forssell attends Munich Migration Meeting",
-      "summary_original": "European migration ministers are gathering at the Munich Migration Meeting to discuss continued measures to reduce irregular migration to Europe, as well as the implementation of the EU’s Pact on Migration and Asylum.",
-      "link": "https://www.government.se/press-releases/2026/09/minister-for-migration-johan-forssell-attends-munich-migration-meeting/",
-      "date_display": "2026-09-26",
-      "date_iso": "2026-09-26T12:30:14+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Justice",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "EU",
-        "Ministry of Justice",
-        "Migration and asylum",
-        "Johan Forssell",
-        "Strengthen Sweden’s security"
-      ]
-    },
-    {
-      "id": 186,
-      "title": "Sweden’s strategy for a peaceful, secure and sustainable Arctic",
-      "summary": "The overarching and long-term objective of Sweden’s Arctic policy is a peaceful and secure Arctic, with sustainable, robust and attractive communities and reduced environmental and climate impact.",
-      "title_original": "Sweden’s strategy for a peaceful, secure and sustainable Arctic",
-      "summary_original": "The overarching and long-term objective of Sweden’s Arctic policy is a peaceful and secure Arctic, with sustainable, robust and attractive communities and reduced environmental and climate impact.",
-      "link": "https://www.government.se/information-material/2026/09/swedens-strategy-for-a-peaceful-secure-and-sustainable-arctic/",
-      "date_display": "2026-09-25",
-      "date_iso": "2026-09-25T15:03:38+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Information material",
-        "International",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Maria Malmer Stenergard"
-      ]
-    },
-    {
-      "id": 187,
-      "title": "Speech by Minister for Foreign Affairs Maria Malmer Stenergard",
-      "summary": "Speech by Minister for Foreign Affairs Maria Malmer Stenergard at an event hosted by Sweden and UN Women: Women's Economic Empowerment – Partnering for Progress. \n\n24 September, New York.\n\nCheck against delivery.",
-      "title_original": "Speech by Minister for Foreign Affairs Maria Malmer Stenergard",
-      "summary_original": "Speech by Minister for Foreign Affairs Maria Malmer Stenergard at an event hosted by Sweden and UN Women: Women's Economic Empowerment – Partnering for Progress. \n\n24 September, New York.\n\nCheck against delivery.",
-      "link": "https://www.government.se/speeches/2026/09/speech-by-minister-for-foreign-affairs-maria-malmer-stenergard/",
-      "date_display": "2026-09-25",
-      "date_iso": "2026-09-25T14:36:54+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
       "age_tag": "13 days old",
       "tags": [
         "Speech",
         "International",
         "Ministry for Foreign Affairs",
-        "Gender equality",
         "Foreign and security policy",
         "Maria Malmer Stenergard",
         "Sweden in the UN"
