@@ -1,17 +1,32 @@
 {
-  "generated_at": "2026-10-13T17:16:21.563621+02:00",
-  "date": "2026-10-13",
-  "item_count": 10,
+  "generated_at": "2026-10-15T14:50:58.002639+02:00",
+  "date": "2026-10-15",
+  "item_count": 8,
   "items": [
     {
-      "id": 0,
-      "title": "Sverige kan ha gett upp för tidigt",
-      "summary": "Kalkylen sprack och kunderna svek. Sverige pausade utvecklingen av det nya gröna bränslet.",
-      "title_original": "Sverige kan ha gett upp för tidigt",
-      "summary_original": "Kalkylen sprack och kunderna svek. Sverige pausade utvecklingen av det nya gröna bränslet.",
-      "link": "https://www.svd.se/a/JrrBjJ/kina-gasar-fram-i-den-grona-omstallningen-har-europa-gjort-dyrt-misstag?utm_medium=rss",
-      "date_display": "2026-10-13",
-      "date_iso": "2026-10-13T15:10:12+00:00",
+      "id": 1,
+      "title": "Hon tvingades till förnedringsritual",
+      "summary": "Valets stora förlorare fick förödmjuka sig för att föra regeringsprocessen framåt.",
+      "title_original": "Hon tvingades till förnedringsritual",
+      "summary_original": "Valets stora förlorare fick förödmjuka sig för att föra regeringsprocessen framåt.",
+      "link": "https://www.svd.se/a/58wjoz/torehammar-andersson-tvingades-till-fornedringsritual?utm_medium=rss",
+      "date_display": "2026-10-15",
+      "date_iso": "2026-10-15T12:44:15+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 2,
+      "title": "Listan: Utbildningarna som ger jobb",
+      "summary": "En apotekare har lättare att etablera sig på arbetsmarknaden än en trädgårdsingenjör.",
+      "title_original": "Listan: Utbildningarna som ger jobb",
+      "summary_original": "En apotekare har lättare att etablera sig på arbetsmarknaden än en trädgårdsingenjör.",
+      "link": "https://www.svd.se/a/mKKL7p/listan-har-ar-utbildningarna-som-ger-jobb?utm_medium=rss",
+      "date_display": "2026-10-15",
+      "date_iso": "2026-10-15T12:40:13+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -20,28 +35,13 @@
     },
     {
       "id": 3,
-      "title": "Insändare. Noterat av DN:s läsare den 13 oktober",
-      "summary": "INSÄNDARE. Dagens Nyheters läsare ger sin syn på läget i Sverige och världen samt DN:s innehåll tisdagen den 12 oktober.",
-      "title_original": "Insändare. Noterat av DN:s läsare den 13 oktober",
-      "summary_original": "INSÄNDARE. Dagens Nyheters läsare ger sin syn på läget i Sverige och världen samt DN:s innehåll tisdagen den 12 oktober.",
-      "link": "https://www.dn.se/insandare/noterat-av-dns-lasare-den-13-oktober-3/",
-      "date_display": "2026-10-13",
-      "date_iso": "2026-10-13T15:03:27+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 4,
-      "title": "Statyn skulle visa mördarens rasism",
-      "summary": "Det antirasistiska monumentet ”Master narratives” har nu invigts i Malmö.",
-      "title_original": "Statyn skulle visa mördarens rasism",
-      "summary_original": "Det antirasistiska monumentet ”Master narratives” har nu invigts i Malmö.",
-      "link": "https://www.svd.se/a/d7GLlA/antirasistiska-monumentet-master-narratives-i-malmo-visar-pa-vikten-av-att-synliggora-det-samhallet-missar?utm_medium=rss",
-      "date_display": "2026-10-13",
-      "date_iso": "2026-10-13T15:00:00+00:00",
+      "title": "Kris i Texas när Trumps man fastnar i ny härva",
+      "summary": "Vilket parti som tar makten i senaten kan avgöras i vanligtvis konservativa Texas.",
+      "title_original": "Kris i Texas när Trumps man fastnar i ny härva",
+      "summary_original": "Vilket parti som tar makten i senaten kan avgöras i vanligtvis konservativa Texas.",
+      "link": "https://www.svd.se/a/vl8vVX/kris-i-texas-nar-trumps-man-fastnar-i-ny-harva?utm_medium=rss",
+      "date_display": "2026-10-15",
+      "date_iso": "2026-10-15T12:39:35+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -49,7 +49,7 @@
       "tags": []
     },
     {
-      "id": 149,
+      "id": 175,
       "title": "Joint Statement from Foreign Ministers regarding RAF Fairford and Iran State Threats",
       "summary": "The Foreign Ministers of Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, the United Kingdom and the United States condemn in the strongest terms Iran’s use of violent attacks, including the acts of lethal plotting, arson, sabotage, cyber-attacks, and other hybrid activities against us and our partners.",
       "title_original": "Joint Statement from Foreign Ministers regarding RAF Fairford and Iran State Threats",
@@ -60,7 +60,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "id": 158,
+      "id": 177,
       "title": "Minister for Foreign Affairs takes part in EU Foreign Affairs Council",
       "summary": "Minister for Foreign Affairs Maria Malmer Stenergard is attending today’s EU Foreign Affairs Council in Luxembourg. Security aspects of EU enlargement, Russia’s aggression against Ukraine and the situation in the Middle East are on the agenda.",
       "title_original": "Minister for Foreign Affairs takes part in EU Foreign Affairs Council",
@@ -81,7 +81,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "Press release",
         "EU",
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "id": 181,
+      "id": 180,
       "title": "Sweden participates in Steadfast Noon",
       "summary": "NATO’s annual exercise Steadfast Noon begins on October 13. Sweden is participating in the exercise with fighter aircraft (JAS 39 Gripen) and personnel from the Swedish Armed Forces.",
       "title_original": "Sweden participates in Steadfast Noon",
@@ -102,7 +102,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": [
         "Press release",
         "International",
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 181,
       "title": "Möjligheten att lösa in ogiltiga sedlar upphör 1 juli 2027",
       "summary": "Har du gamla ogiltiga sedlar hemma? Från och med den 1 juli 2027 kommer Riksbanken inte längre att lösa in sedlar som har varit ogiltiga i mer än tio år.",
       "title_original": "Möjligheten att lösa in ogiltiga sedlar upphör 1 juli 2027",
@@ -128,11 +128,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": []
     },
     {
-      "id": 183,
+      "id": 182,
       "title": "Swedish air defence unit to NATO operations in Poland",
       "summary": "From December, Sweden intends to provide an air defence unit for the protection of NATO’s logistics hub in Poland used for military and civilian support to Ukraine.",
       "title_original": "Swedish air defence unit to NATO operations in Poland",
@@ -143,7 +143,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "International",
@@ -159,49 +159,6 @@
         "Military defence",
         "Total defence"
       ]
-    },
-    {
-      "id": 184,
-      "title": "Sweden to provide Gripen fighter jets for NATO operation in Poland",
-      "summary": "As of October, Sweden will support the defence of NATO’s eastern flank in Poland with fighter jets. As part of the NATO operation, the fighter jets will contribute to NATO’s Integrated Air and Missile Defence and provide protection and security for military and civil support to Ukraine.",
-      "title_original": "Sweden to provide Gripen fighter jets for NATO operation in Poland",
-      "summary_original": "As of October, Sweden will support the defence of NATO’s eastern flank in Poland with fighter jets. As part of the NATO operation, the fighter jets will contribute to NATO’s Integrated Air and Missile Defence and provide protection and security for military and civil support to Ukraine.",
-      "link": "https://www.government.se/press-releases/2026/09/sweden-to-provide-combat-aircraft-for-nato-operation-in-poland/",
-      "date_display": "2026-09-30",
-      "date_iso": "2026-09-30T12:16:50+00:00",
-      "source": "Government.se",
-      "ministry": "Prime Minister's Office",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Prime Minister's Office",
-        "Ministry of Defence",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Sweden's support to Ukraine",
-        "NATO",
-        "Maria Malmer Stenergard",
-        "Pål Jonson",
-        "Ulf Kristersson",
-        "Military defence"
-      ]
-    },
-    {
-      "id": 185,
-      "title": "Protokoll från det penningpolitiska mötet den 23 september 2026",
-      "summary": "Protokoll från det penningpolitiska mötet den 23 september 2026",
-      "title_original": "Protokoll från det penningpolitiska mötet den 23 september 2026",
-      "summary_original": "Protokoll från det penningpolitiska mötet den 23 september 2026",
-      "link": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/protokoll-fran-det-penningpolitiska-motet-den-23-september-2026/",
-      "date_display": "2026-09-30",
-      "date_iso": "2026-09-30T07:30:28+00:00",
-      "source": "Riksbanken",
-      "ministry": "Central Bank",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": []
     }
   ]
 }
