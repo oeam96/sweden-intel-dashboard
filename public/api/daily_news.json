@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-21T15:16:05.268181+02:00",
-  "date": "2026-10-21",
+  "generated_at": "2026-10-23T14:51:13.957865+02:00",
+  "date": "2026-10-23",
   "item_count": 11,
   "items": [
     {
       "id": 1,
-      "title": "Polisens nya lista – 72 barn och unga som vill ta uppdrag åt gängen",
-      "summary": "Polisen varnar för en ny rekryteringsväg in i den organiserade brottsligheten: Via nätet lockas unga att ta uppdrag i bedrägerier. Nu har Nationella operativa avdelningen identifierat över 72 unga som misstänks ha nappat på gängens erbjudanden. – Det vänder snabbt från löften om stora pengar till hot, säger Noa-chefen Johan Olsson.",
-      "title_original": "Polisens nya lista – 72 barn och unga som vill ta uppdrag åt gängen",
-      "summary_original": "Polisen varnar för en ny rekryteringsväg in i den organiserade brottsligheten: Via nätet lockas unga att ta uppdrag i bedrägerier. Nu har Nationella operativa avdelningen identifierat över 72 unga som misstänks ha nappat på gängens erbjudanden. – Det vänder snabbt från löften om stora pengar till hot, säger Noa-chefen Johan Olsson.",
-      "link": "https://www.dn.se/ekonomi/polisens-nya-lista-72-barn-och-unga-som-vill-ta-uppdrag-at-gangen/",
-      "date_display": "2026-10-21",
-      "date_iso": "2026-10-21T13:05:50+00:00",
-      "source": "Dagens Nyheter (DN)",
+      "title": "Jag hade fel – jag vill avpublicera",
+      "summary": "Vi har skapat en tillvaro som går ut på att till varje pris undvika andra människor.",
+      "title_original": "Jag hade fel – jag vill avpublicera",
+      "summary_original": "Vi har skapat en tillvaro som går ut på att till varje pris undvika andra människor.",
+      "link": "https://www.svd.se/a/gdGOo9/hugo-rehnberg-helvetet-ar-att-inte-ha-jobbiga-manniskor-omkring-sig?utm_medium=rss",
+      "date_display": "2026-10-23",
+      "date_iso": "2026-10-23T12:45:50+00:00",
+      "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
@@ -20,13 +20,13 @@
     },
     {
       "id": 2,
-      "title": "Nya styret sänker skatten med fem öre",
-      "summary": "Skatten sänks med fem öre nästa år i region Stockholm. Det är en socialdemokratisk eftergift för att…",
-      "title_original": "Nya styret sänker skatten med fem öre",
-      "summary_original": "Skatten sänks med fem öre nästa år i region Stockholm. Det är en socialdemokratisk eftergift för att…",
-      "link": "https://www.svd.se/a/BMELpQ/nya-styret-sanker-skatten-med-fem-ore?utm_medium=rss",
-      "date_display": "2026-10-21",
-      "date_iso": "2026-10-21T13:02:31+00:00",
+      "title": "Drastiskt fall när Volvo Cars drar ned igen",
+      "summary": "Kraftig förlust och ett nytt sparpaket fick Volvo Cars aktie att rasa.",
+      "title_original": "Drastiskt fall när Volvo Cars drar ned igen",
+      "summary_original": "Kraftig förlust och ett nytt sparpaket fick Volvo Cars aktie att rasa.",
+      "link": "https://www.svd.se/a/kvVGkB/volvo-cars-foll-kraftigt-pa-borsen-efter-nytt-sparpaket-och-problem-med-nya-ex60?utm_medium=rss",
+      "date_display": "2026-10-23",
+      "date_iso": "2026-10-23T12:44:50+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -34,14 +34,14 @@
       "tags": []
     },
     {
-      "id": 5,
-      "title": "Solen ljusglimt i mörk rapport",
-      "summary": "Klimatforskare har vetat det länge. Nu säger FN samma sak. Ett av Parisavtalets viktigaste mål är…",
-      "title_original": "Solen ljusglimt i mörk rapport",
-      "summary_original": "Klimatforskare har vetat det länge. Nu säger FN samma sak. Ett av Parisavtalets viktigaste mål är…",
-      "link": "https://www.svd.se/a/El9WXa/sa-kan-solen-vanda-utvecklingen-nar-1-5-gradersmalet-ar-forlorat?utm_medium=rss",
-      "date_display": "2026-10-21",
-      "date_iso": "2026-10-21T12:56:48+00:00",
+      "id": 3,
+      "title": "Pårökt Dramatendebut av systrarna Romare",
+      "summary": "Kärlek är svårt, men värst är att bli kär i någon som hela tiden vill bli hög.",
+      "title_original": "Pårökt Dramatendebut av systrarna Romare",
+      "summary_original": "Kärlek är svårt, men värst är att bli kär i någon som hela tiden vill bli hög.",
+      "link": "https://www.svd.se/a/4OwPWG/parokt-dramatendebut-av-systrarna-romare?utm_medium=rss",
+      "date_display": "2026-10-23",
+      "date_iso": "2026-10-23T12:44:15+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -49,7 +49,49 @@
       "tags": []
     },
     {
-      "id": 125,
+      "id": 65,
+      "title": "Minister for Foreign Affairs visits Hungary",
+      "summary": "Minister for Foreign Affairs Maria Malmer Stenergard is visiting Budapest on 23 October. She is representing Sweden at the 70th anniversary commemoration of the Hungarian Revolution. In conjunction with the visit, Ms Malmer Stenergard is meeting with Hungary’s Minister of Foreign Affairs Anita Orbán.",
+      "title_original": "Minister for Foreign Affairs visits Hungary",
+      "summary_original": "Minister for Foreign Affairs Maria Malmer Stenergard is visiting Budapest on 23 October. She is representing Sweden at the 70th anniversary commemoration of the Hungarian Revolution. In conjunction with the visit, Ms Malmer Stenergard is meeting with Hungary’s Minister of Foreign Affairs Anita Orbán.",
+      "link": "https://www.government.se/press-releases/2026/10/minister-for-foreign-affairs-visits-hungary/",
+      "date_display": "2026-10-23",
+      "date_iso": "2026-10-23T10:06:40+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "today",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "Maria Malmer Stenergard"
+      ]
+    },
+    {
+      "id": 169,
+      "title": "Strategy for Sweden’s development cooperation with Somalia 2026–2028",
+      "summary": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
+      "title_original": "Strategy for Sweden’s development cooperation with Somalia 2026–2028",
+      "summary_original": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
+      "link": "https://www.government.se/international-development-cooperation-strategies/2026/10/strategy-for-swedens-development-cooperation-with-somalia-20262028/",
+      "date_display": "2026-10-21",
+      "date_iso": "2026-10-21T13:49:45+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "International",
+        "Ministry for Foreign Affairs",
+        "International development cooperation",
+        "International development cooperation strategies",
+        "The reform agenda - Development assistance for a n"
+      ]
+    },
+    {
+      "id": 172,
       "title": "Sweden supports Ukraine’s skills development initiative for social workers",
       "summary": "Children and vulnerable people in Ukraine are set to receive improved support following the Ukrainian Government’s launch of a national programme to enhance the expertise of social workers. The initiative will be implemented with support from Sweden and the United Nations Children’s Fund (UNICEF), and is partly inspired by Swedish models for professional skills development.",
       "title_original": "Sweden supports Ukraine’s skills development initiative for social workers",
@@ -60,7 +102,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Health and Social Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "International",
         "Ministry of Health and Social Affairs",
@@ -71,7 +113,7 @@
       ]
     },
     {
-      "id": 157,
+      "id": 182,
       "title": "Prime Minister receives President of Singapore",
       "summary": "On Monday 19 October, Prime Minister Ulf Kristersson received President of Singapore Tharman Shanmugaratnam for a meeting at Rosenbad. The meeting took place in conjunction with the President’s State Visit to Sweden at the invitation of His Majesty the King.",
       "title_original": "Prime Minister receives President of Singapore",
@@ -82,7 +124,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -97,7 +139,7 @@
       ]
     },
     {
-      "id": 171,
+      "id": 184,
       "title": "Sweden’s contribution to NATO’s deterrence and defence in 2027",
       "summary": "The Government has presented a government bill to the Riksdag with proposals on Sweden’s contribution to NATO’s collective deterrence and defence in 2027.",
       "title_original": "Sweden’s contribution to NATO’s deterrence and defence in 2027",
@@ -108,7 +150,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "International",
@@ -122,7 +164,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 185,
       "title": "Strategy for Sweden’s development cooperation with the Sudan 2026–2031",
       "summary": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
       "title_original": "Strategy for Sweden’s development cooperation with the Sudan 2026–2031",
@@ -133,7 +175,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -143,7 +185,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 186,
       "title": "Joint Statement from Foreign Ministers regarding RAF Fairford and Iran State Threats",
       "summary": "The Foreign Ministers of Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, the United Kingdom and the United States condemn in the strongest terms Iran’s use of violent attacks, including the acts of lethal plotting, arson, sabotage, cyber-attacks, and other hybrid activities against us and our partners.",
       "title_original": "Joint Statement from Foreign Ministers regarding RAF Fairford and Iran State Threats",
@@ -154,7 +196,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -164,7 +206,7 @@
       ]
     },
     {
-      "id": 184,
+      "id": 187,
       "title": "Minister for Foreign Affairs takes part in EU Foreign Affairs Council",
       "summary": "Minister for Foreign Affairs Maria Malmer Stenergard is attending today’s EU Foreign Affairs Council in Luxembourg. Security aspects of EU enlargement, Russia’s aggression against Ukraine and the situation in the Middle East are on the agenda.",
       "title_original": "Minister for Foreign Affairs takes part in EU Foreign Affairs Council",
@@ -175,7 +217,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "EU",
@@ -183,47 +225,6 @@
         "Foreign and security policy",
         "Maria Malmer Stenergard"
       ]
-    },
-    {
-      "id": 186,
-      "title": "Sweden participates in Steadfast Noon",
-      "summary": "NATO’s annual exercise Steadfast Noon begins on October 13. Sweden is participating in the exercise with fighter aircraft (JAS 39 Gripen) and personnel from the Swedish Armed Forces.",
-      "title_original": "Sweden participates in Steadfast Noon",
-      "summary_original": "NATO’s annual exercise Steadfast Noon begins on October 13. Sweden is participating in the exercise with fighter aircraft (JAS 39 Gripen) and personnel from the Swedish Armed Forces.",
-      "link": "https://www.government.se/press-releases/2026/10/sweden-participates-in-steadfast-noon/",
-      "date_display": "2026-10-09",
-      "date_iso": "2026-10-09T08:45:06+00:00",
-      "source": "Government.se",
-      "ministry": "Prime Minister's Office",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Prime Minister's Office",
-        "Ministry of Defence",
-        "Foreign and security policy",
-        "NATO",
-        "Pål Jonson",
-        "Ulf Kristersson",
-        "Military defence",
-        "International defence cooperation"
-      ]
-    },
-    {
-      "id": 187,
-      "title": "Möjligheten att lösa in ogiltiga sedlar upphör 1 juli 2027",
-      "summary": "Har du gamla ogiltiga sedlar hemma? Från och med den 1 juli 2027 kommer Riksbanken inte längre att lösa in sedlar som har varit ogiltiga i mer än tio år.",
-      "title_original": "Möjligheten att lösa in ogiltiga sedlar upphör 1 juli 2027",
-      "summary_original": "Har du gamla ogiltiga sedlar hemma? Från och med den 1 juli 2027 kommer Riksbanken inte längre att lösa in sedlar som har varit ogiltiga i mer än tio år.",
-      "link": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/mojligheten-att-losa-in-ogiltiga-sedlar-upphor-1-juli-2027/",
-      "date_display": "2026-10-08",
-      "date_iso": "2026-10-08T06:00:44+00:00",
-      "source": "Riksbanken",
-      "ministry": "Central Bank",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": []
     }
   ]
 }
