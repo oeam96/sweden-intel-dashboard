@@ -1,340 +1,880 @@
 # Sweden Intelligence Report
-Generated: 2026-10-31T14:51:15.983616+01:00
+Generated: 2026-11-01T15:29:13.676948+01:00
 Window: last 14 days
 
-## Ny förlust för Helsingborg
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/sport/hemmaplan/ny-forlust-for-helsingborg/)
-
----
-
-## Flera bränder – polisen utreder samband
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Flera bränder misstänks ha anlagts på Södermalm i Stockholm den senaste tiden.
-
-[Read Full Article](https://www.svd.se/a/642y4W/flera-brander-polisen-utreder-samband?utm_medium=rss)
-
----
-
-## Friskis & Svettis har öppnat i Hyllie – siktar på 2 000 nya medlemmar
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-På lördagen slog Friskis & Svettis upp dörrarna till sin nya anläggning i Hyllie. Med digitala maskiner, bastu och ett tillgängligt läge hoppas kedjan locka 2 000 medlemmar under det första året.
-
-[Read Full Article](https://www.sydsvenskan.se/malmo/friskis-och-svettis-har-oppnat-i-hyllie-siktar-pa-2-000-nya-medlemmar/)
-
----
-
-## Snart höjs priset på månadskortet – så undviker du fallgroparna
+## Gabrielsson (V): Tänker inte backa – dörren stängd
 **Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
+**Category:** General News | **Date:** 2026-11-01 (today)
 
-Snart höjs priset på månadskorten igen men reglerna ser olika ut i olika regioner. Så får du ut det mesta av rabatten – och undviker fallgroparna.
+Vänsterpartiet kommer inte att backa från kravet att sitta i en rödgrön regering, framhåller partiets vice ordförande Ida Gabrielsson på X.
 
-[Read Full Article](https://www.dn.se/sverige/snart-hojs-priset-pa-manadskortet-sa-undviker-du-fallgroparna/)
-
----
-
-## Är detta Höganäs inofficiella nationaldag? ”Det kan du tro!”
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Det finns traditioner som sitter djupare än andra. I Höganäs är Ryds marknad en sådan. För många är sista lördagen i oktober en helig dag i kalendern. Frågan är om det till och med kan kallas för Höganäs inofficiella nationaldag? HD sökte svar i vimlet.
-
-[Read Full Article](https://www.hd.se/hoganas/ar-detta-hoganas-inofficiella-nationaldag-det-kan-du-tro/)
+[Read Full Article](https://www.dn.se/sverige/gabrielsson-v-tanker-inte-backa-dorren-stangd/)
 
 ---
 
-## Kina satsar på att leverera lastbilar till Europa
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Elektrifieringen är i gång och de kinesiska tillverkarna har lastbilar redo att rulla ut i Europa – till betydligt lägre priser än konkurrenterna. Nu står slaget om verkstäderna. Servicenätet är västtillverkarnas främsta försvar – frågan är hur länge. – Vi är långsiktiga och bygger ett helt ekosystem, säger kinesiska BYD:s vice vd Stella Li.
-
-[Read Full Article](https://www.dn.se/motor/kina-satsar-pa-att-leverera-lastbilar-till-europa/)
-
----
-
-## ”Låt inte datacenter bli en svensk konfliktfråga”
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-I USA har datacenter blivit en politisk konfliktfråga och lokala protester stoppar etableringar.
-
-[Read Full Article](https://www.svd.se/a/gdq9Bk/pia-sandvik-sverige-behover-en-nationell-datacenterstrategi?utm_medium=rss)
-
----
-
-## Kyrkogårdar hotade – av larver: ”Sorgligt när det blir så här”
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Döda häckpartier och halvätna blad. När kyrkogården i Landskrona fylls för allhelgonahelg syns spåren efter en angripare. Här förs en tröstlös kamp mot buxbomsmottets larver.
-
-[Read Full Article](https://www.hd.se/landskrona/kyrkogardar-hotade-av-larver-sorgligt-nar-det-blir-sahar/)
-
----
-
-## Michael Winiarski: Polens kris kan gynna ultrahögern
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Domare som avsätts av regeringen. Kravallpolis och kaotiska scener framför författningsdomstolen i Warszawa. En president som med våld tränger sig igenom avspärrningarna och talar om ”statskupp”. Den långvariga maktkrisen i Polen har nu nått en farlig kulmen, men den är långt ifrån över.
-
-[Read Full Article](https://www.dn.se/varlden/michael-winiarski-polens-kris-kan-gynna-ultrahogern/)
-
----
-
-## Investerarna försvinner: ”Absolut svåraste tiden”
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Spelstudior går under och tusentals förlorar jobbet. Ändå förutspår branschlegendaren Tim Sweeney en…
-
-[Read Full Article](https://www.svd.se/a/gdlx80/spelgurun-tim-sweeney-tror-ai-oppnar-for-oandliga-spelvarldar-och-ny-guldalder-for-branschen?utm_medium=rss)
-
----
-
-## Efter tumultet: ”Risk för konstitutionell kris”
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Tumultet kring den polska domstolen kan leda till en konstitutionell kris – och har redan börjat…
-
-[Read Full Article](https://www.svd.se/a/n9zmLa/efter-tumultet-risk-for-konstitutionell-kris?utm_medium=rss)
-
----
-
-## Gunlaug, 69, först på unika boendet: ”Vi blir många i samma hus”
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Gunlaug Nielsen ser särskilt fram emot längre sovmorgnar och fin gemenskap när hon flyttar in på det första LSS-boendet för äldre i Malmö.  Målet är att sätta guldkant på tillvaron för äldre som lever med funktionsnedsättning.
-
-[Read Full Article](https://www.sydsvenskan.se/malmo/gunlaug-69-forst-pa-unika-boendet-vi-blir-manga-i-samma-hus/)
-
----
-
-## Natträd mot fartyg – kopplas till Ryssland
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Polisen har slagit till mot ett fraktfartyg vid Gotland under natten, rapporterar TV4. Fartygets rederi har tidigare varit föremål för utredningar av ryska hybridattacker, enligt uppgifter till kanalen.
-
-[Read Full Article](https://www.hd.se/sverige/nattrad-mot-fartyg-kopplas-till-ryssland/)
-
----
-
-## Natträd mot fartyg – kopplas till Ryssland
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Polisen har slagit till mot ett fraktfartyg vid Gotland under natten, rapporterar TV4. Fartygets rederi har tidigare varit föremål för utredningar av ryska hybridattacker, enligt uppgifter till kanalen.
-
-[Read Full Article](https://www.sydsvenskan.se/sverige/nattrad-mot-fartyg-kopplas-till-ryssland/)
-
----
-
-## Uppgifter: SD överväger att släppa ministerkrav
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Sverigedemokraterna överväger att släppa kravet på ministerposter, uppger källor för Aftonbladet.
-
-[Read Full Article](https://www.hd.se/sverige/uppgifter-sd-overvager-att-slappa-ministerkrav/)
-
----
-
-## Uppgifter: SD överväger att släppa ministerkrav
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Sverigedemokraterna överväger att släppa kravet på ministerposter, uppger källor för Aftonbladet.
-
-[Read Full Article](https://www.sydsvenskan.se/sverige/uppgifter-sd-overvager-att-slappa-ministerkrav/)
-
----
-
-## Natträd mot fartyg utanför Gotland
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79256&utm_medium=rss)
-
----
-
-## Polsk domare stängs av – ”statskupp”
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Protester bröt ut vid Polens författningsdomstol under fredagskvällen efter att chefsdomaren stängts av. Domstolen skriver att en statskupp ägt rum, men premiärminister Donald Tusk försvarar beslutet. Landets president Karol Nawrocki kallar till ett krismöte under lördagen.
-
-[Read Full Article](https://www.hd.se/varlden/efter-tumultet-presidenten-anlant-till-domstolen/)
-
----
-
-## Polsk domare stängs av – ”statskupp”
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Protester bröt ut vid Polens författningsdomstol under fredagskvällen efter att chefsdomaren stängts av. Domstolen skriver att en statskupp ägt rum, men premiärminister Donald Tusk försvarar beslutet. Landets president Karol Nawrocki kallar till ett krismöte under lördagen.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/efter-tumultet-presidenten-anlant-till-domstolen/)
-
----
-
-## Öresundståg fastnade på Pepparholm – passagerare väntade på hjälp i tre timmar
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Strömmen gick på tåget som var på väg mot Köpenhamn. Det var oklart vem som hade ansvar för att lösa problemet, passagerarna fick motstridig information och blev fast på tåget i tre timmar. Nu ska inblandade parter konferera för att se om rutinerna kan förbättras.
-
-[Read Full Article](https://www.sydsvenskan.se/malmo/oresundstag-fastnade-pa-pepparholm-passagerare-vantade-pa-hjalp-i-tre-timmar/)
-
----
-
-## Insatsstyrkan i nattlig räd mot rysskopplat fartyg vid Gotland
+## Detaljen avslöjar Irans nya attackplan: ”Ett tydligt budskap”
 **Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-31 (today)
+**Category:** General News | **Date:** 2026-11-01 (today)
 
-Fartyget är över 80 meter långt och ett så kallat torrlastfartyg tillhörande ett rederi som tidigare varit föremål för utredning gällande ryska hybrid- och spaningsoperationer.  Enligt uppgifter till TV4 Nyheterna ska den nationella insatsstyrkan deltagit vid insatsen. Vilket Polis inte vill bekräfta. – Jag kommenterar inte vilka resurser vi använder. Vi har använt de resurser vi behövt, säger Carina Skagerlind.  – Vi kan inte kommentera detta då insatsen är ledd av Polisregion Stockholm, säger en presstalesperson på Polisens Nationella operativa avdelning. ”Agerar i ryska statens intresse” Rederiet har representationslokaler i den ryska exklaven Kaliningrad, varifrån de enligt egen utsago rekryterar sin besättning. Besättningen ombord det aktuella fartyget består av ryska medborgare, enligt uppgifter till TV4 Nyheterna.  – Jag går inte in på nationalitet i nuläget faktiskt, säger Carina Skagerlind.  Fartyg från samma rederi har tidigare utretts i samband med drönarlarm i Europeiska länder. Sjöfartsdata kan bland annat koppla fartygens oförklarliga vistelse i direkt närhet till drönarlarm på flera platser. Misstanken gäller bland annat att fartygen ska ha agerat som depå för den ryska underrättelsetjänstens drönare.  Fartyg från rederiet har bordats och genomsökts an andra länders myndigheter flertalet gånger i närtid. Europeiska underrättelsekällor menar att fartygen ”högst troligt agerar i den ryska statens intresse”.
+Enligt uppgifter till MS Now förbereder sig USA för nya attacker mot Iran dagen efter mellanårsvalet, onsdagen den 4 november. Samtidigt sa Trump under lördagen att USA har flera mål att ”ta hand om”.  Nu rapporterar den amerikanska tankesmedjan Institute for the Study of War (ISW) att Irans högste ledare Mojtaba Khamenei kallat in landets tre högsta militärchefer: generalstabschefen Ali Abdollahi, revolutionsgardets chef Ahmad Vahidi och arméchefen Amir Hatami.  De ska enligt tankesmedjan ha fått order att förbereda sig för en möjlig upptrappning och utöka listan över amerikanska och israeliska mål. Enligt ISW tyder ordern på att Iran både vill höja den militära beredskapen inför en befarad attack och avskräcka USA från nya attacker genom att signalera att motreaktionen kan bli betydligt mer omfattande än tidigare. Experten: “Tydligt budskap” Mellanösternexperten Alexander Atarodi menar att budskapet från Teheran är tydligt. – Man skickar ut ett tydligt budskap: Blir vi attackerade så kommer vi naturligtvis agera på samma sätt, om inte ännu mer omfattande, säger han. Enligt Atarodi vill Iran visa att landet inte tänker invänta ett nytt amerikanskt angrepp utan har förberett olika motåtgärder. – Iran har under den här tiden förberett sig för alla eventualiteter och har en strategi för att signalera att man den här gången inte bara tänker sitta och vänta på att bli attackerad, säger han. Kan slå mot mål i hela regionen Den iranska ledningen har talat om att svara på hot ”utan geografiska begränsningar”, enligt ISW. Atarodi tolkar det som att Iran vill signalera att ett eventuellt svar inte behöver stanna vid attacker mot amerikanska baser i närområdet. – Den här gången kommer attackerna inte bara att riktas mot amerikanska baser i regionen. Iran signalerar att man också kan utvidga det här till andra amerikanska intressen, säger han. Atarodi fortsätter: – Det kan inbegripa amerikanska företag, intressen, militärbaser och medborgare.  Samtidigt skickar Iran enligt Atarodi en tydlig signal till Gulfstaterna. – Alla de här sakerna tillsammans är signaler som Iran skickar till USA, till Europa och till resten av världen: ”Den här gången är det inte på skoj. Vi har förberett oss för eventualiteter”, säger han. ”Existentiellt hot” Att Irans högsta ledning nu samlar landets högsta militärchefer på det här sättet är ovanligt, enligt Atarodi. Han beskriver mötet som ett tecken på att den iranska ledningen ser situationen som allvarlig.  – Man uppfattar att det finns ett existentiellt hot mot landet, säger han. Trots den hårda retoriken bedömer han att huvudsyftet är att avskräcka USA från nya attacker. – Jag tror att det främst handlar om avskräckning. Iran vill undvika att hamna i den situationen. Desperationen: ”Gör allt de kan” Samtidigt försöker flera länder i regionen förhindra en ny storkonflikt, enligt Atarodi. – Gulfländerna gör allt de kan just nu. Bara det i sig är ett tecken på att vi befinner oss i ett väldigt allvarligt läge. Han hänvisar till intensiva diplomatiska kontakter mellan bland annat Qatar, Oman, Saudiarabien och Iran. – Hela regionen är samlad kring en linje: att man inte kan ha ett krig till. Det skulle vara förödande.
 
-[Read Full Article](https://www.tv4.se/artikel/67jyXbg6CEkpDyL35FnCcU/nattlig-raed-mot-rysskopplat-fartyg-vid-gotland)
-
----
-
-## Polis ställde sig vid klackläktare: ”Grovt kriminella på läktaren”
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Återigen har polis upplevt sig hindrade från att ta sig in på IFK Göteborgs klackläktare. Samtidigt placerade poliser ut sig längs klackläktarens ena trappa. ”Provokation”, kallar supportrar det ovanliga greppet medan polisen säger att de bemöter allvarlig brottslighet.
-
-[Read Full Article](https://www.dn.se/sport/polis-stallde-sig-vid-klacklaktare-grovt-kriminella-pa-laktaren/)
+[Read Full Article](https://www.tv4.se/artikel/51LICQFZLEtysh8hxJiefW/detaljen-avsloejar-irans-nya-attackplan-ett-tydligt-budskap)
 
 ---
 
-## Sorgen tar aldrig slut i Beri Gerwises uppgörelse med sitt förflutna
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Det är en ynnest att se Beri Gerwise bearbeta sorgen efter sin mamma och konfrontera sin pappa. ”Beri bortom bergen” är lika intressant som personligt öde som skildring av kurdernas frigörelsekamp, skriver DN:s Valerie Kyeyune Backström.
-
-[Read Full Article](https://www.dn.se/kultur/sorgen-tar-aldrig-slut-i-beri-gerwises-uppgorelse-med-sitt-forflutna/)
-
----
-
-## En röd linje är ingen färdriktning
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Vi bör kunna förvänta oss att politikerna anger färdriktning.
-
-[Read Full Article](https://www.svd.se/a/p1qRQw/en-rod-linje-ar-ingen-fardriktning?utm_medium=rss)
-
----
-
-## ”Använd ordet dö, för det är ju det det handlar om. Varför ska vi säga något annat?”
+## Helsingborg bröt förlustsviten mot Brahe Basket
 **Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Under allhelgonahelgen går den inte att undgå. Ändå upplever många att det är svårt att prata om döden. HD söker råd hos begravningsentreprenören, frågar sjukvårdspersonal som vårdar patienter i livets slut och letar tips i en mexikansk högtid – hur ska vi våga tala om döden?
-
-[Read Full Article](https://www.hd.se/helsingborg/anvand-ordet-do-for-det-ar-ju-det-det-handlar-om-varfor-ska-vi-saga-nagot-annat/)
-
----
-
-## Striptease, spyor och mordhot på Aftonbladet – allt var verkligen inte bättre förr
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Arbetargrabben från landet blev en makthavare i Mediasverige. Historien om Thorbjörn Larsson och hans tid på Aftonbladet är minst sagt rafflande. Innan han tog över tidningen beskrevs redaktionen som ett dårhus där medarbetarna inte visste om de var vårdare eller patient.
-
-[Read Full Article](https://www.sydsvenskan.se/kultur/striptease-spyor-och-mordhot-pa-aftonbladet-allt-var-verkligen-inte-battre-forr/)
-
----
-
-## Vänstervåg i USA: ”Söker nya typer av politiker”
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Demokraternas vänsterfalang väcker entusiasm – och republikansk ilska.
-
-[Read Full Article](https://www.svd.se/a/Jr0p36/vanstervag-i-usa-soker-nya-typer-av-politiker?utm_medium=rss)
-
----
-
-## SVT frias för Stors ”Free Palestine” under Allsång på Skansen
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Granskningsnämnden anser att kraven på opartiskhet är lägre för artister.
-
-[Read Full Article](https://www.dagen.se/nyheter/svt-frias-foer-stors-free-palestine-under-allsang-pa-skansen/10610699)
-
----
-
-## Extremvärmen tvingar H&M att tänka nytt
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Återkommande värmeböljor och extremvärme ställer även modeindustrin inför nya utmaningar. Vilka material eller plagg fungerar och när ska egentligen höst- och vinterkollektioner lanseras? H&M är ett av flera bolag som försöker hitta svaren.
-
-[Read Full Article](https://www.hd.se/ekonomi/extremvarmen-tvingar-hochm-att-tanka-nytt/)
-
----
-
-## Extremvärmen tvingar H&M att tänka nytt
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Återkommande värmeböljor och extremvärme ställer även modeindustrin inför nya utmaningar. Vilka material eller plagg fungerar och när ska egentligen höst- och vinterkollektioner lanseras? H&M är ett av flera bolag som försöker hitta svaren.
-
-[Read Full Article](https://www.sydsvenskan.se/ekonomi/extremvarmen-tvingar-hochm-att-tanka-nytt/)
-
----
-
-## Expertens oro efter tumultet: ”Kan urarta” – som i Frankrike
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Efter att författningsdomstolens president Bogdan Święczkowski stängts av samlades demonstranter utanför domstolen i Warszawa. Oppositionen anklagar regeringen för en kupp och på plats drabbade demonstranter samman med polis. Samtidigt som sammandrabbningarna ägde rum var landets president Karol Nawrocki på väg till Senegal. Han avbröt resan och återvände i stället till Warszawa. Bakgrunden är en över tio år gammal konflikt mellan premiärminister Donald Tusks politiska läger och den nationalistiska högern. – Anledningen att det har spårat ur just nu är att Tusk har kritiserats i Polen för att regeringen inte gör någonting åt den här hopplösa situationen, säger Barbara Törnquist-Plewa, professor i Europastudier samt Öst- och centraleuropakunskap vid Lunds universitet. ”Oförsonliga block som står mot varandra” Hon förklarar hur konflikten har sina rötter i striden om den polska författningsdomstolen som pågått sedan 2015. Både Tusks politiska läger och det nationalkonservativa partiet Lag och rättvisa (PiS), som styrde Polen mellan 2015 och 2023, har anklagat varandra för att försöka få kontroll över domstolen. Konflikten har lett till åratal av politiska och juridiska strider. – Det är verkligen oförsonliga block som står mot varandra, säger Törnquist-Plewa. Rädslan: Kan bli som i Frankrike Enligt henne är den hårda polariseringen i landet i sig inget nytt. Samtidigt menar hon att det blir och mer polariserat för varje dag som går. Hon pekar bland annat på att det är val nästa år och att det högerextrema partiet Konfederacja har vuxit i popularitet, särskilt bland unga väljare. – Den polska högern verkar vilja eskalera konflikten kring domstolen för att utnyttja den i valkampanjen som börjar nästa år, säger Törnquist-Plewa. Hon befarar att Polen kan drabbas av liknande upplopp som Frankrike. – Jag är lite rädd att de kan försöka ställa till liknande upplopp i Polen, säger hon och tillägger: – Det kan urarta och då är det verkligen en obehaglig situation. ”Oroväckande” Å andra sidan betonar hon att Polen inte befinner sig i ett läge där några massprotester är självklara. – Det är inte så att det är jättemissnöje bland majoriteten av befolkningen i Polen. Det är verkligen fifty-fifty, skulle jag säga. Men i kombination med kriget i Ukraina och rysk desinformation ser hon ändå utvecklingen som bekymmersam. – När ett land är utsatt och också polariserat, då är det oroväckande enligt mig. –  I NATOs och Europas stöd för Ukraina spelar Polen en mycket viktig roll. Destabiliseringen av landet försvagar inte bara Polen själv men också Europa och spelar i händer på främmande makter som vill utnyttja det.
-
-[Read Full Article](https://www.tv4.se/artikel/4hWHCWQnB71bOaXemk3FYz/expertens-oro-efter-tumultet-kan-urarta-som-i-frankrike)
-
----
-
-## En gripen efter misstänkt våldsbrott i Örebro
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
+**Category:** General News | **Date:** 2026-11-01 (today)
 
 _No summary text available from RSS._
 
-[Read Full Article](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79252&utm_medium=rss)
+[Read Full Article](https://www.hd.se/sport/hemmaplan/helsingborg-brot-forlustsviten-mot-brahe-basket/)
 
 ---
 
-## ”Festivalen överraskar med nya sätt att vara i tillbedjan”
+## MFF Direkt: Get the latest about Malmö FF here
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+All live reporting on Malmö FF takes place here. Matches, training and fast news.
+
+[Read Full Article](https://www.sydsvenskan.se/sport/mff-direkt-fa-det-senaste-om-malmo-ff-har/)
+
+---
+
+## Almgren har startat i New York Marathon
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79276&utm_medium=rss)
+
+---
+
+## Persongalleriet blir dessvärre till tapeter i ett underskönt Tenochtitlán
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Álvaro Enrigue berättar om hur mötet mellan azteker och spanjorer kan ha gått till. Men samtiden läcker in på ett alltför rikligt sätt, tycker Samuel Levander.
+
+[Read Full Article](https://www.dn.se/kultur/persongalleriet-blir-dessvarre-till-tapeter-i-ett-underskont-tenochtitlan/)
+
+---
+
+## Kan stanna i BoIS: ”Allt att tacka dem för”
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Han har tagit en ordinarie tröja, men det var länge sedan Malmö FF hörde av sig. Går Zakaria Loukili i lagkamraternas fotspår? – Jag stänger absolut inga dörrar, säger den inlånade BoIS-mittfältaren.
+
+[Read Full Article](https://www.hd.se/sport/kan-stanna-i-bois-allt-att-tacka-dem-for/)
+
+---
+
+## Bråk på Stortorget urartade – 15-åring misstänks för våld mot polis
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+En 15-årig flicka gick till våldsam attack mot polisen med bett och sparkar på Stortorget i Ängelholm, efter att först ha hotat en vuxen i sin närhet med kniv. Nu misstänks hon för en rad brott.
+
+[Read Full Article](https://www.hd.se/angelholm/brak-pa-stortorget-urartade-15-aring-misstanks-for-vald-mot-polis/)
+
+---
+
+## Tidigare försvunnen 90-årig kvinna i Malmö återfunnen
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Polisen letade under söndagen efter en försvunnen kvinna i 90-årsåldern. Vid 14.30-tiden meddelade polisen på sin hemsida att kvinnan var återfunnen.
+
+[Read Full Article](https://www.sydsvenskan.se/malmo/90-arig-kvinna-forsvunnen-i-malmo/)
+
+---
+
+## Först i Sverige med Starlink på alla tåg: ”Fungerar skitbra”
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Svajigt internet på tåg kan vara frustrerande. Tågbolag världen över sneglar på Starlink som en lösning. Norrtåg blir först i Sverige med att installera tjänsten på hela sin flotta. – Vi har kört det som ett projekt i två år och det har fungerat grymt bra, säger Linus Sadlacek Åkerlind, teknisk chef på Norrtåg.
+
+[Read Full Article](https://www.dn.se/sverige/forst-i-sverige-med-starlink-pa-alla-tag-fungerar-skitbra/)
+
+---
+
+## Halvvägs ner för fasaden svek selen Lundaklättraren
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Det är som taget rakt ur en Bond-film – kanske från en parodi. Förutsatt att klättraren ville ta sig hela vägen ner till marken så gick det inte riktigt som planerat. Utanför våning tre tvingades räddningstjänsten komma den nattliga klättraren till undsättning.
+
+[Read Full Article](https://www.sydsvenskan.se/lund/halvvags-ner-for-fasaden-svek-selen-lundaklattraren/)
+
+---
+
+## Tar EM-guld efter utklassning: ”Helt underbart”
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Lag Isabella Wranå behåller kylan hela vägen. Sveriges curlingdamer tar hem EM-guldet efter en kross med 7–2 mot Schweiz i finalen i tjeckiska Ostrava.
+
+[Read Full Article](https://www.sydsvenskan.se/sport/sverige-tar-em-guld-i-curling/)
+
+---
+
+## Tar EM-guld efter utklassning: ”Helt underbart”
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Lag Isabella Wranå behåller kylan hela vägen. Sveriges curlingdamer tar hem EM-guldet efter en kross med 7–2 mot Schweiz i finalen i tjeckiska Ostrava.
+
+[Read Full Article](https://www.hd.se/sport/sverige-tar-em-guld-i-curling/)
+
+---
+
+## Så förbereder du dig och bilen inför vintern
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Vintern kan innebära alltifrån sämre sikt och kortare räckvidd till böter för den som missar viktiga detaljer. Här är sakerna du bör se över på bilen innan du ger dig ut i trafiken.
+
+[Read Full Article](https://www.dn.se/motor/sa-forbereder-du-dig-och-bilen-infor-vintern/)
+
+---
+
+## Schulman blottar en samhällssjuka
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Föräldraperspektivet är allestädes närvarande i kulturen. Bakom fixeringen döljer sig en kollektiv…
+
+[Read Full Article](https://www.svd.se/a/zlqB91/schulman-blottar-en-samhallssjuka?utm_medium=rss)
+
+---
+
+## Svenskens AI-oro: De spelar rysk roulette
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Han arbetar mitt i AI-industrin i San Francisco – och är livrädd för utvecklingen.
+
+[Read Full Article](https://www.svd.se/a/aOR5o4/axel-wennstrom-pa-andon-labs-vill-dra-i-handbromsen-for-ai?utm_medium=rss)
+
+---
+
+## Spaniens regering pressad från vänster och höger efter tågtragedin
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+De radikala vänsterpartier som ger socialistiska PSOE majoritet i kongressen kräver att regeringen tar ansvar för onsdagens järnvägskrasch i Urda, Toledo, och offentliggör alla data i målet. Tills vidare vägrar transportminister Óscar Puente att ta på sig något ansvar för det skedda.
+
+[Read Full Article](https://www.dn.se/varlden/spaniens-regering-pressad-fran-vanster-och-hoger-efter-tagtragedin/)
+
+---
+
+## Anders Svensson: Kan inte Svenska Akademien skriva korrekt svenska?
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Många reagerade på Svenska Akademiens motivering när de tillkännagav årets Nobelpristagare i litteratur. Skulle det inte vara ”sina” i stället för ”hennes” verk? Språktidningens Anders Svensson reder ut.
+
+[Read Full Article](https://www.dn.se/kultur/anders-svensson-kan-inte-svenska-akademien-skriva-korrekt-svenska/)
+
+---
+
+## ”Lärarna lämnas ensamma med våldet”
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Hot och våld i skolan ökar, samtidigt som lärare saknar stöd för att hantera situationen.
+
+[Read Full Article](https://www.svd.se/a/VgVneV/lararna-lamnas-ensamma-med-valdet?utm_medium=rss)
+
+---
+
+## Vite hotar hemtjänsten i Ängelholm – personal hinner inte gå på toaletten
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+För lite tid mellan besöken och resurspass som stressar personal. Efter larm från skyddsombud riktar Arbetsmiljöverket flera krav mot hemtjänsten i Ängelholm – som riskerar att behöva betala 80 000 kronor.
+
+[Read Full Article](https://www.hd.se/angelholm/vite-hotar-hemtjansten-i-angelholm-personal-hinner-inte-ga-pa-toaletten/)
+
+---
+
+## Slagsmål, fester som spårar och en man puttad in i elden – tuff allhelgonanatt för polisen
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+En fest i Limhamn spårade ur och slagsmål bröt ut efter att ett hundratal ungdomar dykt upp. I norra Skåne blev en man inputtad i elden. Allhelgonanatten har varit påfrestande för ordningsmakten.
+
+[Read Full Article](https://www.sydsvenskan.se/malmo/slagsmal-fester-som-sparar-och-en-man-puttad-in-i-elden-tuff-allhelgonanatt-for-polisen/)
+
+---
+
+## Evakuering på Vesterbrogade i centrala Köpenhamn efter gasläcka
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Arbetet med att reparera läckan pågick på söndagsförmiddagen.
+
+[Read Full Article](https://www.sydsvenskan.se/danmark/evakuering-pa-vesterbrogade-i-centrala-kopenhamn-efter-gaslacka/)
+
+---
+
+## 325 gripna vid propalestinsk protest i London
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Brittisk polis har gripit 325 personer i samband med en demonstration till stöd för den propalestinska aktivistgruppen Palestine Action på lördagen.
+
+[Read Full Article](https://www.hd.se/varlden/325-gripna-vid-propalestinsk-protest-i-london/)
+
+---
+
+## 325 gripna vid propalestinsk protest i London
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Brittisk polis har gripit 325 personer i samband med en demonstration till stöd för den propalestinska aktivistgruppen Palestine Action på lördagen.
+
+[Read Full Article](https://www.sydsvenskan.se/varlden/325-gripna-vid-propalestinsk-protest-i-london/)
+
+---
+
+## Rögles smäll: Zaar stängs av i flera matcher
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Daniel Zaar fick lämna isen tidigt i tredje perioden mot Örebro.
+
+[Read Full Article](https://www.hd.se/sport/beskedet-zaar-anmald-efter-matchstraffet/)
+
+---
+
+## Alltfler GPS-störningar till sjöss – navigerar med radar och fyrar
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Renoveringen av Kullens fyr pågår och därmed får fyren en fortsatt roll för sjöfarten när satellitnavigeringen störs ut. GPS-signaler kan både blockeras och manipuleras. Vid så kallad spoofing får fartyg en felaktig positionsuppgift, vilket kan leda till att besättningen bedömer avståndet till grund eller kaj fel. – Du tror att du är på en kurs, att du är på en kurs som du inte är. Om du tror att du är hundra meter från ett känt grund men egentligen är på kollisionskurs, då är det ganska mycket värre och där finns det tillbud som har varit nära att ske i Östersjön med båtar som varit spoofade, som trott att de har varit hundra meter från kaj och i verkligheten bara varit närmare och i dimma dyker kajen upp. Nu har ingenting hänt, som tur var. Men det är en försvårande omständighet, säger Frej Welander, rymdanalytiker vid Myndigheten för civilt försvar. Ökad risk för tillbud Satellitstörningarna har ökat markant de senaste åren, enligt myndigheterna. Sjöfartsverket har sedan något år varnat för omfattande störningar i Östersjön, och problem finns också längs västkusten. När GPS-navigeringen inte fungerar kan sjöfarten i stället använda radar, sjömärken och fyrar. Enligt lotsområdeschefen Martin Mansnerus kan behovet av sådana hjälpmedel öka vid kris eller krig. – Jag tror att den här typen av problem kommer att öka och nu är vi ändå i en fredstid. Skulle det bli krig eller kris så kommer störningarna bli ännu värre. Och det vi kan se och det vi arbetar utifrån är ju att i Hormuzsundet och i Svarta havet där det är pågående konflikter så blir trafiken mer kustnära och behovet av fasta sjömärken och expertis som svensk lots ökar ytterligare, säger Martin Mansnerus, lotsområdeschef i Kalmar. Fyrar ger tydligare radareko Myndigheterna arbetar också med lösningar för att underlätta navigeringen. Flera traditionella fyrar har utrustats med så kallade racon-fyrar, som syns extra tydligt på fartygens radarskärmar. – Vi får ju ta höjd för det. I det här området till exempel då har vi utrustat flera av de traditionella fyrarna med något som kallas racon-fyrar, som gör att på radarskärmen får man ett extra tydligt eko så att man förstår var man är, säger Martin Mansnerus, lotsområdeschef i Kalmar. Till sommaren ska renoveringen av Kullens fyr vara klar. – Jag har som skyldighet att den här ska finnas kvar i all evig tid, säger Jill Wake, fastighetsförvaltare Sjöfartsverket.
+
+[Read Full Article](https://www.tv4.se/artikel/6WUK2laRHVCVHbApjoremo/alltfler-gps-stoerningar-till-sjoess-navigerar-med-radar-och-fyrar)
+
+---
+
+## Vad är väl en studentrevolt – om inte alldeles underbar
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Frankrikes gator brinner av studenternas ilska. Men i Sverige känner unga snarare att det politiska engagemanget har slocknat. Det bör oroa fler, skriver HD:s politiska redaktör Marcus Rossheim.
+
+[Read Full Article](https://www.hd.se/opinion/marcus-rossheim/vad-ar-val-en-studentrevolt-om-inte-alldeles-underbar/)
+
+---
+
+## Resurserna får inte styra människors liv
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+”Mammor känner oro för döttrarna: ’Kommer bli förvaring’” var rubriken på en artikel i HD om Kuben. I reportaget medverkade Madeleine Jönsson och hennes mamma Leonor Jönsson,
+
+[Read Full Article](https://www.hd.se/min-mening/resurserna-far-inte-styra-manniskors-liv/)
+
+---
+
+## GW om bränderna på Södermalm: Borde vara löst på en eftermiddag
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Papperskorgar, uteplatser, ett skjul och en båt har bland annat brunnit på Södermalm den senaste tiden. GW tror att det är en eller möjligen två gärningspersoner som ligger bakom, och att polisen snart kan identifiera dem via övervakningskameror. – Att det handlar om en, eller möjligtvis två personer är givet, säger han. Persson tror att identifiering via övervakningskameror som kan styrka gärningspersonens närvaro på platsen kan vara lösningen. – Det är väl bara att leta upp en närbelägen övervakningskamera så sitter de där. Hittar man samma personer på två av de här platserna, då är det ju klart, säger Persson. ”Ingen större planering bakom” Polisen utgår från att bränderna är anlagda och arbetar nu med att kartlägga gärningspersonerna. GW Persson menar att ordet pyroman ofta missbrukas och att det i detta fall snarare handlar om unga personer som har tråkigt och söker spänning. – Ingen större planering bakom, utan på med lite tändvätska och en tändsticka, säger han. Polisen har stänkt upp med extra resurser i området i hopp om att kunna agera snabbt om nya bränder uppstår. – Vi har jobbat med extra uppmärksamhet och haft flera poliser i området. Vi har gjort en del dörrknackning och ber också allmänheten om tips, om det är någon som gjort en iakttagelse, sade Carina Skagerlind, presstalesperson, Polisregion Stockholm, under lördagen. – Vi försöker ta reda på vad som händer och vem eller vilka som ligger bakom det här, sade hon. Polisen har startat utredningar gällande både mordbrand och grov mordbrand.
+
+[Read Full Article](https://www.tv4.se/artikel/7lx0gy7dsGSpzJUm7jptHj/gw-om-braenderna-pa-soedermalm-borde-vara-loest-pa-en-eftermiddag)
+
+---
+
+## Vecka 44 i bilder – se världen genom DN-fotografernas ögon
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Hur ser tiden ut? Varje vecka väljer DN:s bildredaktör Pi Frisk ut fem fotografier som speglar Sverige och världen just nu. Här är bilder från vecka 44, 2026.
+
+[Read Full Article](https://www.dn.se/kultur/vecka-44-i-bilder-se-varlden-genom-dn-fotografernas-ogon-7/)
+
+---
+
+## Frankrike: Mordförsök utreds efter molotovcocktail
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Åklagare i Frankrike har beslutat att inleda en utredning om försök till mord efter att en molotovcocktail kastats mot gendarmer, i samband med sammandrabbningar vid en omfattande demonstration i Paris.
+
+[Read Full Article](https://www.hd.se/varlden/frankrike-mordforsok-utreds-efter-molotovcocktail/)
+
+---
+
+## Frankrike: Mordförsök utreds efter molotovcocktail
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Åklagare i Frankrike har beslutat att inleda en utredning om försök till mord efter att en molotovcocktail kastats mot gendarmer, i samband med sammandrabbningar vid en omfattande demonstration i Paris.
+
+[Read Full Article](https://www.sydsvenskan.se/varlden/frankrike-mordforsok-utreds-efter-molotovcocktail/)
+
+---
+
+## Kinas makt över Taiwan kan hänga på Trump
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Dags att förbereda oss för den kris som vi inte är redo för.
+
+[Read Full Article](https://www.svd.se/a/9k9bOp/ett-kinesiskt-angrepp-pa-taiwan-kan-hanga-pa-trump?utm_medium=rss)
+
+---
+
+## Doften från algernas fiende kan varna för gifter
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Lukten från hoppkräftor kan användas i ett varningssystem för giftiga algblomningar.
+
+[Read Full Article](https://www.svd.se/a/n9z37d/doften-fran-algernas-fiende-kan-varna-for-gifter?utm_medium=rss)
+
+---
+
+## Bragder, brott och en älg i Öresund – här är HD:s bästa bilder från oktober
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Höganäs nya fullmäktiges första möte. En ny kommunstyrelsen valdes utan dramatik, liksom en sprillans ny ordförande i form av Pia Möller (M), som passade på att föreviga några kollegor i bänkarna.
+
+[Read Full Article](https://www.hd.se/skane/bragder-brott-och-en-alg-i-oresund-har-ar-hd-s-basta-bilder-fran-oktober/)
+
+---
+
+## Johan, 43, fotar musikstjärnorna – nu visar han livet för Perstorps mest utsatta
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Slitna fasader och en igenvuxen djurkyrkogård, men också ljusglimtar och skratt. Till vardags fotograferar Johan Rönnow artister som Jakob Hellman och David Ritschard. Nu har han vänt kameran mot Perstorp – och de som kämpar i vardagen.
+
+[Read Full Article](https://www.hd.se/kultur/johan-43-fotar-musikstjarnorna-nu-visar-han-livet-for-perstorps-mest-utsatta/)
+
+---
+
+## Har lämnat HIF – mitt under slutspurten
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Mikael Stahre förklarar varför tre juniorer fått mindre speltid i höst – och varför klubben plötsligt låtit en spelare resa iväg. – I nuläget har han inte varit nära att spela, säger HIF-tränaren.
+
+[Read Full Article](https://www.hd.se/sport/har-lamnat-hif-mitt-under-slutspurten/)
+
+---
+
+## Röglespelaren straffas – stängs av fyra matcher
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Rögles Daniel Zaar fick matchstraff för tackling mot huvudet i lördagens SHL-match mot Örebro. Nu straffas Zaar ytterligare med fyra matchers avstängning.
+
+[Read Full Article](https://www.sydsvenskan.se/sport/roglespelaren-straffas-stangs-av-fyra-matcher/)
+
+---
+
+## M: Stötta Volvo – låt Göteborgs anställda få leasa elbil billigt
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+När Volvo Cars krisar föreslår Moderaterna i Göteborg att stadens nästan 60 000 anställda ska erbjudas att leasa en Volvo-elbil billigt. Men utspelet avfärdas av Socialdemokraternas ledare som ”av allt att döma helt olagligt”.
+
+[Read Full Article](https://www.dn.se/ekonomi/m-stotta-volvo-lat-goteborgs-anstallda-fa-leasa-elbil-billigt/)
+
+---
+
+## Po Tidholm: Mauro Scoccos sentimentala skiva visar att framtidstron är död
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Mauro Scoccos nya skiva är den senaste i raden av album om manlig sentimentalitet. Svallvågen av tillbakablickande låttexter är ett slags sorgearbete över tidens gång, och att livet – och världen – faktiskt var bättre förr, skriver DN:s Po Tidholm.
+
+[Read Full Article](https://www.dn.se/kultur/po-tidholm-mauro-scoccos-sentimentala-skiva-visar-att-framtidstron-ar-dod/)
+
+---
+
+## Hundratusentals jobb på spel när Trump fattar beslut om Sydafrika
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+GQEBERHA. Sydafrika stålsätter sig inför vad som kan bli den värsta attacken hittills från Donald Trump. Vita huset väntas på måndagen ge besked om Sydafrikas framtid i frihandelssamarbetet Agoa. I ett slag kan Trump på egen hand förinta hundratusentals sydafrikanska arbetstillfällen.
+
+[Read Full Article](https://www.dn.se/varlden/hundratusentals-jobb-pa-spel-nar-trump-fattar-beslut-om-sydafrika/)
+
+---
+
+## Konflikt bakom en rad SD-avhopp i Bjuv
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Fem tidigare tongivande medlemmar i SD Bjuv lämnar partiet efter missnöje med ledarskapet. Partiets ordförande Pia Trollehjelm menar att det är en konsekvens av att avhopparna inte fick partimedlemmarnas förtroende till valet 2026.
+
+[Read Full Article](https://www.hd.se/bjuv/konflikt-bakom-en-rad-sd-avhopp-i-bjuv/)
+
+---
+
+## Äntligen har generation Z fått sin egen ”Vänner”
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Med andra säsongen befäster ”Adults” sin plats som 20-talets komediserie.
+
+[Read Full Article](https://www.sydsvenskan.se/kultur/antligen-har-generation-z-fatt-sin-egen-vanner/)
+
+---
+
+## Sverige tar EM-guld i curling
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79272&utm_medium=rss)
+
+---
+
+## Varningen: Så kan Trump ge igen vid en valförlust
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+På tisdag avgörs det. Då kan Donald Trump stå som förlorare i mellanårsvalet. Ett bakslag för den republikanske presidenten kan innebära nya hot om handelstullar, enligt bedömare. – Det är inte säkert att det blir lugnare för att Demokraterna skulle vinna kongressen, säger SEB:s chefsekonom Jens Magnusson.
+
+[Read Full Article](https://www.sydsvenskan.se/ekonomi/varningen-sa-kan-trump-ge-igen-vid-en-valforlust/)
+
+---
+
+## Frikyrkor i Leipzig utsatta för skadegörelse under förra veckan
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-31 (today)
+**Category:** General News | **Date:** 2026-11-01 (today)
 
-Uma Lundkvist från Dagens ungdomspanel skriver dagbok från festivalen Kaleo
+Polisen misstänker att det kan finnas ett samband mellan angreppen.
 
-[Read Full Article](https://www.dagen.se/livsstil/festivalen-oeverraskar-med-nya-saett-att-vara-i-tillbedjan/10610742)
+[Read Full Article](https://www.dagen.se/nyheter/frikyrkor-i-leipzig-utsatta-foer-skadegoerelse-under-foerra-veckan/10610758)
+
+---
+
+## Storpublik väntar MFF – bortasektionen utsåld i rivalmötet
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Ett rivalmöte mot guldjagande Hammarby och en prestigefylld fajt med tidigare tränaren Henrik Rydström.. Det verkar tända Malmöpubliken. Årets högsta publiksiffra kan vänta på Stadion i eftermiddag.
+
+[Read Full Article](https://www.sydsvenskan.se/sport/storpublik-vantar-mff-bortasektionen-utsald-i-rivalmotet/)
+
+---
+
+## Donald Trump sänker sina partivänner – påstår fusk om de förlorar valet
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Stormingen av Kapitolium den 6 januari 2021 uppmuntrades av Donald Trump.
+
+[Read Full Article](https://www.hd.se/varlden/donald-trump-sanker-sina-partivanner-pastar-fusk-om-de-forlorar-valet/)
+
+---
+
+## Donald Trump sänker sina partivänner – påstår fusk om de förlorar valet
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Stormingen av Kapitolium den 6 januari 2021 uppmuntrades av Donald Trump.
+
+[Read Full Article](https://www.sydsvenskan.se/varlden/donald-trump-sanker-sina-partivanner-pastar-fusk-om-de-forlorar-valet/)
+
+---
+
+## Helsingborgs pingisnestor får svenska vispriset
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Helsingborgaren är en känd profil både inom bordtennisen och kulturlivet. Nu prisas Bengt Levin av vis-Sverige för sina insatser genom åren.
+
+[Read Full Article](https://www.hd.se/helsingborg/helsingborgs-pingisnestor-far-svenska-vispriset/)
+
+---
+
+## Domare avvisar Trumps stämning
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79271&utm_medium=rss)
+
+---
+
+## Den som får betala det högsta priset är Elon Musk
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.tv4.se/artikel/2mSBdecmHZvuowDR41VEyF/den-som-far-betala-det-hoegsta-priset-aer-elon-musk)
+
+---
+
+## Doktor Marcus om diabetes – här är symtomen du ska ha koll på
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Nästan sju procent av Sveriges befolkning har en diabetesdiagnos – och sjukdomen kan därmed kallas en folksjukdom. Det finns också många som lever med oupptäckt typ 2-diabetes. Typ 1 drabbar ofta yngre och innebär att kroppen angriper bukspottkörteln, vilket leder till absolut insulinbrist. Typ 2 utvecklas däremot oftare hos äldre personer, och är kopplat till både levnadsvanor och genetik. Här blir kroppen successivt mindre känslig för insulin, vilket gör att sockret har svårare att ta sig in i cellerna. – De flesta upptäcker vi nästan i förbifarten när vi tar andra blodprov, just för att det tar så lång tid att utveckla den, säger Marcus Olausson, läkare och specialist i allmänmedicin. Håll utkik efter symptom  Symptomen är snarlika för båda typerna av diabetes, men vid typ 1-diabetes har det ett snabbare förlopp och sjukdomen kan bli akut och livshotande. Trötthet, ökad törst och frekvent urinering är vanliga tecken. Svampinfektioner i underlivet och dimsyn är andra symtom som kan förekomma. Vid typ 2-diabetes är det inte säkert att man upplever några större symptom förrän man dragits med sjukdomen en längre tid. Diabetes upptäcks ofta genom blodprov eller urinprov. Misstänker man att man har diabetes typ 2 ska man boka en tid hos sin vårdcentral för att testa sig. Det kan du göra själv Typ 1-diabetes är autoimmun och kan inte förebyggas, men typ 2 går att påverka. Hälsosam kost, fysisk aktivitet och viktnedgång minskar risken betydligt. – Att träna är supereffektivt. 24–48 timmar efter träningspass är kroppen superbra på att plocka upp sockret, säger Marcus Olausson. Kan man bli av med typ 2-diabetes? – Bra fråga. Svaret är både ja och nej. Man vet att du tidigt i förloppet kan du faktiskt kan få din diabetes att gå i remission med livsstilsinsatser. Det innebär att du inte behöver läkemedel och du har inga symtom. Din diabetes är då välkontrollerad. Men man behöver fortfarande följa patienterna för vi vet att risken att insjukna igen eller att återfå symtom är hög, säger Marcus Olausson.
+
+[Read Full Article](https://www.tv4.se/artikel/2E79TPxRwNKu2d89jSKALC/doktor-marcus-om-diabetes-symtomen-du-ska-ha-koll-pa)
+
+---
+
+## Trettiotal böter efter cykelrazzia – här är reglerna som gäller
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Under veckans trafiksatsning i Malmö bötfälldes tiotals personer på bara en kväll för brott mot cykelreglerna. Vet du vad som gäller när du cyklar över ett övergångsställe? Eller hur fort du får trampa på en gågata? Här är reglerna som varje cyklist ska kunna – och vad det kostar att bryta mot dem.
+
+[Read Full Article](https://www.sydsvenskan.se/malmo/cykelrazzia-trettiotal-fick-boter/)
+
+---
+
+## Lågmält om skräcken när kriget når vardagen
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Massakern i Butja är platsen för Nina Zachozjenkos pjäs för Dramaten. ”Sista meddelandet” skildrar…
+
+[Read Full Article](https://www.svd.se/a/kv5KlL/lagmalt-om-skracken-nar-kriget-nar-vardagen?utm_medium=rss)
+
+---
+
+## Jobbade utan avtal på svenska Microsoft-byggen: ”Fick nöja oss eller åka hem”
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Migrantarbetare har jobbat utan kollektivavtal på Microsofts serverhallsbyggen i Gävleområdet i flera år. Enligt facket har de gått miste om lön och ersättningar för mångmiljonbelopp. – Vi fick nöja oss eller åka hem, säger en arbetare från Rumänien som DN pratar med. I en uppgörelse med arbetsgivaren får de nu tillbaka 15 miljoner kronor.
+
+[Read Full Article](https://www.dn.se/ekonomi/jobbade-utan-avtal-pa-svenska-microsoft-byggen-fick-noja-oss-eller-aka-hem/)
+
+---
+
+## Max Hjelm: Tänk om vi i själva verket borde njuta av andningspausen
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Att regeringsbildningen drar ut på tiden gör många otåliga. Men kanske bör man i stället njuta av andningspausen.
+
+[Read Full Article](https://www.dn.se/ledare/max-hjelm-tank-om-vi-i-sjalva-verket-borde-njuta-av-andningspausen/)
+
+---
+
+## 100-tal dök upp på urspårad halloweenfest
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Halloweennattens många fester ledde till stök, fylla och misshandel i flera regioner.
+
+[Read Full Article](https://www.svd.se/a/ElGV6G/halloween-stok-och-misshandel-i-flera-regioner?utm_medium=rss)
+
+---
+
+## De vägrar förnya sig – och gör rekordvinst
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Restaurangtrender kommer och går, medan Stockholms äldsta husmanskrogar inte bara består – utan nu…
+
+[Read Full Article](https://www.svd.se/a/w392ML/inga-forbattringar-leder-till-nagot-battre?utm_medium=rss)
+
+---
+
+## Detaljerna ska ta Almgren till seger
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Maratondebuten kan sluta med ytterligare en seger
+
+[Read Full Article](https://www.svd.se/a/BMpaRg/andreas-almgrens-maratondebut-i-new-york-en-av-idrottsarets-mest-kittlande-hojdare?utm_medium=rss)
+
+---
+
+## Helsingborg satsar 5,5 miljoner på idrott – anställer direktör
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Kan ökade resurser till idrotten få ordning i Helsingborgs utsatta områden? Det tror styret som satsar 5,5 miljoner kronor extra och vill anställa en fritidsdirektör. Klubbarna är positiva till beskedet men ser också risker.
+
+[Read Full Article](https://www.hd.se/helsingborg/helsingborg-satsar-5-5-miljoner-pa-idrott-anstaller-direktor/)
+
+---
+
+## Insändare. Ge Vänsterpartiet chans till ministerposter – om två år
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+INSÄNDARE. Låt Vänsterpartiet under mandatperiodens första hälft acceptera medverkan på ungefär samma villkor som SD haft. Håll samtidigt dörren öppen för en partiell regeringsombildning 2028 som ger V fyra statsrådsposter, skriver Per Kågeson.
+
+[Read Full Article](https://www.dn.se/insandare/ge-vansterpartiet-chans-till-ministerposter-om-tva-ar/)
+
+---
+
+## FNL: Politisk anständighet – en bortglömd konst?
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Debatt är demokratins syre. Hån och förakt är det inte. Låt oss återuppväcka den politiska anständighetens konst, hålla god ton i debatten och god takt i besluten. Det skriver Förnyalunds toppnamn Johanna Kyander.
+
+[Read Full Article](https://www.sydsvenskan.se/lund/fnl-politisk-anstandighet-en-bortglomd-konst/)
+
+---
+
+## Michael Winiarski: Trump rustar för nytt anfall mot Iran efter valet
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Kommer USA och Israel att gå till ett nytt militärt anfall mot Iran direkt efter valet i USA? En hel del tyder på det. Donald Trump har sagt sig överväga det. Och nu har Vita huset förvarnat ledare i Mellanöstern att vara beredda på ett amerikanskt anfall – och på en iransk vedergällning.
+
+[Read Full Article](https://www.dn.se/varlden/michael-winiarski-trump-rustar-for-nytt-anfall-mot-iran-efter-valet/)
+
+---
+
+## Häxorna vill skrämma Michigans väljare att gå och rösta
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+DETROIT. Det är halloween – och skräcktemat är för många amerikaner en lämplig metafor för valet på tisdag. På en motorvägsbro norr om Detroit samlas ett gäng häxor och spöken som vill varna bilisterna för att rösta på Donald Trumps Republikaner.
+
+[Read Full Article](https://www.dn.se/varlden/haxorna-vill-skramma-michigans-valjare-att-ga-och-rosta/)
+
+---
+
+## Varningen: Så kan Trump ge igen vid en valförlust
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+På tisdag avgörs det. Då kan Donald Trump stå som förlorare i mellanårsvalet. Ett bakslag för den republikanske presidenten kan innebära nya hot om handelstullar, enligt bedömare. – Det är inte säkert att det blir lugnare för att Demokraterna skulle vinna kongressen, säger SEB:s chefsekonom Jens Magnusson.
+
+[Read Full Article](https://www.hd.se/ekonomi/varningen-sa-kan-trump-ge-igen-vid-en-valforlust/)
+
+---
+
+## Varningen: Så kan Trump ge igen vid en valförlust
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+På tisdag avgörs det. Då kan Donald Trump stå som förlorare i mellanårsvalet.
+
+[Read Full Article](https://www.svd.se/a/jvGGnb/varningen-sa-kan-trump-ge-igen-vid-en-valforlust?utm_medium=rss)
+
+---
+
+## Malmömammor kastas ut från Min barnmorska – mitt i graviditeten
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Traumatiska tidigare förlossningar gav Annica Axelson, 36, och Åsa Jansson, 35, plats i stödprogrammet Min barnmorska. Nu när programmet ska lägga ner får de inte det stöd de utlovats. – Jag hade precis börjat känna att jag nog skulle våga föda i Malmö igen. Så kommer det här, säger Annica Axelson.
+
+[Read Full Article](https://www.sydsvenskan.se/skane/malmomammor-kastas-ut-fran-min-barnmorska-mitt-i-graviditeten/)
+
+---
+
+## Tyska protester urartade – med våld och plundring
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Våldsamheter utbröt på flera håll i Tyskland i samband med lördagens stora demonstrationer. I Frankfurt kastade maskerade upploppsmakare molotovcocktails, krossade skyltfönster och plundrade butiker.
+
+[Read Full Article](https://www.hd.se/varlden/tyska-protester-urartade-med-vald-och-plundring/)
+
+---
+
+## Tyska protester urartade – med våld och plundring
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Våldsamheter utbröt på flera håll i Tyskland i samband med lördagens stora demonstrationer. I Frankfurt kastade maskerade upploppsmakare molotovcocktails, krossade skyltfönster och plundrade butiker.
+
+[Read Full Article](https://www.sydsvenskan.se/varlden/tyska-protester-urartade-med-vald-och-plundring/)
+
+---
+
+## Flydde ukrainska dödszonen: ”Vi har kommit från helvetet”
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Under förra veckan meddelade Vita huset att USA:s första dam Melania Trump lyckats säkra ett eldupphör i den hårt krigsdrabbade staden Olesjky i Ukraina.  ”Invånare som önskar evakueras kommer att få samordnat stöd och transport till den destination de önskar”, sa hon i ett skriftligt uttalande. Nu har flera människor evakuerats, rapporterar New York Times. En av dem är 75-åriga Oleksandr Styopin. – Vi har kommit från helvetet. Det är en dödszon där, säger han till tidningen.  ”Inre skräck som alltid finns inom dig” Invånarna i Olesjky har levt under ockupation i mer än fyra år. Enligt Styopin förvärrades läget under året då Ukraina ökade sina drönarattacker mot ryska styrkor i området.  – De senaste två månaderna har jag levt med en drönare ovanför mitt huvud. Det är mer än rädsla, det är en inre skräck som alltid finns inom dig, säger han. Halyna Lohvynovska, 65, och hennes man Ivan Lohvynosky beskriver hur levnadsvillkoren successivt blev omöjliga. – När något föll på ens huvud flyttade man till ett annat rum. När huset blev mer förstört flyttade man, säger han. Trodde inte det var sant Trots vapenvilan var många skeptiska till att evakueringen verkligen skulle bli av. Flera invånare hade tidigare sett försök att lämna området misslyckas när fordon besköts längs vägen. – De senaste fyra dagarna trodde vi inte att vi skulle klara oss. Vi trodde att det bara var ännu en provokation, säger 24-årige Vladyslav. För Oleksandr Styopin höll flykten dessutom på att sluta i katastrof redan innan den hade börjat. När han lämnade sitt hem på fredagsmorgonen kastades han bakåt av en explosion under röjningsarbetet i staden och splitter rev sönder hans resväska. Trots det lyckades han ta sig till bussen som förde honom ut ur krigszonen. – Mitt hjärta brann. Jag trodde att jag skulle krypa dit för att kunna ta mig därifrån, säger han.
+
+[Read Full Article](https://www.tv4.se/artikel/4ZbRkuzokm00B58jiGFQ6j/flydde-ukrainska-doedszonen-vi-har-kommit-fran-helvetet)
+
+---
+
+## Anställningsboom väntar inom järnvägen – men osäkert för lokförare
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Söktrycket till lokförarutbildningen i Ängelholm har halverats inför vårens kursstart. Samtidigt väntar en anställningsboom för den som kan tänka sig ett annat jobb i järnvägsbranschen.
+
+[Read Full Article](https://www.hd.se/angelholm/lysande-framtid-pa-rals-men-inte-som-lokforare/)
+
+---
+
+## Hennes program kallades ”horhustelevision” – men sexologen Malena Ivarsson är en intellektuell pionjär
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+På 80-talet blev ”Fräcka fredag” så skandalomsusat att Malena Ivarsson fick bombhot. I sina memoarer skildrar hon krisen, uppväxten med en sträng prästpappa i Lund och nördar ner sig i Jungs begreppsvärld. I boken fördjupas den offentliga bilden av Ivarsson, skriver Esther Arndtzén.
+
+[Read Full Article](https://www.hd.se/kultur/hennes-program-kallades-horhustelevision-men-sexologen-malena-ivarsson-ar-en-intellektuell-pionjar/)
+
+---
+
+## Anställningsboom väntar för järnvägsyrken
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Söktrycket till lokförarutbildningen i Ängelholm har halverats inför vårens kursstart. Samtidigt väntar en anställningsboom för den som kan tänka sig ett annat jobb i järnvägsbranschen.
+
+[Read Full Article](https://www.sydsvenskan.se/skane/anstallningsboom-vantar-for-jarnvagsyrken/)
+
+---
+
+## AC kan krossa Hammarbys gulddröm: ”Göra alla de jobbiga sakerna”
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+MFF:s lagkapten är på sitt bästa humör. Anders Christiansen blickar in i framtiden, men har också glimten i ögat. Under söndagen kan MFF sätta krokben för Henrik Rydströms Hammarby i guldstriden. –  Vi ska visa att det är vår hemmaplan, säger Anders Christiansen.
+
+[Read Full Article](https://www.sydsvenskan.se/sport/ac-kan-krossa-hammarbys-gulddrom-gora-alla-de-jobbiga-sakerna/)
+
+---
+
+## Tyska protester urartade – med våld och plundring
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Våldsamheter utbröt på flera håll i Tyskland i samband med lördagens stora demonstrationer.
+
+[Read Full Article](https://www.svd.se/a/4O2PQG/tyska-protester-urartade-med-vald-och-plundring?utm_medium=rss)
+
+---
+
+## 49 dagar sedan valet – detta händer nu
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Sju veckor har gått sedan valdagen. Här är turerna kring regeringsbildningen – och vad som händer nu.
+
+[Read Full Article](https://www.hd.se/sverige/49-dagar-sedan-valet-detta-hander-nu/)
+
+---
+
+## 49 dagar sedan valet – detta händer nu
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Sju veckor har gått sedan valdagen. Här är turerna kring regeringsbildningen – och vad som händer nu.
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/49-dagar-sedan-valet-detta-hander-nu/)
+
+---
+
+## Statsvetare: Partierna ger sig först vid stupstocken
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Talmannens besked att pröva C-ledaren som statsminister har mötts av kritik. – Partierna är upprörda och förvånade och allt möjligt, men det viktiga är nog att det blir en omröstning, säger statsvetaren Jonas Hinnfors.
+
+[Read Full Article](https://www.hd.se/sverige/statsvetare-partierna-ger-sig-forst-vid-stupstocken/)
+
+---
+
+## Statsvetare: Partierna ger sig först vid stupstocken
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Talmannens besked att pröva C-ledaren som statsminister har mötts av kritik. – Partierna är upprörda och förvånade och allt möjligt, men det viktiga är nog att det blir en omröstning, säger statsvetaren Jonas Hinnfors.
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/statsvetare-partierna-ger-sig-forst-vid-stupstocken/)
+
+---
+
+## Häcken mot guldet – Sadiku hyllas: ”Inte bara att hon skriker”
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Det blev inget pris på Ballon d'Or-galan för Elena Sadiku. Men för BK Häcken är tränaren guld värd – snart troligtvis bokstavligen. – Ingen har väl missat hennes engagemang. Men det är inte bara att hon skriker, säger lagkaptenen Anna Anvegård.
+
+[Read Full Article](https://www.dn.se/sport/hacken-mot-guldet-sadiku-hyllas-inte-bara-att-hon-skriker/)
+
+---
+
+## Nostalgin kan vara en tröst för en värld som gått förlorad
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Nostalgin är granne med melankolin. Men vad saknar vi – och längtar efter? Kanske en plats, ett hem, en tid. Nostalgin påminner oss om att människan aldrig bor enbart i nuet. Den blottlägger det som var viktigt, men det förflutna kan aldrig återställas, skriver filosofen Thilde Wolf.
+
+[Read Full Article](https://www.dn.se/kultur/nostalgin-kan-vara-en-trost-for-en-varld-som-gatt-forlorad/)
+
+---
+
+## 49 dagar sedan valet – detta händer nu
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Sju veckor har gått sedan valdagen. Här är turerna kring regeringsbildningen – och vad som händer nu.
+
+[Read Full Article](https://www.svd.se/a/jvGqKo/49-dagar-sedan-valet-detta-hander-nu?utm_medium=rss)
+
+---
+
+## Statsvetare: Partierna ger sig först vid stupstocken
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Talmannens besked att pröva C-ledaren som statsminister har mötts av kritik.
+
+[Read Full Article](https://www.svd.se/a/mKJqLE/statsvetare-partierna-ger-sig-forst-vid-stupstocken?utm_medium=rss)
+
+---
+
+## Årets språkliga eldsjälar finns i Höganäs
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+I veckan fick enheten för flerspråkighet ta emot ett fint pris av Sveriges lärare och utbildningsföretaget ITL education. Arbetet i Höganäs prisas nu som årets språkliga eldsjäl.
+
+[Read Full Article](https://www.hd.se/hoganas/arets-sprakliga-eldsjalar-finns-i-hoganas/)
+
+---
+
+## Ny teknik hos polisen – enorm ökning av dna-träffar
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Ny teknik har i tysthet revolutionerat möjligheterna för polisens forensiker att identifiera misstänkta personer från komplicerade dna-spår. Sedan våren 2025 har antalet sökträffar ökat med 150 procent. – Det har haft en enormt stor påverkan på vår förmåga, säger Staffan Jansson på Nationellt forensiskt centrum (NFC).
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/ny-teknik-hos-polisen-enorm-okning-av-dna-traffar/)
+
+---
+
+## Nära 40 migranter räddade i Nordsjön
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+36 personer har räddats från en drivande båt i Nordsjön utanför Nederländernas kust, uppger lokala myndigheter på lördagen. Ytterligare två personer har gripits misstänkta för människosmuggling.
+
+[Read Full Article](https://www.hd.se/varlden/nara-40-migranter-raddade-i-nordsjon/)
 
 ---
 
 ## Live report on the war in Ukraine and the security situation in Europe
 **Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
+**Category:** General News | **Date:** 2026-11-01 (today)
 
 Follow our live reporting on the war in Ukraine and the security situation in Europe.
 
@@ -344,7 +884,7 @@ Follow our live reporting on the war in Ukraine and the security situation in Eu
 
 ## Live report on the war in Ukraine and the security situation in Europe
 **Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
+**Category:** General News | **Date:** 2026-11-01 (today)
 
 Follow our live reporting on the war in Ukraine and the security situation in Europe.
 
@@ -352,590 +892,9 @@ Follow our live reporting on the war in Ukraine and the security situation in Eu
 
 ---
 
-## Almgren inför maratondebuten: ”Otrolig atmosfär”
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-New York, New York … Det är ingen slump att det är just där som Andreas Almgren gör maratondebut på söndagen. – Det är en otrolig atmosfär runt hela loppet, säger det blågula löparesset.
-
-[Read Full Article](https://www.dn.se/sport/almgren-infor-maratondebuten-otrolig-atmosfar/)
-
----
-
-## Källor: USA kan attackera Iran dagen efter valet
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-USA kan komma att rikta attacker mot Iran så snart som onsdagen den 4 november – dagen efter det amerikanska mellanårsvalet, enligt källor som MS Now har pratat med.
-
-[Read Full Article](https://www.hd.se/varlden/kallor-usa-kan-attackera-iran-dagen-efter-valet/)
-
----
-
-## Källor: USA kan attackera Iran dagen efter valet
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-USA kan komma att rikta attacker mot Iran så snart som onsdagen den 4 november – dagen efter det amerikanska mellanårsvalet, enligt källor som MS Now har pratat med.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/kallor-usa-kan-attackera-iran-dagen-efter-valet/)
-
----
-
-## Ny dag av protester väntar i Frankrike
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Barrikaderade butiker, 70 000 poliser och gendarmer och ett 40-tal parisiska tunnelbanestationer som stängs. Frankrike förbereder sig på ännu en dag av demonstrationer.
-
-[Read Full Article](https://www.hd.se/varlden/ny-dag-av-protester-vantar-i-frankrike/)
-
----
-
-## Ny dag av protester väntar i Frankrike
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Barrikaderade butiker, 70 000 poliser och gendarmer och ett 40-tal parisiska tunnelbanestationer som stängs. Frankrike förbereder sig på ännu en dag av demonstrationer.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/ny-dag-av-protester-vantar-i-frankrike/)
-
----
-
-## Extremvärmen tvingar H&M att tänka nytt
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Återkommande värmeböljor och extremvärme ställer även modeindustrin inför nya utmaningar.
-
-[Read Full Article](https://www.svd.se/a/OgMz5V/extremvarmen-tvingar-h-m-att-tanka-nytt?utm_medium=rss)
-
----
-
-## Zombiernas dans lovar mer än den håller
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Elina Pirinens verk gestaltar en mörk och ondskefull plats fylld av starka drifter.
-
-[Read Full Article](https://www.svd.se/a/585LJe/zombiernas-dans-lovar-mer-an-den-haller?utm_medium=rss)
-
----
-
-## Ängelholmarens träbalk ska gynna skogen och byggbranschen
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Med sin kurskamrat tog Tilda Ardenvik fram en limträbalk som blev 50 procent starkare än de som finns på marknaden i dag. Nu prisas 23-åringen för sitt examensarbete.
-
-[Read Full Article](https://www.hd.se/angelholm/angelholmarens-trabalk-ska-gynna-skogen-och-byggbranschen/)
-
----
-
-## Läkare skrev ut mängder av narkotika – känd missbrukare fick flera nya recept
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Läkaren i Landskrona förnyade recept med korta intervaller och överförskrev narkotikaklassade läkemedel till ett flertal patienter. Bland annat till en känd missbrukare som överdoserat vid flera tillfällen.  Nu får läkaren tre års prövotid.
-
-[Read Full Article](https://www.hd.se/landskrona/lakare-skrev-ut-mangder-av-narkotika-till-patienter-en-med-tungt-missbruk/)
-
----
-
-## 26 år efter guldet – nu vill Pia Hansen tillbaka till OS
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Den tidigare OS-guldmedaljören i dubbeltrap har höga förväntningar inför första säsongen som förbundskapten. Pia Hansen ser stor potential i de svenska lerduveskyttarna när hon reser till Doha för att göra sitt första världsmästerskap utan bössa. – Tidigare förbundskaptener har lärt mig hur jag inte ska göra, säger hon.
-
-[Read Full Article](https://www.sydsvenskan.se/sport/26-ar-efter-guldet-nu-vill-pia-hansen-tillbaka-till-os/)
-
----
-
-## Besvikelse efter globala miljömötet: Tiden rinner ut
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-COP17 – toppmötet för att värna biologisk mångfald – är över. Men med begränsade framsteg, anser kritiker. ”Tiden håller på att rinna ut för att nå de mål som världens regeringar har satt upp för att vända naturkrisen”, säger Naturskyddsföreningens representant Ulrik Westman i en kommentar.
-
-[Read Full Article](https://www.hd.se/sverige/besvikelse-efter-globala-miljomotet-tiden-rinner-ut/)
-
----
-
-## Besvikelse efter globala miljömötet: Tiden rinner ut
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-COP17 – toppmötet för att värna biologisk mångfald – är över. Men med begränsade framsteg, anser kritiker. ”Tiden håller på att rinna ut för att nå de mål som världens regeringar har satt upp för att vända naturkrisen”, säger Naturskyddsföreningens representant Ulrik Westman i en kommentar.
-
-[Read Full Article](https://www.sydsvenskan.se/sverige/besvikelse-efter-globala-miljomotet-tiden-rinner-ut/)
-
----
-
-## Youtubern Per bjuder in till gården: ”Folk verkar gilla det vardagliga”
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-JÄVREBYN. Kreatörer som nischar in sig på ”gör-det-själv”- och instruktionsfilmer får miljontals visningar i sociala medier. Industriarbetaren Per Levander, 50, blev youtuber. – Det första var att våga ta steget, säger månskensbonden som mekar på gården utanför Piteå.
-
-[Read Full Article](https://www.dn.se/sverige/youtubern-per-bjuder-in-till-garden-folk-verkar-gilla-det-vardagliga/)
-
----
-
-## Ny dag av protester väntar i Frankrike
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Barrikaderade butiker, 70 000 poliser och gendarmer och ett 40-tal parisiska tunnelbanestationer som…
-
-[Read Full Article](https://www.svd.se/a/ElGvqA/ny-dag-av-protester-vantar-i-frankrike?utm_medium=rss)
-
----
-
-## Besvikelse efter globala miljömötet: Tiden rinner ut
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-COP17 – toppmötet för att värna biologisk mångfald – är över. Men med begränsade framsteg, anser…
-
-[Read Full Article](https://www.svd.se/a/QgLwwQ/besvikelse-efter-globala-miljomotet-tiden-rinner-ut?utm_medium=rss)
-
----
-
-## Öppnar upp om saknaden: ”Vill så gärna ha någon att skratta med”
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-När Hans Wahlgren gick bort för lite mer än två år sedan blev det en stor omställning för Christina Schollin. De hade levt tillsammans i 67 år. – Det är ett pågående arbete. Jag är ju tvungen att lära mig att vara ensam, säger Christina Schollin i Nyhetsmorgon. Vad är det svåraste med det? – Det är tråkigt, framför allt. Det är tråkigt att behöva ta alla beslut själv och inte ha någon att prata med. Inte ha någon att skratta med. Jag vill så gärna ha någon att skratta med. Mammarollen den bästa Hon har skrivit en bok om sitt långa liv, där hon bland annat berättar om ”den tredje akten” – den utan maken Hans. På senare år har hon tagit upp skådespelandet igen med flera roller på Dramaten – något hon tackar Hans för. – Tänk att han, mot slutet, var så insiktsfull. Och att han rådde mig till att ta den här utmaningen. För han förstod att jag skulle behöva det. Hon är en av Sveriges mest firade skådespelare och har jobbat med storheter som Ingmar Bergman. Men hon tackade nej till att arbeta i Hollywood, på grund av barnen. – Att vara mamma är den bästa rollen. Det är det bästa man kan göra med sitt liv – att skapa en familj. Det har varit det primära. De stora valen i mitt liv har jag gjort till förmån för mina barn. Jag ångrar inga beslut. ”Inte gammal – årsrik” För den yngre publiken är hon mest känd som Bianca Ingrossos mormor i långköraren Wahlgrens värld och tillhör ju Sveriges kanske mest kända familj. Stoltheten över familjen är tydlig. – Att vara mamma till fyra barn som jag har fått, och nio barnbarn, två barnbarnsbarn och ett barnbarnsbarn på väg. Med åldern och förlusten av livspartnern Hans har hon lärt sig att ta vara på livet. – Det är ett pågående liv. Jag tror att man gör klokt i att inte haka upp sig på en siffra. När folk säger: ”Du är så och så gammal...” Nej, jag är inte gammal. Jag är årsrik. Jag är rik på år. Det kan ta slut i morgon dag, det vet vi ju ingenting om. Men varför inte göra det bästa möjliga av varje dag i livet? – Jag tror ju på tankens kraft. Jag tror att vi har så mycket inom oss så att vi kan forma vårt eget liv som vi vill.
-
-[Read Full Article](https://www.tv4.se/artikel/6OmX29R4UnXQO77NUsGpAe/om-livet-efter-hans-vill-sa-gaerna-ha-nagon-att-skratta-med)
-
----
-
-## Polestar 3 växlar upp
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Polestar 3 är sig lik på utsidan. Under skalet väntar 800-voltsarkitektur, uppdaterad drivlina och snabbare datorkraft. Vi kör Performance-versionen i ett böljande Sörmland.
-
-[Read Full Article](https://www.dn.se/motor/polestar-3-vaxlar-upp/)
-
----
-
-## Därför stoppas ny utbyggnad av Fosieanstalten
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Det pågår en intensiv jakt på fler fängelseplatser – men nu stoppas en ny utbyggnad av Fosieanstalten. Fladdermöss, fåglar och fornlämningar går före.  Istället kan det byggas på annat håll i Malmö.
-
-[Read Full Article](https://www.sydsvenskan.se/malmo/darfor-stoppas-ny-utbyggnad-av-fosieanstalten/)
-
----
-
-## "Ghosts of Rosegarden" är en småporrig splatter med extra allt
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Elina Pirinen låter kroppen bli spelplan för både extrem utsatthet och extrem skönhet i ”Ghosts of Rosegarden”. Dansföreställningen är en magstark och kroppslig upplevelse, skriver DN:s Lisa Boda som grimaserar av obehag på Dansens hus.
-
-[Read Full Article](https://www.dn.se/kultur/ghosts-of-rosegarden-ar-en-smaporrig-splatter-med-extra-allt/)
-
----
-
-## Förvirringen i Alaska – när två kandidater heter samma sak
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Med endast ett par dagar kvar till mellanårsvalet har en konflikt seglat upp i senatsvalkampanjen i delstaten. Den sittande republikanske senatorn Dan S. Sullivan utmanas av demokraten Mary Peltola. Men på valsedeln finns också en tredje kandidat. Daniel J. Sullivan Jr. Nu misstänker federala myndigheter att vissa väljare kan ha trott att de röstat på den sittande senatorn när de i själva verket kryssat för den andra Sullivan, rapporterar AP. Justitiedepartementet har därför begärt ett domstolsbeslut som skulle göra det möjligt att bevara och särskilja de valsedlar där Daniel J. Sullivan Jr. rankats. Brottsutredning pågår Samtidigt bekräftar federala åklagare att de utreder valfusk.  Bakgrunden är uppgifter om att personer med koppling till demokrater kan ha försökt få Daniel J. Sullivan Jr. att ställa upp i valet. Kritiker menar att syftet skulle ha varit att skapa förvirring bland väljarna och ta röster från den sittande republikanska senatorn. Demokraternas kandidat Mary Peltola förnekar anklagelserna. – Jag är inte intresserad av att lura väljare, säger hon, enligt AP. Daniel J. Sullivan Jr, som är en pensionerad lärare från fiskesamhället Petersburg i Alaska, har även han avfärdat anklagelserna i en intervju med AP om att hans kandidatur skulle vara ett försök att hjälpa demokraterna och säger att han funderat på att ställa upp i val i mer än tio år. – Det här är mitt beslut. Senatsvalet i Alaska räknas som ett av de viktigaste i årets mellanårsval och kan få betydelse för vilket parti som får kontroll över senaten. I början av september pekade mycket åt att det skulle bli en jämn duell mellan Peltola och ”den riktiga” Sullivan. Nu pekar både experter och spelbolagen på att det blir Peltola som vinner relativt komfortabelt.  Trump till attack President Donald Trump har gått till hård attack mot Peltola efter uppgifterna. – Mary Peltola borde dra sig ur valkampanjen, sa Trump till reportrar tidigare i veckan. – Jag tycker att de borde ställas inför rätta.
-
-[Read Full Article](https://www.tv4.se/artikel/7uHMF7LpHBEkZEJDsK6Mjq/totalkaos-pa-alaska-naer-kandidaterna-heter-samma-sak)
-
----
-
-## Familjens mörker blir storartad litteratur i ”Gruvans tjugoen arvingar”
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Klanen Cardinal håller ihop till varje pris – också när sanningen hotar att tränga fram. I Jocelyne Sauciers roman växer en vild skröna till en obeveklig tragedi, berättad med en förförelsekraft som får även en skeptisk Nina Björk att kapitulera.
-
-[Read Full Article](https://www.dn.se/kultur/familjens-morker-blir-storartad-litteratur-i-gruvans-tjugoen-arvingar/)
-
----
-
-## Det bor en spökflicka på Grand Hotel – i ny spritdränkt berättelse
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Mitt i natten väcks Emma av en spökflicka i sin säng och tillsammans ger de sig ut på en tidsresa.  I en ny bilderbok visas Grand Hotel i sina forna glansdagar med fulla professorer, bio på hörnet och en välkänd rockstjärna i tornrummet.  – Vad har det här huset inte upplevt, säger illustratören Petter Lönegård.
-
-[Read Full Article](https://www.sydsvenskan.se/lund/det-bor-en-spokflicka-pa-grand-hotel/)
-
----
-
-## Så kan gymmet i Ljungbyhed räddas
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Sedan en månad tillbaka har kommunens gym i Ljungbyhed varit stängt. Nu tittar man på lösningar för att kunna öppna det igen.
-– Det finns ett intresse och ett behov av det, säger kultur-och fritidschefen Arne Grau Amnér.
-
-[Read Full Article](https://www.hd.se/klippan/sa-kan-gymmet-i-ljungbyhed-raddas/)
-
----
-
-## Nu får Värmestugan dela ut mat igen
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Miljöförvaltningen har hävt förbudet mot Värmestugans livsmedelshantering. Nu kan föreningen åter dela ut mat till behövande.
-
-[Read Full Article](https://www.hd.se/helsingborg/nu-far-varmestugan-dela-ut-mat-igen/)
-
----
-
-## Amanda lämnade Sigtuna efter misshandeln
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-För 14 år sedan gick Amanda Tedenljung på Sigtunaskolan när hennes klasskamrat misshandlades av fem killar i trean. Hon bytte skola. – Jag är väldigt glad för att jag fattade det beslutet, säger hon i dag.
-
-[Read Full Article](https://www.dn.se/sverige/amanda-lamnade-sigtuna-efter-misshandeln/)
-
----
-
-## Catia Hultquist: Jakten på skönhet har blivit en livsfarlig kultursjuka
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Att den allra mest skadliga hetsen kring skönhet hunnit ikapp männen skulle kunna ses som en mörk form av jämställdhet. Men det vidriga med ett fenomen har snarare en tendens att bli tydligt först när det också drabbar män.
-
-[Read Full Article](https://www.dn.se/kultur/catia-hultquist-jakten-pa-skonhet-har-blivit-en-livsfarlig-kultursjuka/)
-
----
-
-## Så blev Peter Jöback förälskad i Malmö Live
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Varför har Peter Jöback valt att spela in sin nya platta i Malmö med stadens symfoniorkester? Vi ringde upp sångaren för att prata med honom om låtarnas filmscener och om att bli Sveriges Michael Bublé.
-
-[Read Full Article](https://www.sydsvenskan.se/dygnet-runt/sa-blev-peter-joback-foralskad-i-malmo-live/)
-
----
-
-## Norsk skithus-kampanj viral efter Trumputspel
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Norge svarar på USA:s president Donald Trumps uttalande om att landet är ett ”skithusland” – genom att marknadsföra offentliga toaletter i sociala medier.
-
-[Read Full Article](https://www.hd.se/varlden/norsk-skithus-kampanj-viral-efter-trumputspel/)
-
----
-
-## Flera bränder på Södermalm – polisen utreder samband
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79253&utm_medium=rss)
-
----
-
-## Inga genombrott för skyddet av miljön
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Det kom inga genombrott under FN-mötet om biologisk mångfald. SvD reder ut vad som hände på mötet…
-
-[Read Full Article](https://www.svd.se/a/WgVz8a/svd-forklarar-vad-blev-resultatet-av-fn-motet-om-biologisk-mangfald?utm_medium=rss)
-
----
-
-## Hjärtat rusar: Varför dog rikemanssonen?
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-En rik tonårskille kastar sig ut från en balkong. Självmord, sägs det.
-
-[Read Full Article](https://www.svd.se/a/n9E0j5/hjartat-rusar-varfor-dog-rikemanssonen?utm_medium=rss)
-
----
-
-## ”Alla tvingas svära trohet till lögnen”
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Efter att republikanen Stephen Richer i Arizona hade sågat Trumps anklagelser om valfusk 2020 hotade…
-
-[Read Full Article](https://www.svd.se/a/9k9AW9/republikanen-stephen-richer-hotades-med-lynchning-av-partikamrat-trumpismen-maste-rivas-upp-med-rotterna?utm_medium=rss)
-
----
-
-## 200 tonåringar dök upp på hemmafest
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79251&utm_medium=rss)
-
----
-
-## Mer populärt med halloween och matpumpor – odlingarna har växt
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Pumpaodlingarna sprider ut sig i Sverige och skörden har växt de senaste tio åren. Lantbrukaren Leif Nilsson har följt utvecklingen på nära håll – han sådde sitt första pumpafrö 1991 på Österlen i Skåne. – Då hade halloween precis kommit hit och pumporna tog slut på en gång, säger han.
-
-[Read Full Article](https://www.dn.se/ekonomi/mer-populart-med-halloween-och-matpumpor-odlingarna-har-vaxt/)
-
----
-
-## Norsk skithus-kampanj viral efter Trumputspel
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Norge svarar på USA:s president Donald Trumps uttalande om att landet är ett ”skithusland” – genom att marknadsföra offentliga toaletter i sociala medier.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/norsk-skithus-kampanj-viral-efter-trumputspel/)
-
----
-
-## Ny brand i Stockholm i natt – polisen befarar pyroman
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Papperskorgar, uteplatser, ett skjul och en båt har bland annat brunnit. Doften av brandrök har varit vanligt förekommande kring norra Hammarbyhamnen på Södermalm i Stockholm den senaste tiden. Polisen tittar på händelserna tillsammans och arbetar bland annat med utredning om både mordbrand och grov mordbrand, vilket Expressen tidigare skrivit. – Vi har haft en handfull bränder i området runt norra Hammarbyhamnen. Hittills har det varit på olika platsen där man kan anta att någon har tänt på, säger Carina Skagerlind. Stärkt upp i området Polisen har stänkt upp med extra resurser i området i hopp om att kunna agera snabbt om nya bränder uppstår. – Vi har jobbat med extra uppmärksamhet och haft flera poliser i området. Vi har gjort en del dörrknackning och ber också allmänheten om tips, om det är någon som gjort en iakttagelse, säger hon och fortsätter: – Vi försöker ta reda på vad som händer och vem eller vilka som ligger bakom det här, säger hon. Bränderna har hittills varit hanterbara för brandkåren. Spridningsrisken får vissa av bränderna gör dock att de utreds som bland annat grov mordbrand och mordbrand. – Det handlar om vad som kunde ha hänt, även om det är långt till bostäder så har det funnits en risk, säger hon.
-
-[Read Full Article](https://www.tv4.se/artikel/1S2uIGI8EpCpLC3RK8wnp7/ny-brand-i-centrala-stockholm-polisen-befarar-pyroman)
-
----
-
-## Tankeväckande bok om arkitekturens mjuka värden
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-I ”Meningen med hus” pläderar arkitekten Rasmus Wærn för ett mer omsorgsfullt byggande, som får människor att känna sig trygga och bekräftade. Boken är snabbläst och välargumenterad, tycker Bo Madestrand.
-
-[Read Full Article](https://www.dn.se/kultur/tankevackande-bok-om-arkitekturens-mjuka-varden/)
-
----
-
-## Färgerna skiner och sjunger på Waldemarsudde
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-”Den underbara färgen. Göteborgskolorismen i nytt ljus” har kommit till Stockholm och Waldemarsuddes. Jessica Kempe tycker att museets tillägg gör utställningen splittrad men hoppas att en ny publik hittar till kärntruppens lysande färglyrik.
-
-[Read Full Article](https://www.dn.se/kultur/fargerna-skiner-och-sjunger-pa-waldemarsudde/)
-
----
-
-## Nu väntas första räntehöjningen – ”tuffare tider”
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Tre höjningar av Riksbankens styrränta står för dörren om man lyssnar på experter. Eller fyra – om man tittar på vad handlarna på räntemarknaden räknar med. Den första höjningen – från 1,75 till 2,00 procent – väntas redan på onsdag.
-
-[Read Full Article](https://www.dn.se/ekonomi/nu-vantas-forsta-rantehojningen-tuffare-tider/)
-
----
-
-## Kolliderande kometer inte bakom livet på jorden
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Var det kometer som kom med livet till jorden? Troligtvis inte, enligt ny forskning.
-
-[Read Full Article](https://www.dn.se/sverige/kolliderande-kometer-inte-bakom-livet-pa-jorden/)
-
----
-
-## Höganäs säljer flera villor och en gård
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Nu ska Forsanderska villan bredvid KKAM säljas. Även en villa på Strandgatan som kommunen haft i sin ägo ska ut på marknaden.
-
-[Read Full Article](https://www.hd.se/hoganas/hoganas-saljer-flera-villor-och-en-gard/)
-
----
-
-## Nu väntas första räntehöjningen – ”tuffare tider”
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Tre höjningar av Riksbankens styrränta står för dörren om man lyssnar på experter. Eller fyra – om man tittar på vad handlarna på räntemarknaden räknar med. Den första höjningen – från 1,75 till 2,00 procent – väntas redan på onsdag.
-
-[Read Full Article](https://www.hd.se/ekonomi/nu-vantas-forsta-rantehojningen-tuffare-tider/)
-
----
-
-## Nu väntas första räntehöjningen – ”tuffare tider”
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Tre höjningar av Riksbankens styrränta står för dörren om man lyssnar på experter. Eller fyra – om man tittar på vad handlarna på räntemarknaden räknar med. Den första höjningen – från 1,75 till 2,00 procent – väntas redan på onsdag.
-
-[Read Full Article](https://www.sydsvenskan.se/ekonomi/nu-vantas-forsta-rantehojningen-tuffare-tider/)
-
----
-
-## Familjen riskerar asylboende – 20 mil från vänner, jobb och skola
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-I februari träffade TV4 Nyheterna familjen i Norsjö. Då väntade de på att utvisas till Iran, efter att ha fått avslag på sin asylansökan. Familjen hade tidigare fått stanna i Sverige genom det så kallade spårbytet, som gjorde det möjligt för vissa tidigare asylsökande att ansöka om arbetstillstånd efter avslag. Men när möjligheten avskaffades sökte de asyl på nytt. Nu kan de inte få besked från Migrationsverket, med anledning av det allvarliga säkerhetsläget i Iran. – Så jobbigt. Så jobbigt. Jag orkar inte vänta mer på det beslutet, säger Sara Ghorbani. Och förra veckan kom ännu ett besked som skakade familjen. De skulle flyttas till ett asylboende i Boden. Vill inte lämna sitt liv i Norsjö Den nya mottagandelagen, som trädde i kraft den 1 oktober, innebär att asylsökande som huvudregel ska bo på Migrationsverkets boenden för att ha rätt till ekonomiskt stöd. För familjen innebär det att de riskerar att tvingas lämna sitt hem, sina arbeten och sonens skola för att flytta omkring 20 mil bort. – Att lämna jobb, lämna hus, lämna skolan och arbetet, allt, och bo på ett boende och få bidrag. Jag tänker: Nej, nej, nej, säger Sara. Ovissheten och risken att behöva bryta upp från vardagen påverkar också sonen Parham: – Så länge jag inte tänker på det… jag är jätteaktiv, spelar bland annat hockey. Men det påverkar mig också, säger han. Beslutet har omprövats Enligt Migrationsverket är man restriktiv med att göra undantag från kravet på att bo på ett anvisat asylboende. Men familjen har nu fått beslutet omprövat. Handläggaren har samtidigt uppgett att det fortfarande finns en risk att de måste flytta till boendet i Boden. För Sara och Farhood fortsätter därmed ovissheten – både om framtiden i Sverige och om de får stanna kvar i Norsjö, där familjen har byggt upp sitt liv.
-
-[Read Full Article](https://www.tv4.se/artikel/7H8MfShWwCVkhRuVBbCGqY/tvingas-laemna-vaenner-jobb-och-skola-foer-asylboende-20-mil-bort)
-
----
-
-## ”Ryssland har blivit bättre på att ändra sin stridsteknik”
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Under sommaren och hösten har Europa drabbats av bränder, explosioner och sabotage mot strategiska anläggningar. Bland annat har drönare med sprängmedel påträffats vid Leipzigs flygplats. Försvarsmakten ser dessa händelser som en del av Rysslands försök att påverka väst och splittra stödet till Ukraina. Samtidigt framstår den ryska armén som allt mer kompetent i sin krigföring i Ukraina. ”Kan mycket väl vara på svenskt territorium” Försvarsmakten förbereder sig för flera olika typer av attacker, både mot militär och civil infrastruktur. Ryssland kan komma att testa Nato-sammanhållningen genom större angrepp i Europa. Försvarsmakten planerar för det värsta scenariot och har en beredskapsstege både nationellt och inom alliansen. På frågan om vilken rysk kapacitet som är svårast för Sverige att hantera, så har hon svårt att svara, då den ryska utvecklingen sker på flera områden samtidigt. Hon utesluter inte att Ryssland kan komma att testa Nato genom angrepp mot Sverige. – Längs östra gränsen är kanske det vi mest planerar för, men vi ska ju planera för alla typer av attacker i hela operationsområdet. Det kan mycket väl vara på svenskt territorium också, säger hon i Ekots lördagsintervju.  Ryska krigsmaskinen utvecklas Ryssland har utvecklat sin krigföring genom erfarenheterna från Ukraina, men har samtidigt förlorat mycket personal och har en svag ekonomi. – Ryssland har både blivit bättre och sämre. De har tappat en hel del riktigt välutbildad personal och driver sin krigföring på en krigsekonomi som inte är hållbar i längden, säger hon.  En av de aspekter som oroar Försvarsmakten mest är Rysslands ökade förmåga att anpassa sig och ändra stridsteknik under pågående operationer. – Om de nu börjar bli lite mer anpassningsbara, då är det någonting som vi måste kunna förhålla oss till, säger Eva Skoog Haslum.
-
-[Read Full Article](https://www.tv4.se/artikel/7oCO0cxBR9Z7H3LAzYkBvP/ryssland-har-blivit-baettre-pa-att-aendra-sin-stridsteknik)
-
----
-
-## Polis sköt varningsskott vid grovt rån i Staffanstorp
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Två pojkar ertappades under fredagskvällen av polis under ett misstänkt grovt rån. Polisen sköt varningsskott, och pojkarna kunde gripas.
-
-[Read Full Article](https://www.sydsvenskan.se/staffanstorp/polis-skot-varningsskott-vid-ran-i-staffanstorp/)
-
----
-
-## Systersången blir kvällens räddning när Venus Anon intar Fotografiska
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Venus Anons eteriska r'n'b-värld passar perfekt i kulisserna på Fotografiska, men lokalens ljudmässiga begränsningar drar ner upplevelsen. Kvällen räddas dock av en systerlig intimitet, skriver Frida Söderqvist.
-
-[Read Full Article](https://www.dn.se/kultur/systersangen-blir-kvallens-raddning-nar-venus-anon-intar-fotografiska/)
-
----
-
-## Nu väntas första räntehöjningen – ”tuffare tider”
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Tre höjningar av Riksbankens styrränta står för dörren om man lyssnar på experter.
-
-[Read Full Article](https://www.svd.se/a/Wgrkg2/nu-vantas-forsta-rantehojningen-tuffare-tider?utm_medium=rss)
-
----
-
-## Johan Croneman: För många ”darlings” är kvar i ”Drömmarnas liga”
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Det är inget fel på ambitionen när turbulensen efter landslagslegendaren Andreas Granqvists klubbyte skildras i dokumentären ”Drömmarnas liga”. Men för många darlings som borde dödas får leva kvar, menar DN:s sport-i-tv-krönikör Johan Croneman.
-
-[Read Full Article](https://www.dn.se/sport/johan-croneman-for-manga-darlings-ar-kvar-i-drommarnas-liga/)
-
----
-
-## Ukrainska lyftarna kräver bojkott: ”Ska vi åka till fienden?”
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-LVIV. Beskedet att Ryssland får anordna VM 2030 var en chock för tyngdlyftare i Ukraina. Det ryska värdskapet grusar OS-drömmar och får unga idrottare att ifrågasätta sporten. – Nu frågar jag mig själv: varför ska jag ens hålla på med det här? säger den 18-åriga lyftaren Alina Hosjovska.
-
-[Read Full Article](https://www.dn.se/sport/ukrainska-lyftarna-kraver-bojkott-ska-vi-aka-till-fienden/)
-
----
-
-## En bok för alla fyller 50: ”Det anses fortfarande fint att få sin bok utgiven hos oss”
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Förlaget En bok för alla grundades för att göra kvalitetslitteratur tillgängligt för så många som möjligt. 50 år senare ligger fokus på barn- och ungdomsböcker, men kärnan är densamma. – Jag är väldigt stolt och glad över att vi kan fortsätta finnas, säger vd:n Elin Lucassi.
-
-[Read Full Article](https://www.dn.se/kultur/en-bok-for-alla-fyller-50-det-anses-fortfarande-fint-att-fa-sin-bok-utgiven-hos-oss/)
-
----
-
-## Worldpeace är allt vi vill ha, tack!
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Londonduon Worldpeace DMT har gjort oktober månads bästa album, menar Idha Holmlund. Andra starka släpp kommer från bland andra Clutter, Fontaines D.C och Mon Rayon.
-
-[Read Full Article](https://www.hd.se/kultur/worldpeace-ar-allt-vi-vill-ha-tack/)
-
----
-
-## Mycket liv och glädje när festivalen Kaleo arrangeras i Falun
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-350 ungdomar och volontärer är samlade i EFK-församlingens lokaler.
-
-[Read Full Article](https://www.dagen.se/nyheter/mycket-liv-och-glaedje-naer-festivalen-kaleo-arrangeras-i-falun/10610631)
-
----
-
-## En bok öppnade vägen till passionen: ”Det kanske låter fjantigt”
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-En byapåg från vischan hade aldrig tänkt att världen låg öppen för honom. På bankjobbet i Sjöbo blev en gurus verk den stora ögonöppnaren. I dag njuter MFF:s förre chefsscout Robin Asterhed kanske mest av att kunna dricka kaffe med morfar.
-
-[Read Full Article](https://www.sydsvenskan.se/sport/en-bok-oppnade-vagen-till-passionen-det-kanske-later-fjantigt/)
-
----
-
-## Grov misshandel på Stattena
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Strax efter midnatt misshandlade flera personer en person utomhus i norra Helsingborg.
-
-[Read Full Article](https://www.hd.se/helsingborg/grov-misshandel-i-stattena/)
-
----
-
-## Stefan Holms roman är värd ett DM-guld
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-En fråga som säkert dök upp hos många efter att Stefan Holm angrep en journalist på Bokmässan är vad höjdhoppsstjärnan gjorde där – svaret är att han är författare till romanceböcker tillsammans med sin fru. DN:s Kerstin Särneö läser en roman som inte når världsrekordnivåer men som bränner till i skildringen av idrottarens vardag.
-
-[Read Full Article](https://www.dn.se/kultur/stefan-holms-roman-ar-vard-ett-dm-guld/)
-
----
-
-## Tumultartade protester och politisk maktstrid i Polen: ”Statskupp”
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-En grind sågades upp och demonstranter samlades utanför Polens författningsdomstol på fredagen. President Karol Nawrocki anser att landets konstitutionella ordning kränkts av regeringen – och tog sig själv förbi polispådraget och in i byggnaden. Men premiärminister Donald Tusk försvarar den avstängning av en chefsdomare som utlöste protesterna.
-
-[Read Full Article](https://www.dn.se/varlden/tumultartade-protester-och-politisk-maktstrid-i-polen-statskupp/)
-
----
-
-## Två vårdas på sjukhus efter fall från balkong
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-I samband med en fest i Lund föll en man och en kvinna från en balkong. De båda fördes till sjukhus för vård, och polisen utreder nu vållande till kroppsskada.
-
-[Read Full Article](https://www.sydsvenskan.se/lund/tva-vardas-pa-sjukhus-efter-fall-fran-balkong/)
-
----
-
 ## Sydsvenskan Direkt
 **Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
+**Category:** General News | **Date:** 2026-11-01 (today)
 
 Follow the news flow in Sydsvenskan Direkt - first with the latest from Malmö, Lund, Skåne and Denmark.
 
@@ -943,29 +902,697 @@ Follow the news flow in Sydsvenskan Direkt - first with the latest from Malmö, 
 
 ---
 
-## Så kan halloween förvärra läget i Paris: ”Går ut maskerade”
+## Flera poäng för Nylander i Torontos seger
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Toronto har hämtat sig efter två raka förluster och tog i natt hem segern med 4–2 mot Vancouver på bortaplan. NHL-svensken William Nylander noterades för både ett mål och en assist för vinnarlaget.
+
+[Read Full Article](https://www.hd.se/sport/flera-poang-for-nylander-i-torontos-seger/)
+
+---
+
+## Nya skatter i EU – så vill de lösa budgetkrisen
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+EU-kommissionen, rådsordföranden, parlamentet och mängder av medlemsländer trycker på för nya…
+
+[Read Full Article](https://www.svd.se/a/2V2694/nya-skatter-i-eu-sa-vill-de-losa-budgetkrisen?utm_medium=rss)
+
+---
+
+## Tyska protester urartade på många håll
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+De så kallade Gen Z-protesterna för sänkta levnadskostnader spårade ur på många håll i Tyskland under kvällen och natten. Hundratals har gripits och flera poliser har skadats. Regeringspartiet CDU kräver nu hårdare tag.
+
+[Read Full Article](https://www.dn.se/varlden/tyska-protester-urartade-pa-manga-hall/)
+
+---
+
+## Herr B: Kicka nikotinet med en ny dansk anfallsmetod
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+I dag puffar norra Europas kåsörsdarling fram sitt livs nikotinhistoria och fattar beslutet att aldrig pröva igen. Det är inte värt den missade poängen.
+
+[Read Full Article](https://www.dn.se/kultur/herr-b-kicka-nikotinet-med-nya-danska-anfallsmetoden/)
+
+---
+
+## Firade halloween som blodig hand
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Heidi Klum är känd för sina spektakulära halloweendräkter – och årets firande var inget undantag.
+
+[Read Full Article](https://www.svd.se/a/AbOawx/firade-halloween-som-blodig-hand?utm_medium=rss)
+
+---
+
+## De kastas ut från "GVFÖ XL"
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Det har stormat ordentligt kring ”Gift vid första ögonkastet XL”. I veckan meddelade två av programmets experter att de inte vill fortsätta i nästa säsong. Nu kastas paret Max Turpeinen och Belinda Hillman ur SVT-produktionen mitt i säsongen.
+
+[Read Full Article](https://www.dn.se/kultur/de-kastas-ut-fran-gvfo-xl/)
+
+---
+
+## Kristersson får högst förtroende i ny mätning
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Moderaternas partiledare Ulf Kristersson går om Socialdemokraternas Magdalena Andersson i förtroende hos väljarna, enligt en ny mätning från Indikator Opinion.
+
+[Read Full Article](https://www.hd.se/sverige/kristersson-far-hogst-fortroende-i-ny-matning/)
+
+---
+
+## Kristersson får högst förtroende i ny mätning
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Moderaternas partiledare Ulf Kristersson går om Socialdemokraternas Magdalena Andersson i förtroende hos väljarna, enligt en ny mätning från Indikator Opinion.
+
+[Read Full Article](https://www.sydsvenskan.se/sverige/kristersson-far-hogst-fortroende-i-ny-matning/)
+
+---
+
+## De kastas ut från ”GVFÖ XL”
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Det har stormat ordentligt kring ”Gift vid första ögonkastet XL”. I veckan meddelade två av programmets experter att de inte vill fortsätta i nästa säsong. Nu kastas paret Max Turpeinen och Belinda Hillman ur SVT-produktionen mitt i säsongen.
+
+[Read Full Article](https://www.hd.se/noje/de-kastas-ut-fran-gvfo-xl/)
+
+---
+
+## De kastas ut från ”GVFÖ XL”
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Det har stormat ordentligt kring ”Gift vid första ögonkastet XL”. I veckan meddelade två av programmets experter att de inte vill fortsätta i nästa säsong. Nu kastas paret Max Turpeinen och Belinda Hillman ur SVT-produktionen mitt i säsongen.
+
+[Read Full Article](https://www.sydsvenskan.se/noje/de-kastas-ut-fran-gvfo-xl/)
+
+---
+
+## Ryskt oljeraffinaderi uppges brinna
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.svd.se/a/ja1n9q/konflikten-mellan-ukraina-och-ryssland-har-ar-senaste-nytt?utm_source=sdrn%3Asvdse%3Aarticle%3AwA9Gmd&pinnedEntry=79270&utm_medium=rss)
+
+---
+
+## Det började med en resa till Kenya
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Länge såg det ut som om nordiska löpare aldrig mer skulle kunna mäta sig med de bästa från Kenya och…
+
+[Read Full Article](https://www.svd.se/a/0BRW52/andreas-almgren-och-det-nya-nordiska-loparundret?utm_medium=rss)
+
+---
+
+## Här firar Heidi Klum halloween – utklädd till blodig hand
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+På lördagen arrangerade den tyska fotomodellen sin storslagna halloweenfest i New York för 25:e gången. Klum bjöd som vanligt på en överraskande kostym – hon kom som en avhuggen hand där bara ögonen och munnen syntes och blod droppade när hon stack ut tungan. Idén fick Klum förra året när hon tittade på sin egen vänsterhand och dräkten var bland annat försedd med långa röda naglar och en vigselring. Det tog ungefär fem till sex timmar att få på sig utstyrseln, som hon beskriver som ”ganska tung” att bära. De senaste åren har Klum bland annat klätt ut sig till Medusa, en varulv från Michael Jacksons musikvideo ”Thriller” samt en gigantisk mask.
+
+[Read Full Article](https://www.tv4.se/artikel/tt-261101-klumhalloween1-aed9b852/klum-firade-halloween-utkladd-till-blodig-hand)
+
+---
+
+## Ny teknik hos polisen – enorm ökning av dna-träffar
+**Outlet:** Helsingborgs Dagblad (HD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Ny teknik har i tysthet revolutionerat möjligheterna för polisens forensiker att identifiera misstänkta personer från komplicerade dna-spår. Sedan våren 2025 har antalet sökträffar ökat med 150 procent. – Det har haft en enormt stor påverkan på vår förmåga, säger Staffan Jansson på Nationellt forensiskt centrum (NFC).
+
+[Read Full Article](https://www.hd.se/sverige/ny-teknik-hos-polisen-enorm-okning-av-dna-traffar/)
+
+---
+
+## Ny teknik hos polisen – enorm ökning av dna-träffar
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Ny teknik har i tysthet revolutionerat möjligheterna för polisens forensiker att identifiera…
+
+[Read Full Article](https://www.svd.se/a/R5WMEJ/ny-teknik-hos-polisen-enorm-okning-av-dna-traffar?utm_medium=rss)
+
+---
+
+## De kastas ut från ”GVFÖ XL”
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Det var inte ett lätt beslut, säger relationsexperten Leigh Norén till TT. Max och Belinda petas för att de varit för passiva och motvilliga att delta i programmets olika moment. Samma premiss gäller för alla. Man kan inte ha ett par som är sårbara och delar med sig, och ett annat som inte gör det. Det blir inte riktigt schysst mot de andra deltagarna, säger Leigh Norén. Beslutet att be Max Turpeinen och Belinda Hillman att lämna produktionen innan inspelningens slut var enligt Norén en ”samlad bedömning” efter att experterna rannsakat sig själva och fört diskussioner om hur de skulle få Max och Belinda att öppna sig mer. ”Ville inte delta” Men när Max sagt att han bara var där för att hitta en livskamrat och att paret inte var intresserat av att öppna sig under parmiddagar och i sina samtal med programmets experter var deras fortsatta medverkan svår att motivera, enligt Leigh Norén. Då blev det ju väldigt tydligt för oss att vi kanske inte ska fortsätta pusha på. De ville inte delta i experimentet för de har redan hittat varandra. Och okej, de är väldigt nöjda, så då finns det ju ingen poäng heller att vi fortsätter, säger Norén. ”Ett stort beslut” TT: Handlar det om att det blev för dålig tv, helt enkelt? Nej, det tror jag inte faktiskt. Det var ett stort beslut att säga hej då till dem. Och vi ville hjälpa dem, så vi tänkte hela tiden att de kanske värmer upp, garden kanske kommer ner efter ett tag. Men den verkade inte göra det.
+
+[Read Full Article](https://www.tv4.se/artikel/tt-261101-gvfo1-e61f4b42/de-kastas-ut-fran-gvfo-xl)
+
+---
+
+## Trump: Flera mål att ”ta hand om” i Iran
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.svd.se/a/GxM6aJ/konflikterna-i-mellanostern-live-senaste-nytt?utm_source=sdrn%3Asvdse%3Aarticle%3AwA9Gmd&pinnedEntry=79269&utm_medium=rss)
+
+---
+
+## Nordkorea pekas ut för kryptostöld
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+_No summary text available from RSS._
+
+[Read Full Article](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79267&utm_medium=rss)
+
+---
+
+## ”Batman” vid brinnande soptunna – demonstrationer blev ”ren skräck”
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Under parollen ”Generation Z regerar!” planerades demonstrationer genomföras i 34 tyska städer. Över 184 000 deltagare hade anmält sig. Under eftermiddagen växte folksamlingarna i Berlin, Hamburg, Frankfurt och Köln.  Och när solen gick ner – så stegrade våldsamheterna. 30 skadade poliser i Berlin I Berlin drabbade demonstranter samman med polis på Rosenthaler Platz. Smällare, pyroteknik och ägg kastades mot polis och journalister. Polisen uppskattade att runt 3000 ungdomar befann sig på platsen under natten. 56 person greps på torget i Berlin och 30 poliser skadades. – Det är ganska mycket människor som deltagit i demonstrationerna, men långt i från de nummer vi sett Frankrike, säger Jona Källgren, utrikesreporter, TV4.   – Frågan är om det blir ett startskott för en större proteströrelse och om fler tar till gatorna. Vapenbutik plundrad Oroligheterna sammanföll med Halloween-firande och flera deltagare var maskerade via sina utklädnader.  I centrala Frankfurt sågs ”Batman” posera framför en samling brinnande sopkärl. Polis i Frankfurt bedömer att runt 8000 ungdomar deltog i demonstrationerna som redan tidigt på kvällen spårade ur.  Skyltfönster krossades och butik plundrades, bland annat en vapenaffär, till ljudet av sirener och uppmaningar om lugn från de många polispatrullerna. – Det som hänt Frankfurt är väl det som upprör folk mest: att man plundrar butiker. Det har man inte sett i demonstrationer i tyskland på väldigt länge, säger han. Brinnande barrikader Polisen i Hamburg uppskattar att 6700 demonstranter fyllde stadens gator. De skapade barrikader av bråte, satte dem i brand och skanderade ”hela Hamburg hatar polisen”.  Bilder från platsen visar hur kravallpolis bombarderas av stenar och flaskor. Vattenkanoner och pepparsprej sattes in för att försöka skingra folkmassorna. Runt 120 personer frihetsberövades. Polisen beskriver liknande scener i Stuttgart, Köln, Leipzig, Hannover, Bremen, München och Nürnberg. – När jag pratat med demonstranter så finns det en tydlig frustration över den nuvarande regeringen. De anser att man tänker kortsiktigt och att investeringar sker för äldre personer.  – Samtidigt som man anser att politiker ignorerar det som unga behöver, så som billigt boende och bra universitet och skolor – och där finns det en uppdämd frustration, säger Jona Källgren.
+
+[Read Full Article](https://www.tv4.se/artikel/675Eza8mQIOCQVP0xpHnNN/total-kaosnatt-i-tyskland)
+
+---
+
+## Björn Wiman: Det finns liv efter döden – men hur ser det ut?
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Under allhelgonhelgen gör sig de döda påminda med sina egna röster. Kanske kan nära döden-upplevelser expandera vår förståelse av både oss själva och världen, skriver Björn Wiman.
+
+[Read Full Article](https://www.dn.se/kultur/bjorn-wiman-det-finns-liv-efter-doden-men-hur-ser-det-ut/)
+
+---
+
+## En liten kupp i riksdagen  – värt för att se Magdalena Anderssons min
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Magdalena Andersson, Socialdemokraternas partiledare.
+
+[Read Full Article](https://www.sydsvenskan.se/opinion/moa-berglof/en-liten-kupp-i-riksdagen-vart-for-att-se-magdalena-anderssons-min/)
+
+---
+
+## Här ska de få dricka i fred – men grannar rasar
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Göteborgs nya mötesplats för socialt utsatta människor har väckt starka känslor i Majorna.
+
+[Read Full Article](https://www.svd.se/a/2VaMjv/goteborgs-nya-motesplats-for-socialt-utsatta-skapar-konflikt?utm_medium=rss)
+
+---
+
+## Evolutionens tumregel: Träna förvånansvärt lätt
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Kan vardagsmotionärer lära sig något från elit­idrottarnas sätt att lägga upp sin träning?
+
+[Read Full Article](https://www.svd.se/a/qyaGAL/idrottslakaren-per-andersson-trana-forvanansvart-latt-evolutionens-tumregel?utm_medium=rss)
+
+---
+
+## Nya chefen på ESS ser fram emot starten: ”Som nedräkning till julafton”
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Om drygt två månader smäller det. ESS skjuter äntligen skarpt. På första parkett står då Jane Hvolbæk Nielsen, ny generaldirektör på Lunds stora internationella forskningsanläggning. – Det här är en fantastisk miljö. Står man vid kaffemaskinen så hör man svenska, italienska, franska och engelska.
+
+[Read Full Article](https://www.sydsvenskan.se/lund/nya-chefen-pa-ess-ser-fram-emot-starten-som-nedrakning-till-julafton/)
+
+---
+
+## Ny syn på Trump kan straffa henne
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Susan Collins tillhör en utdöende art. Senatorn från Maine är republikan men vågar gå emot Donald…
+
+[Read Full Article](https://www.svd.se/a/1odR7l/susan-collins-kampanjar-utan-trump-i-maine?utm_medium=rss)
+
+---
+
+## ”Många är rädda för att Trump kommer hävda fusk”
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+President Donald Trump har portat europeiska valobservatörer och försökt begränsa poströstandet…
+
+[Read Full Article](https://www.svd.se/a/BM8LXl/manga-ar-radda-for-att-trump-kommer-havda-fusk?utm_medium=rss)
+
+---
+
+## Zelenskyj – från hyllad hjälte till sliten krigspresident
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Ukrainas president Volodymyr Zelenskyj hyllades världen över när han efter Rysslands anfall stannade kvar i Kiev. Men att leda ett land i krig har sitt pris. Han har blivit en sliten och ensam man – och på hemmaplan växer kritiken. Hur länge ska Zelenskyj hålla?
+
+[Read Full Article](https://www.dn.se/varlden/zelenskyj-fran-hyllad-hjalte-till-sliten-krigspresident/)
+
+---
+
+## Därför har jag ändrat mig om VAR
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Esks elva, vecka 44. DN-sportens krönikör Johan Esk om veckan som varit.
+
+[Read Full Article](https://www.dn.se/sport/darfor-har-jag-andrat-mig-om-var/)
+
+---
+
+## Johan Esk: Den perfekta höften har gjort Andreas Almgren bäst
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Andreas Almgren gör maratondebut och med sig har han ett EM-guld på 10 000 meter, ett VM-guld på halvmaraton. Och en vägvinnande teknik där små marginaler gör stor skillnad i långa loppet. Som vinkeln på höften
+
+[Read Full Article](https://www.dn.se/sport/johan-esk-den-perfekta-hoften-har-gjort-andreas-almgren-bast/)
+
+---
+
+## Rädslan för folkviljan går igen
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Nu är det vänstern som vill begränsa folkets inflytande.
+
+[Read Full Article](https://www.svd.se/a/2VWObq/krav-pa-inskrankt-demokrati-kommer-fran-vanster?utm_medium=rss)
+
+---
+
+## Här renoveras husen för flera miljoner – och priserna ökar
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Ett efter ett har flerfamiljshusen på S:t Knut rivit bort sina fasader av eternitplattor och ersatt dem med kalkputs.  Renoveringarna tar tid och kostar skjortan – men kan också höja värdet på bostadsrätterna med tusentals kronor per kvadratmeter.  – Vi har velat hitta tillbaka till husets ursprungliga karaktär, säger Nellie Stenvall Stille.
+
+[Read Full Article](https://www.sydsvenskan.se/malmo/har-renoveras-husen-for-mangmiljonbelopp-och-priserna-stegrar/)
+
+---
+
+## ”Migrationsverkets personal gör ett fantastiskt arbete för att stötta de boende.”
+**Outlet:** Sydsvenskan
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Vi välkomnar synpunkter rörande våra mottagnings- och återvändandecenter. Samtidigt arbetar Migrationsverket redan intensivt med att förbättra miljöerna och verksamheten, med särskilt fokus på barn och utsatta grupper, skriver Migrationsverkets regiondirektör syd.
+
+[Read Full Article](https://www.sydsvenskan.se/opinion/migrationsverkets-personal-gor-ett-fantastiskt-arbete-for-att-stotta-de-boende/)
+
+---
+
+## Släpp fokuset på protein – så här ökar du fiberintaget
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+De allra flesta vuxna äter för lite av ett viktigt näringsämne – och det är inte protein. Ett enkelt sätt för att förbättra sin hälsa är att öka intaget av fibrer. Men hur gör man det utan att bli uppblåst och gasig?
+
+[Read Full Article](https://www.dn.se/sverige/slapp-fokuset-pa-protein-sa-har-okar-du-fiberintaget/)
+
+---
+
+## Lisa Magnusson: Folk ute i landet måste komma över sitt stockholmskomplex
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Varför skulle inte Övertorneå, Tingsryd och Valbo bry sig om vad som händer i huvudstaden?
+
+[Read Full Article](https://www.dn.se/ledare/lisa-magnusson-folk-ute-i-landet-maste-komma-over-sitt-stockholmskomplex/)
+
+---
+
+## ”Prästerna säger till soldaterna att de skyddar Ukraina från satan”
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+För ukrainarna är kriget mot Ryssland existentiellt. Författaren Erika Fatland har sett hur det också splittrar ortodoxa kristna.
+
+[Read Full Article](https://www.dagen.se/nyheter/praesterna-saeger-till-soldaterna-att-de-skyddar-ukraina-fran-satan/10590286)
+
+---
+
+## Överflöd av modernt kyrkligt lingo i bok om livets svårigheter
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Martin Ånestrand har läst ”Avgrundsteologi” av Helena Carlberg
+
+[Read Full Article](https://www.dagen.se/kultur/oeverfloed-av-modernt-kyrkligt-lingo-i-bok-om-livets-svarigheter/10601625)
+
+---
+
+## Biskop Dalevi är rolig, men ger inga svar
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Lydia Nordlander har läst ”Hur kan du tro på Gud?” av Sören Dalevi
+
+[Read Full Article](https://www.dagen.se/kultur/biskop-dalevi-aer-rolig-men-ger-inga-svar/10600409)
+
+---
+
+## När något tänds i Frantzéns iskalla blick är det som om himlen öppnar sig
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Daniel Wistrand tipsar om tv, film och poddar.
+
+[Read Full Article](https://www.dagen.se/kultur/naer-nagot-taends-i-frantzens-iskalla-blick-aer-det-som-om-himlen-oeppnar-sig/10604762)
+
+---
+
+## Stevie Wonder välkomnade publiken till en värld där rasskillnad inte finns
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Urban Thoms om konserterna som berörde mest under oktober.
+
+[Read Full Article](https://www.dagen.se/kultur/stevie-wonder-vaelkomnade-publiken-till-en-vaerld-daer-rasskillnad-inte-finns/10606067)
+
+---
+
+## Romantiska robotar och vittnesmål om döden
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Malina Abrahamsson tipsar om det bästa hon läst på sistone.
+
+[Read Full Article](https://www.dagen.se/kultur/romantiska-robotar-och-vittnesmal-om-doeden/10600700)
+
+---
+
+## Drömde om Hillsong – fann Jesus
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Kristne förläggaren Joel Sjöberg om spännande möten på en nyandlig mässa i Solna.
+
+[Read Full Article](https://www.dagen.se/nyheter/droemde-om-hillsong-fann-jesus/10605544)
+
+---
+
+## Får avstå från att använda AI i jobbet – av religiösa skäl
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+University of Kentucky har godkänt undantag för forskningsadministratör.
+
+[Read Full Article](https://www.dagen.se/nyheter/far-avsta-fran-att-anvaenda-ai-i-jobbet-av-religioesa-skael/10610854)
+
+---
+
+## Bolivia utlyser nödläge för El Niño
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+Bolivias president Rodrigo Paz utlyser nationellt nödläge på grund av El Niño.
+
+[Read Full Article](https://www.svd.se/a/GrdLnQ/bolivia-utlyser-nodlage-for-el-nino?utm_medium=rss)
+
+---
+
+## Nära 40 migranter räddade i Nordsjön
+**Outlet:** Svenska Dagbladet (SvD)
+**Category:** General News | **Date:** 2026-11-01 (today)
+
+36 personer har räddats från en drivande båt i Nordsjön utanför Nederländernas kust, uppger lokala…
+
+[Read Full Article](https://www.svd.se/a/KrwAey/nara-40-migranter-raddade-i-nordsjon?utm_medium=rss)
+
+---
+
+## FBI: Nordkorea låg bakom miljardkupp mot kryptobörs
 **Outlet:** TV4 Nyheterna
 **Category:** General News | **Date:** 2026-10-31 (today)
 
-Franska myndigheter varnar för protester i hela landet. Flera organisationer har fått tillstånd att demonstrera, men det är oklart om de får samlas i stadskärnorna. Polisen i Paris har förbjudit vissa rutter för planerade demonstrationståg, förbud som delvis upphävts av domstol. Studentaktivister väntas få tåga från symbolladdade Bastiljen till Nation och Concorde.
+Företaget meddelar i ett uttalande under söndagsmorgonen att möjligheten till att flytta tillgångar ut från kryptobörsen återupptagits i ett första steg. Fler faser följer under dagen.
 
-Redan på fredagskvällen inledde rörelsen Gula västarna helgens protester med uppmaningar att slå på kastruller i hela Frankrike – ”framför stadshus, vid fönster, på gatan, överallt”, skriver C News. Kastrullkonserterna är en protest mot Emmanuel Macrons sätt att bemöta den folkliga ilskan.
+Tillgångar värda omkring 6,3 miljarder dollar, motsvarande knappt 62 miljarder kronor, stals i cyberangreppet mot Binance – världens största handelsplats för kryptovalutor – under natten till fredagen.  Spärrade utflödet  Som en direkt åtgärd spärrade Binance utflödet från plattformen av säkerhetsskäl. Det är det som nu återupptas.
 
-– De förbjuder våra demonstrationer, inför utegångsförbud och spärrar av stadskärnor för demonstranter. Vi kommer att låta våra kastruller och stekpannor höras under parlamentsledamöternas fönster, sade Gula västarna i ett uttalande. Uppmanar till ”revolution” Det finns också tecken på att många demonstranter utan tillstånd kommer att samlas under lördagskvällen. I sociala medier uppmanar flera konton till ”revolution” och uppror, enligt Nuñez. Han pekar ut radikala vänstergrupper och vissa radikaliserade Gula västarna-sajter och beskriver lördagen som en ”högriskdag”.
+Binance säger att man hittills lyckats täcka upp för 90 procent av förlusterna vid stölden, och att målet är att ”fullt ut täcka de ekonomiska konsekvenserna”. Det ska göras genom återköp av motsvarande tillgångar, vilket finansieras genom eget kapital samt försäkringar.
 
-Omkring 70 000 poliser och gendarmer är i tjänst över hela landet, samma beredskap som förra helgen. I bland annat Paris och Nice råder utegångsförbud under sena lördagskvällen i vissa centrala områden. TV4:s utrikesreporter Jennifer Paterson är på plats i Paris. – Man sätter in det man kallar för en XXL-mobilisering från polisens sida. Det kommer vara pansarfordon, man pratar om helikoptrar och man ska ingripa snabbt om man märker att det börjar bli våldsamheter, säger hon. Det finns även en risk att halloween bidrar till oroligheterna. – Det finns en oro för att det kan bli lika våldsamt som vi såg för två veckor sedan och att halloween kan bidra med ytterligare en effekt när många människor väntas gå ut och vara maskerade, säger Paterson. Studenter kräver ursäkt Hundratusentals fransmän demonstrerade förra helgen, men protesterna blev inte lika oroliga som den 17 oktober då plundring och vandalism drabbade många städer. Tusentals personer greps efter våldsamheterna. Polisens insatser kritiserades samtidigt som alltför brutala.
+Enligt FBI är det den nordkoreanska hackerenheten Trader Traitor som är ansvariga för det man beskriver som ”skadlig cyberaktivitet”.  Kopplas till bärbar dator  Redan i fredags pekades samma grupp ut av TRM Labs, ett underrättelseorgan i kryptobranschen.
 
-Regeringen har under veckan tillkännagett flera åtgärder för att möta studenternas krav. Studentorganisationerna är dock inte nöjda. Vid ett möte med inrikesministern i torsdags krävde de en ursäkt för våld mot demonstranter.
+Enligt Binance kan intrånget ha koppling till en bärbar dator som användes av en mjukvaruingenjör med koppling till bolaget.
 
-– Nuñez är en oansvarig minister, oförmögen att svara för polisens förtryck, säger Louis Letoublon, ordförande för studentföreningen Les Lycéens, skriver France24.
+[Read Full Article](https://www.tv4.se/artikel/tt-261101-bitcoin1-984fa773/fbi-nordkorea-bakom-miljardkupp-mot-kryptobors)
 
-[Read Full Article](https://www.tv4.se/artikel/1muXJWS6hM6K77YIPGcJQJ/frankrike-rustar-foer-nya-protester-70-000-poliser-i-tjaenst)
+---
+
+## Med tiden verkar Olof Dreijer ha funnit den uppriktiga glädjen
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-10-31 (today)
+
+Iklädd shorts gör Olof Dreijer entré och höjer snabbt energinivåerna. Känslan av en elektronisk lägereld gör det svårt att inte börja drömma om syskonen Dreijer på gemensam jubileumsturné, skriver DN:s Johanna Paulsson.
+
+[Read Full Article](https://www.dn.se/kultur/med-tiden-verkar-olof-dreijer-ha-funnit-den-uppriktiga-gladjen/)
+
+---
+
+## Halloween tog plats i Stockholm – hundratals var med
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-10-31 (today)
+
+Blod, knivar och stora klänningar syntes i mängder på Stockholms gator på lördagskvällen när den traditionella Shockholmsparaden ägde rum. – De skulle ge mig alla möjliga problem om jag kom in så här på flyget, säger Amy Bell som rest från USA för att delta.
+
+[Read Full Article](https://www.dn.se/sverige/halloween-tog-plats-i-stockholm-hundratals-var-med/)
+
+---
+
+## De tvingas lämna tävlingen
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-10-31 (today)
+
+Tio deltagare kvar • ”Slut på det roliga”
+
+[Read Full Article](https://www.tv4.se/artikel/3bt98k0QFHI9PRIMAJ93Yj/de-tvingas-laemna-taevlingen)
+
+---
+
+## Trippelvarnar: Bedrägerierna att se upp med – just nu
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-10-31 (today)
+
+Inför Black Friday och julhandeln brukar bedrägerierna öka. Handelsbanken varnar nu för att höstsäsongens bedrägerier är i full gång – och lyfter fram tre trender att se upp med just nu. Falska webbutiker Bedragarna använder sig bland annat av falska webbutiker och sms som utger sig för att komma från paketbolag som kräver avgifter.  AI har revolutionerat bedragarnas tillvägagångssätt, berättar Maria Lidström Andersson, kontorschef för Handelsbanken i Solna. – Det har gett bedragarna en ännu större verktygslåda för att konstruera sitt bedrägeri. Det kan till exempel vara en förfalskad hemsida: man klickar på en länk och kommer till en hemsida som ser otroligt trovärdig ut, säger hon. Investeringsbedrägerier Investeringsbedrägerier cirkulerar också just nu där bedragare lockar med investeringar i påhittade AI-bolag, eftersom investeringar i AI ses som lönsamma. Finansinspektionen har hittills i år varnat för 227 aktörer som misstänks bedriva investeringsbedrägerier. Utvecklingen ses som extra bekymmersam eftersom den visar att den här typen av bedrägerier fortfarande är mycket lönsamma för kriminella, trots återkommande varningar från banker, polisen och Finansinspektionen.  Kringgår bankerna När bankerna blir bättre på att stoppa misstänkta transaktioner söker bedragarna nya vägar.  Offer för investeringsbedrägerier uppmanas därför ofta att öppna ett konto i en annan bank – ofta en digital, utländsk bank, vilket är den tredje trenden som Handelsbanken nu varnar för. Pengarna förs först till ett konto som kunden själv kontrollerar och sedan vidare till bedragaren, för att skapa illusionen av att kunden fortfarande har kontrollen. Maria Lidström Andersson påpekar att det kan vara svårt att veta när ett bedrägeri händer. – Bedragarna är oerhört skickliga. De är trevliga, har tålamod och är superduktiga på att guida dem som blir utsatta. Så fort man inser att man har blivit lurad eller är på väg att bli så ska du kontakta banken. Lägg på luren, dra i handbromsen, säger hon. Så skyddar du dig Seriösa företag kräver sällan omedelbara beslut, så att ta några minuter för att kontrollera erbjudandet eller företaget bakom betalningen kan vara avgörande, berättar Maria Lidström Andersson.  Hon uppmanar även till att inte följa länkar i oväntade meddelanden och att aldrig lämna ut koder eller kortuppgifter. – Jag tror att det finns en myt om att det bara drabbar äldre, men det sker faktiskt i alla åldrar, säger hon och fortsätter: – Vi brukar säga att kunderna gärna får ringa till oss och berätta vad som har hänt. Då kan vi säga om det verkar rimligt eller inte. Det är vår varmaste rekommendation.
+
+[Read Full Article](https://www.tv4.se/artikel/1jjy0KM3UrDselq8WznU7c/trippelvarnar-bedraegerierna-att-se-upp-med-just-nu)
+
+---
+
+## Svarar på kärleksryktet med Idol-kollegan
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-10-31 (today)
+
+Se när Armin frågar chans på Ella i direktsändning
+
+[Read Full Article](https://www.tv4.se/artikel/7jSxEznpqPXhbdfxyd9Ind/svarar-pa-kaerleksryktet-med-idol-kollegan)
+
+---
+
+## Rysslands comeback skapar kris för värdländerna
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-10-31 (today)
+
+Rysslands återkomst till internationell ishockey sätter värdländerna under hård press. Nu väntar inte bara ett sportsligt dilemma, utan även en geopolitisk konflikt om visum, säkerhet och Ukrainas plats i turneringen.
+
+[Read Full Article](https://www.dn.se/varlden/rysslands-comeback-skapar-kris-for-vardlanderna/)
+
+---
+
+## Dödliga drönarattacker kan avgöra presidentvalet i EU:s fattigaste land
+**Outlet:** Dagens Nyheter (DN)
+**Category:** General News | **Date:** 2026-10-31 (today)
+
+Drönarkrisen i Svarta havet kastar om spelplanen inför presidentvalet i Bulgarien. På söndag ställs den ryssvänliga sittande presidenten Iliana Iotova mot den proeuropeiske ekonomen Andrej Gjurov i en avgörande valduell. – Valet handlar om Bulgariens plats i världen, säger statsvetaren Anamaria Dutceac Segesten.
+
+[Read Full Article](https://www.dn.se/varlden/dodliga-dronarattacker-kan-avgora-presidentvalet-i-eus-fattigaste-land/)
+
+---
+
+## Sean Banan-effekten: ”Thank god”
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-10-31 (today)
+
+Hyllas efter barndomsidolens råd • ”Flörta med någon”
+
+[Read Full Article](https://www.tv4.se/artikel/7EOSsPOLooGY8fGBIgPhUS/sean-banan-effekten-thank-god-for-sean-banan)
+
+---
+
+## Så kan en valsmäll stoppa Trump: ”Nya krigshandlingar blir svårast”
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-10-31 (today)
+
+Demokraterna kan ta kontroll över både representanthuset och senaten
+
+[Read Full Article](https://www.tv4.se/artikel/4VHT4zeJKPOUJjG7Qhpgr5/sa-kan-en-valsmaell-stoppa-trump-nya-krigshandlingar-blir-svarast)
+
+---
+
+## Åskådare död under rallytävling: ”Fruktansvärt tragiskt”
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-10-31 (today)
+
+En man i 65-årsåldern har dött efter en olycka i samband med en rallytävling utanför Nässjö. Hans anhöriga är underrättade.  Det var strax efter klockan 14 på lördagen som polisen larmades om en åskådare som blivit påkörd på tävlingssträckan. – Andra åskådare på platsen påbörjar HLR och sedermera tar sjukvårdspersonal och polis över när de anländer, men mannen avlider av sina skador, säger Linus Maxe, befäl på polisens regionledningscentral.  ”Fruktansvärt tragiskt” Olyckan inträffade i samband med evenemanget Novemberskölden i Flisby, som är Sveriges största rallytävling sett till antalet bilar. I ett inlägg på sociala medier kallar Nässjö MK händelsen för ”det som inte fick hända”.   – Det är fruktansvärt tragiskt. Man tänker på familj, anhöriga och även de som varit med om själva olyckan, säger Christoffer Svensson, pressansvarig på tävlingen.  Han berättar att det, trots tävlingens storlek, är en liten krets som arrangerar Novemberskölden och att händelsen tar hårt på flera.  – Det är många som har det tufft nu. Det görs fruktansvärt mycket säkerhetsarbete men ändå kan det här hända, säger han.  Många vittnen Polisen berättar att det var många åskådare som såg händelsen och att man har pratat med många efteråt. Nässjö MK har bjudit in till ett möte med alla som blivit drabbade för att fånga upp de som blivit berörda av olyckan.   – Tävlande och funktionärer, alla har blivit inbjudna till krishantering om man känner att det behövs, säger han.  Incidenten ska ha skett på en raksträcka och polisen uppger att man ser över vilket kameramaterial som finns att tillgå för att förstå vad som har hänt. Olycksplatsen har under eftermiddagen dokumenterats med drönare.  En anmälan har upprättats med rubriceringen vållande till annans död.  – Det finns i nuläget ingen misstänkt i ärendet utan arbetshypotesen är fortsatt att det är en tragisk olyckshändelse, säger Linus Maxe.
+
+[Read Full Article](https://www.tv4.se/artikel/6vmL5Ft90DoPJZrUZeLG79/askadare-doed-under-rallytaevling-fruktansvaert-tragiskt)
+
+---
+
+## Uppgifter: Gängledare portade dörrvakt från krog – oron stor
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-10-31 (today)
+
+Mannen har ett långt brottsregister och är enligt polisen en av ledarna i gänget Södra Biskopsgården i Göteborg, som i decennier legat i krig med Norra Biskop. Konflikten har genom åren skördat ett stort antal liv, varav många utomstående, och skadat ännu fler. Gängledaren uppges ”under en längre period befunnit sig utomlands och styrt nätverket”, enligt polisutredningar. – Han har också avtjänat flera fängelsestraff och 2019 dömdes han för förberedelse till mord och grovt vapenbrott med mera, säger kammaråklagare Henrik Möller. I våras beslutade åklagare att, genom den relativt nya lagen, utfärda ett vistelseförbud i Göteborg för att försöka förhindra att ledaren fortsätter styra Södra Biskop och begå nya brott. Han dömdes i somras för att ha brutit mot förbudet och fick två månaders fängelse. Nu uppges gängledaren försöka etablera Södra Biskop i Kungsbacka och allierat sig med ett lokalt nätverk i kommunen, enligt uppgifter till TV4 Nyheterna. De ska ha orsakat otrygghet i området och ofta befunnit sig i bland annat krogmiljön. – Han har setts frekvent vid flera ställen i Kungsbacka kommun, tillsammans med flera individer som är kända för polisen. Han har blivit föremål för ingripanden i Kungsbacka vid flera tillfällen på senare tid, säger Henrik Möller. ”Skrämt slag på vakter och krögare” Enligt uppgifter till TV4 Nyheterna ska gängledaren, när han befann sig med andra kriminella, ha nekats inträde på en krog i Kungsbacka förra helgen. I samband med det ska tumult ha uppstått på platsen. Efter händelsen uppges ägaren till krogen ha utsatts för påtryckningar och brott av gängledarens allierade – med uppmaningen att avskeda den aktuella ordningsvakten som nekade gänget att komma in på krogen, enligt uppgifter till TV4 Nyheterna. Krögaren ska ha tvingats gå med på att sparka dörrvakten och polisen misstänker att gängledaren ligger bakom de allierades påtryckningar. – Flera krögare har uppgett för polisen att de är oroliga för gängets närvaro i kommunen. Gängledaren och medlemmarna har genom sin närvaro skrämt slag på vakter och krögare. Alla vet vad han och hans nätverk är kapabla till. Ordningsvakter och krögare har avstått från att jobba efter händelserna, säger en källa med insyn till TV4 Nyheterna. Kungsbackapolisen har nu inlett en riktad insats för att skapa trygghet och förebygga brott i området, enligt uppgifter till TV4 Nyheterna. Gängledaren misstänks för angrepp mot tjänsteman och olaga tvång efter avskedandet av ordningsvakten. – Vid ett tillfälle har han betett sig hotfullt och då har anmälan upprättats. Jag vet vad som har hänt men det omfattas av förundersökningssekretess, säger Henrik Möller. ”Allvarligt skada tryggheten hos allmänheten” Åklagaren valde tidigare i veckan att utfärda ett nytt vistelseförbud som innebär att mannen inte får befinna sig i Kungsbacka. – Han har hämtats av polis och blivit delgiven detta och skrivit under, säger Henrik Möller och fortsätter: – Det är i ett preventivt syfte, för att det här nätverket som han anses vara en del av inte ska drabba Kungsbacka också. Så han har nu två vistelseförbud på samma gång. I det här fallet är det någon form av brottslig verksamhet som är ägnad att allvarligt skada tryggheten hos allmänheten. Det kan befaras att NN (gängledaren) kommer främja den här brottsligheten. I åklagarbeslutet om vistelseförbud står det: ”Det föreligger en påtaglig risk för att den brottsliga verksamheten kommer att fortsätta även i Kungsbackaområdet. Kungsbacka tätort ligger cirka 10 minuter från södra Göteborg och är i dag att anse som en förlängning av den kriminella arenan och brottsligheten som bedrivs där. Det är för polisen tydligt att (gängledaren) med ökande ansträngning försöker utvidga grupperingens verksamhet till Kungsbacka. Det kan befaras att den konflikt som föreligger mellan nätverket Södra Biskopsgården och andra kriminella nätverk i Göteborgsområdet kommer att förskjutas till Kungsbacka.” Kungsbackapolisen vill inte kommentera ärendet utan hänvisar till mediacentret i region Väst, som över huvud taget inte vill bekräfta krogincidenten eller insatsen i övrigt.
+
+[Read Full Article](https://www.tv4.se/artikel/1pgg0DYYw9Uh1iTBZPZ1Mi/uppgifter-gaengledare-portade-doerrvakt-fran-krog-oron-stor)
+
+---
+
+## Kaos, tårgas och brandbomber i Paris: ”Polisen fattade eld”
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-10-31 (today)
+
+Fackförbund, studentorganisationer och proteströrelsen gula västarna manade fransmännen att gå man ur huse för att visa sitt missnöje med höga levnadskostnader och åsidosatta skolor. Enligt inrikesdepartementet är det i hela Frankrike omkring 320 000 personer som demonstrerar, rapporterar franska medier. Bland annat har 70 000 gått ut på gatorna i Paris medan i Marseille och Nantes är det 15 000 respektive 10 000 som demonstrerar. Täckta skyltfönster Läget beskrevs inledningsvis vara förhållandevis lugnt. Men senare under eftermiddagen kom rapporter om att polisen i flera städer använt tårgas, bland annat i Lyon, Marseille och Nantes, för att skingra demonstranter. I Paris användes tårgas för att skingra demonstranter som inte lämnade det område vid Porte de Charenton där protestkortegen avslutades. Enligt BFMTV attackerades polisen med fyrverkeripjäser. Landets inrikesminister Laurent Nuñez varnade, likt förra veckan, för hög risk för tumult och har därför kallat in omkring 70 000 poliser och gendarmer landet över. I Paris är ett 40-tal tunnelbanestationer stängda under dagen och protestkortegen fick ändra sin rutt efter att ha fått nej på att tåga en sträcka i centrala staden. Butiker runtom i landet har täckt för skyltfönster med plywoodskivor, för att förebygga stormning och plundring. I huvudstaden har poliser fått brandbomber kastade mot sig. Den franske inrikesministern uppger att en polis har skadats lindrigt. – Polisen fattade eld, men togs omhand av sina kamrater. Han är bara lindrigt skadad och har inte slutat arbeta, säger Laurent Nunez. Spridit sig över Europa Demonstrationer har också växt sig långt utanför de franska gränserna. Listan över länder där det på lördagen rapporteras om pågående eller planerade protester är lång: Frankrike, Tyskland, Spanien, Italien, Belgien, Nederländerna, Österrike, Schweiz, Portugal, Grekland, Albanien, Irland, Tjeckien, Serbien och Litauen.
+
+[Read Full Article](https://www.tv4.se/artikel/lWfkZTkCshCPQ298rp2Lr/targas-vid-nya-protester-i-frankrike)
+
+---
+
+## Trenden lockar unga kvinnor – forskare varnar för riskerna
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-10-31 (today)
+
+Konservativ motreaktion till feminism • Morgen: ”Allt jag vill är att vara den bästa mamman”
+
+[Read Full Article](https://www.tv4.se/artikel/11rGLk7kZiwWPpgEEH03N0/trenden-lockar-unga-kvinnor-forskare-varnar-foer-riskerna)
+
+---
+
+## Glädjebeskedet: Inget busväder – men perfekt väder för bus
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-10-31 (today)
+
+I dag, den 31 oktober, är den dagen man traditionellt går bus eller godis. De som väljer att gå ut och knacka dörr väntas få gynnsamt väder. TV4:s meteorolog Ulrika Elvgren beskriver årets halloween som mer av ett ”godisväder” än ett ”busväder”. – Jag skulle säga att det är godisväder. Vi har ingen varning på svensk mark för något väder, säger hon. Det hon syftar på är SMHI:s vädervarningar. I dagsläget finns det ingen varning utfärdad för vare sig vind, regn eller snö. Enligt Elvgren ser kvällen lugn ut i stora delar av landet. Endast i delar av Norrland kan enstaka regnstänk förekomma. – Det kan skvätta lite längs fronten från Norrbotten till Jämtland. Men de flesta kan nog faktiskt skippa regnkläderna helt, säger hon. Maskeradkläderna får synas Det innebär att barn som går bus eller godis får goda förutsättningar att visa upp sina halloweenkostymer. – Det är ju skönt att kunna ha maskeradkläderna ytterst utan att förstöra dem i regn, säger Elvgren. Temperaturerna blir däremot kyliga under kvällen. På flera håll kan temperaturen krypa ned mot noll grader när mörkret faller. – Där det finns luckor i molntäcket kan temperaturen ganska snabbt falla ned mot nollan. Varnar för halka Om det finns något som kan spöka till det annars fina höstvädret är det halka, enligt Elvgren.  – Man får vara vaksam på halkan. Vi är inne i den årstid då man nästan får räkna med hala vägbanor, säger hon. Men redan på måndag väntas vädret vända. – Då har vi en omläggning i väderläget. Då viker vinden av mot nord och det tar med sig kalluft söderut över oss. Sen börjar det blåsa mer och mer i fjällen. Först då kommer vintern att göra sig hörd på allvar.  – Vintern flyttar fram positionerna söderut. Man får förbereda sig för den kalla årstiden, för den är på gång, säger Elvgren.
+
+[Read Full Article](https://www.tv4.se/artikel/1tiYGREJF40J1i6i4dYEmk/glaedjebeskedet-inget-busvaeder-men-perfekt-vaeder-foer-bus)
+
+---
+
+## Insatsstyrkan i nattlig räd mot rysskopplat fartyg vid Gotland
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
+
+Fartyget är över 80 meter långt och ett så kallat torrlastfartyg tillhörande ett rederi som tidigare varit föremål för utredning gällande ryska hybrid- och spaningsoperationer.  Enligt uppgifter till TV4 Nyheterna ska den nationella insatsstyrkan deltagit vid insatsen. Vilket Polis inte vill bekräfta. – Jag kommenterar inte vilka resurser vi använder. Vi har använt de resurser vi behövt, säger Carina Skagerlind.  – Vi kan inte kommentera detta då insatsen är ledd av Polisregion Stockholm, säger en presstalesperson på Polisens Nationella operativa avdelning. ”Agerar i ryska statens intresse” Rederiet har representationslokaler i den ryska exklaven Kaliningrad, varifrån de enligt egen utsago rekryterar sin besättning. Besättningen ombord det aktuella fartyget består av ryska medborgare, enligt uppgifter till TV4 Nyheterna.  – Jag går inte in på nationalitet i nuläget faktiskt, säger Carina Skagerlind.  Fartyg från samma rederi har tidigare utretts i samband med drönarlarm i Europeiska länder. Sjöfartsdata kan bland annat koppla fartygens oförklarliga vistelse i direkt närhet till drönarlarm på flera platser. Misstanken gäller bland annat att fartygen ska ha agerat som depå för den ryska underrättelsetjänstens drönare.  Fartyg från rederiet har bordats och genomsökts an andra länders myndigheter flertalet gånger i närtid. Europeiska underrättelsekällor menar att fartygen ”högst troligt agerar i den ryska statens intresse”.
+
+[Read Full Article](https://www.tv4.se/artikel/67jyXbg6CEkpDyL35FnCcU/nattlig-raed-mot-rysskopplat-fartyg-vid-gotland)
+
+---
+
+## Tyras lillebror Tage dog plötsligt i sömnen: ”Blir fel i kronologin”
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
+
+För ett och ett halvt år sedan förlorade Tyra Olin sin 19-årige lillebror Tage, som dog plötsligt i sömnen. Familjen har inte fått någon förklaring till varför han dog. – Vi vet bara att någon gång under natten slutade hans hjärta att slå, berättar hon i Nyhetsmorgon. Tyra Olin berättar att syskons sorg ofta lätt glöms bort när fokus hamnar på föräldrar eller partners. – I början var det ett väldigt fint bemötande från alla, men nu märker jag att vi syskon blir lite bortglömda. Det är ofta att man först frågar hur en förälder mår, säger Tyra. ”Fel i kronologin” Hon tror att syskonsorgen är lite svårare att sätta ord på. – Alla har så himla olika relationer till sina syskon. En förälder och barn kanske är en lättare relation att greppa. Hon tycker att det blir fel i kronologin när ett syskon går bort. – Man har idén om att äldre går bort först, och den kronologin. Sen när ett syskon dör blir allting upp och ner. Ett syskon tänker man att man ska ha med sig hela livet. Det är en väldig tomhet efter ett syskon. ”Hör hans skämt” Hon har fler syskon och det är främst med dem hon pratar om Tage. – Man känner alltid att det är någon som saknas. Det är alltid som en tom stol eller en lucka... Men vi har kommit supernära varandra, jag och mina andra syskon. De känner ju honom som jag känner honom. Men det är ju alltid någon som saknas, säger Tyra. Hon beskriver Tage som en väldigt social, glad och levnadsglad person. Hon tänker på honom ofta. – Jag hör hans skämt i huvudet. Han brukade alltid fälla mig och om jag snubblar till, så tänker jag: ”Ja, det var Tage”, säger Tyra. Har startat stödgrupp Hon vill uppmuntra andra att våga prata om sorg. – Många tycker att det är väldigt läskigt att prata om sorg. Man är rädd att göra mig ledsen eller upprörd. Men det är ingenting någon annan kommer att kunna säga som kommer att kunna göra mig mer ledsen. Så jag säger alltid: Säg något i stället för inget, säger Tyra. Tyra har startat Syskongruppen Stockholm, en sluten Facebookgrupp för unga vuxna som förlorat ett syskon. Där kan medlemmarna dela tankar och känslor som är svåra att förstå för den som inte varit med om samma sak.
+
+[Read Full Article](https://www.tv4.se/artikel/xgrqgnb9ZpDHq5nXrW0yh/tyras-lillebror-tage-dog-ploetsligt-i-soemnen-blir-fel-i-kronologin)
+
+---
+
+## SVT frias för Stors ”Free Palestine” under Allsång på Skansen
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
+
+Granskningsnämnden anser att kraven på opartiskhet är lägre för artister.
+
+[Read Full Article](https://www.dagen.se/nyheter/svt-frias-foer-stors-free-palestine-under-allsang-pa-skansen/10610699)
+
+---
+
+## Expertens oro efter tumultet: ”Kan urarta” – som i Frankrike
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
+
+Efter att författningsdomstolens president Bogdan Święczkowski stängts av samlades demonstranter utanför domstolen i Warszawa. Oppositionen anklagar regeringen för en kupp och på plats drabbade demonstranter samman med polis. Samtidigt som sammandrabbningarna ägde rum var landets president Karol Nawrocki på väg till Senegal. Han avbröt resan och återvände i stället till Warszawa. Bakgrunden är en över tio år gammal konflikt mellan premiärminister Donald Tusks politiska läger och den nationalistiska högern. – Anledningen att det har spårat ur just nu är att Tusk har kritiserats i Polen för att regeringen inte gör någonting åt den här hopplösa situationen, säger Barbara Törnquist-Plewa, professor i Europastudier samt Öst- och centraleuropakunskap vid Lunds universitet. ”Oförsonliga block som står mot varandra” Hon förklarar hur konflikten har sina rötter i striden om den polska författningsdomstolen som pågått sedan 2015. Både Tusks politiska läger och det nationalkonservativa partiet Lag och rättvisa (PiS), som styrde Polen mellan 2015 och 2023, har anklagat varandra för att försöka få kontroll över domstolen. Konflikten har lett till åratal av politiska och juridiska strider. – Det är verkligen oförsonliga block som står mot varandra, säger Törnquist-Plewa. Rädslan: Kan bli som i Frankrike Enligt henne är den hårda polariseringen i landet i sig inget nytt. Samtidigt menar hon att det blir och mer polariserat för varje dag som går. Hon pekar bland annat på att det är val nästa år och att det högerextrema partiet Konfederacja har vuxit i popularitet, särskilt bland unga väljare. – Den polska högern verkar vilja eskalera konflikten kring domstolen för att utnyttja den i valkampanjen som börjar nästa år, säger Törnquist-Plewa. Hon befarar att Polen kan drabbas av liknande upplopp som Frankrike. – Jag är lite rädd att de kan försöka ställa till liknande upplopp i Polen, säger hon och tillägger: – Det kan urarta och då är det verkligen en obehaglig situation. ”Oroväckande” Å andra sidan betonar hon att Polen inte befinner sig i ett läge där några massprotester är självklara. – Det är inte så att det är jättemissnöje bland majoriteten av befolkningen i Polen. Det är verkligen fifty-fifty, skulle jag säga. Men i kombination med kriget i Ukraina och rysk desinformation ser hon ändå utvecklingen som bekymmersam. – När ett land är utsatt och också polariserat, då är det oroväckande enligt mig. –  I NATOs och Europas stöd för Ukraina spelar Polen en mycket viktig roll. Destabiliseringen av landet försvagar inte bara Polen själv men också Europa och spelar i händer på främmande makter som vill utnyttja det.
+
+[Read Full Article](https://www.tv4.se/artikel/4hWHCWQnB71bOaXemk3FYz/expertens-oro-efter-tumultet-kan-urarta-som-i-frankrike)
+
+---
+
+## ”Festivalen överraskar med nya sätt att vara i tillbedjan”
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
+
+Uma Lundkvist från Dagens ungdomspanel skriver dagbok från festivalen Kaleo
+
+[Read Full Article](https://www.dagen.se/livsstil/festivalen-oeverraskar-med-nya-saett-att-vara-i-tillbedjan/10610742)
+
+---
+
+## Öppnar upp om saknaden: ”Vill så gärna ha någon att skratta med”
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
+
+När Hans Wahlgren gick bort för lite mer än två år sedan blev det en stor omställning för Christina Schollin. De hade levt tillsammans i 67 år. – Det är ett pågående arbete. Jag är ju tvungen att lära mig att vara ensam, säger Christina Schollin i Nyhetsmorgon. Vad är det svåraste med det? – Det är tråkigt, framför allt. Det är tråkigt att behöva ta alla beslut själv och inte ha någon att prata med. Inte ha någon att skratta med. Jag vill så gärna ha någon att skratta med. Mammarollen den bästa Hon har skrivit en bok om sitt långa liv, där hon bland annat berättar om ”den tredje akten” – den utan maken Hans. På senare år har hon tagit upp skådespelandet igen med flera roller på Dramaten – något hon tackar Hans för. – Tänk att han, mot slutet, var så insiktsfull. Och att han rådde mig till att ta den här utmaningen. För han förstod att jag skulle behöva det. Hon är en av Sveriges mest firade skådespelare och har jobbat med storheter som Ingmar Bergman. Men hon tackade nej till att arbeta i Hollywood, på grund av barnen. – Att vara mamma är den bästa rollen. Det är det bästa man kan göra med sitt liv – att skapa en familj. Det har varit det primära. De stora valen i mitt liv har jag gjort till förmån för mina barn. Jag ångrar inga beslut. ”Inte gammal – årsrik” För den yngre publiken är hon mest känd som Bianca Ingrossos mormor i långköraren Wahlgrens värld och tillhör ju Sveriges kanske mest kända familj. Stoltheten över familjen är tydlig. – Att vara mamma till fyra barn som jag har fått, och nio barnbarn, två barnbarnsbarn och ett barnbarnsbarn på väg. Med åldern och förlusten av livspartnern Hans har hon lärt sig att ta vara på livet. – Det är ett pågående liv. Jag tror att man gör klokt i att inte haka upp sig på en siffra. När folk säger: ”Du är så och så gammal...” Nej, jag är inte gammal. Jag är årsrik. Jag är rik på år. Det kan ta slut i morgon dag, det vet vi ju ingenting om. Men varför inte göra det bästa möjliga av varje dag i livet? – Jag tror ju på tankens kraft. Jag tror att vi har så mycket inom oss så att vi kan forma vårt eget liv som vi vill.
+
+[Read Full Article](https://www.tv4.se/artikel/6OmX29R4UnXQO77NUsGpAe/om-livet-efter-hans-vill-sa-gaerna-ha-nagon-att-skratta-med)
+
+---
+
+## Ny brand i Stockholm i natt – polisen befarar pyroman
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
+
+Papperskorgar, uteplatser, ett skjul och en båt har bland annat brunnit. Doften av brandrök har varit vanligt förekommande kring norra Hammarbyhamnen på Södermalm i Stockholm den senaste tiden. Polisen tittar på händelserna tillsammans och arbetar bland annat med utredning om både mordbrand och grov mordbrand, vilket Expressen tidigare skrivit. – Vi har haft en handfull bränder i området runt norra Hammarbyhamnen. Hittills har det varit på olika platsen där man kan anta att någon har tänt på, säger Carina Skagerlind. Stärkt upp i området Polisen har stänkt upp med extra resurser i området i hopp om att kunna agera snabbt om nya bränder uppstår. – Vi har jobbat med extra uppmärksamhet och haft flera poliser i området. Vi har gjort en del dörrknackning och ber också allmänheten om tips, om det är någon som gjort en iakttagelse, säger hon och fortsätter: – Vi försöker ta reda på vad som händer och vem eller vilka som ligger bakom det här, säger hon. Bränderna har hittills varit hanterbara för brandkåren. Spridningsrisken får vissa av bränderna gör dock att de utreds som bland annat grov mordbrand och mordbrand. – Det handlar om vad som kunde ha hänt, även om det är långt till bostäder så har det funnits en risk, säger hon.
+
+[Read Full Article](https://www.tv4.se/artikel/1S2uIGI8EpCpLC3RK8wnp7/ny-brand-i-centrala-stockholm-polisen-befarar-pyroman)
+
+---
+
+## Familjens oro: Asylboende – 20 mil från vänner, jobb och skola
+**Outlet:** TV4 Nyheterna
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
+
+I februari träffade TV4 Nyheterna familjen i Norsjö. Då väntade de på att utvisas till Iran, efter att ha fått avslag på sin asylansökan. Familjen hade efter avslaget fått möjlighet att stanna i Sverige genom det så kallade spårbytet, som gjorde det möjligt för vissa tidigare asylsökande att ansöka om arbetstillstånd efter avslag. Men när möjligheten avskaffades sökte de asyl på nytt. Nu kan de inte få besked från Migrationsverket, med anledning av det allvarliga säkerhetsläget i Iran. – Så jobbigt. Så jobbigt. Jag orkar inte vänta mer på det beslutet, säger Sara Ghorbani. Och förra veckan kom ännu ett besked som skakade familjen. De skulle flyttas till ett asylboende i Boden. Vill inte lämna sitt liv i Norsjö Den nya mottagandelagen, som trädde i kraft den 1 oktober, innebär att asylsökande som huvudregel ska bo på Migrationsverkets boenden för att ha rätt till ekonomiskt stöd. För familjen innebär det att de riskerar att tvingas lämna sitt hem, sina arbeten och sonens skola för att flytta omkring 20 mil bort. – Att lämna jobb, lämna hus, lämna skolan och arbetet, allt, och bo på ett boende och få bidrag. Jag tänker: Nej, nej, nej, säger Sara. Ovissheten och risken att behöva bryta upp från vardagen påverkar också sonen Parham: – Så länge jag inte tänker på det… jag är jätteaktiv, spelar bland annat hockey. Men det påverkar mig också, säger han. Beslutet har omprövats Enligt Migrationsverket är det inte tvingande att flytta till asylboende, men då får man ingen dagersättning och måste anmäla sig på boendet tre gånger i veckan. Familjen i Norsjö tjänar egna pengar och vill inte ha någon dagersättning och nu har de fått beslutet omprövat och kan stanna i Norsjö, de kommer heller inte behöva infinna sig på asylboendet. Men för Sara och Farhood fortsätter ovissheten – både om framtiden i Sverige och om de får stanna kvar i Norsjö, där familjen har byggt upp sitt liv. Fotnot: Artikeln har uppdaterats med information om omprövandet av beslutet.
+
+[Read Full Article](https://www.tv4.se/artikel/7H8MfShWwCVkhRuVBbCGqY/tvingas-laemna-vaenner-jobb-och-skola-foer-asylboende-20-mil-bort)
+
+---
+
+## Mycket liv och glädje när festivalen Kaleo arrangeras i Falun
+**Outlet:** Dagen
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
+
+350 ungdomar och volontärer är samlade i EFK-församlingens lokaler.
+
+[Read Full Article](https://www.dagen.se/nyheter/mycket-liv-och-glaedje-naer-festivalen-kaleo-arrangeras-i-falun/10610631)
 
 ---
 
 ## Brownies med chokladglasyr och marängspöken
 **Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-31 (today)
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
 
 Dagens helgtips bjuder på en saftig chokladkaka med len chokladglasyr, krossade chokladkex och söta små marängspöken. En chokladdröm som är lika rolig att dekorera som att äta – perfekt att baka tillsammans med barnen till halloween!  Se Camilla Hamids recept
 
@@ -973,339 +1600,9 @@ Dagens helgtips bjuder på en saftig chokladkaka med len chokladglasyr, krossade
 
 ---
 
-## Ståhlis: Var är mormor nu? frågade fyraåringen
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-I dag funderar Ståhlis över ”att gå vidare” och ”kola vippen”. Och hur konstigt det är när ett skratt tystnar och ingen längre svarar.
-
-[Read Full Article](https://www.dn.se/kultur/stahlis-var-ar-mormor-nu-fragade-fyraaringen/)
-
----
-
-## Jag var bara 12 när jag förlorade min pappa – och inget blev sig likt
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-I dag är det allhelgona. HD:s praoelev Sol Åberg uppmärksammar dagen genom att skriva om hur hon förändrades efter att ha förlorat sin pappa redan som 12-åring. Och hur man kan fortsätta att leva sitt liv efter en förlust, trots att det kan kännas omöjligt.
-
-[Read Full Article](https://www.hd.se/familj/jag-var-bara-12-nar-jag-forlorade-min-pappa-och-inget-blev-sig-likt/)
-
----
-
-## Ernst Interiör slår igen: ”Väldigt tungt”
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Efter fyra år av dalande försäljning och miljonförluster stänger Ernst Interiör sin butik i Östra Karup. Ägaren Magnus ”Manne” Dahlberg beskriver beslutet som tufft, men oundvikligt.
-
-[Read Full Article](https://www.hd.se/bastad/ernst-interior-slar-igen-valdigt-tungt/)
-
----
-
-## Flera 14-åringar häktade efter historisk lagändring
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Mord i Älvsjö, mordförsök i Strängnäs och mordplaner i Linköping och Gävle. Bara veckor efter att straffmyndighetsåldern sänkts utreds nu flera 14-åringar för inblandning i grova brott.
-
-[Read Full Article](https://www.hd.se/sverige/flera-14-aringar-haktade-efter-historisk-lagandring/)
-
----
-
-## Försvarschefens oro: Ryssland blir bättre
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Det svenska försvaret oroas av hur bra den ryska armén har blivit på att anpassa sig efter Ukrainas…
-
-[Read Full Article](https://www.svd.se/a/d73JXO/forsvarschefens-oro-ryssland-blir-battre?utm_medium=rss)
-
----
-
-## ”Nu blir man rädd att våldet ska trappas upp igen”
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Det har gått en vecka sedan en man i 25-årsåldern sköts ihjäl i Bagarmossen i södra Stockholm. Enligt områdespolisen Josefine Ristmägi har händelsen väckt oro bland boende och rivit upp känslor från våldsdåden i området 2024. – Man blir ju bestört och ledsen, säger Bagisbon Marie Olsson, 64.
-
-[Read Full Article](https://www.dn.se/sverige/nu-blir-man-radd-att-valdet-ska-trappas-upp-igen/)
-
----
-
-## Misstänkt mordförsök på restaurang i Stockholm
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79249&utm_medium=rss)
-
----
-
-## Flera 14-åringar häktade efter historisk lagändring
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Mord i Älvsjö, mordförsök i Strängnäs och mordplaner i Linköping och Gävle. Bara veckor efter att straffmyndighetsåldern sänkts utreds nu flera 14-åringar för inblandning i grova brott.
-
-[Read Full Article](https://www.sydsvenskan.se/sverige/flera-14-aringar-haktade-efter-historisk-lagandring/)
-
----
-
-## 3 000 skelett grävs upp när Köpenhamn ska klimatanpassas
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-När Köpenhamn ska rusta för extremregn har arkeologerna fått ett drömuppdrag: flytta 3 000 mänskliga skelett innan grävmaskinerna kommer. – Ibland hittar man ett smycke. Då blir det personligt, säger den svenske arkeologen Henrik Wendt.
-
-[Read Full Article](https://www.dn.se/varlden/3-000-skelett-gravs-upp-nar-kopenhamn-ska-klimatanpassas/)
-
----
-
-## Flera 14-åringar häktade efter historisk lagändring
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Mord i Älvsjö, mordförsök i Strängnäs och mordplaner i Linköping och Gävle.
-
-[Read Full Article](https://www.svd.se/a/kvkMyk/flera-14-aringar-haktade-efter-historisk-lagandring?utm_medium=rss)
-
----
-
-## Krucifixet faller – vad vi pratar om när vi pratar om döden
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Det är ett lite extra trist faktum att döden tar död på alla du älskar. Gång på gång på gång. Tills det är din egen tur. Axel Burénius förlorade tidigt sin bror. Med ”Rekviem” har han skapat en kör av röster om döden. Inför allhelgonahelgen läser Peter Fällmar Andersson en ohygglig bok som tröstar, lite.
-
-[Read Full Article](https://www.hd.se/kultur/krucifixet-faller-vad-vi-pratar-om-nar-vi-pratar-om-doden/)
-
----
-
-## Ny på boktoppen: Boken som får vår kritiker att ifrågasätta att hon någonsin ätit fisk
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Den Augustprisnominerade boken ”Ur djupet. Om fiskars inre liv, fiske och en växande livsmedelsindustri. ” är en av böckerna du inte ska missa vecka 44.
-
-[Read Full Article](https://www.sydsvenskan.se/kultur/ny-pa-boktoppen-boken-som-far-var-kritiker-att-ifragasatta-att-hon-nagonsin-atit-fisk/)
-
----
-
-## Lundaluften har blivit bättre – här är förklaringen
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Allt var inte bättre förr. Utsläppen från biltrafik i centrala Lund har minskat drastiskt sedan 1990, visar en färsk rapport. Men varför blockerade Moderaterna luftmätningarna vid Trollebergsvägen strax före valet?
-
-[Read Full Article](https://www.sydsvenskan.se/lund/lundaluften-har-blivit-battre-har-ar-forklaringen/)
-
----
-
-## Två vårdas på sjukhus efter balkongfall
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79248&utm_medium=rss)
-
----
-
-## Bolsonaro: Utsatts för förföljelse
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79244&utm_medium=rss)
-
----
-
-## Annika Ström Melin: Små stick mot USA väcker jubel på biograferna i Paris
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Filmen om Charles de Gaulle är värd applåder. Men när historien kapas av franska extrema nationalister kan det sluta illa. KOLUMNEN. Annika Ström Melin är journalist och fristående kolumnist på Dagens Nyheters ledarsida.
-
-[Read Full Article](https://www.dn.se/ledare/annika-strom-melin-sma-stick-mot-usa-vacker-jubel-pa-biograferna-i-paris/)
-
----
-
-## Gamla vänner på olika sidor i SD-bråket
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Frågan om svenskhet och etnicitet har funnits med i SD från starten. Efter valet har den bubblat upp…
-
-[Read Full Article](https://www.svd.se/a/KrVOPM/braket-om-svenskhet-i-sverigedemokraterna-splittrar-vanner?utm_medium=rss)
-
----
-
-## Befriande anarki i Carl Johan De Geers bageri
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Mycket är sig likt när kultserien ”Tårtan” nu får premiär som soppteater.
-
-[Read Full Article](https://www.svd.se/a/d7Vk3z/befriande-anarki-i-carl-johan-de-geers-bageri?utm_medium=rss)
-
----
-
-## Rögle sämst i powerplay: ”Bara att fejsa verkligheten”
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-The bottom is nådd. Efter derbyförlusten är Rögle sämst av alla lag i powerplay. – Ingen av oss vill att det ska se ut så här, vi gör allt vi kan för att det ska bli bättre, säger backen Filip Johansson.
-
-[Read Full Article](https://www.hd.se/sport/rogle-samst-i-powerplay-bara-att-fejsa-verkligheten/)
-
----
-
-## Vi bör göra fel oftare – på rätt sätt
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Att göra fel är en naturlig del av livet. Men för att vi ska kunna lära oss av våra misstag behöver…
-
-[Read Full Article](https://www.svd.se/a/ElVJQK/vi-bor-gora-fel-oftare-pa-ratt-satt?utm_medium=rss)
-
----
-
-## ”Jag visste: Här får man inte ha SD-sympatier”
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Han kallas för SD-ledningens marionett – och har hamnat mitt i den pågående striden om etnicitet och…
-
-[Read Full Article](https://www.svd.se/a/58zO61/carl-eos-vill-begrava-sverigedemokraternas-strid-om-etnicitet?utm_medium=rss)
-
----
-
-## ”Jag jobbar inte med döden utan med livet”
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Under allhelgonahelgen tänds ljus på kyrkogårdar runt om i landet. Människor samlas och minns de nära och kära som en gång levde. För en dag låter vi döden ta plats. Men hur är det att ha döden närvarande i sin vardag? DN Insidan har mött fyra personer som valt ett liv nära döden.
-
-[Read Full Article](https://www.dn.se/insidan/jag-jobbar-inte-med-doden-utan-med-livet/)
-
----
-
-## Små barn drabbas hårdast av ebola i Kongo-Kinshasa
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Dödligheten är hög bland barn som drabbas av den ovanliga ebolavarianten bundibugyo i Kongo-Kinshasa.
-
-[Read Full Article](https://www.svd.se/a/3121xA/sma-barn-drabbas-hardast-av-ebola-i-kongo-kinshasa?utm_medium=rss)
-
----
-
-## Låt de döda påminna oss om livet
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Vi festar med spöken men överger de sörjande.
-
-[Read Full Article](https://www.svd.se/a/qyqq10/halloween-och-alla-helgons-dag-forenar-lek-och-allvar?utm_medium=rss)
-
----
-
-## Unika filmer: Se hur järnvägen kan dras under Helsingborg
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Efter ett plötsligt stopp kring dubbelspåret mellan Maria station och Helsingborg C började Trafikverket utreda på nytt. Sex olika vägval för den framtida järnvägen kvarstår och intresset under det första samrådet har varit stort. Nu kan HD  visualisera sträcka för sträcka med unik videografik för att ge en bild av vad det hela egentligen handlar om.
-
-[Read Full Article](https://www.hd.se/helsingborg/unika-filmer-se-hur-jarnvagen-kan-dras-under-helsingborg/)
-
----
-
-## Robin, 38, var en hårsmån från att dö i sepsis
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-En vanlig halsfluss förvandlades till ett livshotande tillstånd. Sepsis höll på att ta Robin Svedenborns liv. Först åtta år och flera komplikationer senare är han helt återställd. 90 miljoner i forskningspengar från EU ska nu göra vägen tillbaka enklare för framtidens sepsispatienter.
-
-[Read Full Article](https://www.sydsvenskan.se/skane/robin-38-var-en-harsman-fran-att-do-i-sepsis/)
-
----
-
-## ”Hur tänker jag förnuftigt kring min förälskelse på jobbet?”
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Han har fått oväntat starka känslor för en yngre kvinna på sin arbetsplats. De är båda gifta på var sitt håll och han vill inte skilja sig eller svika sin fru. Men förälskelsen tycks inte gå över – hur ska han göra för att resonera förnuftigt med sig själv? Psykoterapeuten Daniel Rosenlind ger råd.
-
-[Read Full Article](https://www.dn.se/insidan/hur-tanker-jag-fornuftigt-kring-min-foralskelse-pa-jobbet/)
-
----
-
-## Uppmaningen inför allhelgona: Tänd lagom med ljus
-**Outlet:** Svenska Dagbladet (SvD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-12 ton avfall från kommunens kyrkogårdar blev facit efter förra årets allhelgonahelg – bara i…
-
-[Read Full Article](https://www.svd.se/a/w3WrW5/uppmaningen-infor-allhelgona-tand-lagom-med-ljus?utm_medium=rss)
-
----
-
-## ”Uppenbart olämpliga personer blir valda utan att fångas upp.”
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Förtroende kräver öppenhet. Ändå ser sekretessreglerna i princip likadana ut för helt vanliga människor som för landets högsta makthavare. Personer med offentliga uppdrag måste räkna med en mer ingående granskning, skriver Timbros idéchef Adam Danieli.
-
-[Read Full Article](https://www.hd.se/opinion/aktuella-fragor/uppenbart-olampliga-personer-blir-valda-utan-att-fangas-upp/)
-
----
-
-## ”Uppenbart olämpliga personer blir valda utan att fångas upp.”
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-Förtroende kräver öppenhet. Ändå ser sekretessreglerna i princip likadana ut för helt vanliga människor som för landets högsta makthavare. Personer med offentliga uppdrag måste räkna med en mer ingående granskning, skriver Timbros idéchef Adam Danieli.
-
-[Read Full Article](https://www.sydsvenskan.se/opinion/uppenbart-olampliga-personer-blir-valda-utan-att-fangas-upp/)
-
----
-
-## Insändare. Snälla Volvo, lyssna på mig som trogen kund
-**Outlet:** Dagens Nyheter (DN)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-INSÄNDARE. Volvo har glömt bort trogna kunder som inte ges någon röst om vad de är beredda att betala för. Snälla Volvo, ge mig en ny kombihybrid som får mig att längta, skriver den mångåriga Volvoägaren Staffan Eriksson.
-
-[Read Full Article](https://www.dn.se/insandare/snalla-volvo-lyssna-pa-mig-som-trogen-kund/)
-
----
-
-## Nya ägare tar över hus i Billesholm
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/bjuv/nya-agare-tar-over-hus-i-billesholm/)
-
----
-
-## 110 kvadratmeter stort hus i Eket sålt
-**Outlet:** Helsingborgs Dagblad (HD)
-**Category:** General News | **Date:** 2026-10-31 (today)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.hd.se/orkelljunga/110-kvadratmeter-stort-hus-i-eket-salt/)
-
----
-
 ## Världsartisten Michael Ruff turnerar i Sverige – fyra spelningar i november
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-31 (today)
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
 
 Lovar bjuda på nyskrivet material • Kallar AI för ”ett själlöst verktyg”.
 
@@ -1315,7 +1612,7 @@ Lovar bjuda på nyskrivet material • Kallar AI för ”ett själlöst verktyg�
 
 ## Supporter ända in i döden – allt vanligare att sport­intresse syns i begravningar
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-31 (today)
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
 
 Prästen Christer Pettersson: Kyrkan måste kunna visa en människas liv även på en begravning
 
@@ -1325,7 +1622,7 @@ Prästen Christer Pettersson: Kyrkan måste kunna visa en människas liv även p
 
 ## Påvens historiska Sverige­besök uppmärksammas tio år senare
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-31 (today)
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
 
 Högtidlig vesper med internationella gäster firas i Lunds domkyrka.
 
@@ -1335,7 +1632,7 @@ Högtidlig vesper med internationella gäster firas i Lunds domkyrka.
 
 ## Rose-Marie: Våga ställ frågor och ta tid för djupa samtal vid livets slut
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-31 (today)
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
 
 Rose-Marie Hopstadius, 59, har specialiserat sig på palliativ vård och att möta människor som ligger för döden • Ett speciellt dödsfall fick henne att gå den vägen.
 
@@ -1345,7 +1642,7 @@ Rose-Marie Hopstadius, 59, har specialiserat sig på palliativ vård och att mö
 
 ## Politiska motståndare skickades för att spionera på församling
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-31 (today)
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
 
 I takt med att James Talaricos chanser att vinna senatsvalet i Texas har ökat, har pressen på hans församling blivit större
 
@@ -1356,7 +1653,7 @@ I takt med att James Talaricos chanser att vinna senatsvalet i Texas har ökat, 
 ## Malina Abrahamsson:
 Var har spexet i kyrkan tagit vägen?
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-31 (today)
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
 
 Vi behöver kunna skratta åt kyrkan, oss själva och våra olika trosföreställningar.
 
@@ -1367,7 +1664,7 @@ Vi behöver kunna skratta åt kyrkan, oss själva och våra olika trosförestäl
 ## Anton Ahlmark:
 Jag ser ljusen och påminner mig om att en dag ska vi ses igen
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-31 (today)
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
 
 'Vi tänder ljus för att minnas de som lämnat oss och nu är hos Gud'.
 
@@ -1377,7 +1674,7 @@ Jag ser ljusen och påminner mig om att en dag ska vi ses igen
 
 ## ”Protesterna från kyrkan gjorde mig mer övertygad om att jag gjorde rätt”
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-31 (today)
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
 
 Fyra decennier efter omdiskuterade sexprogrammen berättar Malena Ivarsson om hur hon triggades av den kristna kritiken.
 
@@ -1387,7 +1684,7 @@ Fyra decennier efter omdiskuterade sexprogrammen berättar Malena Ivarsson om hu
 
 ## Tidigare Hillsong-profil om tuffa tiden efter skandalerna
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-31 (today)
+**Category:** General News | **Date:** 2026-10-31 (1 day old)
 
 'Jag behövde verkligen en period av självrannsakan', säger Joel Houston.
 
@@ -1395,59 +1692,9 @@ Fyra decennier efter omdiskuterade sexprogrammen berättar Malena Ivarsson om hu
 
 ---
 
-## Massdemonstrationer mot Meloni i Italien
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-30 (today)
-
-Italien har under fredagen präglats av demonstrationer och en generalstrejk över hela landet.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/massdemonstrationer-mot-meloni-i-italien/)
-
----
-
-## Rysslandskännaren: ”Regimen är livrädd för fritänkande”
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-30 (today)
-
-På fredagen meddelade Novaja Gazeta, som beskrivs som Rysslands sista oberoende tidning, att de lägger ner.  Rysslandskännaren Malcolm Dixelius säger att nedläggningen har ”otroligt stor symbolbetydelse”, även om läsarkretsen i landet inte var speciellt stor. – Däremot var de ofta citerade och hade några av Rysslands absolut främsta journalister, säger Dixelius. – Det är ju bara några år sedan chefredaktören vann Nobelpriset. Då kom de att få en internationell status som de kanske inte hade i det egna landet. Kände grundaren: ”De förgiftade honom” För Malcolm Dixelius är nedläggningen också personlig, säger han. Han jobbade med två av de sex Novaja Gazeta-journalister som mördats. I början av 00-talet gjorde han en film med Anna Politkovskaja, som dödades efter att ha skrivit kritiska artiklar om Rysslands krig i Tjetjenien. Han kände även Jurij Sjtjekotjchin som var med och startade tidningen, och som mördades 2003. Han vårdades på ett sjukhus som kontrollerades av Rysslands säkerhetstjänst FSB och utredningen av mordet lades ner. – Man kan säga att han var den moderna grundaren till undersökande journalistik överhuvudtaget i Ryssland. Honom irriterade säkerhetstjänsten sig på till så milda grad att de till slut förgiftade honom. ”Putin försöker täppa igen alla hål” Att tidningen stänger ner är ”helt följdriktigt” med tanke på utvecklingen i Ryssland, säger Malcolm Dixelius. – Det här är bara slutpunkten på en kamp som har pågått mellan den fria journalistiken och den del av den ryska staten som Putin kommer ifrån, alltså de här säkerhetsorganen. Regimen försöker ”täppa igen alla hål” där alternativ information som utmanar Putins verklighetsbild kryper fram, menar Dixelius. – Regimen är livrädd för fritänkande som skulle kunna leda till att man kan organisera en organiserad opposition. Det är också fråga om att statuera exempel mot andra självständiga journalister. Experten: Omöjligt att göra utanför Ryssland Att försöka driva en exiltidning utanför Ryssland och ändå lyckas bilda opinion i landet är omöjligt, säger Malcolm Dixelius. – Det går inte. Om det är uppenbart att huvuddelen av den information man producerar är insamlad och levereras från utlandet, då har den begränsad trovärdighet och begränsad förmåga att nå fram till befolkningen. – Genomslagskraften blir minimal.
-
-[Read Full Article](https://www.tv4.se/artikel/5uDbLon0bys3OEnUfcSNaz/rysslandskaennaren-regimen-aer-livraedd-foer-fritaenkande)
-
----
-
-## USA godkänner Patriot-försäljning till Ukraina
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-30 (today)
-
-Den amerikanska regeringen har godkänt försäljning av 500 Patriotrobotar till Ukraina.
-
-[Read Full Article](https://www.sydsvenskan.se/varlden/usa-godkanner-patriot-forsaljning-till-ukraina/)
-
----
-
-## Meta undviker rättegång – förlikas med tonåring
-**Outlet:** Sydsvenskan
-**Category:** General News | **Date:** 2026-10-30 (today)
-
-Meta förlikas med en tonårsflicka som stämt Instagramägaren för skadliga algoritmer, dagar innan rättegång.
-
-[Read Full Article](https://www.sydsvenskan.se/ekonomi/meta-undviker-rattegang-forlikas-med-tonaring/)
-
----
-
-## Forskaren förbjuds att resa till Storbritannien: ”Förkastligt”
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-30 (today)
-
-Andreas Malm, docent i kulturgeografi och lektor i humanekologi vid Lunds universitet, har fått inreseförbud till Storbritannien, rapporterar The Guardian. Han är även författare till boken ”How to Blow Up a Pipeline”, en bok som väckt kontrovers då han förespråkar användningen av sabotage som metod för att bedriva klimataktivism. Andreas Malm tror däremot att det inte är anledningen.  – Jag var senast i Storbritannien i maj och var på en festival och pratade där om klimatpolitik, och det var inga problem, säger han. Palestina-kopplat Andreas Malm skulle under sin vistelse gästa en paneldiskussion som var organiserad av tidskriften Tribune för att bland annat prata om Irankriget och fossila bränslen. I tidskriftens senaste nummer är Andreas Malm författare till en essä om ämnet. Hans samtalspartner under diskussionen skulle vara Huda Ammori, medgrundare till organisationen Palestine Action. Hittills har han inte fått en förklaring av brittiska myndigheter men säger att det med största sannolikhet är anledningen. – Det går att förstå varför det händer och det är förkastligt. Vi som uttrycker solidaritet med Palestina är ständigt utsatta för den här typen av repression. Vi förlorar våra jobb, vi sätts i fängelse, vi beläggs med inreseförbud. Det bara fortsätter. Och vart leder det oss? frågar han sig. Terrorstämplad organisation Den brittiska regeringen klassade Palestine Action som en terrororganisation i juli 2025 efter en aktion. Det innebär att det är olagligt att vara medlem i eller uttrycka stöd för gruppen.  Andreas Malm antar att det är anledningen till hans inreseförbud. – Den allmänna förståelsen av vad som har hänt är att bara det faktum att jag skulle ha ett samtal med Huda Ammori gjorde att de klassificerade mig som ett slags hot mot allmänhetens bästa, säger han. Han menar att det inte är första gången detta har hänt på grund av Palestina och fortsätter: – Den här frasen, ’kanske inte kan vara till gagn för allmänhetens bästa ’, användes när Starmer-regeringen stoppade två amerikanska opinionsbildare från att komma in i landet, kopplat till Palestina. Så det är med största sannolikhet kopplat till Palestina.  Auktoritära vindar För Andreas Malm personligen är beskedet tufft, då en stor del av hans privata och professionella liv finns i Storbritannien. Det är dock inte det viktiga, menar han. – Det här har inte börjat med mig, och det kommer inte sluta med mig heller. Om jag är ett hot mot allmänheten bara för att jag pratar med Huda Ammori, då kommer folk snart vara ett hot mot allmänheten för att de pratar med mig, säger han. Det blåser auktoritära vindar, menar han. – Det här är en glidning in i mer och mer auktoritära politiska ingrepp i demokratiska fri- och rättigheter. Det pågår i England, det pågår i andra länder.  Författaren till succéboken ”Normala människor”, Sally Rooney, har uttryckt sitt stöd för Andreas Malm. Hon kan inte längre sälja sina böcker i landet på grund av sitt uttryckta stöd för organisationen Palestine Action och har ställt in resor till Storbritannien av rädsla för att hon kommer att bli arresterad. Enligt advokater som Andreas Malm varit i kontakt med gäller inreseförbudet tills vidare, på obestämd tid.
-
-[Read Full Article](https://www.tv4.se/artikel/6D1JbGy5nLAWBi0GwEeZG4/forskaren-foerbjuds-att-resa-till-storbritannien-foerkastligt)
-
----
-
 ## Han står på scen när USA väljer väg – gillar inte Trump
 **Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-30 (today)
+**Category:** General News | **Date:** 2026-10-30 (1 day old)
 
 Tallest Man on Earth om mellanårsvalet •  Turnerar genom vågmästarstaterna
 
@@ -1455,69 +1702,9 @@ Tallest Man on Earth om mellanårsvalet •  Turnerar genom vågmästarstaterna
 
 ---
 
-## Pojkar var ute på rasistisk jakt – gick till attack med knogjärn
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-30 (today)
-
-Knivsta 8 mars 2026.  Flera tonårspojkar samlas under kvällen på tågstationen i Knivsta för att välja ut ett offer med utländskt utseende. Övervakningsfilmer från platsen visar hur ungdomarna provslår med knogjärn och tränar Hitlerhälsningar på perrongen medan de väntar på lämpligt offer. Flera tåg passerar men de väljer bort resenärer som ser ut att kunna försvara sig – innan de till slut väljer ut en ensam kvinna. De följer sedan efter henne en bit innan de knuffar ner henne och börjar slå henne i huvudet med knogjärn, enligt åtalet. Nu åtalas pojkarna, som är i 15-årsåldern, för bland annat grov misshandel. Enligt åklagaren är det rasistiska motivet en omständighet som gör att gärningen bedöms som grov.  Skrattade åt kvinnans skrik Kvinnan, som är i 40-årsåldern, uppger i förhör att hon precis hade svängt mot sin bostad när någon slog henne bakifrån. En av pojkarna ska ha slagit henne, en annan filmade och övriga stod omkring. Hon uppgav också att pojkarna sprang därifrån skrattande när hon skrek.  ”Jag ställde mig upp och började skrika högt. Då tittade killarna på mig och skrattade och tog sen samma väg tillbaka mot stationen.”  I chattar efteråt har ungdomarna diskuterat överfallet och hånat kvinnans skrik. ”Hon vände sig och börja tjuta som ett alarm. Men sen fick han ned henne med sista slaget”, skriver en av pojkarna. Rasistisk jakt  Två dagar före misshandeln hade pojkarna diskuterat misshandeln i en Snapchat-grupp med namnet ”vit makt” och kommit överens om en rasistisk ”jakt”. ”Vill ni gå på Negger jakt?”, frågar en av pojkarna. ”Ja”, och ”Vi gör det”, svarar de andra pojkarna i gruppchatten. Pojkarna ska även före attacken ha skrivit om planer om att skapa en nazistisk bas med en hakkorsflagga.  Misstänkt hämndaktion Men bara tre dagar senare skulle två av de misstänkta gärningsmännen själva utsättas för våld. Enligt åklagaren ska de åtalade pojkarna ha tvingats gå ner på knä, be om ursäkt och lämna ifrån sig och låsa upp sina mobiltelefoner. Händelsen filmades samtidigt som deras telefoner genomsöktes. Pojkarna och deras anhöriga ska även ha utsatts för dödshot. En kniv ska ha använts för att förstärka hoten. Enligt förundersökningen finns misstankar om att händelsen var en hämndaktion för den grova misshandeln tre dagar tidigare. Båda nekar till brott. Totalt sex personer står åtalade i målet.
-
-[Read Full Article](https://www.tv4.se/artikel/1hZfU8Dicq773jXhnrdARm/pojkar-var-ute-pa-rasistisk-jakt-misshandlade-kvinna-med-knogjaern)
-
----
-
-## Så påverkas kroppen av skräck
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-30 (today)
-
-Rädsla är en kraftfull känsla som aktiverar hela kroppen. När vi blir riktigt rädda reagerar inte bara hjärtat och magen – även tarmarna och blåsorna kan påverkas. De flesta får dock ”bara” ett kraftigt adrenalinpåslag, hjärtklappning och en känsla av att magen knyter sig. – Det stannar oftast vid att hjärtat går igång och man hoppar till, säger Johannes Cannán-Magnusson. Att ”skrämma livet ur någon” är ett uttryck som ibland används bokstavligt, men Cannán-Magnusson menar att dödsfall till följd av skräck är mycket sällsynta. I de få fall där det har inträffat har personen ofta haft någon hjärt- och kärlsjukdom i botten. – Det har väl hänt någon enstaka gång, men det är absolut inte vanligt, säger han. Skräck kan dock ge ett rejält påslag i kroppen, och hjärnan har svårt att skilja mellan verklig och fiktiv rädsla. Det är därför vi kan känna oss lika rädda av en skräckfilm som av en verklig händelse. – Efter en en skräckupplevelse kan det pirra i hela kroppen, och känslan kan sitta kvar i flera dagar, säger Cannán-Magnusson. Varför söker vi skräck? Många människor söker aktivt upp skräckupplevelser – genom filmer, berg-och-dalbanor eller bungyjump. Johannes Cannán-Magnusson förklarar att det handlar om en medfödd vilja att utforska och alla har ett visst sökande efter spänning och kickar. – Det är därför vi gillar att titta på skräckfilm och sådana saker. Adrenalinpåslaget kan vara väldigt spännande, säger han. Så lugnar du kroppen När rädslan slår till finns det enkla knep för att lugna kroppen. Cannán-Magnusson rekommenderar att sakta ner andningen, eftersom ytlig andning och hög hjärtfrekvens är typiska delar av kroppens kamp- och flyktmekanism. – Gå ner i lugna andetag och ta det lite lugnt. Rota dig fast på marken och tänk på andningen, säger han. För den som är lättskrämd i vardagen finns det sätt att träna upp sitt beteende. Cannán-Magnusson berättar att amygdala, hjärnans ”rädslecentrum”, registrerar vissa situationer och att det går att träna sig att våga möta och utsätta sig för dessa. – Det är en del av vårt överlevnadssystem, men vissa är mer ”primade” än andra. Det går att träna, säger Cannán-Magnusson.
-
-[Read Full Article](https://www.tv4.se/artikel/71yIOdmcwuMlF1CGDEaeoZ/sa-paverkas-kroppen-av-skraeck)
-
----
-
-## Slår världsrekord i pingis – igen
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-30 (today)
-
-Försöket att slå världsrekordet i maratonpingis livesändes i SVT under natten och in på fredagseftermiddagen. Efter 17 timmar och 15 minuter stod det klart att de var världsmästare men Emil Ohlsson och Fredrik Nilsson fortsatte. Det nya rekordet står nu på 18 minuter 33 minuter och 42 sekunder. I ett telefonsamtal berättar duon, som kallas för The Spin Duo, hur det känns att vara världsmästare. – Det gör ont i hela kroppen och så det är återhämtning nu närmsta veckan skulle jag säga att, säger Fredrik Nilsson.  – Nu planerar vi ingenting, utan nu bara njuter vi, säger Emil Ohlsson. Tidigare världsmästare Det är inte första gången duon slagit världsrekordet.  I juli 2024 satte de en rekordnotering på 13 timmar, 37 minuter och 6 sekunder. Redan i april 2025 förbättrade de den till 15 timmar, 49 minuter och 35 sekunder. Rekordet har under åren vandrat runt mellan duor från olika länder. The Spin Duo är glada att återigen ha tagit tillbaka världsrekordet. – Det här rekordet vi gjorde i dag är absolut det svåraste vi har gjort någonsin, att göra ett sådant här rekord i livesänd tv. Vi kände att vi hade en sjuk press på oss. Vi var trötta redan efter sex, sju timmar, säger Fredrik Nilsson. – Jag tror att det är väldigt svårt att slå det här rekordet, säger Emil Ohlsson. Vill inspirera andra Idén till att slå världsrekordet föddes i samband med ett midsommarfirande 2024. De insåg att de båda var tillräckligt envisa för att kunna lyckas med något sådant här.  Genom åren har världsrekordet kommit att betyda mer än en rolig grej. Vinningen för de själva ligger i att utsätta sig för något väldigt svårt, och sedan lyckas. – Vi vill inspirera ungdomar, och även vuxna, att allting är möjligt. Med rätt inställning och rätt pannben kan du klara vad som helst, säger Emil Ohlsson. Duon uppger att de kommer försöka igen om någon annan lyckas slå världsrekordet. – Jag hoppas innerligen att vi får behålla det länge, länge. Men man vet aldrig vad som händer längre fram, säger Fredrik Nilsson.
-
-[Read Full Article](https://www.tv4.se/artikel/3cdR3sVIZABShHwPHbUKMf/slar-vaerldsrekord-i-pingis-igen)
-
----
-
-## Pikes första ord efter misslyckade avrättningen: ”Gör ont”
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-30 (today)
-
-Christa Pike, 50, fick två doser av det dödliga läkemedlet pentobarbital när delstaten försökte avrätta henne med giftsprutor den 30 september. Avrättningen misslyckades och Pike fördes till sjukhus i kritiskt tillstånd.  Där kopplades hon in i respirator innan hon sex dagar därpå återfick medvetendet. Tidigare i oktober lämnade hon sjukhuset och återfördes till fängelset.  ”Min kropp gör ont. Mina armar gör ont. Mina händer gör ont. Min hals gör ont. Jag kämpar fortfarande för att tala”, säger hon nu i ett uttalande.   Vaknade ensam, förvirrad och i smärta Morgonen den 30 september hade hon försonats med det faktum att hon skulle avrättas. Hon hade tagit farväl av sina nära och kära, och för personerna i dödskammaren berättade hon att hon lämnade dem med ”kärlek och vänlighet”, uppger hon. Därefter vaknade hon ensam, förvirrad och i smärta.  ”Jag hade inte tänkt på livet efter den natten och jag är djupt sårad av den inkompetens som har försatt så många människor i denna fruktansvärda situation”, säger hon i uttalandet. ”Jag söker efter mening i det som hände mig”, fortsätter hon. ”Vet att jag blir starkare” Avrättningen har beskrivits som smått kaotisk. Enligt vittnen ska Pike inte ha förlorat sitt medvetande. Hon ska bland annat ha pekat på sin arm och frågat ”ska det se ut sådär?” och sagt ”min arm känns som om den håller på att spricka”. Pike dömdes till döden för att, som 18-åring, tillsammans med två andra ha mördat Colleen Slemmer 1995. Nu säger hon att hon söker efter mening i det som hon har varit med om.  ”Jag återhämtar mig och jag vet att jag blir starkare”, uppger hon. Hennes långsiktiga prognos är fortsatt oklar.  ”Jag vet inte varför jag överlevde den natten – jag vet inte vad som händer härnäst. För tillfället försöker jag läka, en dag i taget”, säger hon. Trots att Pikes advokater bett Tennessees guvernör Bill Lee om benådning och att hennes dödsstraff ska omvandlas till en livstid i fängelse, tycks straffet ligga fast. – Jag misstänker att hennes straff kommer att vara detsamma som tidigare om inte domstolarna beslutar annat, säger han.
-
-[Read Full Article](https://www.tv4.se/artikel/2ihOtEEKLzftv17hocREQn/pikes-foersta-ord-efter-misslyckade-avraettningen-min-kropp-goer-ont)
-
----
-
-## Frick om infekterade debatten: Viktigt att SD reagerar
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-30 (today)
-
-På fredagen uttalade sig Jimmie Åkesson om den debatt om etnonationalism som splittrar SD. Framför allt SD-toppen Richard Jomshof har menat att svenskhet handlar om blodsband, något Åkesson vänder sig tydligt emot. ”Människor som med tvärsäkerhet förklarar att vi har kompromissat för mycket, att vi är för försiktiga eller att vi borde överge grundläggande delar av vår ideologi till förmån för deras egna högtravande principer. Ärligt talat, vad fan har ni åstadkommit?”, skriver SD-ledaren i Expressen debatt. ”Kliv av – eller bli avslängd”, skriver Åkesson vidare. Chang Frick: ”SD vill inte diskutera gener och arv” Högerdebattören och tidigare SD-politikern Chang Frick säger att principen om etnicitet egentligen inte är en viktig fråga för partiet, eftersom SD så tydligt är för öppen svenskhet, oavsett etnicitet. – Men det blir ju viktigt på det sättet att man reagerar rätt kraftigt om folk kommer till partiet och uppfattar att det mellan raderna ändå finns nånting där med etnicitet, säger han i Nyhetsdagen. – Vi ser Karlsson bli väldigt känslosam till och med, för att man vill verkligen inte att nån diskussion om gener, arv eller sånt såna saker ska spela roll rent politiskt. Det är det som många förknippar med rasism, att titta på hudfärger och såna saker. Där vill man inte vara som parti. Det handlar inte om att vinna sympatier hos några andra partier, tror Frick. – Det är deras övertygelse. De sverigedemokrater som haft etnonationalistiska åsikter har förpassats till Nationaldemokraterna, och på senare tid till Alternativ för Sverige, förklarar han. Om Jomshof: ”Kan skjuta från höften” Om Richard Jomshof säger Frick att han ”kan skjuta lite från höften ibland, i stundens infallenhet”. – Sen var det kanske inte så himla hemskt eller allvarligt det han ville ha sagt. Utöver bråket som varit mellan Jomshof och Karlsson ska man heller inte glömma den större debatt om svenskhet som pågår i sociala medier, poängterar Frick. – Den blir väl kanske aktuell också när SD har backat 3 procent i valet. Känslorna är höga. Vad beror det på? Var vi för mjuka? Var vi för hårda? Skulle vi gjort si? Skulle vi gjort så? Och sen vill ju alla alltid skylla på den andre. Det är lite maktspel.
-
-[Read Full Article](https://www.tv4.se/artikel/2TpjB3OwZwbJqf1boG9RAh/hoegerdebattoeren-om-infekterade-debatten-viktigt-att-sd-reagerar)
-
----
-
-## Efter chocken –  Mohammed får svenskt medborgarskap
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-30 (today)
-
-Mohammed Hussein har haft svenskt pass och svenskt personnummer och i 26 år fått veta att han är svensk medborgare. Men när han föddes på Karlskogas BB registrerades han felaktigt som svensk hos Skatteverket, trots att båda föräldrarna var irakier. När föräldrarna senare sökte och fick svenskt medborgarskap upplystes de om att någon ansökan för Mohammed inte var nödvändig, eftersom han enligt Skatteverket redan var svensk. Trots att han därefter förnyat sitt pass flera gånger och röstat i flera riksdagsval upptäcktes inte misstaget förrän i våras.  Då tvingades han inleda en process hos Migrationsverket för att få det medborgarskap han trodde att han redan hade. – Jag har varit stressad varje dag. Jag har varit jätteorolig. Jag tycker bara hela den här grejen har varit jätteonödig, säger Mohammed. Efterlängtat besked Nu har det efterlängtade beskedet kommit från Migrationsverket, Mohammeds svenska medborgarskap är beviljat. – Det känns bra. Jag är ju född här. Jag tänker inte flytta till något annat land. Så, såklart är jag glad, säger han. Mohammeds fall är inte det enda där misstänkta fel mellan Migrationsverkets och Skatteverkets register upptäckts på sistone. När Migrationsverkethar granskat sina register har åtminstone ett 30-tal liknande fall dykt upp. Och även om det är myndigheten som gjort fel från början är det den drabbade som måste åtgärda problemet. Det tycker Mohammed är fel. – Jag tycker fortfarande att det är konstigt att jag bara haft uppehållstillstånd. De har ju sagt de gjort fel, men att det var jag som måste fixa problemet. Det har ju gått 26 år. De hade kunnat fixa det här för länge sedan istället för att låta mig vänta så här länge.
-
-[Read Full Article](https://www.tv4.se/artikel/5jjD2iOOAP0nTy41CmoYK0/efter-myndighetsmissen-mohammed-far-svenskt-medborgarskap)
-
----
-
 ## Påven har lagt sin röst – första någonsin
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-30 (today)
+**Category:** General News | **Date:** 2026-10-30 (1 day old)
 
 Påve Leo XIV är den första sittande påve som lägger en röst i ett val
 
@@ -1527,7 +1714,7 @@ Påve Leo XIV är den första sittande påve som lägger en röst i ett val
 
 ## Ingen människa är osedd av Gud
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-30 (today)
+**Category:** General News | **Date:** 2026-10-30 (2 days old)
 
 Esther Flores Sedman: Allhelgona påminner om ansvaret att se den som annars riskerar att glömmas
 
@@ -1535,29 +1722,9 @@ Esther Flores Sedman: Allhelgona påminner om ansvaret att se den som annars ris
 
 ---
 
-## S-ledarens plan samlar damm i en skrivbordslåda
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-30 (1 day old)
-
-_No summary text available from RSS._
-
-[Read Full Article](https://www.tv4.se/artikel/3NAS0tlN06xvMpQiKmbYk0/s-ledarens-plan-samlar-damm-i-en-skrivbordslada)
-
----
-
-## Ny favorit pekas ut som James Bond
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-30 (1 day old)
-
-Spekulationerna om vem som ska efterträda Daniel Craig fortsätter. Enligt medieuppgifter har provfilmningarna med de tre utpekade finalisterna: Jack Lowden, Callum Turner och Josh O'Connor nu avslutats. Ett besked väntas enligt uppgifterna före jul, möjligen ännu tidigare.  Hollywoodstjärnans ord satte fart på spekulationerna   Jack Lowden, känd fån succéserien Slow Horses, har seglat upp som favorit hos bettingbolagen. Han följs av Callum Turner från Masters of the Air och Josh O'Connor, som spelade prins Charles i The Crown.  Lowdens uppgång kan ha fått draghjälp av skådespelaren Gary Oldman, hans motspelare i Slow Horses.  – Han sa att han tycker att Lowden skulle vara den mest perfekta Bond, berättar Petra Nordlund McGahan.  Uttalandet fick många att spekulera i att Oldman kände till vem som fått rollen. Något han senare dementerade. Bonds enorma betydelse för britterna  Även australiske Jacob Elordi har förekommit i spekulationerna. Men nationaliteten spelar en viktig roll när Storbritanniens mest kända hemliga agent ska få ett nytt ansikte. Nordlund McGahan pekar på hur starkt förknippad James Bond är med den brittiska identiteten. Ett tydligt exempel är OS-invigningen i London 2012, där Daniel Craig som James Bond eskorterade drottning Elizabeth II i en uppmärksammad filmsekvens. – Man projicerar bilden av Storbritannien via Bond som den intelligenta, stylish, roliga, intressanta symbolen för Storbritannien. Bond har dessutom röstats fram av britterna som landets mest ikoniska fiktiva symbol, före både Harry Potter och Paddington. – Den kulturella betydelsen av Bond är jättestor, säger Nordlund McGahan. Nu återstår att se vem av de utpekade kandidaterna som får axla rollen som agent 007.
-
-[Read Full Article](https://www.tv4.se/artikel/5D8Ox734YNB8CS7zuPhOoT/ny-favorit-pekas-ut-som-james-bond)
-
----
-
 ## Programme for State Visit from Singapore, 19–21 October 2026
 **Outlet:** Government.se
-**Category:** Prime Minister's Office | **Date:** 2026-10-30 (1 day old)
+**Category:** Prime Minister's Office | **Date:** 2026-10-30 (2 days old)
 
 Singapore’s President Tharman Shanmugaratnam is paying a State Visit to Sweden at the invitation of HM The King. President Tharman is accompanied by his wife, Jane Ittogi Shanmugaratnam, and representatives of Singapore’s Government and the Singaporean business sector.
 
@@ -1565,29 +1732,9 @@ Singapore’s President Tharman Shanmugaratnam is paying a State Visit to Sweden
 
 ---
 
-## Stora kryptoattacken avslöjar svagheter: ”För sårbara”
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-30 (1 day old)
-
-Hackningen av kryptoplatttformen Binance visar på tydliga svagheter i kryptobraanschen, menar experter. 62 miljarder kronor ska ha stulits. Själva tekniken som ligger bakom kryptovaluta, blockkedjeteknik, är säker eftersom den inte är centraliserad och därmed anses vara omöjlig att hacka. Svagheten bakom Binancehackningen är företagets interna system - precis som att en vanlig bank kan bli hackad, berättar Emil Hellerud, techreporter på TV4. Enligt företagets egna uppgifter ska det vara en enskild anställds dator som ska ha blivit hackad. Kryptobörsplattformarna är för sårbara, menar han.  – Det ser man ju nu att Binance faller på börsen och att även vissa kryptovalutor faller i värde, för att det är en valuta som är väldigt känslig för händelser, säger han och fortsätter: – Det skadar ju tilliten till systemet som helhet. Privatpersoner påverkade Binace är världens största handelsplattform för kryptovaluta. Därav blir väldigt många påverkade av hackningen. – Det är gissningsvis hundratusentals, kanske miljontals till och med privatpersoner som har konto på den här kryptobörsen, på den här handelsplatsen. Sen har Binance själva lovat att alla ska få tillbaka sina pengar. Hur det ska gå till vet man inte riktigt, säger Gunnar Harrius, ekonomijournalist på Dagens Industri, i Nyhetsmorgon. 30 av de drygt 60 miljarder kronorna har lyckats frysa, vilket innebär att de mer eller mindre är säkra. Däremot är resten av pengarna fortsatt försvunna.  Han berättar att Binance har lagt undan pengar i en fond sedan innan för att kunna värja sig mot sådana här händelser. – Det kommer att täcka ungefär en tredjedel. Var resten ska komma ifrån vet man inte, säger han. Succé för Nordkorea Nordkoreanska hackergrupper har pekats ut som angriparna, enligt företag som jobbar med att analysera blockkedjor. Hackare från Nordkorea har tidigare stulit stor summor från kryptoplattformar.  Enligt CNN har källor från vita huset tidigare berättat att hälften av landets kärnvapenprogram vara finansierat med hjälp av kryptostälder och andra typer av cyberattacker. – Det är ju fantastiskt för diktaturen i Nordkorea, om det är de som ligger bakom, och ett misslyckande för resten av världen, säger techreporter Emil Hellerud.
-
-[Read Full Article](https://www.tv4.se/artikel/34pp15BjcIu74BPjr9vcnO/hackningen-avsloejar-branschens-svagheter-foer-sarbara)
-
----
-
-## Hockeyprofilen rasar mot Ryssland i VM: ”Då ska Sverige inte delta”
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-30 (1 day old)
-
-Ryssland tillåts tävla i ishockey-VM igen, skriver idrottens skiljedomstol CAS i ett pressmeddelande.  Beslutet innebär att landet välkomnas i VM för herrar 2027, JVM för herrar 2027, VM för damer november 2027, U18-VM för damer 2027 och U18-VM för herrar 2027.  Profilen rasar: ”Har jävlats med hela Europa” Ishockeyprofilen Niklas Wikegård kallar beslutet fruktansvärt och tycker att Sverige borde markera. – Jag tycker att om ryssarna får vara med i hockey-VM, då ska Sverige inte delta, punkt, säger han till TV4 Nyheterna.  Att välkomna ryska landslag är att låta dem vinna, menar han.  – Ryssarna har jävlats med hela Europa, inte bara Ukraina. Om man släpper in dem i värmen igen, har all den här delen med att man haft dem avstängda varit förgäves. Wikegård vill se ett ställningstagande från Svenska ishockeyförbundet. – Någon måste våga sätta ner foten, säger han.  Har varit avstängda sedan 2022 Beslutet får även kritik från internationella ishockeyförbundet, som stoppat ryska landslag sedan Rysslands invasion av Ukraina 2022.  ”Internationella ishockeyförbundet (IIHF) uttrycker sin besvikelse över beslutet från Idrottens skiljedomstol (CAS) att tillåta det ryska ishockeyförbundet att delta i ett ryskt lag i alla IIHF-mästerskap med omedelbar verkan”, skriver IIHF i ett pressmeddelande.  Även idrottsminister Jakob Forssmed reagerar och kallar det hela anmärkningsvärt.  – Det normaliserar kriget, ger Putin möjligheter att bedriva propaganda på den internationella scenen och det gör idrotten till en väg tillbaka för Ryssland att nå internationellt erkännande, säger Forssmed till TT. TV4 Nyheterna söker Svenska ishockeyförbundet.
-
-[Read Full Article](https://www.tv4.se/artikel/634HxMOcMowcFzEv0augX5/hockeyprofilen-rasar-mot-chockbeskedet-har-jaevlats-med-hela-europa)
-
----
-
 ## Ledarna för Youth längtar efter berättelser om förvandlade liv
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-30 (1 day old)
+**Category:** General News | **Date:** 2026-10-30 (2 days old)
 
 Livets ords ungdomskonferens lockar deltagare från olika länder.
 
@@ -1595,29 +1742,9 @@ Livets ords ungdomskonferens lockar deltagare från olika länder.
 
 ---
 
-## Kärlekspar sköt ihjäl gängmedlem
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-30 (1 day old)
-
-En gängmedlem i 18-årsåldern sköts till döds i Fornhöjden i Södertälje en fredagskväll i oktober förra året. Han och två andra måltavlor befann sig i en bil när gärningsmannen klev ut ur en annan bil och öppnade eld.  Ytterligare två personer befann sig i bilen, varav en man i 20-årsåldern skadades allvarligt i skjutningen och fördes med ambulans till sjukhus. Den tredje klarade sig oskadd. Gärningspersonerna flydde i en blå Audi men kunde gripas efter polisjakt. Nu döms skytten Joel Engback, 30, och Isabell Eriksson, 34, som körde bilen, till livstids fängelse för mord och mordförsök vid Södertälje tingsrätt.  ”Bonnie och Clyde”   Enligt utredningen hade paret en kärleksrelation, och kallade sig för ”Bonnie och Clyde”.  ”Nu ångrar jag mig angående jobbet. Vi behöver vara två. En som kör. Det är 300k. Bara pang, pang. Drive-by”, skriver småbarnsmamman till Joel. Polisen beskriver den dödsskjutne mannen som en central aktör i narkotikahandeln i Södertälje och Fornhöjden. Enligt utredningen var mordet ett led i organiserad brottslighet och hade föregåtts av särskild planering. ”Mordet har närmast haft karaktären av ren avrättning”, skriver tingsrätten. Efter dådet ska paret ha planerat att lämna landet.  Kvinnans tvååriga barn väntade enligt utredningen hemma medan mamman utförde morduppdraget. Mordet kopplas till Peykar Paret misstänks ha tagit på sig morduppdraget i en krypterad chatt. Enligt chattkonversationerna hade de utlovats 300 000 kronor. Den internationellt efterlyste Dante Peykar, 41, misstänks ha beställt mordet under Signal-aliaset ”Tartarus”. ”Ja, kommer lösa ett enkelt japp jobb. Minst 200k o uppåt”, skriver ”Tartarus” i en chatt. Enligt åklagaren ska Joel Engback ha fått 12 500 amerikanska dollar – omkring 120 000 kronor – i brottsvinst. Dante Peykar är häktad i sin utevaro och misstänks befinna sig utomlands. Han är också misstänkt för att ha beställt mordförsöket på Irankännaren Arvin Khoshnood.
-
-[Read Full Article](https://www.tv4.se/artikel/5am5IZUiBoIRCgUBIhxBRd/kaerlekspar-skoet-ihjael-gaengmedlem-doems-till-faengelse)
-
----
-
-## Unga bryter trend under halloween: ”Revolt mot de duktiga”
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-30 (1 day old)
-
-Nästan varannan 15–17-åring planerar att dricka alkohol under halloweenhelgen, enligt en ny undersökning från IQ. Högtiden har blivit ett allt viktigare festtillfälle för unga och konkurrerar med mer traditionella högtider. – Halloween är en ny högtid. Vi tror att det beror lite grann på att den inte är formad ännu, så unga kan ta den till sig själva, säger Fredrik Lundgren.  Möjligt trendbrott bland unga  Sedan början av 2000-talet har alkoholkonsumtionen bland ungdomar minskat drastiskt. Även användningen av andra droger ligger på historiskt låga nivåer, enligt Fredrik Lundgren. Men nu ser IQ tidiga signaler om att utvecklingen kan vara på väg att vända. – Det vi ser i tidiga mätningar är att det kanske ökar bland gymnasieungdomar, både antalet som dricker och hur mycket man dricker. En möjlig förklaring kan vara att unga börjar göra uppror mot den generation som valt bort alkoholen. – Det kan vara en möjlig förklaring, att det är en revolt mot de duktiga. ”Det blir inget drickande för mig” Fotbollsspelaren Chelseo Mota, 19, tillhör dem som väljer bort alkoholen under Halloweenhelgen. För honom går idrotten först. – Jag försöker undvika att dricka, men jag är inte nykterist. Leia Norman, 22, planerar däremot en Halloweenfest där det kommer att finnas alkohol. Samtidigt tycker hon att alla ska kunna välja själva. Men att tacka nej är inte alltid enkelt. – Om jag inte dricker nu kanske jag är tråkig eller konstig, säger hon om tankarna som kan uppstå. Fler accepterar att avstå Trots tecknen på ett trendbrott ser Fredrik Lundgren en tydlig förändring i ungas inställning till alkohol. Det har blivit mer accepterat att inte dricka, även om grupptrycket fortfarande finns kvar. – Det har skett en väldig förändring i acceptansen att inte dricka. Och även om alkoholkonsumtionen skulle börja öka igen är nivåerna fortfarande betydligt lägre än för 20 år sedan. – Den här generationen är den smarta generationen, säger Fredrik Lundgren.
-
-[Read Full Article](https://www.tv4.se/artikel/6mCD9LpXai9NIsKp5XpPgV/unga-dricker-allt-mindre-men-nu-syns-tecken-pa-trendbrott)
-
----
-
 ## Här är sju begravningstrender i Sverige
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-30 (1 day old)
+**Category:** General News | **Date:** 2026-10-30 (2 days old)
 
 Livestreaming, fest till livet och allt fler begravningsceremonier med urna i stället för kista
 
@@ -1627,7 +1754,7 @@ Livestreaming, fest till livet och allt fler begravningsceremonier med urna i st
 
 ## En kristen huvudman kan aldrig tolerera våld på sin skola
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-30 (1 day old)
+**Category:** General News | **Date:** 2026-10-30 (2 days old)
 
 Esther Flores Sedman: Fina värdegrundsformuleringar väger lätt när unga människor far illa.
 
@@ -1637,7 +1764,7 @@ Esther Flores Sedman: Fina värdegrundsformuleringar väger lätt när unga män
 
 ## Joel Halldorf får kritik i Norge för sin bibeltolkning
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-30 (1 day old)
+**Category:** General News | **Date:** 2026-10-30 (2 days old)
 
 Trots hårda tongångar i Sverige menar kyrkohistorikern att hbtq-debatten trots allt är bättre här än i vårt grannland.
 
@@ -1648,7 +1775,7 @@ Trots hårda tongångar i Sverige menar kyrkohistorikern att hbtq-debatten trots
 ## Olika bilder kring omplacering
 av pastor i Linköping Pingst
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-30 (1 day old)
+**Category:** General News | **Date:** 2026-10-30 (2 days old)
 
 Thomas Österberg: Konflikt- och krishantering i församlingsmiljö är sällan enkelt
 
@@ -1658,7 +1785,7 @@ Thomas Österberg: Konflikt- och krishantering i församlingsmiljö är sällan 
 
 ## Skolor ska vara fria från religiösa symboler
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-30 (1 day old)
+**Category:** General News | **Date:** 2026-10-30 (2 days old)
 
 Föräldrars religionsfrihet får inte innebära en obegränsad rätt att påtvinga barn religiösa övertygelser, ritualer eller klädregler, skriver Karim Shamohammadi.
 
@@ -1668,7 +1795,7 @@ Föräldrars religionsfrihet får inte innebära en obegränsad rätt att påtvi
 
 ## ”Hur ska jag överleva – ska jag äta mat varannan dag?”
 **Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-30 (1 day old)
+**Category:** General News | **Date:** 2026-10-30 (2 days old)
 
 PMU-medarbetaren Helen Nygren erbjöds avtal med lägre lön ¤ Bor i husvagn men får ändå inte pengarna att räcka.
 
@@ -1676,99 +1803,9 @@ PMU-medarbetaren Helen Nygren erbjöds avtal med lägre lön ¤ Bor i husvagn me
 
 ---
 
-## Karismatiska ledare får inte utnyttja andlig längtan
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-30 (1 day old)
-
-Som ledare behöver vi ständigt ge akt på oss själva och våra inre drivkrafter, skriver Pernilla Eklund.
-
-[Read Full Article](https://www.dagen.se/debatt/karismatiska-ledare-far-inte-utnyttja-andlig-laengtan/10604857)
-
----
-
-## Unionen lobbar för att fackförbundet behövs i helvetet
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-30 (1 day old)
-
-Lanserar nytt kommunikationskoncept ”Alla jobb behöver Unionen”.
-
-[Read Full Article](https://www.dagen.se/nyheter/unionen-lobbar-foer-att-fackfoerbundet-behoevs-i-helvetet/10603446)
-
----
-
-## PMU om kritiken: Vi beklagar om någon kommit i kläm
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-30 (1 day old)
-
-PMU:s nationella chef Mats Hillerström tycker inte att det är konstigt att man ibland kommer till andra slutsatser än den anställda
-
-[Read Full Article](https://www.dagen.se/dokument/pmu-om-kritiken-vi-beklagar-om-nagon-kommit-i-klaem/10595507)
-
----
-
-## Låt ljusen vittna om Guds närvaro
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-30 (1 day old)
-
-"5 minutes with God" is an easily accessible devotional podcast based on prayer and the Bible.
-
-[Read Full Article](https://www.dagen.se/podd/lat-ljusen-vittna-om-guds-naervaro/10608051)
-
----
-
-## Han har blivit presidentfavorit – därför hyllas Ossoff
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-29 (1 day old)
-
-Har hittat ett nytt recept • Kopplar Trump till väljarnas plånbok
-
-[Read Full Article](https://www.tv4.se/artikel/nr9swh7wbbkDBBdQi7Hf5/fran-dokumentaerfilmare-till-presidentfavorit-daerfoer-hyllas-ossoff)
-
----
-
-## Centerns ilska över S-ledningen: ”Sjukt”
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-29 (1 day old)
-
-C-källor: ”Socialdemokraterna måste agera”
-
-[Read Full Article](https://www.tv4.se/artikel/1QkWzQKs7a2QPIkG37TTIN/foervaning-och-ilska-i-c-efter-talmannens-besked-sjukt)
-
----
-
-## Evangelikala ledare bekymras av sviktande Trumpstöd
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-29 (1 day old)
-
-Plånboksfrågor allt viktigare för kristna väljare i mellanårsvalet.
-
-[Read Full Article](https://www.dagen.se/nyheter/evangelikala-ledare-bekymras-av-sviktande-trumpstoed/10607375)
-
----
-
-## Attackerna efter talmannens besked: ”Anmärkningsvärt”
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-29 (1 day old)
-
-Kritiseras från flera håll • L-attacken mot S: ”Rädd för riksdagen”
-
-[Read Full Article](https://www.tv4.se/artikel/5eF3NL6JrNQmJhlJFglL1k/harda-attacker-efter-talmannens-besked-anmaerkningsvaert)
-
----
-
-## Elisabeth Thand Ringqvist ska prövas som statsminister
-**Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-29 (1 day old)
-
-Då kan Kristersson få chansen • C-ledaren: ”Låsningen kvarstår”
-
-[Read Full Article](https://www.tv4.se/artikel/1APNQ3klr1RFqqfBqSWonU/talmannen-haller-presstraeff-om-regeringsbildningen)
-
----
-
 ## The Folke Bernadotte Academy’s new Strategy for peace and security engagement 2026–2031
 **Outlet:** Government.se
-**Category:** Ministry for Foreign Affairs | **Date:** 2026-10-29 (2 days old)
+**Category:** Ministry for Foreign Affairs | **Date:** 2026-10-29 (3 days old)
 
 The Folke Bernadotte Academy’s new Strategy for peace and security engagement 2026–2031 aims to make the governance of the FBA more coherent and flexible. This will strengthen Sweden’s role in peace and security promotion in the context of a deteriorating international situation with a historically high number of armed conflicts and democratic backsliding.
 
@@ -1776,40 +1813,9 @@ The Folke Bernadotte Academy’s new Strategy for peace and security engagement 
 
 ---
 
-## Jakob Norrhall:
-Jomshofs korantolkning borde uppröra kristna
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-29 (2 days old)
-
-Religionskritik måste utgå från tesen: tolka andra som du själv vill bli tolkad.
-
-[Read Full Article](https://www.dagen.se/ledare/jakob-norrhall-jomshofs-korantolkning-borde-upproera-kristna/10602388)
-
----
-
-## Telefonkiosk ska locka fler att söka själavård hos präster och diakoner
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-29 (2 days old)
-
-Hundratals affischer på kyrkans personal omger kyrka – nytt sätt att nå ut.
-
-[Read Full Article](https://www.dagen.se/livsstil/telefonkiosk-ska-locka-fler-att-soeka-sjaelavard-hos-praester-och-diakoner/10605123)
-
----
-
-## Gullan Bornemark död: ”Mamma längtade hem till himlen”
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-29 (2 days old)
-
-Folkkära kompositören skulle fyllt 99 år om en månad.
-
-[Read Full Article](https://www.dagen.se/livsstil/gullan-bornemark-doed-mamma-laengtade-hem-till-himlen/10606824)
-
----
-
 ## Oron: ”Avgörande för om demokratin överlever”
 **Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-29 (2 days old)
+**Category:** General News | **Date:** 2026-10-29 (3 days old)
 
 USA-väljarna oeniga om vem de kan lita på • Misstro mot Trumpadministrationen
 
@@ -1817,19 +1823,9 @@ USA-väljarna oeniga om vem de kan lita på • Misstro mot Trumpadministratione
 
 ---
 
-## Liechtensteins arvprins lägger veto mot fri abort upp till vecka 12
-**Outlet:** Dagen
-**Category:** General News | **Date:** 2026-10-29 (2 days old)
-
-Lagförslaget är inte lämpat att ”på ett adekvat sätt skydda ofött liv”, uppger furstehuset i en kommentar.
-
-[Read Full Article](https://www.dagen.se/nyheter/liechtensteins-arvprins-laegger-veto-mot-fri-abort-upp-till-vecka-12/10599150)
-
----
-
 ## Latinorösten förde Trump till Vita huset – nu sviktar stödet
 **Outlet:** TV4 Nyheterna
-**Category:** General News | **Date:** 2026-10-28 (2 days old)
+**Category:** General News | **Date:** 2026-10-28 (3 days old)
 
 Ångrar sina röster • ”Aldrig kunnat föreställa mig att han skulle sprida sådan terror”
 
@@ -1839,7 +1835,7 @@ Lagförslaget är inte lämpat att ”på ett adekvat sätt skydda ofött liv”
 
 ## Joint Statement by the Coalition on Atrocity Prevention and Justice for Sudan
 **Outlet:** Government.se
-**Category:** Ministry for Foreign Affairs | **Date:** 2026-10-26 (4 days old)
+**Category:** Ministry for Foreign Affairs | **Date:** 2026-10-26 (5 days old)
 
 Statement on the 26 October 2025 Atrocity in El Fasher from members of the Coalition on Atrocity Prevention and Justice for Sudan: Canada, Denmark, the European Union, France, Germany, Ireland, the Netherlands, Norway, Sierra Leone, Sweden, the UK.
 
@@ -1849,7 +1845,7 @@ Statement on the 26 October 2025 Atrocity in El Fasher from members of the Coali
 
 ## Därför flyger flygplanen inte raka vägen
 **Outlet:** ABC Nyheter
-**Category:** General News | **Date:** 2026-10-25 (5 days old)
+**Category:** General News | **Date:** 2026-10-25 (6 days old)
 
 På kartan ser flygrutterna ut som omvägar. I verkligheten är de kortast. Här är förklaringen bakom böjda rutter, jetströmmar och varför vissa plan flyger högre än andra. 
  The post  Därför flyger flygplanen inte raka vägen  appeared first on  ABC Nyheter .
@@ -1860,7 +1856,7 @@ På kartan ser flygrutterna ut som omvägar. I verkligheten är de kortast. Här
 
 ## Nordic Ministerial Meeting on Migration and Refugee Issues Stockholm, 22–23 October 2026
 **Outlet:** Government.se
-**Category:** Ministry of Justice | **Date:** 2026-10-23 (7 days old)
+**Category:** Ministry of Justice | **Date:** 2026-10-23 (8 days old)
 
 The Nordic ministers responsible for migration met in Stockholm on 22–23 October 2026 within the framework of the High-Level Nordic Cooperation on Refugee Issues (NSHF), under the Swedish Presidency. The meeting also marked the 40th anniversary of constructive and amicable Nordic cooperation within the NSHF, which has fostered mutual trust, open dialogue and the sharing of experiences and perspectives.
 
@@ -1870,7 +1866,7 @@ The Nordic ministers responsible for migration met in Stockholm on 22–23 Octob
 
 ## Minister for Foreign Affairs visits Hungary
 **Outlet:** Government.se
-**Category:** Ministry for Foreign Affairs | **Date:** 2026-10-23 (8 days old)
+**Category:** Ministry for Foreign Affairs | **Date:** 2026-10-23 (9 days old)
 
 Minister for Foreign Affairs Maria Malmer Stenergard is visiting Budapest on 23 October. She is representing Sweden at the 70th anniversary commemoration of the Hungarian Revolution. In conjunction with the visit, Ms Malmer Stenergard is meeting with Hungary’s Minister of Foreign Affairs Anita Orbán.
 
@@ -1880,7 +1876,7 @@ Minister for Foreign Affairs Maria Malmer Stenergard is visiting Budapest on 23 
 
 ## Strategy for Sweden’s development cooperation with Somalia 2026–2028
 **Outlet:** Government.se
-**Category:** Ministry for Foreign Affairs | **Date:** 2026-10-21 (9 days old)
+**Category:** Ministry for Foreign Affairs | **Date:** 2026-10-21 (11 days old)
 
 The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.
 
@@ -1890,7 +1886,7 @@ The aim of Sweden’s international development assistance is to create conditio
 
 ## Sweden supports Ukraine’s skills development initiative for social workers
 **Outlet:** Government.se
-**Category:** Ministry of Health and Social Affairs | **Date:** 2026-10-21 (10 days old)
+**Category:** Ministry of Health and Social Affairs | **Date:** 2026-10-21 (11 days old)
 
 Children and vulnerable people in Ukraine are set to receive improved support following the Ukrainian Government’s launch of a national programme to enhance the expertise of social workers. The initiative will be implemented with support from Sweden and the United Nations Children’s Fund (UNICEF), and is partly inspired by Swedish models for professional skills development.
 
@@ -1900,7 +1896,7 @@ Children and vulnerable people in Ukraine are set to receive improved support fo
 
 ## Prime Minister receives President of Singapore
 **Outlet:** Government.se
-**Category:** Prime Minister's Office | **Date:** 2026-10-20 (11 days old)
+**Category:** Prime Minister's Office | **Date:** 2026-10-20 (12 days old)
 
 On Monday 19 October, Prime Minister Ulf Kristersson received President of Singapore Tharman Shanmugaratnam for a meeting at Rosenbad. The meeting took place in conjunction with the President’s State Visit to Sweden at the invitation of His Majesty the King.
 
@@ -1910,7 +1906,7 @@ On Monday 19 October, Prime Minister Ulf Kristersson received President of Singa
 
 ## Sweden’s contribution to NATO’s deterrence and defence in 2027
 **Outlet:** Government.se
-**Category:** Ministry of Defence | **Date:** 2026-10-19 (12 days old)
+**Category:** Ministry of Defence | **Date:** 2026-10-19 (13 days old)
 
 The Government has presented a government bill to the Riksdag with proposals on Sweden’s contribution to NATO’s collective deterrence and defence in 2027.
 
