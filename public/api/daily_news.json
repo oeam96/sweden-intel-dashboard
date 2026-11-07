@@ -1,47 +1,17 @@
 {
-  "generated_at": "2026-11-05T16:46:41.876585+01:00",
-  "date": "2026-11-05",
-  "item_count": 14,
+  "generated_at": "2026-11-07T15:19:37.546979+01:00",
+  "date": "2026-11-07",
+  "item_count": 13,
   "items": [
     {
-      "id": 0,
-      "title": "Insändare. Svar: Kvinnornas maktövertagande har bara börjat",
-      "summary": "SVAR PÅ INSÄNDARE. Den brännande frågan är varför pojkar klarar sig sämre i skolan än flickor. Och följdfrågan: Har vi lust att göra något åt det? undrar Lars Thulin.",
-      "title_original": "Insändare. Svar: Kvinnornas maktövertagande har bara börjat",
-      "summary_original": "SVAR PÅ INSÄNDARE. Den brännande frågan är varför pojkar klarar sig sämre i skolan än flickor. Och följdfrågan: Har vi lust att göra något åt det? undrar Lars Thulin.",
-      "link": "https://www.dn.se/insandare/svar-kvinnornas-maktovertagande-har-bara-borjat/",
-      "date_display": "2026-11-05",
-      "date_iso": "2026-11-05T15:43:02+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
       "id": 7,
-      "title": "Emma Bouvin: Israel håller på att förlora sin bästa vän",
-      "summary": "Mellanårsvalet i USA var spiken i kistan för regeringen Netanyahu i Israel, efter en lång rad av motgångar. Antiisraeliska vindar blåser i det stora landet i väst – och det ser ut som om Israel håller på att förlora sin bästa vän.",
-      "title_original": "Emma Bouvin: Israel håller på att förlora sin bästa vän",
-      "summary_original": "Mellanårsvalet i USA var spiken i kistan för regeringen Netanyahu i Israel, efter en lång rad av motgångar. Antiisraeliska vindar blåser i det stora landet i väst – och det ser ut som om Israel håller på att förlora sin bästa vän.",
-      "link": "https://www.dn.se/varlden/emma-bouvin-israel-haller-pa-att-forlora-sin-basta-van/",
-      "date_display": "2026-11-05",
-      "date_iso": "2026-11-05T15:16:53+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 11,
-      "title": "Nu lämnar Sverige tillbaka stulna föremål",
-      "summary": "Statyerna som en gång stals från kungadömet Benin skickas nu tillbaka till Nigerias federala…",
-      "title_original": "Nu lämnar Sverige tillbaka stulna föremål",
-      "summary_original": "Statyerna som en gång stals från kungadömet Benin skickas nu tillbaka till Nigerias federala…",
-      "link": "https://www.svd.se/a/n95W35/nu-lamnar-sverige-tillbaka-stulna-foremal?utm_medium=rss",
-      "date_display": "2026-11-05",
-      "date_iso": "2026-11-05T15:11:21+00:00",
+      "title": "Grymheten är hela poängen",
+      "summary": "Troperna i Mariana Enriquez skräcknoveller får en särskilt laddning mot bakgrund av den argentinska…",
+      "title_original": "Grymheten är hela poängen",
+      "summary_original": "Troperna i Mariana Enriquez skräcknoveller får en särskilt laddning mot bakgrund av den argentinska…",
+      "link": "https://www.svd.se/a/Jrm1O7/grymheten-ar-hela-poangen?utm_medium=rss",
+      "date_display": "2026-11-07",
+      "date_iso": "2026-11-07T13:30:00+00:00",
       "source": "Svenska Dagbladet (SvD)",
       "ministry": "General News",
       "type": "News",
@@ -49,7 +19,60 @@
       "tags": []
     },
     {
-      "id": 102,
+      "id": 8,
+      "title": "Fem bilar i krock – långa köer på E4 i Stockholm",
+      "summary": "",
+      "title_original": "Fem bilar i krock – långa köer på E4 i Stockholm",
+      "summary_original": "",
+      "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79659&utm_medium=rss",
+      "date_display": "2026-11-07",
+      "date_iso": "2026-11-07T13:23:38+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 14,
+      "title": "Kulturdebatt. ”Nej Sara Martinsson, arenakonserter ska inte förbjudas”",
+      "summary": "De små och de stora scenerna står inte mot varandra. Arenaindustrin är så mycket mer än enbart kultur, menar Kristofer Åkesson i en replik till Sara Martinsson.",
+      "title_original": "Kulturdebatt. ”Nej Sara Martinsson, arenakonserter ska inte förbjudas”",
+      "summary_original": "De små och de stora scenerna står inte mot varandra. Arenaindustrin är så mycket mer än enbart kultur, menar Kristofer Åkesson i en replik till Sara Martinsson.",
+      "link": "https://www.dn.se/kultur/nej-sara-martinsson-arenakonserter-ska-inte-forbjudas/",
+      "date_display": "2026-11-07",
+      "date_iso": "2026-11-07T13:16:41+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 148,
+      "title": "Prime Minister and Minister for Climate and the Environment host lunch discussions ahead of COP31",
+      "summary": "On Wednesday 4 November, the Swedish companies participating in the UN Climate Change Conference (COP31) gathered at the invitation of Prime Minister Ulf Kristersson and Minister for Climate and the Environment Romina Pourmokhtari. The aim of the lunch discussions was to identify Swedish priorities and lay the foundations for strong Swedish business engagement at COP31.",
+      "title_original": "Prime Minister and Minister for Climate and the Environment host lunch discussions ahead of COP31",
+      "summary_original": "On Wednesday 4 November, the Swedish companies participating in the UN Climate Change Conference (COP31) gathered at the invitation of Prime Minister Ulf Kristersson and Minister for Climate and the Environment Romina Pourmokhtari. The aim of the lunch discussions was to identify Swedish priorities and lay the foundations for strong Swedish business engagement at COP31.",
+      "link": "https://www.government.se/articles/2026/11/prime-minister-and-minister-for-climate-and-the-environment-host-lunch-discussions-ahead-of-cop31/",
+      "date_display": "2026-11-06",
+      "date_iso": "2026-11-06T13:03:25+00:00",
+      "source": "Government.se",
+      "ministry": "Prime Minister's Office",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "International",
+        "Prime Minister's Office",
+        "Ministry of Climate and Enterprise",
+        "Environment and climate",
+        "Article",
+        "Romina Pourmokhtari",
+        "Ulf Kristersson"
+      ]
+    },
+    {
+      "id": 168,
       "title": "Strategy for Sweden's development cooperation with Kenya 2026–2031",
       "summary": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
       "title_original": "Strategy for Sweden's development cooperation with Kenya 2026–2031",
@@ -60,7 +83,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -70,7 +93,7 @@
       ]
     },
     {
-      "id": 154,
+      "id": 181,
       "title": "Prime Minister receives Hungarian Speaker Ágnes Forsthoffer",
       "summary": "On Wednesday 4 November, Prime Minister Ulf Kristersson received Speaker of the Hungarian National Assembly Ágnes Forsthoffer at Sager House for a courtesy visit. The visit was the first by a Hungarian speaker for more than 20 years and coincided with the 70th anniversary of the Hungarian Revolution of 1956.",
       "title_original": "Prime Minister receives Hungarian Speaker Ágnes Forsthoffer",
@@ -81,7 +104,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
@@ -92,7 +115,7 @@
       ]
     },
     {
-      "id": 161,
+      "id": 183,
       "title": "Styrräntan höjs till 2 procent",
       "summary": "Ett starkare konjunkturläge i kombination med kostnadsökningar till följd av utbudsstörningar gör att inflationen förväntas stiga framöver. Direktionen har därför beslutat att höja styrräntan med 0,25 procentenheter till 2 procent. Om inflations- och konjunkturutsikterna står sig är det sannolikt att styrräntan höjs ytterligare det närmaste året, i linje med styrränteprognosen i september.",
       "title_original": "Styrräntan höjs till 2 procent",
@@ -103,11 +126,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": []
     },
     {
-      "id": 162,
+      "id": 184,
       "title": "Riksbanken planerar att finansiera en del av valutareserven med valutalån via Riksgälden",
       "summary": "För att minska valutarisken på balansräkningen planerar Riksbanken att finansiera motsvarande cirka 200 miljarder kronor av valutareserven med valutalån via Riksgälden. Avsikten är också att ersätta de valutaswappar som Riksbanken använt sedan 2023 för valutasäkring. Förändringen syftar inte till att påverka storleken på valutareserven över tid och har inget penningpolitiskt syfte.",
       "title_original": "Riksbanken planerar att finansiera en del av valutareserven med valutalån via Riksgälden",
@@ -118,11 +141,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "1 day old",
+      "age_tag": "3 days old",
       "tags": []
     },
     {
-      "id": 184,
+      "id": 185,
       "title": "Benjamin Dousa visits South America",
       "summary": "Minister for International Development Cooperation and Foreign Trade Benjamin Dousa is visiting Argentina and Brazil on 2–6 November to reinforce trade relations with two of Sweden’s most important partners in South America and promote opportunities resulting from the free trade agreement between the EU and MERCOSUR. The visit also highlights the 200th anniversary of diplomatic relations between Sweden and Brazil.",
       "title_original": "Benjamin Dousa visits South America",
@@ -133,7 +156,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "EU",
@@ -144,7 +167,7 @@
       ]
     },
     {
-      "id": 185,
+      "id": 186,
       "title": "Joint Statement from the International Contact Group for the Great Lakes region (ICG)",
       "summary": "Belgium, Canada, Denmark, the European Union, France, Germany, the Netherlands, Sweden, Switzerland, the United Kingdom and the United States of America as members of the International Contact Group (ICG) for the Great Lakes region, chaired by France, issue the following statement on the situation in the Democratic Republic of the Congo:",
       "title_original": "Joint Statement from the International Contact Group for the Great Lakes region (ICG)",
@@ -155,7 +178,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -164,7 +187,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 187,
       "title": "Programme for State Visit from Singapore, 19–21 October 2026",
       "summary": "Singapore’s President Tharman Shanmugaratnam is paying a State Visit to Sweden at the invitation of HM The King. President Tharman is accompanied by his wife, Jane Ittogi Shanmugaratnam, and representatives of Singapore’s Government and the Singaporean business sector.",
       "title_original": "Programme for State Visit from Singapore, 19–21 October 2026",
@@ -175,7 +198,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -198,7 +221,7 @@
       ]
     },
     {
-      "id": 187,
+      "id": 188,
       "title": "The Folke Bernadotte Academy’s new Strategy for peace and security engagement 2026–2031",
       "summary": "The Folke Bernadotte Academy’s new Strategy for peace and security engagement 2026–2031 aims to make the governance of the FBA more coherent and flexible. This will strengthen Sweden’s role in peace and security promotion in the context of a deteriorating international situation with a historically high number of armed conflicts and democratic backsliding.",
       "title_original": "The Folke Bernadotte Academy’s new Strategy for peace and security engagement 2026–2031",
@@ -209,7 +232,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Information material",
         "International",
@@ -220,7 +243,7 @@
       ]
     },
     {
-      "id": 188,
+      "id": 189,
       "title": "Joint Statement by the Coalition on Atrocity Prevention and Justice for Sudan",
       "summary": "Statement on the 26 October 2025 Atrocity in El Fasher from members of the Coalition on Atrocity Prevention and Justice for Sudan: Canada, Denmark, the European Union, France, Germany, Ireland, the Netherlands, Norway, Sierra Leone, Sweden, the UK.",
       "title_original": "Joint Statement by the Coalition on Atrocity Prevention and Justice for Sudan",
@@ -231,57 +254,13 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "11 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
         "Democracy and human rights",
         "Foreign and security policy",
         "Statement"
-      ]
-    },
-    {
-      "id": 190,
-      "title": "Nordic Ministerial Meeting on Migration and Refugee Issues Stockholm, 22–23 October 2026",
-      "summary": "The Nordic ministers responsible for migration met in Stockholm on 22–23 October 2026 within the framework of the High-Level Nordic Cooperation on Refugee Issues (NSHF), under the Swedish Presidency. The meeting also marked the 40th anniversary of constructive and amicable Nordic cooperation within the NSHF, which has fostered mutual trust, open dialogue and the sharing of experiences and perspectives.",
-      "title_original": "Nordic Ministerial Meeting on Migration and Refugee Issues Stockholm, 22–23 October 2026",
-      "summary_original": "The Nordic ministers responsible for migration met in Stockholm on 22–23 October 2026 within the framework of the High-Level Nordic Cooperation on Refugee Issues (NSHF), under the Swedish Presidency. The meeting also marked the 40th anniversary of constructive and amicable Nordic cooperation within the NSHF, which has fostered mutual trust, open dialogue and the sharing of experiences and perspectives.",
-      "link": "https://www.government.se/articles/2026/10/nordic-ministerial-meeting-on-migration-and-refugee-issues-stockholm-2223-october-2026/",
-      "date_display": "2026-10-23",
-      "date_iso": "2026-10-23T15:06:41+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Justice",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "EU",
-        "International",
-        "Ministry of Justice",
-        "Integration",
-        "Migration and asylum",
-        "Article",
-        "Johan Forssell"
-      ]
-    },
-    {
-      "id": 191,
-      "title": "Minister for Foreign Affairs visits Hungary",
-      "summary": "Minister for Foreign Affairs Maria Malmer Stenergard is visiting Budapest on 23 October. She is representing Sweden at the 70th anniversary commemoration of the Hungarian Revolution. In conjunction with the visit, Ms Malmer Stenergard is meeting with Hungary’s Minister of Foreign Affairs Anita Orbán.",
-      "title_original": "Minister for Foreign Affairs visits Hungary",
-      "summary_original": "Minister for Foreign Affairs Maria Malmer Stenergard is visiting Budapest on 23 October. She is representing Sweden at the 70th anniversary commemoration of the Hungarian Revolution. In conjunction with the visit, Ms Malmer Stenergard is meeting with Hungary’s Minister of Foreign Affairs Anita Orbán.",
-      "link": "https://www.government.se/press-releases/2026/10/minister-for-foreign-affairs-visits-hungary/",
-      "date_display": "2026-10-23",
-      "date_iso": "2026-10-23T10:06:40+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Maria Malmer Stenergard"
       ]
     }
   ]
