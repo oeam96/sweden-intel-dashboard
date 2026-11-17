@@ -1,34 +1,47 @@
 {
-  "generated_at": "2026-11-15T15:59:02.216359+01:00",
-  "date": "2026-11-15",
-  "item_count": 14,
+  "generated_at": "2026-11-17T18:03:05.568314+01:00",
+  "date": "2026-11-17",
+  "item_count": 18,
   "items": [
     {
-      "id": 3,
-      "title": "Efter valsegern – Demokraterna splittrade om nästa steg",
-      "summary": "Maktkampen har börjat • Trumps skugga vilar tung",
-      "title_original": "Efter valsegern – Demokraterna splittrade om nästa steg",
-      "summary_original": "Maktkampen har börjat • Trumps skugga vilar tung",
-      "link": "https://www.tv4.se/artikel/3tHFQpL47VYEm4onPRtMld/efter-valsegern-demokraterna-splittrade-om-naesta-steg",
-      "date_display": "2026-11-15",
-      "date_iso": "2026-11-15T14:43:00+00:00",
-      "source": "TV4 Nyheterna",
+      "id": 4,
+      "title": "DN Debatt. ”Ivo offrar våra sjuka barn på principens altare”",
+      "summary": "DN DEBATT. Boendet Safiren har varit livsavgörande för våra barn. Tills nu. Ivo vill stänga det av principiella skäl. Men budskapet har gått fram, regionen lär ju göra rätt i framtiden. Ivo har redan vunnit, frågan nu är varför de inte kan backa från ett skadligt beslut, skriver föräldrarna till Olof, Elvira, Vilma, August och Leo, boende på Safiren, med andra anhöriga.",
+      "title_original": "DN Debatt. ”Ivo offrar våra sjuka barn på principens altare”",
+      "summary_original": "DN DEBATT. Boendet Safiren har varit livsavgörande för våra barn. Tills nu. Ivo vill stänga det av principiella skäl. Men budskapet har gått fram, regionen lär ju göra rätt i framtiden. Ivo har redan vunnit, frågan nu är varför de inte kan backa från ett skadligt beslut, skriver föräldrarna till Olof, Elvira, Vilma, August och Leo, boende på Safiren, med andra anhöriga.",
+      "link": "https://www.dn.se/debatt/ivo-offrar-vara-sjuka-barn-pa-principens-altare/",
+      "date_display": "2026-11-17",
+      "date_iso": "2026-11-17T16:56:13+00:00",
+      "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
       "age_tag": "today",
-      "tags": [
-        "/"
-      ]
+      "tags": []
     },
     {
       "id": 5,
-      "title": "Torbjörn Petersson: Xi Jinping deltar bara i möten om han vet hur de slutar",
-      "summary": "PEKING. Den kinesiska ledningen vill inte delta i möten med osäker utgång. Att Xi Jinping nu väntas träffa Donald Trump och Vladimir Putin tyder på att Kina har fått försäkringar om hur långt samtalen kan gå.",
-      "title_original": "Torbjörn Petersson: Xi Jinping deltar bara i möten om han vet hur de slutar",
-      "summary_original": "PEKING. Den kinesiska ledningen vill inte delta i möten med osäker utgång. Att Xi Jinping nu väntas träffa Donald Trump och Vladimir Putin tyder på att Kina har fått försäkringar om hur långt samtalen kan gå.",
-      "link": "https://www.dn.se/varlden/torbjorn-petersson-xi-jinping-deltar-bara-i-moten-om-han-vet-hur-de-slutar/",
-      "date_display": "2026-11-15",
-      "date_iso": "2026-11-15T14:35:36+00:00",
+      "title": "Antiliberalerna i Europas nya höger",
+      "summary": "Ser vi en ny järnridå som delar den europeiska ytterhögern?",
+      "title_original": "Antiliberalerna i Europas nya höger",
+      "summary_original": "Ser vi en ny järnridå som delar den europeiska ytterhögern?",
+      "link": "https://www.svd.se/a/nLamxL/antiliberalerna-i-europas-nya-hoger?utm_medium=rss",
+      "date_display": "2026-11-17",
+      "date_iso": "2026-11-17T16:53:14+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 8,
+      "title": "Får rödgröna eld i baken av Kristerssons besked?",
+      "summary": "Moderatledaren ger inte upp drömmen om regeringsmakten och vill ha mer tid på sig för att locka till sig Centerpartiet. Och talmannen lovar en jul utan politiska förhandlingar om regeringsmakten. Kan dagens besked ge de rödgröna eld i baken?",
+      "title_original": "Får rödgröna eld i baken av Kristerssons besked?",
+      "summary_original": "Moderatledaren ger inte upp drömmen om regeringsmakten och vill ha mer tid på sig för att locka till sig Centerpartiet. Och talmannen lovar en jul utan politiska förhandlingar om regeringsmakten. Kan dagens besked ge de rödgröna eld i baken?",
+      "link": "https://www.dn.se/podd/alskade-politik/far-rodgrona-eld-i-baken-av-kristerssons-besked/",
+      "date_display": "2026-11-17",
+      "date_iso": "2026-11-17T16:47:01+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -36,22 +49,140 @@
       "tags": []
     },
     {
-      "id": 6,
-      "title": "Svenska slalomskrällen: Ax Swartz fyra i Levi",
-      "summary": "Fabian Ax Swartz tog sin första topp-10-placering i slalom i världscupen när han slutade fyra i Levi. – Det är en oerhörd glädje efter dagens resultat, säger svensken till Radiosporten.",
-      "title_original": "Svenska slalomskrällen: Ax Swartz fyra i Levi",
-      "summary_original": "Fabian Ax Swartz tog sin första topp-10-placering i slalom i världscupen när han slutade fyra i Levi. – Det är en oerhörd glädje efter dagens resultat, säger svensken till Radiosporten.",
-      "link": "https://www.dn.se/sport/svenska-slalomskrallen-ax-swartz-fyra-i-levi/",
-      "date_display": "2026-11-15",
-      "date_iso": "2026-11-15T14:27:44+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
+      "id": 42,
+      "title": "Additional SEK 720 million to strengthen Ukraine’s defence",
+      "summary": "Sweden is providing approximately SEK 720 million in additional financial contributions to multilateral funds and initiatives, to support Ukraine’s defence.",
+      "title_original": "Additional SEK 720 million to strengthen Ukraine’s defence",
+      "summary_original": "Sweden is providing approximately SEK 720 million in additional financial contributions to multilateral funds and initiatives, to support Ukraine’s defence.",
+      "link": "https://www.government.se/press-releases/2026/11/additional-sek-720-million-to-strengthen-ukraines-defence/",
+      "date_display": "2026-11-17",
+      "date_iso": "2026-11-17T15:15:10+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry of Defence",
+      "type": "Official Information",
       "age_tag": "today",
-      "tags": []
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry of Defence",
+        "Sweden's support to Ukraine",
+        "Pål Jonson",
+        "Military defence"
+      ]
     },
     {
-      "id": 180,
+      "id": 67,
+      "title": "Sweden and the United Kingdom cooperate with Ukraine on Gripen ammunition",
+      "summary": "Sweden, Ukraine and the UK have signed a Letter of Intent (LoI) to cooperate on the provision of ammunition and materiel for Ukraine’s JAS Gripen fighter jets.",
+      "title_original": "Sweden and the United Kingdom cooperate with Ukraine on Gripen ammunition",
+      "summary_original": "Sweden, Ukraine and the UK have signed a Letter of Intent (LoI) to cooperate on the provision of ammunition and materiel for Ukraine’s JAS Gripen fighter jets.",
+      "link": "https://www.government.se/press-releases/2026/11/sweden-and-the-united-kingdom-cooperate-with-ukraine-on-gripen-ammunition/",
+      "date_display": "2026-11-17",
+      "date_iso": "2026-11-17T14:23:00+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry of Defence",
+      "type": "Official Information",
+      "age_tag": "today",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry of Defence",
+        "Sweden's support to Ukraine",
+        "Pål Jonson",
+        "Military defence"
+      ]
+    },
+    {
+      "id": 100,
+      "title": "Sweden and India launch new phase in cooperation on industry’s climate transition",
+      "summary": "Today, 17 November, Sweden and India launched the third phase of the Leadership Group for Industry Transition (LeadIT) climate cooperation at the UN Climate Change Conference (COP31). The LeadIT 3.0 platform will accelerate the transition in the area of heavy industry by mobilising technology, capital and knowledge support.",
+      "title_original": "Sweden and India launch new phase in cooperation on industry’s climate transition",
+      "summary_original": "Today, 17 November, Sweden and India launched the third phase of the Leadership Group for Industry Transition (LeadIT) climate cooperation at the UN Climate Change Conference (COP31). The LeadIT 3.0 platform will accelerate the transition in the area of heavy industry by mobilising technology, capital and knowledge support.",
+      "link": "https://www.government.se/press-releases/2026/11/sweden-and-india-launch-new-phase-in-cooperation-on-industrys-climate-transition/",
+      "date_display": "2026-11-17",
+      "date_iso": "2026-11-17T12:01:26+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry of Climate and Enterprise",
+      "type": "Official Information",
+      "age_tag": "today",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry of Climate and Enterprise",
+        "Ministry for Foreign Affairs",
+        "Energy",
+        "Environment and climate",
+        "Romina Pourmokhtari",
+        "Sweden in the UN"
+      ]
+    },
+    {
+      "id": 163,
+      "title": "Sweden appoints new Ambassador and Head of Permanent Representation to NATO",
+      "summary": "The Government has appointed Karin Höglund as Ambassador and Head of the Permanent Representation of Sweden to the North Atlantic Treaty Organization (NATO) in Brussels. Ms Höglund will take up her new post on 1 December 2026.",
+      "title_original": "Sweden appoints new Ambassador and Head of Permanent Representation to NATO",
+      "summary_original": "The Government has appointed Karin Höglund as Ambassador and Head of the Permanent Representation of Sweden to the North Atlantic Treaty Organization (NATO) in Brussels. Ms Höglund will take up her new post on 1 December 2026.",
+      "link": "https://www.government.se/press-releases/2026/11/sweden-appoints-new-ambassador-and-head-of-permanent-representation-to-nato/",
+      "date_display": "2026-11-16",
+      "date_iso": "2026-11-16T12:25:27+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "NATO",
+        "Maria Malmer Stenergard"
+      ]
+    },
+    {
+      "id": 166,
+      "title": "Minister for Foreign Affairs takes part in EU Foreign Affairs Council in Brussels",
+      "summary": "Minister for Foreign Affairs Maria Malmer Stenergard is participating in the EU Foreign Affairs Council in Brussels today. Russia’s aggression against Ukraine and the situation in the Middle East are on the agenda.",
+      "title_original": "Minister for Foreign Affairs takes part in EU Foreign Affairs Council in Brussels",
+      "summary_original": "Minister for Foreign Affairs Maria Malmer Stenergard is participating in the EU Foreign Affairs Council in Brussels today. Russia’s aggression against Ukraine and the situation in the Middle East are on the agenda.",
+      "link": "https://www.government.se/press-releases/2026/11/minister-for-foreign-affairs-takes-part-in-eu-foreign-affairs-council-in-brussels/",
+      "date_display": "2026-11-16",
+      "date_iso": "2026-11-16T10:59:09+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "1 day old",
+      "tags": [
+        "Press release",
+        "EU",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "Sweden's support to Ukraine",
+        "Maria Malmer Stenergard"
+      ]
+    },
+    {
+      "id": 184,
+      "title": "Minister for Foreign Affairs visits United Arab Emirates",
+      "summary": "Minister for Foreign Affairs Maria Malmer Stenergard will visit Abu Dhabi in the United Arab Emirates on 13–15 November. The visit will focus on developments in the Middle East and Sweden’s bilateral connections with countries in the region.",
+      "title_original": "Minister for Foreign Affairs visits United Arab Emirates",
+      "summary_original": "Minister for Foreign Affairs Maria Malmer Stenergard will visit Abu Dhabi in the United Arab Emirates on 13–15 November. The visit will focus on developments in the Middle East and Sweden’s bilateral connections with countries in the region.",
+      "link": "https://www.government.se/press-releases/2026/11/minister-for-foreign-affairs-visits-united-arab-emirates/",
+      "date_display": "2026-11-13",
+      "date_iso": "2026-11-13T14:12:46+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "4 days old",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "Maria Malmer Stenergard"
+      ]
+    },
+    {
+      "id": 185,
       "title": "Joint Statement from Nordic Defence Cooperation (NORDEFCO) Ministerial Meeting",
       "summary": "Joint Statement, Nordic Defence Cooperation (NORDEFCO) Ministerial Meeting in Oslo, 12 November 2026.",
       "title_original": "Joint Statement from Nordic Defence Cooperation (NORDEFCO) Ministerial Meeting",
@@ -62,7 +193,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "International",
         "Ministry of Defence",
@@ -77,7 +208,7 @@
       ]
     },
     {
-      "id": 181,
+      "id": 186,
       "title": "Benjamin Dousa to participate in international exhibition and conference for the reconstruction of Ukraine",
       "summary": "On 12 November, Minister for International Development Cooperation and Foreign Trade Benjamin Dousa and Team Sweden will participate in the ReBuild Ukraine exhibition and conference in Warsaw to promote Swedish business investments and business in Ukraine. Mr Dousa is giving one of the opening addresses at the exhibition.",
       "title_original": "Benjamin Dousa to participate in international exhibition and conference for the reconstruction of Ukraine",
@@ -88,7 +219,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "Press release",
         "International",
@@ -99,7 +230,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 187,
       "title": "Sweden’s main priorities at COP31",
       "summary": "The United Nations Climate Change Conference, COP31, is now under way in Antalya, Türkiye and will continue until 20 November. Research indicates an urgent need for transition in our societies. At the same time, climate transition presents considerable opportunities for innovation, competitiveness and growth. Sweden’s foremost priority is to accelerate the implementation of countries’ nationally determined contributions’, NDCs.",
       "title_original": "Sweden’s main priorities at COP31",
@@ -110,7 +241,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": [
         "Press release",
         "International",
@@ -123,7 +254,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 188,
       "title": "Protokoll från det penningpolitiska mötet den 3 november 2026",
       "summary": "Protokoll från det penningpolitiska mötet den 3 november 2026",
       "title_original": "Protokoll från det penningpolitiska mötet den 3 november 2026",
@@ -134,11 +265,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": []
     },
     {
-      "id": 185,
+      "id": 190,
       "title": "Prime Minister and Minister for Climate and the Environment host lunch discussions ahead of COP31",
       "summary": "On Wednesday 4 November, the Swedish companies participating in the UN Climate Change Conference (COP31) gathered at the invitation of Prime Minister Ulf Kristersson and Minister for Climate and the Environment Romina Pourmokhtari. The aim of the lunch discussions was to identify Swedish priorities and lay the foundations for strong Swedish business engagement at COP31.",
       "title_original": "Prime Minister and Minister for Climate and the Environment host lunch discussions ahead of COP31",
@@ -149,7 +280,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "International",
         "Prime Minister's Office",
@@ -161,7 +292,7 @@
       ]
     },
     {
-      "id": 186,
+      "id": 191,
       "title": "Strategy for Sweden's development cooperation with Kenya 2026–2031",
       "summary": "The aim of Sweden’s international development assistance is to create conditions that improve the lives of people living in poverty and oppression. At the same time, development cooperation is a key foreign policy tool and can help to promote and safeguard Sweden’s interests and priorities.",
       "title_original": "Strategy for Sweden's development cooperation with Kenya 2026–2031",
@@ -172,7 +303,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -182,7 +313,7 @@
       ]
     },
     {
-      "id": 187,
+      "id": 192,
       "title": "Prime Minister receives Hungarian Speaker Ágnes Forsthoffer",
       "summary": "On Wednesday 4 November, Prime Minister Ulf Kristersson received Speaker of the Hungarian National Assembly Ágnes Forsthoffer at Sager House for a courtesy visit. The visit was the first by a Hungarian speaker for more than 20 years and coincided with the 70th anniversary of the Hungarian Revolution of 1956.",
       "title_original": "Prime Minister receives Hungarian Speaker Ágnes Forsthoffer",
@@ -193,7 +324,7 @@
       "source": "Government.se",
       "ministry": "Prime Minister's Office",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "13 days old",
       "tags": [
         "EU",
         "Prime Minister's Office",
@@ -204,7 +335,7 @@
       ]
     },
     {
-      "id": 188,
+      "id": 193,
       "title": "Styrräntan höjs till 2 procent",
       "summary": "Ett starkare konjunkturläge i kombination med kostnadsökningar till följd av utbudsstörningar gör att inflationen förväntas stiga framöver. Direktionen har därför beslutat att höja styrräntan med 0,25 procentenheter till 2 procent. Om inflations- och konjunkturutsikterna står sig är det sannolikt att styrräntan höjs ytterligare det närmaste året, i linje med styrränteprognosen i september.",
       "title_original": "Styrräntan höjs till 2 procent",
@@ -215,11 +346,11 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": []
     },
     {
-      "id": 189,
+      "id": 194,
       "title": "Riksbanken planerar att finansiera en del av valutareserven med valutalån via Riksgälden",
       "summary": "För att minska valutarisken på balansräkningen planerar Riksbanken att finansiera motsvarande cirka 200 miljarder kronor av valutareserven med valutalån via Riksgälden. Avsikten är också att ersätta de valutaswappar som Riksbanken använt sedan 2023 för valutasäkring. Förändringen syftar inte till att påverka storleken på valutareserven över tid och har inget penningpolitiskt syfte.",
       "title_original": "Riksbanken planerar att finansiera en del av valutareserven med valutalån via Riksgälden",
@@ -230,50 +361,8 @@
       "source": "Riksbanken",
       "ministry": "Central Bank",
       "type": "Official Information",
-      "age_tag": "11 days old",
-      "tags": []
-    },
-    {
-      "id": 190,
-      "title": "Benjamin Dousa visits South America",
-      "summary": "Minister for International Development Cooperation and Foreign Trade Benjamin Dousa is visiting Argentina and Brazil on 2–6 November to reinforce trade relations with two of Sweden’s most important partners in South America and promote opportunities resulting from the free trade agreement between the EU and MERCOSUR. The visit also highlights the 200th anniversary of diplomatic relations between Sweden and Brazil.",
-      "title_original": "Benjamin Dousa visits South America",
-      "summary_original": "Minister for International Development Cooperation and Foreign Trade Benjamin Dousa is visiting Argentina and Brazil on 2–6 November to reinforce trade relations with two of Sweden’s most important partners in South America and promote opportunities resulting from the free trade agreement between the EU and MERCOSUR. The visit also highlights the 200th anniversary of diplomatic relations between Sweden and Brazil.",
-      "link": "https://www.government.se/press-releases/2026/11/benjamin-dousa-visits-south-america/",
-      "date_display": "2026-11-02",
-      "date_iso": "2026-11-02T15:34:33+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "Press release",
-        "EU",
-        "International",
-        "Ministry for Foreign Affairs",
-        "Trade and investment promotion",
-        "Benjamin Dousa"
-      ]
-    },
-    {
-      "id": 191,
-      "title": "Joint Statement from the International Contact Group for the Great Lakes region (ICG)",
-      "summary": "Belgium, Canada, Denmark, the European Union, France, Germany, the Netherlands, Sweden, Switzerland, the United Kingdom and the United States of America as members of the International Contact Group (ICG) for the Great Lakes region, chaired by France, issue the following statement on the situation in the Democratic Republic of the Congo:",
-      "title_original": "Joint Statement from the International Contact Group for the Great Lakes region (ICG)",
-      "summary_original": "Belgium, Canada, Denmark, the European Union, France, Germany, the Netherlands, Sweden, Switzerland, the United Kingdom and the United States of America as members of the International Contact Group (ICG) for the Great Lakes region, chaired by France, issue the following statement on the situation in the Democratic Republic of the Congo:",
-      "link": "https://www.government.se/statements/2026/11/joint-statement-from-the-international-contact-group-for-the-great-lakes-region-icg/",
-      "date_display": "2026-11-02",
-      "date_iso": "2026-11-02T10:43:57+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
       "age_tag": "13 days old",
-      "tags": [
-        "International",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Statement"
-      ]
+      "tags": []
     }
   ]
 }
