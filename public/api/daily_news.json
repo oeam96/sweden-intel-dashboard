@@ -1,17 +1,32 @@
 {
-  "generated_at": "2026-11-23T20:31:20.228446+01:00",
-  "date": "2026-11-23",
-  "item_count": 19,
+  "generated_at": "2026-11-25T19:10:28.192869+01:00",
+  "date": "2026-11-25",
+  "item_count": 18,
   "items": [
     {
+      "id": 0,
+      "title": "Max Hjelm: Kolla vad som går att göra om man inte är beroende av Sverigedemokraterna!",
+      "summary": "Migrationsverket stoppar utvisningarna av unga vuxna. Så kan en politik som inte är beroende av Sverigedemokraterna se ut.",
+      "title_original": "Max Hjelm: Kolla vad som går att göra om man inte är beroende av Sverigedemokraterna!",
+      "summary_original": "Migrationsverket stoppar utvisningarna av unga vuxna. Så kan en politik som inte är beroende av Sverigedemokraterna se ut.",
+      "link": "https://www.dn.se/ledare/max-hjelm-kolla-vad-som-gar-att-gora-om-man-inte-ar-beroende-av-sverigedemokraterna/",
+      "date_display": "2026-11-25",
+      "date_iso": "2026-11-25T18:04:39+00:00",
+      "source": "Dagens Nyheter (DN)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
       "id": 1,
-      "title": "Sverige öppnar polisstation i Irak – planerar för fler",
-      "summary": "I jakten på gängkriminella utomlands öppnar Sverige en polisstation i Irak. Om testet faller väl ut väntar fyra nya etableringar runt om i världen. – Ambitionen är att skapa relationer på plats som gör att våra ärenden blir mer prioriterade, säger polischefen Anders Wiberg.",
-      "title_original": "Sverige öppnar polisstation i Irak – planerar för fler",
-      "summary_original": "I jakten på gängkriminella utomlands öppnar Sverige en polisstation i Irak. Om testet faller väl ut väntar fyra nya etableringar runt om i världen. – Ambitionen är att skapa relationer på plats som gör att våra ärenden blir mer prioriterade, säger polischefen Anders Wiberg.",
-      "link": "https://www.dn.se/sverige/sverige-oppnar-polisstation-i-irak-planerar-for-fler/",
-      "date_display": "2026-11-23",
-      "date_iso": "2026-11-23T19:18:56+00:00",
+      "title": "Tanken som ingen vågar tänka: Vad händer om Europa stänger plånboken för Ukraina?",
+      "summary": "BRYSSEL/BERLIN/STOCKHOLM. EU:s ledare upprepar som ett mantra att de kommer att stötta Ukraina i försvarskriget mot Ryssland så länge det krävs. Men bakom kulisserna pågår ett storbråk om pengarna till Kiev, som tagit slut tidigare än beräknat.",
+      "title_original": "Tanken som ingen vågar tänka: Vad händer om Europa stänger plånboken för Ukraina?",
+      "summary_original": "BRYSSEL/BERLIN/STOCKHOLM. EU:s ledare upprepar som ett mantra att de kommer att stötta Ukraina i försvarskriget mot Ryssland så länge det krävs. Men bakom kulisserna pågår ett storbråk om pengarna till Kiev, som tagit slut tidigare än beräknat.",
+      "link": "https://www.dn.se/varlden/tanken-som-ingen-vagar-tanka-vad-hander-om-europa-stanger-planboken-for-ukraina/",
+      "date_display": "2026-11-25",
+      "date_iso": "2026-11-25T18:01:25+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -20,28 +35,13 @@
     },
     {
       "id": 2,
-      "title": "Regional kritik kämpar i snålblåsten",
-      "summary": "De lokala kulturredaktionerna läggs ner en efter en. Vem ska då skriva om det som sker utanför…",
-      "title_original": "Regional kritik kämpar i snålblåsten",
-      "summary_original": "De lokala kulturredaktionerna läggs ner en efter en. Vem ska då skriva om det som sker utanför…",
-      "link": "https://www.svd.se/a/GP1pEQ/regional-kritik-kampar-i-snalblasten?utm_medium=rss",
-      "date_display": "2026-11-23",
-      "date_iso": "2026-11-23T19:15:00+00:00",
-      "source": "Svenska Dagbladet (SvD)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 3,
-      "title": "Näringslivets C-kritik: ”Det är snarare ett stoppaket”",
-      "summary": "Startpaketet till Vänsterpartiet väcker stark kritik i näringslivet. – Det är snarare ett stoppaket för tillväxten än ett startpaket för någonting, säger Företagarnas vd Magnus Demervall. Att Centerpartiet ställt sig bakom förslagen förvånar även Svenskt Näringsliv.",
-      "title_original": "Näringslivets C-kritik: ”Det är snarare ett stoppaket”",
-      "summary_original": "Startpaketet till Vänsterpartiet väcker stark kritik i näringslivet. – Det är snarare ett stoppaket för tillväxten än ett startpaket för någonting, säger Företagarnas vd Magnus Demervall. Att Centerpartiet ställt sig bakom förslagen förvånar även Svenskt Näringsliv.",
-      "link": "https://www.dn.se/sverige/naringslivets-c-kritik-det-ar-snarare-ett-stoppaket/",
-      "date_display": "2026-11-23",
-      "date_iso": "2026-11-23T19:10:07+00:00",
+      "title": "Gerillorna slår tillbaka mot Colombias president",
+      "summary": "RIO DE JANEIRO. Våldet trappas upp i Colombia sedan den nye presidenten skärpt kampen mot gerillorna. Inför fredsavtalets tioårsdag detonerade Farc-dissidenter en bilbomb i Villavicencio, där 23 personer skadades. – När man angriper kackerlackor sprider de sig åt alla håll, sade president Abelardo de la Espriella",
+      "title_original": "Gerillorna slår tillbaka mot Colombias president",
+      "summary_original": "RIO DE JANEIRO. Våldet trappas upp i Colombia sedan den nye presidenten skärpt kampen mot gerillorna. Inför fredsavtalets tioårsdag detonerade Farc-dissidenter en bilbomb i Villavicencio, där 23 personer skadades. – När man angriper kackerlackor sprider de sig åt alla håll, sade president Abelardo de la Espriella",
+      "link": "https://www.dn.se/varlden/gerillorna-slar-tillbaka-mot-colombias-president/",
+      "date_display": "2026-11-25",
+      "date_iso": "2026-11-25T18:00:00+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -49,7 +49,29 @@
       "tags": []
     },
     {
-      "id": 95,
+      "id": 111,
+      "title": "Sweden supports Ukraine with new winter package",
+      "summary": "Ahead of the fifth winter of Russia’s war of aggression against Ukraine, Sweden is increasing its civil support with an additional winter package. It comprises SEK 155 million to the Ukrainian Red Cross, SEK 85 million in energy support and an expenditure authorisation worth SEK 300 million to the Swedish Civil Defence and Resilience Agency. The support will strengthen Ukraine’s resilience and address urgent needs.",
+      "title_original": "Sweden supports Ukraine with new winter package",
+      "summary_original": "Ahead of the fifth winter of Russia’s war of aggression against Ukraine, Sweden is increasing its civil support with an additional winter package. It comprises SEK 155 million to the Ukrainian Red Cross, SEK 85 million in energy support and an expenditure authorisation worth SEK 300 million to the Swedish Civil Defence and Resilience Agency. The support will strengthen Ukraine’s resilience and address urgent needs.",
+      "link": "https://www.government.se/press-releases/2026/11/sweden-supports-ukraine-with-new-winter-package/",
+      "date_display": "2026-11-25",
+      "date_iso": "2026-11-25T10:35:34+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry for Foreign Affairs",
+      "type": "Official Information",
+      "age_tag": "today",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry for Foreign Affairs",
+        "Foreign and security policy",
+        "Sweden's support to Ukraine",
+        "Benjamin Dousa"
+      ]
+    },
+    {
+      "id": 165,
       "title": "EU signs free trade agreement with Indonesia",
       "summary": "The EU-Indonesia Free Trade Agreement was signed in Brussels today.",
       "title_original": "EU signs free trade agreement with Indonesia",
@@ -60,7 +82,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "Press release",
         "EU",
@@ -71,7 +93,7 @@
       ]
     },
     {
-      "id": 173,
+      "id": 179,
       "title": "Statement from Ministry for Foreign Affairs on summoning of Russian Ambassador",
       "summary": "On 20 November, the Russian Ambassador in Stockholm was summoned to the Ministry for Foreign Affairs.",
       "title_original": "Statement from Ministry for Foreign Affairs on summoning of Russian Ambassador",
@@ -82,7 +104,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -91,7 +113,7 @@
       ]
     },
     {
-      "id": 174,
+      "id": 181,
       "title": "Sweden and the UN – 80 years of commitment to peace, development and human rights",
       "summary": "On 19 November, Sweden marked 80 years since becoming a member of the UN. Sweden’s commitment to the UN is broad and long-term. Almost 100 000 Swedes have served at the UN throughout the years. Sweden is also one of the largest donors to the UN system.",
       "title_original": "Sweden and the UN – 80 years of commitment to peace, development and human rights",
@@ -102,7 +124,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "3 days old",
+      "age_tag": "5 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -124,7 +146,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": [
         "Press release",
         "International",
@@ -136,7 +158,7 @@
       ]
     },
     {
-      "id": 183,
+      "id": 184,
       "title": "Sweden’s Minister for Climate and the Environment delivered a speech in support of Ukraine at COP31",
       "summary": "Minister for Climate and the Environment Romina Pourmokhtari delivered a speech in support of Ukraine at an event held on 18 November during the UN Climate Change Conference COP31 in Antalya, Türkiye. The event was entitled “Ukraine’s Climate Transition: From Commitments to Implementation, Investment and European Integration.” Check against delivery.",
       "title_original": "Sweden’s Minister for Climate and the Environment delivered a speech in support of Ukraine at COP31",
@@ -147,28 +169,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "5 days old",
-      "tags": [
-        "Speech",
-        "International",
-        "Ministry of Climate and Enterprise",
-        "Environment and climate",
-        "Romina Pourmokhtari"
-      ]
-    },
-    {
-      "id": 184,
-      "title": "Sweden's national statement to COP31",
-      "summary": "Sweden's national statement to the UN Climate Change Conference COP31 was delivered by Minister for Climate and the Environment Romina Pourmokhtari in Antalya, Türkiye, 18 November 2026. Check against delivery.",
-      "title_original": "Sweden's national statement to COP31",
-      "summary_original": "Sweden's national statement to the UN Climate Change Conference COP31 was delivered by Minister for Climate and the Environment Romina Pourmokhtari in Antalya, Türkiye, 18 November 2026. Check against delivery.",
-      "link": "https://www.government.se/speeches/2026/11/swedens-national-statement-to-cop31/",
-      "date_display": "2026-11-18",
-      "date_iso": "2026-11-18T09:36:39+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Climate and Enterprise",
-      "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "Speech",
         "International",
@@ -179,6 +180,27 @@
     },
     {
       "id": 185,
+      "title": "Sweden's national statement to COP31",
+      "summary": "Sweden's national statement to the UN Climate Change Conference COP31 was delivered by Minister for Climate and the Environment Romina Pourmokhtari in Antalya, Türkiye, 18 November 2026. Check against delivery.",
+      "title_original": "Sweden's national statement to COP31",
+      "summary_original": "Sweden's national statement to the UN Climate Change Conference COP31 was delivered by Minister for Climate and the Environment Romina Pourmokhtari in Antalya, Türkiye, 18 November 2026. Check against delivery.",
+      "link": "https://www.government.se/speeches/2026/11/swedens-national-statement-to-cop31/",
+      "date_display": "2026-11-18",
+      "date_iso": "2026-11-18T09:36:39+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry of Climate and Enterprise",
+      "type": "Official Information",
+      "age_tag": "7 days old",
+      "tags": [
+        "Speech",
+        "International",
+        "Ministry of Climate and Enterprise",
+        "Environment and climate",
+        "Romina Pourmokhtari"
+      ]
+    },
+    {
+      "id": 186,
       "title": "Additional SEK 720 million to strengthen Ukraine’s defence",
       "summary": "Sweden is providing approximately SEK 720 million in additional financial contributions to multilateral funds and initiatives, to support Ukraine’s defence.",
       "title_original": "Additional SEK 720 million to strengthen Ukraine’s defence",
@@ -189,29 +211,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "6 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry of Defence",
-        "Sweden's support to Ukraine",
-        "Pål Jonson",
-        "Military defence"
-      ]
-    },
-    {
-      "id": 186,
-      "title": "Sweden and the United Kingdom cooperate with Ukraine on Gripen ammunition",
-      "summary": "Sweden, Ukraine and the UK have signed a Letter of Intent (LoI) to cooperate on the provision of ammunition and materiel for Ukraine’s JAS Gripen fighter jets.",
-      "title_original": "Sweden and the United Kingdom cooperate with Ukraine on Gripen ammunition",
-      "summary_original": "Sweden, Ukraine and the UK have signed a Letter of Intent (LoI) to cooperate on the provision of ammunition and materiel for Ukraine’s JAS Gripen fighter jets.",
-      "link": "https://www.government.se/press-releases/2026/11/sweden-and-the-united-kingdom-cooperate-with-ukraine-on-gripen-ammunition/",
-      "date_display": "2026-11-17",
-      "date_iso": "2026-11-17T14:23:00+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Defence",
-      "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "International",
@@ -223,6 +223,28 @@
     },
     {
       "id": 187,
+      "title": "Sweden and the United Kingdom cooperate with Ukraine on Gripen ammunition",
+      "summary": "Sweden, Ukraine and the UK have signed a Letter of Intent (LoI) to cooperate on the provision of ammunition and materiel for Ukraine’s JAS Gripen fighter jets.",
+      "title_original": "Sweden and the United Kingdom cooperate with Ukraine on Gripen ammunition",
+      "summary_original": "Sweden, Ukraine and the UK have signed a Letter of Intent (LoI) to cooperate on the provision of ammunition and materiel for Ukraine’s JAS Gripen fighter jets.",
+      "link": "https://www.government.se/press-releases/2026/11/sweden-and-the-united-kingdom-cooperate-with-ukraine-on-gripen-ammunition/",
+      "date_display": "2026-11-17",
+      "date_iso": "2026-11-17T14:23:00+00:00",
+      "source": "Government.se",
+      "ministry": "Ministry of Defence",
+      "type": "Official Information",
+      "age_tag": "8 days old",
+      "tags": [
+        "Press release",
+        "International",
+        "Ministry of Defence",
+        "Sweden's support to Ukraine",
+        "Pål Jonson",
+        "Military defence"
+      ]
+    },
+    {
+      "id": 188,
       "title": "Sweden and India launch new phase in cooperation on industry’s climate transition",
       "summary": "Today, 17 November, Sweden and India launched the third phase of the Leadership Group for Industry Transition (LeadIT) climate cooperation at the UN Climate Change Conference (COP31). The LeadIT 3.0 platform will accelerate the transition in the area of heavy industry by mobilising technology, capital and knowledge support.",
       "title_original": "Sweden and India launch new phase in cooperation on industry’s climate transition",
@@ -233,7 +255,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "International",
@@ -246,7 +268,7 @@
       ]
     },
     {
-      "id": 188,
+      "id": 189,
       "title": "Sweden appoints new Ambassador and Head of Permanent Representation to NATO",
       "summary": "The Government has appointed Karin Höglund as Ambassador and Head of the Permanent Representation of Sweden to the North Atlantic Treaty Organization (NATO) in Brussels. Ms Höglund will take up her new post on 1 December 2026.",
       "title_original": "Sweden appoints new Ambassador and Head of Permanent Representation to NATO",
@@ -257,7 +279,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Press release",
         "International",
@@ -268,7 +290,7 @@
       ]
     },
     {
-      "id": 189,
+      "id": 190,
       "title": "Minister for Foreign Affairs takes part in EU Foreign Affairs Council in Brussels",
       "summary": "Minister for Foreign Affairs Maria Malmer Stenergard is participating in the EU Foreign Affairs Council in Brussels today. Russia’s aggression against Ukraine and the situation in the Middle East are on the agenda.",
       "title_original": "Minister for Foreign Affairs takes part in EU Foreign Affairs Council in Brussels",
@@ -279,7 +301,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Press release",
         "EU",
@@ -290,7 +312,7 @@
       ]
     },
     {
-      "id": 190,
+      "id": 191,
       "title": "Minister for Foreign Affairs visits United Arab Emirates",
       "summary": "Minister for Foreign Affairs Maria Malmer Stenergard will visit Abu Dhabi in the United Arab Emirates on 13–15 November. The visit will focus on developments in the Middle East and Sweden’s bilateral connections with countries in the region.",
       "title_original": "Minister for Foreign Affairs visits United Arab Emirates",
@@ -301,7 +323,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "10 days old",
+      "age_tag": "12 days old",
       "tags": [
         "Press release",
         "International",
@@ -311,7 +333,7 @@
       ]
     },
     {
-      "id": 191,
+      "id": 192,
       "title": "Joint Statement from Nordic Defence Cooperation (NORDEFCO) Ministerial Meeting",
       "summary": "Joint Statement, Nordic Defence Cooperation (NORDEFCO) Ministerial Meeting in Oslo, 12 November 2026.",
       "title_original": "Joint Statement from Nordic Defence Cooperation (NORDEFCO) Ministerial Meeting",
@@ -322,7 +344,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "International",
         "Ministry of Defence",
@@ -337,7 +359,7 @@
       ]
     },
     {
-      "id": 192,
+      "id": 193,
       "title": "Benjamin Dousa to participate in international exhibition and conference for the reconstruction of Ukraine",
       "summary": "On 12 November, Minister for International Development Cooperation and Foreign Trade Benjamin Dousa and Team Sweden will participate in the ReBuild Ukraine exhibition and conference in Warsaw to promote Swedish business investments and business in Ukraine. Mr Dousa is giving one of the opening addresses at the exhibition.",
       "title_original": "Benjamin Dousa to participate in international exhibition and conference for the reconstruction of Ukraine",
@@ -348,7 +370,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "11 days old",
+      "age_tag": "13 days old",
       "tags": [
         "Press release",
         "International",
@@ -357,45 +379,6 @@
         "Sweden's support to Ukraine",
         "Benjamin Dousa"
       ]
-    },
-    {
-      "id": 193,
-      "title": "Sweden’s main priorities at COP31",
-      "summary": "The United Nations Climate Change Conference, COP31, is now under way in Antalya, Türkiye and will continue until 20 November. Research indicates an urgent need for transition in our societies. At the same time, climate transition presents considerable opportunities for innovation, competitiveness and growth. Sweden’s foremost priority is to accelerate the implementation of countries’ nationally determined contributions’, NDCs.",
-      "title_original": "Sweden’s main priorities at COP31",
-      "summary_original": "The United Nations Climate Change Conference, COP31, is now under way in Antalya, Türkiye and will continue until 20 November. Research indicates an urgent need for transition in our societies. At the same time, climate transition presents considerable opportunities for innovation, competitiveness and growth. Sweden’s foremost priority is to accelerate the implementation of countries’ nationally determined contributions’, NDCs.",
-      "link": "https://www.government.se/press-releases/2026/11/swedens-main-priorities-at-cop31/",
-      "date_display": "2026-11-11",
-      "date_iso": "2026-11-11T12:41:01+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Climate and Enterprise",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry of Climate and Enterprise",
-        "Ministry for Foreign Affairs",
-        "International development cooperation",
-        "Environment and climate",
-        "Romina Pourmokhtari",
-        "Sweden in the UN"
-      ]
-    },
-    {
-      "id": 194,
-      "title": "Protokoll från det penningpolitiska mötet den 3 november 2026",
-      "summary": "Protokoll från det penningpolitiska mötet den 3 november 2026",
-      "title_original": "Protokoll från det penningpolitiska mötet den 3 november 2026",
-      "summary_original": "Protokoll från det penningpolitiska mötet den 3 november 2026",
-      "link": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/protokoll-fran-det-penningpolitiska-motet-den-3-november-2026/",
-      "date_display": "2026-11-10",
-      "date_iso": "2026-11-10T08:30:53+00:00",
-      "source": "Riksbanken",
-      "ministry": "Central Bank",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": []
     }
   ]
 }
