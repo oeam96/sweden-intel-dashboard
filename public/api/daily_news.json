@@ -1,32 +1,17 @@
 {
-  "generated_at": "2026-11-25T19:10:28.192869+01:00",
-  "date": "2026-11-25",
-  "item_count": 18,
+  "generated_at": "2026-11-27T18:39:33.786451+01:00",
+  "date": "2026-11-27",
+  "item_count": 15,
   "items": [
     {
       "id": 0,
-      "title": "Max Hjelm: Kolla vad som går att göra om man inte är beroende av Sverigedemokraterna!",
-      "summary": "Migrationsverket stoppar utvisningarna av unga vuxna. Så kan en politik som inte är beroende av Sverigedemokraterna se ut.",
-      "title_original": "Max Hjelm: Kolla vad som går att göra om man inte är beroende av Sverigedemokraterna!",
-      "summary_original": "Migrationsverket stoppar utvisningarna av unga vuxna. Så kan en politik som inte är beroende av Sverigedemokraterna se ut.",
-      "link": "https://www.dn.se/ledare/max-hjelm-kolla-vad-som-gar-att-gora-om-man-inte-ar-beroende-av-sverigedemokraterna/",
-      "date_display": "2026-11-25",
-      "date_iso": "2026-11-25T18:04:39+00:00",
-      "source": "Dagens Nyheter (DN)",
-      "ministry": "General News",
-      "type": "News",
-      "age_tag": "today",
-      "tags": []
-    },
-    {
-      "id": 1,
-      "title": "Tanken som ingen vågar tänka: Vad händer om Europa stänger plånboken för Ukraina?",
-      "summary": "BRYSSEL/BERLIN/STOCKHOLM. EU:s ledare upprepar som ett mantra att de kommer att stötta Ukraina i försvarskriget mot Ryssland så länge det krävs. Men bakom kulisserna pågår ett storbråk om pengarna till Kiev, som tagit slut tidigare än beräknat.",
-      "title_original": "Tanken som ingen vågar tänka: Vad händer om Europa stänger plånboken för Ukraina?",
-      "summary_original": "BRYSSEL/BERLIN/STOCKHOLM. EU:s ledare upprepar som ett mantra att de kommer att stötta Ukraina i försvarskriget mot Ryssland så länge det krävs. Men bakom kulisserna pågår ett storbråk om pengarna till Kiev, som tagit slut tidigare än beräknat.",
-      "link": "https://www.dn.se/varlden/tanken-som-ingen-vagar-tanka-vad-hander-om-europa-stanger-planboken-for-ukraina/",
-      "date_display": "2026-11-25",
-      "date_iso": "2026-11-25T18:01:25+00:00",
+      "title": "Anna-Lena Laurén: Därför vill en majoritet av tyskarna sluta stödja Ukraina militärt",
+      "summary": "BERLIN. Utan Tyskland faller det europeiska militära stödet till Ukraina ihop som ett korthus. Nu verkar det som om tyskarna börjar få nog – över hälften vill inte längre stödja Ukraina militärt, enligt en färsk opinionsundersökning.",
+      "title_original": "Anna-Lena Laurén: Därför vill en majoritet av tyskarna sluta stödja Ukraina militärt",
+      "summary_original": "BERLIN. Utan Tyskland faller det europeiska militära stödet till Ukraina ihop som ett korthus. Nu verkar det som om tyskarna börjar få nog – över hälften vill inte längre stödja Ukraina militärt, enligt en färsk opinionsundersökning.",
+      "link": "https://www.dn.se/varlden/anna-lena-lauren-darfor-vill-en-majoritet-av-tyskarna-sluta-stodja-ukraina-militart/",
+      "date_display": "2026-11-27",
+      "date_iso": "2026-11-27T17:33:45+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -35,13 +20,28 @@
     },
     {
       "id": 2,
-      "title": "Gerillorna slår tillbaka mot Colombias president",
-      "summary": "RIO DE JANEIRO. Våldet trappas upp i Colombia sedan den nye presidenten skärpt kampen mot gerillorna. Inför fredsavtalets tioårsdag detonerade Farc-dissidenter en bilbomb i Villavicencio, där 23 personer skadades. – När man angriper kackerlackor sprider de sig åt alla håll, sade president Abelardo de la Espriella",
-      "title_original": "Gerillorna slår tillbaka mot Colombias president",
-      "summary_original": "RIO DE JANEIRO. Våldet trappas upp i Colombia sedan den nye presidenten skärpt kampen mot gerillorna. Inför fredsavtalets tioårsdag detonerade Farc-dissidenter en bilbomb i Villavicencio, där 23 personer skadades. – När man angriper kackerlackor sprider de sig åt alla håll, sade president Abelardo de la Espriella",
-      "link": "https://www.dn.se/varlden/gerillorna-slar-tillbaka-mot-colombias-president/",
-      "date_display": "2026-11-25",
-      "date_iso": "2026-11-25T18:00:00+00:00",
+      "title": "Den dramatiska veckan då allt vände",
+      "summary": "Så kom den dag då allt gick i kras, med regeringsunderlaget som var en moras.",
+      "title_original": "Den dramatiska veckan då allt vände",
+      "summary_original": "Så kom den dag då allt gick i kras, med regeringsunderlaget som var en moras.",
+      "link": "https://www.svd.se/a/R19b8W/den-dramatiska-veckan-da-allt-vande?utm_medium=rss",
+      "date_display": "2026-11-27",
+      "date_iso": "2026-11-27T17:23:48+00:00",
+      "source": "Svenska Dagbladet (SvD)",
+      "ministry": "General News",
+      "type": "News",
+      "age_tag": "today",
+      "tags": []
+    },
+    {
+      "id": 3,
+      "title": "Rysare väntar vid C:s ödesbeslut: ”Fler kan övertygas”",
+      "summary": "Minst en tredjedel av Centerns partistyrelse var emot beslutet att säga ja till Ulf Kristersson, enligt DN:s uppgifter. Nu väntar en rysare när beslutet når partiets högsta instans. – Det allvarliga är att så många inte riktigt vet hur de ska ställa sig, säger C-toppen Anna Lasses.",
+      "title_original": "Rysare väntar vid C:s ödesbeslut: ”Fler kan övertygas”",
+      "summary_original": "Minst en tredjedel av Centerns partistyrelse var emot beslutet att säga ja till Ulf Kristersson, enligt DN:s uppgifter. Nu väntar en rysare när beslutet når partiets högsta instans. – Det allvarliga är att så många inte riktigt vet hur de ska ställa sig, säger C-toppen Anna Lasses.",
+      "link": "https://www.dn.se/sverige/kallor-minst-en-tredjedel-av-cs-partistyrelse-ratade-kristersson/",
+      "date_display": "2026-11-27",
+      "date_iso": "2026-11-27T17:18:54+00:00",
       "source": "Dagens Nyheter (DN)",
       "ministry": "General News",
       "type": "News",
@@ -49,7 +49,7 @@
       "tags": []
     },
     {
-      "id": 111,
+      "id": 172,
       "title": "Sweden supports Ukraine with new winter package",
       "summary": "Ahead of the fifth winter of Russia’s war of aggression against Ukraine, Sweden is increasing its civil support with an additional winter package. It comprises SEK 155 million to the Ukrainian Red Cross, SEK 85 million in energy support and an expenditure authorisation worth SEK 300 million to the Swedish Civil Defence and Resilience Agency. The support will strengthen Ukraine’s resilience and address urgent needs.",
       "title_original": "Sweden supports Ukraine with new winter package",
@@ -60,7 +60,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "today",
+      "age_tag": "2 days old",
       "tags": [
         "Press release",
         "International",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "id": 165,
+      "id": 180,
       "title": "EU signs free trade agreement with Indonesia",
       "summary": "The EU-Indonesia Free Trade Agreement was signed in Brussels today.",
       "title_original": "EU signs free trade agreement with Indonesia",
@@ -82,7 +82,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "2 days old",
+      "age_tag": "4 days old",
       "tags": [
         "Press release",
         "EU",
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "id": 179,
+      "id": 181,
       "title": "Statement from Ministry for Foreign Affairs on summoning of Russian Ambassador",
       "summary": "On 20 November, the Russian Ambassador in Stockholm was summoned to the Ministry for Foreign Affairs.",
       "title_original": "Statement from Ministry for Foreign Affairs on summoning of Russian Ambassador",
@@ -104,7 +104,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "4 days old",
+      "age_tag": "6 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "id": 181,
+      "id": 182,
       "title": "Sweden and the UN – 80 years of commitment to peace, development and human rights",
       "summary": "On 19 November, Sweden marked 80 years since becoming a member of the UN. Sweden’s commitment to the UN is broad and long-term. Almost 100 000 Swedes have served at the UN throughout the years. Sweden is also one of the largest donors to the UN system.",
       "title_original": "Sweden and the UN – 80 years of commitment to peace, development and human rights",
@@ -124,7 +124,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "5 days old",
+      "age_tag": "7 days old",
       "tags": [
         "International",
         "Ministry for Foreign Affairs",
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "id": 182,
+      "id": 183,
       "title": "Sweden takes part in NATO’s STARLIFT space initiative",
       "summary": "Minister for Defence Pål Jonson has signed an agreement with NATO Allies to develop a network of space centres to enable the launch of satellites at short notice. Sweden’s Esrange Space Center is part of this network.",
       "title_original": "Sweden takes part in NATO’s STARLIFT space initiative",
@@ -146,7 +146,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "6 days old",
+      "age_tag": "8 days old",
       "tags": [
         "Press release",
         "International",
@@ -169,7 +169,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Speech",
         "International",
@@ -190,7 +190,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "7 days old",
+      "age_tag": "9 days old",
       "tags": [
         "Speech",
         "International",
@@ -211,7 +211,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "International",
@@ -233,7 +233,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Defence",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "International",
@@ -255,7 +255,7 @@
       "source": "Government.se",
       "ministry": "Ministry of Climate and Enterprise",
       "type": "Official Information",
-      "age_tag": "8 days old",
+      "age_tag": "10 days old",
       "tags": [
         "Press release",
         "International",
@@ -279,7 +279,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "International",
@@ -301,7 +301,7 @@
       "source": "Government.se",
       "ministry": "Ministry for Foreign Affairs",
       "type": "Official Information",
-      "age_tag": "9 days old",
+      "age_tag": "11 days old",
       "tags": [
         "Press release",
         "EU",
@@ -309,75 +309,6 @@
         "Foreign and security policy",
         "Sweden's support to Ukraine",
         "Maria Malmer Stenergard"
-      ]
-    },
-    {
-      "id": 191,
-      "title": "Minister for Foreign Affairs visits United Arab Emirates",
-      "summary": "Minister for Foreign Affairs Maria Malmer Stenergard will visit Abu Dhabi in the United Arab Emirates on 13–15 November. The visit will focus on developments in the Middle East and Sweden’s bilateral connections with countries in the region.",
-      "title_original": "Minister for Foreign Affairs visits United Arab Emirates",
-      "summary_original": "Minister for Foreign Affairs Maria Malmer Stenergard will visit Abu Dhabi in the United Arab Emirates on 13–15 November. The visit will focus on developments in the Middle East and Sweden’s bilateral connections with countries in the region.",
-      "link": "https://www.government.se/press-releases/2026/11/minister-for-foreign-affairs-visits-united-arab-emirates/",
-      "date_display": "2026-11-13",
-      "date_iso": "2026-11-13T14:12:46+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "12 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "Foreign and security policy",
-        "Maria Malmer Stenergard"
-      ]
-    },
-    {
-      "id": 192,
-      "title": "Joint Statement from Nordic Defence Cooperation (NORDEFCO) Ministerial Meeting",
-      "summary": "Joint Statement, Nordic Defence Cooperation (NORDEFCO) Ministerial Meeting in Oslo, 12 November 2026.",
-      "title_original": "Joint Statement from Nordic Defence Cooperation (NORDEFCO) Ministerial Meeting",
-      "summary_original": "Joint Statement, Nordic Defence Cooperation (NORDEFCO) Ministerial Meeting in Oslo, 12 November 2026.",
-      "link": "https://www.government.se/statements/2026/11/joint-statement-from-nordic-defence-cooperation-nordefco-ministerial-meeting/",
-      "date_display": "2026-11-12",
-      "date_iso": "2026-11-12T11:16:35+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry of Defence",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "International",
-        "Ministry of Defence",
-        "Statement",
-        "NORDEFCO",
-        "NATO",
-        "Pål Jonson",
-        "Civil defence",
-        "Military defence",
-        "International defence cooperation",
-        "Total defence"
-      ]
-    },
-    {
-      "id": 193,
-      "title": "Benjamin Dousa to participate in international exhibition and conference for the reconstruction of Ukraine",
-      "summary": "On 12 November, Minister for International Development Cooperation and Foreign Trade Benjamin Dousa and Team Sweden will participate in the ReBuild Ukraine exhibition and conference in Warsaw to promote Swedish business investments and business in Ukraine. Mr Dousa is giving one of the opening addresses at the exhibition.",
-      "title_original": "Benjamin Dousa to participate in international exhibition and conference for the reconstruction of Ukraine",
-      "summary_original": "On 12 November, Minister for International Development Cooperation and Foreign Trade Benjamin Dousa and Team Sweden will participate in the ReBuild Ukraine exhibition and conference in Warsaw to promote Swedish business investments and business in Ukraine. Mr Dousa is giving one of the opening addresses at the exhibition.",
-      "link": "https://www.government.se/press-releases/2026/11/benjamin-dousa-to-participate-in-international-exhibition-and-conference-for-the-reconstruction-of-ukraine/",
-      "date_display": "2026-11-12",
-      "date_iso": "2026-11-12T10:35:09+00:00",
-      "source": "Government.se",
-      "ministry": "Ministry for Foreign Affairs",
-      "type": "Official Information",
-      "age_tag": "13 days old",
-      "tags": [
-        "Press release",
-        "International",
-        "Ministry for Foreign Affairs",
-        "Trade and investment promotion",
-        "Sweden's support to Ukraine",
-        "Benjamin Dousa"
       ]
     }
   ]
